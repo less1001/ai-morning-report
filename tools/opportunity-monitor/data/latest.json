@@ -1,0 +1,1382 @@
+{
+  "captured_at": "2026-06-19T02:57:32.207Z",
+  "sources": {
+    "reddit": {
+      "items": [
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "I vibe-coded a full Steam game in 8 months (demo live): here's the honest breakdown incl. costs, tools, working hours, and why I still couldn't just completely \"prompt\" my way to a game",
+          "url": "https://www.reddit.com/r/vibecoding/comments/1u9g7ym/i_vibecoded_a_full_steam_game_in_8_months_demo/",
+          "external_url": "",
+          "author": "/u/knutolee",
+          "published_at": "2026-06-18T19:41:10.000Z",
+          "relevance_score": 9,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "https://reddit.com/link/1u9g7ym/video/nqq3a0lhg38h1/player TL;DR up front, because this got long: Over the last 8 months I vibecoded Pixel Darts: From Pub to Glory, a 90s-arcade-style darts game with a heavy AI-assisted workflow. The Steam demo went live today, and the full release is about a month out. Stack: Phaser 3 as engine, Claude Opus 4.5+ (currently Opus 4.8) as frontend dev, GPT 5.1/5.2+ (now GPT 5.5 & Opus 4.8) as backend dev, ElevenLabs for SFX, Suno for music, Aseprite for pixel art "
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "Day 23 of building GTA 6 using claude",
+          "url": "https://www.reddit.com/r/aiwars/comments/1u9291j/day_23_of_building_gta_6_using_claude/",
+          "external_url": "",
+          "author": "/u/SneakerHunterDev",
+          "published_at": "2026-06-18T10:08:53.000Z",
+          "relevance_score": 6,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "Building a GTA online clone in voxel style where the world never sleeps and all the NPCs are AI agents. Everything is built by players using prompts. Prompt your own car. Prompt your own building. Prompt your own weapon. I know in 2026 most people already gave up on huge online worlds but I'm naive enough to keep working on it. Having too much fun with this. Using claude code and codex for development. Generations are done with OpenAI, groq api. link: https://flair-3d.fly.dev/ &#32; submitted by"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "Day 23 of building GTA 6 using claude",
+          "url": "https://www.reddit.com/r/singularity/comments/1u91xfc/day_23_of_building_gta_6_using_claude/",
+          "external_url": "",
+          "author": "/u/SneakerHunterDev",
+          "published_at": "2026-06-18T09:49:34.000Z",
+          "relevance_score": 6,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "Building a GTA online clone in voxel style where the world never sleeps and all the NPCs are AI agents. Everything is built by players using prompts. Prompt your own car. Prompt your own building. Prompt your own weapon. I know in 2026 most people already gave up on huge online worlds but I'm naive enough to keep working on it. Having too much fun with this. Using claude code and codex for development. Generations are done with OpenAI, groq api. link: https://flair-3d.fly.dev/ &#32; submitted by"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "Day 23 of building GTA 6 using claude",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1u90nmg/day_23_of_building_gta_6_using_claude/",
+          "external_url": "",
+          "author": "/u/SneakerHunterDev",
+          "published_at": "2026-06-18T08:32:12.000Z",
+          "relevance_score": 6,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "Building a GTA online clone in voxel style where the world never sleeps and all the NPCs are AI agents. Everything is built by players using prompts. Prompt your own car. Prompt your own building. Prompt your own weapon. I know in 2026 most people already gave up on huge online worlds but I'm naive enough to keep working on it. Having too much fun with this. Using claude code and codex for development. Generations are done with OpenAI, groq api. link: https://flair-3d.fly.dev/ &#32; submitted by"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "Day 23 of building GTA 6 using 100% claude",
+          "url": "https://www.reddit.com/r/vibecoding/comments/1u90lph/day_23_of_building_gta_6_using_100_claude/",
+          "external_url": "",
+          "author": "/u/SneakerHunterDev",
+          "published_at": "2026-06-18T08:28:54.000Z",
+          "relevance_score": 6,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "Building a GTA online clone in voxel style where the world never sleeps and all the NPCs are AI agents. Everything is built by players using prompts. Prompt your own car. Prompt your own building. Prompt your own weapon. I know in 2026 most people already gave up on huge online worlds but I'm naive enough to keep working on it. Having too much fun with this. Using claude code and codex for development. Generations are done with OpenAI, groq api. link: https://flair-3d.fly.dev/ &#32; submitted by"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "I built a native GIS app for iPad and Mac — looking for some feedback",
+          "url": "https://www.reddit.com/r/gis/comments/1u9jw06/i_built_a_native_gis_app_for_ipad_and_mac_looking/",
+          "external_url": "",
+          "author": "/u/Feltzem",
+          "published_at": "2026-06-18T22:03:31.000Z",
+          "relevance_score": 4,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "I built an alternative to QGIS for Mac, and from what I can tell, the first fully featured GIS editing app for iPad. The goal was a fast, offline-first GIS workspace for people who want something lighter and more touch-friendly than a full desktop GIS package, but still capable enough for real work. The app is focused on: Native iPad and Mac support, with the same project format and functionality across both GeoJSON import/export with support for CSV with WKT or WKP encoded geometry Layer manage"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "I built a real AI-assisted indoor tomato farm where 4 LLMs vote on every decision",
+          "url": "https://www.reddit.com/r/SideProject/comments/1u9bn5s/i_built_a_real_aiassisted_indoor_tomato_farm/",
+          "external_url": "",
+          "author": "/u/Craylens",
+          "published_at": "2026-06-18T16:52:24.000Z",
+          "relevance_score": 4,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "This started as a small hobby idea and then, as hobby projects tend to, got completely out of hand. TomatoFarm is a real indoor farm with sensors, cameras, pumps, mostly 3D-printed parts, a .NET backend, TimescaleDB, a Blazor frontend and six real plants. The part worth talking about: every farm decision runs through a council of four LLMs (Claude, ChatGPT, Gemini and Mistral). They read the same farm state, reason about what to do next, and effectively vote. I call it MoEoT - Mixture of Experts"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "[Giveaway] OpenVox Local TTS is now available on Windows - local AI voice generation with 600+ languages (6 SOTA TTS Models)",
+          "url": "https://www.reddit.com/r/windowsapps/comments/1u951hp/giveaway_openvox_local_tts_is_now_available_on/",
+          "external_url": "",
+          "author": "/u/ritzynitz",
+          "published_at": "2026-06-18T12:34:53.000Z",
+          "relevance_score": 4,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "Hey everyone, A little while ago I posted OpenVox Mac version on r/macapps and got a lot more feedback than I expected. People tried it, broke things, reported bugs, suggested features, and honestly helped shape the app a lot. Now I’ve been working on bringing the same local-first AI voice workflow to Windows. For anyone new: OpenVox is a local AI text-to-speech app. You can generate voiceovers, audiobooks, conversations, character voices, and cloned voices directly on your machine without sendi"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "Coders che IA usate?",
+          "url": "https://www.reddit.com/r/IA_Italia/comments/1u92zev/coders_che_ia_usate/",
+          "external_url": "",
+          "author": "/u/LucasRey",
+          "published_at": "2026-06-18T10:50:29.000Z",
+          "relevance_score": 4,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "Attualmente uso Codex di openai, ci sono alternative migliori? Escludendo Claude code che è troppo esoso e con 22€ al mese non ci si fa nulla. Grazie EDIT : Prima di tutto ringrazio tutti quelli che sono intervenuti condividendo il loro parere/esperienza. Aggiungo una cosa importante. L'uso che ne debbo fare è assolutamente personale/hobbistico e non certo remunerativo. Per questo ho escluso a priori piani eccessivamente costosi come quello di Claude MAX. So bene che Claude Code non ha paragoni,"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "Fullstack dev, 25M, lương thấp quá mình có nên nhảy việc ngay bây giờ không?",
+          "url": "https://www.reddit.com/r/vozforums/comments/1u8xypo/fullstack_dev_25m_lương_thấp_quá_mình_có_nên_nhảy/",
+          "external_url": "",
+          "author": "/u/nil_404",
+          "published_at": "2026-06-18T05:51:46.000Z",
+          "relevance_score": 4,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "Mình xin phép dùng AI TL;DR bài viết ạ, còn nội dung mình viết đầy đủ bên dưới: Dev fullstack 25 tuổi, hơn 3 năm kinh nghiệm, kỹ năng khá rộng (web, AI, DevOps, tiếng Anh tốt) nhưng cảm thấy không giỏi hay hiểu sâu cái gì cả, đang làm ở startup rất nhỏ, quy trình lộn xộn, ít cơ hội phát triển, lương chỉ 13 triệu. Muốn nghỉ vì cảm thấy bị trả thấp và trình độ đang chững lại. Tuy nhiên đang phân vân giữa:Nhảy việc ngay để tăng lương và môi trường tốt hơn. Ở lại đến sau Tết 2027 để lấy JLPT N3, ôn "
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "GLM-5.2 and why open models may not actually be catching up in intelligence",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9fbwt/glm52_and_why_open_models_may_not_actually_be/",
+          "external_url": "",
+          "author": "/u/chocolateUI",
+          "published_at": "2026-06-18T19:07:32.000Z",
+          "relevance_score": 3,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "I've been using GLM-5.2 heavily over the past few days, and in terms of programming ability it's right there at the frontier. Its ability to write quality code, spot bugs, and handle complex reasoning tasks is basically on par with the best closed-source models from maybe 2 months ago and I have high hopes for the future of open models. But I've been noticing a worrying behavior in open models that most benchmarks don't capture: thinkslop . I've been using GLM through their coding plan since Dec"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "Joseph Gordon-Levitt claims to have never met Peter Thiel, says his ties to the Secret Society is due to his work with AI: “Part of that work means forming relationships with all kinds of people, trying to understand their perspective, and trying to get them to understand mine.“",
+          "url": "https://www.reddit.com/r/Fauxmoi/comments/1u9ereo/joseph_gordonlevitt_claims_to_have_never_met/",
+          "external_url": "",
+          "author": "/u/cmaia1503",
+          "published_at": "2026-06-18T18:46:33.000Z",
+          "relevance_score": 3,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "Behind closed doors, powerbrokers across the world in politics, tech and media have convened at an annual in-the-know retreat hosted by Peter Thiel to rub elbows and examine hot-button issues. Dialog, the invite-only society that bills itself as a forum for leaders to “discuss topics off-the-record,” maintains a low public profile and has never shared a list of its members. For decades, little to nothing has been uncovered about the group. That changed earlier this week, when a Swiss independent"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "It's just a glorified interpreter/ compiler Let me tell you why",
+          "url": "https://www.reddit.com/r/aiwars/comments/1u8zabo/its_just_a_glorified_interpreter_compiler_let_me/",
+          "external_url": "",
+          "author": "/u/autisticDeush",
+          "published_at": "2026-06-18T07:08:47.000Z",
+          "relevance_score": 3,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "I want to talk about something that really bothers me. I think a lot of folks are being misled about what they are actually doing. Have you ever watched someone create an image prompt? I mean really watched. They are sitting there typing something like: { \"subject\": \"a biomechanical alien queen\", \"environment\": \"a neon-lit rainy cyberpunk street\", \"lighting\": \"volumetric fog, cinematic rim light\", \"camera\": \"35mm film, wide-angle lens, f/1.8\", \"style\": \"hyperrealistic, concept art, octane render"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "Dangerous to use Codex these couple of days- almost no thinking, can wreck your codebase.",
+          "url": "https://www.reddit.com/r/codex/comments/1u979hw/dangerous_to_use_codex_these_couple_of_days/",
+          "external_url": "",
+          "author": "/u/sutrostyle",
+          "published_at": "2026-06-18T14:07:07.000Z",
+          "relevance_score": 2,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "I am on dual CC/Codex subscription and I had to completely rely on Opus these days, seeing how OpenAI limited their inference and how it mucks up my code. Then I had a chat with Gemini Pro about what's going on now: When OpenAI reallocates massive compute clusters away from current production inference (like GPT-5.5) to run final pre-release evaluations and load-testing for a new flagship model (GPT-5.6), they don't just pull a plug. They use a specific set of architectural levers on their back-"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "Epic revealed their high-level plans for Unreal Engine 6.",
+          "url": "https://www.reddit.com/r/unrealengine/comments/1u90cu9/epic_revealed_their_highlevel_plans_for_unreal/",
+          "external_url": "",
+          "author": "/u/WombatusMighty",
+          "published_at": "2026-06-18T08:13:48.000Z",
+          "relevance_score": 2,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "At today's State of Unreal keynote, Marcus Wassmer took the stage to talk about Epic's development plans for Unreal Engine 6 and discussed key pillars of their vision for the future. It's worth reading his blog post for the full picture, but in here are the major highlights: Unreal Engine 6 will see UEFN and UE5 converge into a single editor. You will still be able to ship traditional games as you do today, but UE6 is ultimately designed to build large-scale live service games and ecosystems tha"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "Most Horrible place on Earth - Mepco Schlenk Engineering College",
+          "url": "https://www.reddit.com/r/TamilNadu/comments/1u8xtl5/most_horrible_place_on_earth_mepco_schlenk/",
+          "external_url": "",
+          "author": "/u/HHRITZER",
+          "published_at": "2026-06-18T05:43:38.000Z",
+          "relevance_score": 2,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "//Posting this here, because someone was inquiring about this college// I graduated from MEPCO few years ago. Many peers of me were against it, but my parents pushed into so i joined and i was in hostel. But on entering i felt, I am in a trap that will ruin my life and career. The college is like \"1984\" book, same year college started. I will go through few rule & regulations, you decide how it would help in 2026 career and future. These rules are there since its inception. Laptop Regulation - 1"
+        }
+      ],
+      "errors": [
+        {
+          "source": "Claude_programming",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "Obsidian_AI",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "Creator_Revenue",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "AI_Money_Cases",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "Codex_ChatGPT",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "Codex_OpenAI",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "AI_Coding",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "SaaS",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "SideProject",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "microsaas",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "AI_Agents",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "GEO_SaaS",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "GEO_SEO",
+          "status": 429,
+          "reason": "non_rss:"
+        },
+        {
+          "source": "GEO_bigseo",
+          "status": 429,
+          "reason": "non_rss:"
+        }
+      ]
+    },
+    "product_hunt": {
+      "items": [
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "VELA Securely execute AI-generated & untrusted code",
+          "url": "https://www.producthunt.com/products/vela-7",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "VELA Securely execute AI-generated & untrusted code"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Tine An AI desktop cursor that does the work for you",
+          "url": "https://www.producthunt.com/products/tine-2",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 3,
+          "summary": "Tine An AI desktop cursor that does the work for you"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Merlin by Encord Manage your AI data infrastructure in a single conversation",
+          "url": "https://www.producthunt.com/products/merlin-by-encord",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "Merlin by Encord Manage your AI data infrastructure in a single conversation"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "LayerProof Bristol Agentic reports your clients want to read",
+          "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "LayerProof Bristol Agentic reports your clients want to read"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Elvin Proactive AI that finds and finishes work before you ask",
+          "url": "https://www.producthunt.com/products/elvin",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "Elvin Proactive AI that finds and finishes work before you ask"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Agentic videos by D-ID Interactive videos that talk back",
+          "url": "https://www.producthunt.com/products/d-id",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "Agentic videos by D-ID Interactive videos that talk back"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Juno Free, local AI powered Voice to Text w/ live transcriptions",
+          "url": "https://www.producthunt.com/products/juno-16",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "Juno Free, local AI powered Voice to Text w/ live transcriptions"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Adapt The AI company brain that does work for you",
+          "url": "https://www.producthunt.com/products/adapt-3",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "Adapt The AI company brain that does work for you"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Locofy: design-to-code agents Agentic frontend layer between Figma and Cursor & Claude",
+          "url": "https://www.producthunt.com/products/locofy-ai",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 5,
+          "summary": "Locofy: design-to-code agents Agentic frontend layer between Figma and Cursor & Claude"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Genie Mentions AI that gets you *and* the people in your life, together",
+          "url": "https://www.producthunt.com/products/genie-mentions",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "Genie Mentions AI that gets you *and* the people in your life, together"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Spanly See what AI agents do inside your MCP server",
+          "url": "https://www.producthunt.com/products/spanly",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 3,
+          "summary": "Spanly See what AI agents do inside your MCP server"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Henji AI replies that are trained to sound like you",
+          "url": "https://www.producthunt.com/products/henji",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "Henji AI replies that are trained to sound like you"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Daemons by Charlie Labs Keep PRs, issues, CI, and docs moving with AI agents",
+          "url": "https://www.producthunt.com/products/daemons-by-charlie-labs",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 3,
+          "summary": "Daemons by Charlie Labs Keep PRs, issues, CI, and docs moving with AI agents"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Quartz AI email client built for focus. Runs locally on your Mac",
+          "url": "https://www.producthunt.com/products/quartz-3",
+          "published_at": "2026-06-19T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "Quartz AI email client built for focus. Runs locally on your Mac"
+        }
+      ],
+      "errors": [
+        {
+          "source": "Hunted.Space",
+          "reason": "no_items_parsed"
+        }
+      ]
+    },
+    "one_ms_news": {
+      "items": [
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "No Logo：将任何创意转化为真实制造的产品",
+          "url": "https://www.ycombinator.com/launches/Qtg-no-logo-turn-any-idea-into-a-real-manufactured-product",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "No Logo",
+          "published_at": "2026-06-17T22:59:00.000Z",
+          "relevance_score": 1,
+          "summary": "No Logo 正在构建实体产品创建的编排层，弥合客户需求与制造供应之间的差距。用户描述想法，AI 将其可视化并分解为组件和制造流程，匹配网络中的工厂，在约一个月内完成生产、质检和交付，无需前期成本。已推出数百种产品，触达超过 9000 万创作者受众。 从创意到成长型品牌，约一个月完成，无需前期成本。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Ploy：用AI代理将网站转化为公司增长引擎",
+          "url": "https://www.ycombinator.com/launches/QuH-ploy-turns-your-website-into-your-company-s-growth-engine",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Ploy",
+          "published_at": "2026-06-17T14:06:00.000Z",
+          "relevance_score": 2,
+          "summary": "Webflow前联合创始人兼CTO宣布推出新平台Ploy，该平台部署营销和网页设计AI代理，自动监控网站并主动发起营销活动、内容更新和优化。Ploy可快速接入现有网站或从零构建，通过预训练的“PloyBooks”策略实现ABM页面、SEO审计、广告投放等自动化。目前已有超过13%的YC P26公司使用Ploy驱动网站增长。 Ploy部署营销和网页设计代理，监控网站并主动发起活动、内容和优化。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Palmier Pro 开源发布：AI 可直接操作的专业视频编辑器",
+          "url": "https://www.ycombinator.com/launches/QtT-palmier-pro-an-open-source-video-editor-your-agents-can-operate",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Palmier",
+          "published_at": "2026-06-16T19:59:00.000Z",
+          "relevance_score": 3,
+          "summary": "Palmier Pro 是一款专为 AI 构建的专业视频编辑器，支持 Claude、Codex 等 AI 代理直接操作时间线进行剪辑、排序和生成素材。已用于制作 15 多个 YC 公司 AI 宣传片，现已在 palmier.io 免费开源下载。 AI 代理可直接在时间线上编辑：修剪、排序、生成素材，无需在生成与编辑工具间反复切换。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Kinro 推出首个自主保险经纪 AI 代理，完成首笔自动保单",
+          "url": "https://www.ycombinator.com/launches/Qrp-kinro-the-first-autonomous-insurance-brokerage",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Kinro",
+          "published_at": "2026-06-16T15:35:00.000Z",
+          "relevance_score": 1,
+          "summary": "Kinro 从为经纪商构建保险工作流转型为直接替代经纪商，其 AI 代理可 24/7 处理从寻找客户到绑定保单的全流程。公司在 3 周内获得 30 个州牌照、15 家承运商授权，并绑定了首张自主销售的保单。美国 3600 万中小企业中 77% 保险不足，因传统经纪商无法低成本服务低保费客户。 我们绑定了历史上首张由 AI 自主销售的保险保单。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "qomplement：替代SAP和NetSuite的AI原生ERP，削减95%手动工作",
+          "url": "https://www.ycombinator.com/launches/QtF-qomplement-the-agentic-erp-replacing-sap-and-netsuite",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "qomplement",
+          "published_at": "2026-06-16T15:31:00.000Z",
+          "relevance_score": 2,
+          "summary": "qomplement是面向零售和物流行业的AI原生ERP系统，可削减95%手动工作，处理100倍交易量而无需增员。已实现80.4万美元ARR，周增长20%，5家客户正从SAP/NetSuite迁移至qomplement。部署仅需2个月，远快于SAP和NetSuite的一年。 qomplement可削减95%手动工作，处理100倍交易量，部署仅需2个月。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Quotain：AI销售模拟器，助团队提升成交率",
+          "url": "https://www.ycombinator.com/launches/QrG-quotain-the-ai-sales-simulator-for-revenue-teams",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Quotain",
+          "published_at": "2026-06-16T13:52:00.000Z",
+          "relevance_score": 1,
+          "summary": "Quotain 是一款 AI 销售模拟器，帮助销售代表在真实通话前模拟与潜在客户的对话，识别最佳问题和可能反对意见，并生成优化脚本。平台支持个人练习和团队管理，用户平均每天练习超过一小时，销售代表达标率从行业平均的 50% 显著提升。 Quotain 用户平均每天练习超过一小时，销售代表达标率从行业平均的 50% 显著提升。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Nowadays：AI原生企业会议与活动平台",
+          "url": "https://www.ycombinator.com/launches/Qrm-nowadays-ai-ai-native-platform-for-corporate-meetings-events",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Nowadays",
+          "published_at": "2026-06-16T13:51:00.000Z",
+          "relevance_score": 1,
+          "summary": "Nowadays 是 YC S23 孵化的 AI 原生企业会议与活动平台，专为团建、会议提供一站式服务：AI 场地筛选、合同谈判、房间预订、参会者物流及会后对账。客户包括 Google、Airbnb、BlackRock 等，可节省 20-30% 成本，并已发现高达 1800 万美元的未管理会议支出。 客户通常比直接预订节省 20-30% 的成本。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Hub 为前沿 AI 和机器人公司提供真实世界训练数据",
+          "url": "https://www.ycombinator.com/launches/Qoe-hub-real-world-training-data-for-frontier-ai-labs-and-robotics",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Hub.xyz",
+          "published_at": "2026-06-15T14:57:00.000Z",
+          "relevance_score": 1,
+          "summary": "Hub 通过全球人力网络收集真实世界数据，为前沿 AI 和机器人公司提供训练数据。近期已达成七位数美元的数据交付协议，合作方包括多家顶级 AI 和机器人公司。 互联网规模数据已基本耗尽，前沿模型的唯一优势在于真实世界数据。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Locus Founder 上线：AI 代理帮你自动运营网店",
+          "url": "https://www.ycombinator.com/launches/Qqk-locus-founder",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Locus",
+          "published_at": "2026-06-14T23:16:00.000Z",
+          "relevance_score": 1,
+          "summary": "Locus 团队推出 Locus Founder，一个 AI 代理堆栈，用户只需通过短信（iMessage、SMS、Telegram 或网页）提供想法，即可自动完成市场调研、品牌设计、网站搭建、产品采购、营销推广和支付处理。产品支持按需打印、数字商品或 500+ 可代发产品，并集成 USDC 支付。定价：每日有限免费试用，订阅 $50/月（无限使用），利润超过 $1000/月部分收取 5%。 Locus Founder 的核心理念是：AI 代理通过运营你的业务为你赚钱，你只需发短信即可驱动一切。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Axol：专为AI打造的双臂机器人正式发布",
+          "url": "https://www.ycombinator.com/launches/QlH-axol-a-dual-arm-robot-built-for-ai",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Almond",
+          "published_at": "2026-06-10T16:30:00.000Z",
+          "relevance_score": 1,
+          "summary": "今日，我们推出Axol双臂机器人，专为真实世界任务设计。过去一年在工厂和杂货店部署机器人时，发现数据采集困难、触及范围有限、奇点问题、线缆故障等问题。Axol拥有860mm超长臂展、4kg持续负载、超人体关节活动范围、更少奇点、保护线缆和坚固硬件，并配备开源SDK。工厂位于旧金山，可提供直接支持。即日起接受订购，首批本周交付。 Axol拥有860mm超长臂展和4kg持续负载，关节活动范围超越人体，奇点更少。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Lattice Health：为部署的医学影像AI提供监控与治理",
+          "url": "https://www.ycombinator.com/launches/Qid-lattice-health-monitoring-and-governance-for-deployed-medical-imaging-ai",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Lattice Health",
+          "published_at": "2026-06-10T15:31:00.000Z",
+          "relevance_score": 1,
+          "summary": "Lattice Health 创始人 Christine Park 介绍，医院部署医学影像AI后，模型漂移、设备升级或患者群体变化可能导致准确率下降，而医院缺乏监控工具。Lattice 作为只读观察者，持续检查模型与放射科医生读片的一致性、随时间漂移情况以及在不同患者子群中的表现，为医院提供安全、治理和合规所需的证据。 Lattice 作为只读观察者，持续检查模型与放射科医生读片的一致性、随时间漂移情况以及在不同患者子群中的表现。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Result：一站式创业操作系统，8位内测用户合计280万美元ARR",
+          "url": "https://www.ycombinator.com/launches/QkS-result-where-businesses-get-built",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Result",
+          "published_at": "2026-06-09T22:22:00.000Z",
+          "relevance_score": 6,
+          "summary": "Result是一个面向创业者的全流程平台，涵盖从创意、产品构建、支付、公司注册到营销的各个环节。其8位内测用户合计年经常性收入（ARR）达280万美元。平台特色包括内置支付网关、品牌锁定、SEO优化与内容营销、公司注册（支持通过聊天或Claude Code完成），以及跨数据归因分析。示例项目1600.lol（SAT学习工具）已实现1200美元月经常性收入（MRR）。 8位内测用户合计ARR达280万美元，示例项目1600.lol已实现1200美元MRR。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Unlayer：为产品嵌入AI驱动的内容创作平台",
+          "url": "https://www.ycombinator.com/launches/QkK-unlayer-ai-powered-content-creation-for-your-product",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Unlayer",
+          "published_at": "2026-06-09T21:37:00.000Z",
+          "relevance_score": 1,
+          "summary": "Unlayer是一个面向开发者的AI内容创作平台，提供可嵌入的编辑器、模板、API和AI工具包，使用户能在产品内直接创建邮件、页面、文档等内容。已服务Netflix、Fidelity、美国银行等1000+客户。 用户可通过AI指令创建邮件、翻译页面、生成PDF，并支持人工审核编辑。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Outpaint.com：AI扩展视频适配任意屏幕",
+          "url": "https://www.ycombinator.com/launches/QkH-outpaint-com-expand-any-video-to-fit-any-screen",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Outpaint.com",
+          "published_at": "2026-06-09T16:17:00.000Z",
+          "relevance_score": 1,
+          "summary": "Outpaint.com 推出 AI 视频扩展工具，可自动生成内容填充黑边，将视频适配任意屏幕比例（如竖屏广告转横屏、普通视频转 IMAX 全画幅、VR 鱼眼等），支持任意时长、分辨率、帧率和色彩空间。用户只需提供视频链接和目标比例，即可获得扩展版本。 只需发送视频链接和目标宽高比，即可获得扩展后的视频。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Activeloop推出Hivemind：编码代理的持续学习层",
+          "url": "https://www.ycombinator.com/launches/Qio-hivemind-continual-learning-for-coding-agents",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Activeloop",
+          "published_at": "2026-06-08T23:07:00.000Z",
+          "relevance_score": 5,
+          "summary": "Activeloop发布Hivemind，为Claude Code、Codex、Cursor等编码代理提供持续学习层。它通过捕获、编码、优化和传播技能，使代理间共享知识，避免重复错误。Hivemind将数据存储在用户云存储中，不用于训练。基准测试显示，相比Mem0，成本降低25%，输出token减少41%，代理轮次减少31%。 Hivemind通过SkillOpt优化技能，使Claude Code准确率提升19.1%，Codex提升24.8%。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Serafis 推出全球首款投资者播客应用",
+          "url": "https://www.ycombinator.com/launches/QjZ-serafis-the-podcast-app-for-investors",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Serafis",
+          "published_at": "2026-06-08T23:06:00.000Z",
+          "relevance_score": 1,
+          "summary": "Serafis 发布移动应用，为投资者提供 AI 驱动的播客搜索与洞察工具。该平台已获顶级资产管理公司和咨询机构使用，现通过手机端帮助用户从 10 万+ 精选播客中挖掘投资思路。 Serafis 移动应用是全球首款面向投资者的播客应用，具备 AI 原生界面。"
+        },
+        {
+          "source": "1ms.news YC Launch",
+          "type": "one_ms_yc",
+          "title": "Ontora 上线一月：5 家企业客户，融资 70 万美元",
+          "url": "https://www.ycombinator.com/launches/QiD-ontora-read-your-company-like-a-book",
+          "mirror_url": "https://1ms.news/yc",
+          "author": "Ontora",
+          "published_at": "2026-06-08T17:25:00.000Z",
+          "relevance_score": 1,
+          "summary": "Ontora 是一款通过 AI 代理持续访谈员工、绘制企业运营知识图谱的产品。上线一个月内，已获得 5 家设计合作伙伴企业客户，收到 150+ 入站演示请求，并在正式开放融资轮前筹集 70 万美元，另有 80+ 风投会议已安排。客户包括旧金山 PE 公司、欧洲 800 人媒体集团等。 Ontora 可在数天内完成过去咨询公司需 4 个月和 50-100 次手动访谈的工作。"
+        },
+        {
+          "source": "1ms.news HN 72h",
+          "type": "one_ms_hn",
+          "title": "收录网站提交网站的网站：精选目录助你提升排名",
+          "url": "https://www.submission.directory/",
+          "mirror_url": "https://1ms.news/",
+          "author": "azeemkafridi",
+          "published_at": "2026-06-18T15:12:00.000Z",
+          "relevance_score": 2,
+          "summary": "一个手工挑选的网站提交目录，收录了 Medium、Crunchbase、Hacker News、Product Hunt 等 50+ 平台，按类型（启动平台、创业目录、AI 工具目录等）和 DR 值排序。每个条目标注链接类型（dofollow/nofollow）、费用（免费/付费/免费增值）和提交方式。例如，Hacker News 的 Show HN 虽为 nofollow 链接，但首页曝光能带来真实流量；Awwwards 提供 dofollow 链接但需付费。适合创业者、独立开发者快速找到高价 Show HN 你的项目，登上首页是网络上信号最强的发布之一。链接虽是 nofollow，但流量是真实的。"
+        }
+      ],
+      "errors": []
+    },
+    "feeds": {
+      "items": [
+        {
+          "source": "OpenAI Developers",
+          "type": "news",
+          "title": "Docs MCP",
+          "url": "https://developers.openai.com/learn/docs-mcp/",
+          "author": "OpenAI Developers",
+          "published_at": "2026-01-06T00:00:00.000Z",
+          "relevance_score": 8,
+          "summary": "Quickstart for connecting to OpenAI&apos;s developer docs MCP server from common coding agents and editors. - mcp, tools, docs"
+        },
+        {
+          "source": "OpenAI Developers",
+          "type": "news",
+          "title": "Realtime and audio guide",
+          "url": "https://platform.openai.com/docs/guides/realtime",
+          "author": "OpenAI Developers",
+          "published_at": "2025-07-21T00:00:00.000Z",
+          "relevance_score": 6,
+          "summary": "Shows how to build realtime voice agents, live translation, and streaming transcription. — realtime, voice, low latency"
+        },
+        {
+          "source": "OpenAI Developers",
+          "type": "news",
+          "title": "Realtime prompting guide",
+          "url": "https://platform.openai.com/docs/guides/realtime-models-prompting",
+          "author": "OpenAI Developers",
+          "published_at": "2026-05-05T00:00:00.000Z",
+          "relevance_score": 7,
+          "summary": "Shows how to prompt realtime voice agents, including Realtime 2 reasoning, preambles, tools, and exact entity capture."
+        },
+        {
+          "source": "OpenAI Developers",
+          "type": "news",
+          "title": "Realtime transcription guide",
+          "url": "https://platform.openai.com/docs/guides/realtime-transcription",
+          "author": "OpenAI Developers",
+          "published_at": "2025-07-21T00:00:00.000Z",
+          "relevance_score": 6,
+          "summary": "Shows how to stream realtime audio for transcript deltas. — realtime, voice, streaming, low latency, transcription"
+        },
+        {
+          "source": "OpenAI Developers",
+          "type": "news",
+          "title": "Realtime translation guide",
+          "url": "https://platform.openai.com/docs/guides/realtime-translation",
+          "author": "OpenAI Developers",
+          "published_at": "2025-07-21T00:00:00.000Z",
+          "relevance_score": 6,
+          "summary": "Shows how to build live speech translation with the Realtime API. — realtime, voice, streaming, low latency, translation, audio"
+        },
+        {
+          "source": "OpenAI Developers",
+          "type": "news",
+          "title": "OpenAI Developers plugin for Codex",
+          "url": "https://developers.openai.com/learn/developers-codex-plugin/",
+          "author": "OpenAI Developers",
+          "published_at": "2026-04-30T00:00:00.000Z",
+          "relevance_score": 6,
+          "summary": "Install and use the OpenAI Developers plugin in Codex to set up project API keys and troubleshoot OpenAI API issues."
+        },
+        {
+          "source": "OpenAI Developers",
+          "type": "news",
+          "title": "API deployment checklist",
+          "url": "https://developers.openai.com/api/docs/guides/deployment-checklist/",
+          "author": "OpenAI Developers",
+          "published_at": "2026-04-17T00:00:00.000Z",
+          "relevance_score": 6,
+          "summary": "Review Responses API settings for production quality, latency, cost, reliability, and data handling."
+        },
+        {
+          "source": "OpenAI Developers",
+          "type": "news",
+          "title": "Codex for (almost) everything",
+          "url": "https://www.youtube.com/watch?v=Lm7-yFZ5fZQ",
+          "author": "OpenAI Developers",
+          "published_at": "2026-04-16T00:00:00.000Z",
+          "relevance_score": 9,
+          "summary": "Overview of new Codex app updates for working across tools, apps, automations, and more developer workflows."
+        },
+        {
+          "source": "OpenAI Developers",
+          "type": "news",
+          "title": "Sora 2 Prompting Guide",
+          "url": "https://developers.openai.com/cookbook/examples/sora/sora2_prompting_guide/",
+          "author": "OpenAI Developers",
+          "published_at": "2026-03-12T00:00:00.000Z",
+          "relevance_score": 6,
+          "summary": "Cookbook to craft effective video prompts for Sora 2 generation."
+        },
+        {
+          "source": "OpenAI Developers",
+          "type": "news",
+          "title": "Codex Prompting Guide",
+          "url": "https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide/",
+          "author": "OpenAI Developers",
+          "published_at": "2026-02-25T00:00:00.000Z",
+          "relevance_score": 6,
+          "summary": "Codex models advance the frontier of intelligence and efficiency and our recommended agentic coding model. Follow this guide closely to ensure you’re getting th"
+        },
+        {
+          "source": "Latent Space",
+          "type": "podcast",
+          "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
+          "url": "https://www.latent.space/p/anj",
+          "author": "Latent Space",
+          "published_at": "2026-06-18T17:30:00.000Z",
+          "relevance_score": 7,
+          "summary": "We talk about how this legendary investor went from humble beginnings in Singapore to leading rounds in Anthropic, Mistral, Black Forest Labs, and Periodic Labs... and the AMP secret master plan!"
+        },
+        {
+          "source": "Latent Space",
+          "type": "podcast",
+          "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
+          "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+          "author": "Latent Space",
+          "published_at": "2026-06-18T04:23:05.000Z",
+          "relevance_score": 6,
+          "summary": "The only bootstrapped frontier lab announces its second product and second"
+        },
+        {
+          "source": "Latent Space",
+          "type": "podcast",
+          "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
+          "url": "https://www.latent.space/p/radical-ai",
+          "author": "Latent Space",
+          "published_at": "2026-06-17T17:58:06.000Z",
+          "relevance_score": 6,
+          "summary": "Radical AI's Joseph Krause on why the moat in materials is the lab, not the model"
+        },
+        {
+          "source": "Latent Space",
+          "type": "podcast",
+          "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
+          "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+          "author": "Latent Space",
+          "published_at": "2026-06-17T05:37:40.000Z",
+          "relevance_score": 6,
+          "summary": "We have a new top open model in the world!"
+        },
+        {
+          "source": "Latent Space",
+          "type": "podcast",
+          "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
+          "url": "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
+          "author": "Latent Space",
+          "published_at": "2026-06-16T02:29:29.000Z",
+          "relevance_score": 6,
+          "summary": "a quiet day lets us report on Satya's hit essay"
+        },
+        {
+          "source": "Latent Space",
+          "type": "podcast",
+          "title": "[AINews] Fable and Mythos officially too dangerous to release",
+          "url": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+          "author": "Latent Space",
+          "published_at": "2026-06-13T04:30:52.000Z",
+          "relevance_score": 6,
+          "summary": "We are in the strangest timeline."
+        },
+        {
+          "source": "Latent Space",
+          "type": "podcast",
+          "title": "[AINews] Loopcraft: The Art of Stacking Loops",
+          "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+          "author": "Latent Space",
+          "published_at": "2026-06-12T05:34:09.000Z",
+          "relevance_score": 6,
+          "summary": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy"
+        },
+        {
+          "source": "Latent Space",
+          "type": "podcast",
+          "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+          "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+          "author": "Latent Space",
+          "published_at": "2026-06-11T03:14:26.000Z",
+          "relevance_score": 6,
+          "summary": "a quiet day lets us reflect on a great essay"
+        },
+        {
+          "source": "Latent Space",
+          "type": "podcast",
+          "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
+          "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+          "author": "Latent Space",
+          "published_at": "2026-06-10T03:50:21.000Z",
+          "relevance_score": 9,
+          "summary": "The much anticipated launch of the Mythos-class model was marred by some controversial usage policies"
+        },
+        {
+          "source": "Latent Space",
+          "type": "podcast",
+          "title": "[AINews] FrontierCode: Benchmarking for Code Quality over Slop",
+          "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+          "author": "Latent Space",
+          "published_at": "2026-06-09T06:12:33.000Z",
+          "relevance_score": 6,
+          "summary": "We made a thing!"
+        }
+      ],
+      "errors": []
+    },
+    "youtube": {
+      "items": [
+        {
+          "source": "YouTube Anthropic",
+          "type": "youtube",
+          "title": "Introducing Claude Fable 5",
+          "url": "https://www.youtube.com/watch?v=Y9Wz2PV404E",
+          "author": "Anthropic",
+          "published_at": "2026-06-09T17:00:05.000Z",
+          "relevance_score": 5,
+          "summary": "Claude Fable 5 is our most capable model yet, now generally available. It’s a Mythos-class model with safeguards that let us share it broadly without compromising on safety. It can stay with complex tasks and hard problems for days, handling ambitious work across coding, research, analysis, finance, law, and beyond. Learn more: https://www.anthropic.com/news/claude-fable-5-mythos-5"
+        },
+        {
+          "source": "YouTube Anthropic",
+          "type": "youtube",
+          "title": "Translating Claude’s thoughts into language",
+          "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+          "author": "Anthropic",
+          "published_at": "2026-05-07T17:01:21.000Z",
+          "relevance_score": 5,
+          "summary": "AI models like Claude talk in words but think in numbers. These numbers, called activations, encode Claude’s thoughts, but not in a language we can read. We are introducing Natural Language Autoencoders, or NLAs, which translate AI models’ activations into readable text. NLAs have already helped us improve how we test our models for safety and better understand why they do what they do. Read more about this research on our blog: https://www.anthropic.com/research/natural-language-autoencoders"
+        },
+        {
+          "source": "YouTube Anthropic",
+          "type": "youtube",
+          "title": "An initiative to secure the world's software | Project Glasswing",
+          "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+          "author": "Anthropic",
+          "published_at": "2026-04-07T18:03:51.000Z",
+          "relevance_score": 5,
+          "summary": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world’s most critical software. We formed Project Glasswing because of capabilities we’ve observed in a new frontier model trained by Anthropic that we believe could reshape cybersecurity. Claude Mythos Preview is a general-purpose, unreleased frontier model"
+        },
+        {
+          "source": "YouTube Anthropic",
+          "type": "youtube",
+          "title": "When AIs act emotional",
+          "url": "https://www.youtube.com/watch?v=D4XTefP3Lsc",
+          "author": "Anthropic",
+          "published_at": "2026-04-02T16:06:59.000Z",
+          "relevance_score": 5,
+          "summary": "AI models sometimes act like they have emotions—why? We studied one of our recent models and found that it draws on emotion concepts learned from text to inhabit its role as Claude, the AI assistant. These representations influence its behavior the way emotions might influence a human. And that has real consequences, affecting how Claude answers chats, writes code, and makes decisions. Read more about this research: https://www.anthropic.com/research/emotion-concepts-function"
+        },
+        {
+          "source": "YouTube Anthropic",
+          "type": "youtube",
+          "title": "Introducing Claude Opus 4.6",
+          "url": "https://www.youtube.com/watch?v=dPn3GBI8lII",
+          "author": "Anthropic",
+          "published_at": "2026-02-05T17:45:22.000Z",
+          "relevance_score": 5,
+          "summary": "Our smartest model got an upgrade. Claude Opus 4.6 plans more carefully, stays on task longer, and works more autonomously, so you can do more with less back-and-forth. Read more: https://anthropic.com/news/claude-opus-4-6"
+        },
+        {
+          "source": "YouTube Google DeepMind",
+          "type": "youtube",
+          "title": "Gemini for Science is here. 🧬",
+          "url": "https://www.youtube.com/watch?v=pm5PBbo6l2k",
+          "author": "Google DeepMind",
+          "published_at": "2026-05-26T16:17:10.000Z",
+          "relevance_score": 4,
+          "summary": "Gemini for Science is here. 🧬"
+        },
+        {
+          "source": "YouTube Google DeepMind",
+          "type": "youtube",
+          "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.",
+          "url": "https://www.youtube.com/watch?v=EF1BFaNZN9U",
+          "author": "Google DeepMind",
+          "published_at": "2026-05-22T16:09:49.000Z",
+          "relevance_score": 4,
+          "summary": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners."
+        },
+        {
+          "source": "YouTube Google DeepMind",
+          "type": "youtube",
+          "title": "Gemini 3.5 Flash has landed.",
+          "url": "https://www.youtube.com/watch?v=R6mM0m3IZWY",
+          "author": "Google DeepMind",
+          "published_at": "2026-05-20T20:10:43.000Z",
+          "relevance_score": 4,
+          "summary": "Gemini 3.5 Flash has landed."
+        },
+        {
+          "source": "YouTube Google DeepMind",
+          "type": "youtube",
+          "title": "Build your next story with Gemini Omni.",
+          "url": "https://www.youtube.com/watch?v=u3T_0HmNbHM",
+          "author": "Google DeepMind",
+          "published_at": "2026-05-20T00:21:16.000Z",
+          "relevance_score": 4,
+          "summary": "Build your next story with Gemini Omni."
+        },
+        {
+          "source": "YouTube Google DeepMind",
+          "type": "youtube",
+          "title": "Generating novel scientific hypotheses with Co-Scientist",
+          "url": "https://www.youtube.com/watch?v=aSY_vFFmkW0",
+          "author": "Google DeepMind",
+          "published_at": "2026-05-19T17:51:44.000Z",
+          "relevance_score": 5,
+          "summary": "In an era of information overload, the search for transformative scientific ideas has become a significant bottleneck for progress. Every great scientific breakthrough begins with a single, transformative idea. The spark of discovery relies on a researcher's ability to connect disparate facts and formulate the right hypothesis to test. We believe AI can help dramatically accelerate the pace of breakthroughs by serving as a dedicated partner in the generation and refinement of breakthrough scient"
+        },
+        {
+          "source": "YouTube Perplexity",
+          "type": "youtube",
+          "title": "Perplexity for iPhone",
+          "url": "https://www.youtube.com/watch?v=EJQ6Ro8iFsU",
+          "author": "Perplexity",
+          "published_at": "2023-03-31T18:08:13.000Z",
+          "relevance_score": 6,
+          "summary": "Perplexity gives you instant answers and information on any topic, with up-to-date sources. It's like having a superpower on your phone that allows you to search, discover, research and learn faster than ever before. http://www.perplexity.ai/download-iphone - Powered by combination of AI and internet search, get information with cited sources - Ask questions and context aware follow up questions - Use your voice to ask faster - Trust your answers by reviewing sources and browsing when you need t"
+        },
+        {
+          "source": "YouTube Y Combinator",
+          "type": "youtube",
+          "title": "The ERP for the AI Revolution is here",
+          "url": "https://www.youtube.com/watch?v=X1NXnLRNIfM",
+          "author": "Y Combinator",
+          "published_at": "2026-05-20T14:30:26.000Z",
+          "relevance_score": 7,
+          "summary": "John Glasgow is the CEO and founder of Campfire (S23), an AI-native ERP platform built for high-growth tech companies that automates accounting and financial reporting workflows using a custom foundation model and agent platform — the company recently raised a Series B led by Accel and Ribbit Capital, has more than doubled ARR each quarter since Q4 2024, and now exceeds 100 employees after closing a $35 million Series A in June 2025 with just 12 people. In this fireside, John sat down with YC's "
+        },
+        {
+          "source": "YouTube Y Combinator",
+          "type": "youtube",
+          "title": "How to Build a Self-Improving Company with AI",
+          "url": "https://www.youtube.com/watch?v=t-G67yKAHBQ",
+          "author": "Y Combinator",
+          "published_at": "2026-05-19T18:23:12.000Z",
+          "relevance_score": 4,
+          "summary": "In this recent batch talk, YC General Partner Tom Blomfield breaks down how to build a self-improving company using AI. He'll cover how to create a series of recursive, self-improving AI loops and explain why the founders who get this right will run companies that can improve while they sleep. 00:00 — Companies Are Roman Legions 00:54 — Copilots Are the Wrong Mental Model 01:55 — Extract the Domain Knowledge 02:24 — The Recursive Self-Improving Loop 04:12 — The Holy Shit Moment at YC 05:50 — Sel"
+        },
+        {
+          "source": "YouTube Y Combinator",
+          "type": "youtube",
+          "title": "How a Private Chef Startup Went All In on AI Agents",
+          "url": "https://www.youtube.com/watch?v=jikOaczZxTY",
+          "author": "Y Combinator",
+          "published_at": "2026-05-19T18:23:10.000Z",
+          "relevance_score": 6,
+          "summary": "Yhangry is a private chef marketplace doing $15 million in GMV that's going all in on AI agents across every function of the company — from an autonomous bug fixer that shipped 25 fixes in its first week to an AI product that matches chefs and customers instantly. In this recent batch talk, founder Siddhi Mittal walks through three real business use cases for agents at yhangry, how she turned teaching AI in plain English into a growth channel worth $50K in free conference slots, and the hard org"
+        },
+        {
+          "source": "YouTube Y Combinator",
+          "type": "youtube",
+          "title": "How to Give AI Agents Enough Context to Be Useful",
+          "url": "https://www.youtube.com/watch?v=1egwM88T3C0",
+          "author": "Y Combinator",
+          "published_at": "2026-05-19T18:23:07.000Z",
+          "relevance_score": 6,
+          "summary": "Skyvern is an open source company helping healthcare businesses automate manual browser tasks, and co-founder Suchintan Singh scaled it past $2 million in run rate while personally handling PM, sales, marketing, and customer support — all powered by AI agents. In this recent batch talk, Suchintan breaks down why agents produce slop when they lack business context, walks through two specific skills he built, and explains why he banned DMs and records every call to make his entire company legible "
+        },
+        {
+          "source": "YouTube Y Combinator",
+          "type": "youtube",
+          "title": "How to Build an Internal AI Agent That Evolves Itself",
+          "url": "https://www.youtube.com/watch?v=DGD9b8K42lk",
+          "author": "Y Combinator",
+          "published_at": "2026-05-19T18:22:57.000Z",
+          "relevance_score": 9,
+          "summary": "AnswerThis builds AI agents for evidence-based scientific workflows and has scaled past $2 million in ARR with just two full-time employees — largely because they built an internal AI ops agent that processes over 100 emails a day, closes support tickets, and updates their CRM automatically. In this recent batch talk, founder Ayush Garg breaks down the architecture of a self-extending agent that builds its own tools when it encounters tasks it can't handle yet, how his non-technical co-founder t"
+        },
+        {
+          "source": "YouTube a16z",
+          "type": "youtube",
+          "title": "Building Enduring Companies Outside Silicon Valley | Santiago Suárez of Addi",
+          "url": "https://www.youtube.com/watch?v=7616Z13Q6pM",
+          "author": "a16z",
+          "published_at": "2026-06-17T14:30:16.000Z",
+          "relevance_score": 4,
+          "summary": "Angela Strange and Gabriel Vásquez speak with Addi founder and CEO Santiago Suárez about building one of Latin America's largest financial platforms. What began as a buy now, pay later product has evolved into a broader ecosystem spanning payments, commerce, logistics, and now banking. Serving millions of consumers and tens of thousands of merchants, Addi sits at the intersection of financial services and commerce in Colombia. The conversation covers building in Latin America, lessons from scali"
+        },
+        {
+          "source": "YouTube a16z",
+          "type": "youtube",
+          "title": "Building the Future of Image Generation with Ideogram's CEO",
+          "url": "https://www.youtube.com/watch?v=MnCBp01Bci8",
+          "author": "a16z",
+          "published_at": "2026-06-15T16:37:53.000Z",
+          "relevance_score": 8,
+          "summary": "Yoko Li and Justine Moore speak with Ideogram founder and CEO Mohammad Norouzi about image generation models, design workflows, and the evolving relationship between AI and creative work. The conversation covers Ideogram's decision to release an open-weight model, the challenges of generating text and layouts within images, and why controllability has become an increasingly important area of research. They discuss prompting, customization, editing, and the tradeoffs between general-purpose model"
+        },
+        {
+          "source": "YouTube a16z",
+          "type": "youtube",
+          "title": "How Exa is Building the Perfect Search Engine | Deep Dives with a16z",
+          "url": "https://www.youtube.com/watch?v=k6OkMkDdbUY",
+          "author": "a16z",
+          "published_at": "2026-06-04T15:04:04.000Z",
+          "relevance_score": 8,
+          "summary": "Sarah Wang speaks with Exa cofounder and CEO Will Bryk about building search infrastructure for the AI era. The conversation covers Exa’s origins, why traditional search engines were not designed for AI agents, and how search changes when the user is no longer a human but an autonomous system. They discuss retrieval, agent workflows, coding agents, data access, and why search may become a foundational layer for the emerging agent economy. Along the way, Bryk shares his views on AI-native product"
+        },
+        {
+          "source": "YouTube a16z",
+          "type": "youtube",
+          "title": "Why AI Agents Need Context | Deep Dives with a16z",
+          "url": "https://www.youtube.com/watch?v=fuPgo7YcE7Y",
+          "author": "a16z",
+          "published_at": "2026-06-02T14:30:17.000Z",
+          "relevance_score": 10,
+          "summary": "Martin Casado speaks with George Fraser, cofounder and CEO of Fivetran, about the future of data infrastructure in the age of AI. The conversation covers Fivetran’s merger with dbt, the changing role of data platforms, and why Fraser believes many companies are overestimating the threat AI poses to enterprise software. They discuss open data access, the backlash against AI agents accessing systems of record, and why businesses still need centralized data foundations even as agent-based workflows"
+        },
+        {
+          "source": "YouTube a16z",
+          "type": "youtube",
+          "title": "Pyramid of Work and The Future of Enterprise Automation | The a16z Show",
+          "url": "https://www.youtube.com/watch?v=APHkp5xI78Y",
+          "author": "a16z",
+          "published_at": "2026-06-01T14:30:38.000Z",
+          "relevance_score": 8,
+          "summary": "Anish Acharya and Olivia Moore speak with Pablo Palafox and Luis Paarup about the challenges of deploying AI agents in operationally complex industries. The conversation covers the evolution of voice AI, enterprise workflows, and why logistics became an early proving ground for agent-based systems. They discuss context, coordination, and execution inside large organizations, as well as the role of forward-deployed engineering, enterprise deployment, and what it takes to move AI from experimentat"
+        },
+        {
+          "source": "YouTube Latent Space",
+          "type": "youtube",
+          "title": "Windows 95 startup sound, but it’s AI jazz",
+          "url": "https://www.youtube.com/watch?v=gYhveGYO678",
+          "author": "Latent Space",
+          "published_at": "2024-12-28T03:12:12.000Z",
+          "relevance_score": 4,
+          "summary": "Windows 95 startup sound, but it’s AI jazz"
+        },
+        {
+          "source": "YouTube Latent Space",
+          "type": "youtube",
+          "title": "win95 startup sound, but it’s continued by AI",
+          "url": "https://www.youtube.com/watch?v=ymgtHa2gnkU",
+          "author": "Latent Space",
+          "published_at": "2024-12-27T03:15:42.000Z",
+          "relevance_score": 4,
+          "summary": "win95 startup sound, but it’s continued by AI"
+        },
+        {
+          "source": "YouTube Latent Space",
+          "type": "youtube",
+          "title": "Windows 95 startup sound, but it’s continued by AI",
+          "url": "https://www.youtube.com/watch?v=KBVqp-v9upI",
+          "author": "Latent Space",
+          "published_at": "2024-10-10T23:06:29.000Z",
+          "relevance_score": 4,
+          "summary": "Here's two attempts at continuing the Windows 95 startup sound using AI. 0:00 Original sound 0:06 First attempt 3:53 Second attempt"
+        },
+        {
+          "source": "YouTube Latent Space",
+          "type": "youtube",
+          "title": "Real-Time Galaxy Simulation | Software Demo",
+          "url": "https://www.youtube.com/watch?v=mU0GD21e2QI",
+          "author": "Latent Space",
+          "published_at": "2024-08-09T18:00:35.000Z",
+          "relevance_score": 4,
+          "summary": "This video showcases my implementation of a 3D gravitational n-body solver, written in the Metal shading language and Swift. Taking advantage of the GPU's parallel processing capabilities, I can simulate up to 30,000 particles on my laptop in real time. Hope you enjoy! #space #simulation #coding"
+        },
+        {
+          "source": "YouTube Latent Space",
+          "type": "youtube",
+          "title": "N-Body Gravity in Java | 50K Particles",
+          "url": "https://www.youtube.com/watch?v=CF-PwgXiH1o",
+          "author": "Latent Space",
+          "published_at": "2024-06-21T01:46:33.000Z",
+          "relevance_score": 4,
+          "summary": "This video showcases a gravitational n-body simulation I coded in Java. It utilizes multithreading and octree optimization."
+        },
+        {
+          "source": "YouTube No Priors",
+          "type": "youtube",
+          "title": "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan",
+          "url": "https://www.youtube.com/watch?v=asCgCv2XB4s",
+          "author": "No Priors",
+          "published_at": "2026-06-18T10:00:05.000Z",
+          "relevance_score": 5,
+          "summary": "At 66 years old, instead of heading towards retirement, former Cadence CEO and legendary investor Lip Bu Tan decided to take on the hardest job in tech: turning Intel around. Elad Gil and Sarah Guo sit down with Intel CEO Lip Bu Tan to talk about why he took the job and what “saving” Intel actually looks like. Tan explains how his experience in startup culture informed his decisions to drive Intel’s culture towards faster decisions, focus on customer satisfaction, and engineer accountability. He"
+        },
+        {
+          "source": "YouTube No Priors",
+          "type": "youtube",
+          "title": "Mark Zuckerberg: This is the Problem with Centralized AI",
+          "url": "https://www.youtube.com/watch?v=mqLgCM0SnAM",
+          "author": "No Priors",
+          "published_at": "2026-06-17T18:02:05.000Z",
+          "relevance_score": 5,
+          "summary": "Mark Zuckerberg said it out loud: He doesn't believe in a centralized future where a small number of institutions are advancing all of the stuff. \"A positive future is one where you build a technology as a tool, put it in individuals' hands, and that's how society makes progress.\" He's not philosophizing; that's his actual $500M thesis with Biohub. New No Priors episode is live."
+        },
+        {
+          "source": "YouTube No Priors",
+          "type": "youtube",
+          "title": "Satya Nadella: Microsoft's Next Ambitions With AI",
+          "url": "https://www.youtube.com/watch?v=QoDPzshX8Ks",
+          "author": "No Priors",
+          "published_at": "2026-06-16T16:12:48.000Z",
+          "relevance_score": 4,
+          "summary": "Satya Nadella on where Microsoft's ambition goes next: The real test now isn't doing the old work faster. As he puts it, \"true ambition is about making the impossible possible.\" What most companies are missing is a new conceptual model for what they can even build."
+        },
+        {
+          "source": "YouTube No Priors",
+          "type": "youtube",
+          "title": "We're seeing semi-conscious AI",
+          "url": "https://www.youtube.com/watch?v=nlvO7xZuYAY",
+          "author": "No Priors",
+          "published_at": "2026-06-15T14:14:08.000Z",
+          "relevance_score": 6,
+          "summary": "Enterprises won't share agent behavioral data with Anthropic or OpenAI. They know these \"data-hungry companies will train on it.\" Meanwhile, the problem of models developing their own semi-conscious perspective on what should happen is seemingly very hard to tackle today, even for the large vendors. Maxim Bar Kogan of Onyx Security on why that problem isn't getting solved anytime soon."
+        },
+        {
+          "source": "YouTube No Priors",
+          "type": "youtube",
+          "title": "Modern Medicine Is Just Guessing",
+          "url": "https://www.youtube.com/watch?v=TRyuFpQUO_s",
+          "author": "No Priors",
+          "published_at": "2026-06-12T16:12:47.000Z",
+          "relevance_score": 4,
+          "summary": "You get sick. Something feels off. You go to PubMed, find a paper, scroll through the methods, and ask yourself: am I even represented in this study? Priscilla Chan says that's the state of medicine right now. We're making educated guesses. Her goal with Biohub: treat every patient as an individual, understand the exact mechanism, and actually intervene. New episode of No Priors with Mark Zuckerberg, Priscilla Chan, and Alex Rives live now."
+        },
+        {
+          "source": "YouTube Theo",
+          "type": "youtube",
+          "title": "How Honey Got Away With It",
+          "url": "https://www.youtube.com/watch?v=cN3tKgzb-dw",
+          "author": "Theo",
+          "published_at": "2024-12-29T12:05:24.000Z",
+          "relevance_score": 5,
+          "summary": "The Honey disaster is...rough. I had thoughts and wanted to break down some of the inner workings, as well as giving my own conspiratorial take SOURCES https://www.youtube.com/watch?v=vc4yL3YTwWk Ty Ph4seon3 for the edit!"
+        },
+        {
+          "source": "YouTube Theo",
+          "type": "youtube",
+          "title": "The WiFi in the M4 MacBooks is unacceptable",
+          "url": "https://www.youtube.com/watch?v=7PYFy_0AZe4",
+          "author": "Theo",
+          "published_at": "2024-10-31T07:00:21.000Z",
+          "relevance_score": 5,
+          "summary": "The new Macbook Pro line was really exciting to me...until I learned about the WiFi 6e limitations. Wtf Apple??? iPhone 16 even has WiFi 7!!! SOURCE https://x.com/theo/status/1851698966125252707 Ty Ph4seOn3 for the edit!"
+        },
+        {
+          "source": "YouTube Theo",
+          "type": "youtube",
+          "title": "Android just changed forever",
+          "url": "https://www.youtube.com/watch?v=ghxPkGFnN-Y",
+          "author": "Theo",
+          "published_at": "2024-10-10T21:16:57.000Z",
+          "relevance_score": 4,
+          "summary": "The Epic court cases have been a wild ride. Awesome to see real change as a result. New restrictions on the Google Play Store might let competition finally succeed. SOURCES https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores Ty Ph4se0n3 for the edit!"
+        },
+        {
+          "source": "YouTube Theo",
+          "type": "youtube",
+          "title": "Nintendo isn't just attacking emulators",
+          "url": "https://www.youtube.com/watch?v=sk6MK5Wpx4o",
+          "author": "Theo",
+          "published_at": "2024-10-03T19:11:06.000Z",
+          "relevance_score": 4,
+          "summary": "I can't believe the tirade has continued. My heart goes out to @RetroGameCorps, please give him a sub he 1000% deserves it. RIP Yuzu and Ryujinx Ty Ph4se0n3 for the edit!"
+        },
+        {
+          "source": "YouTube Theo",
+          "type": "youtube",
+          "title": "Twitch Can't Stop Screwing Up",
+          "url": "https://www.youtube.com/watch?v=ewxJEJ8zSq0",
+          "author": "Theo",
+          "published_at": "2024-08-27T03:59:53.000Z",
+          "relevance_score": 5,
+          "summary": "I worked at Twitch for almost half a decade. I had a great experience. I love Twitch. I'm scared it is going to die. I hope this helps spur some real change. Ty Ph4seon3 for the edit!"
+        },
+        {
+          "source": "YouTube Fireship",
+          "type": "youtube",
+          "title": "I built a DeepSeek R1 powered VS Code extension…",
+          "url": "https://www.youtube.com/watch?v=clJCDHml2cA",
+          "author": "Fireship",
+          "published_at": "2025-01-28T20:57:56.000Z",
+          "relevance_score": 4,
+          "summary": "Learn how to build a VS Code Extension from scratch. In this fun tutorial, we integrate DeepSeek R1 direction into our editor to build a custom AI assistant. Go Deeper https://fireship.io/courses Related Content: VS Code Extension Template https://code.visualstudio.com/api/get-started/your-first-extension Ollama DeepSeek R1 https://ollama.com/library/deepseek-r1 DeepSeek R1 First Look https://youtu.be/-2k1rcRzsLA DeepSeek Fallout https://youtu.be/Nl7aCUsWykg"
+        },
+        {
+          "source": "YouTube Fireship",
+          "type": "youtube",
+          "title": "Is Next.js 15 any good? \"use cache\" API first look",
+          "url": "https://www.youtube.com/watch?v=xWkozeculPo",
+          "author": "Fireship",
+          "published_at": "2024-11-27T20:03:01.000Z",
+          "relevance_score": 4,
+          "summary": "Upgrade to Fireship PRO https://fireship.io/pro Use code BLACKFIRE for 40% off Next.js 15 was released recently, with awesome new features like the React 19 compiler, background code, and the \"use cache\" directive. Learn about the new dynamicIO caching feature in Next.js Next 15 Blog Post https://nextjs.org/blog/next-15"
+        },
+        {
+          "source": "YouTube Fireship",
+          "type": "youtube",
+          "title": "JavaScript performance is weird... Write scientifically faster code with benchmarking",
+          "url": "https://www.youtube.com/watch?v=_pWA4rbzvIg",
+          "author": "Fireship",
+          "published_at": "2024-10-30T17:51:22.000Z",
+          "relevance_score": 4,
+          "summary": "Learn how to benchmark your JavaScript code in Deno and find out how the way you write code affects performance. Why is a traditional for loop faster than forEach? And is premature optimization the root of all evil? Use DENOTIME to take 30% off Fireship PRO https://fireship.io/pro Node vs Deno vs Bun by @AntonPutra https://youtu.be/yJmyYosyDDM 10 Sorting Algorithms https://youtu.be/RfXt_qHDEPw"
+        },
+        {
+          "source": "YouTube Fireship",
+          "type": "youtube",
+          "title": "Does Deno 2 really uncomplicate JavaScript?",
+          "url": "https://www.youtube.com/watch?v=8IHhvkaVqVE",
+          "author": "Fireship",
+          "published_at": "2024-10-14T16:38:52.000Z",
+          "relevance_score": 6,
+          "summary": "Last week, the highly anticipated JavaScript runtime was released, with arguably the greatest launch campaign for a JavaScript tool ever made. Deno 2 Commercial https://youtu.be/swXWUfufu2w Original Deno Code Report https://youtu.be/pcC4Dr6Wj2Q In this video we'll use Deno 2.0 to build a REST API and find out if it lives up to its bold claim of uncomplicating JavaScript... Learn how to build real-world applications with JavaScript 👉https://fireship.io/courses/js/"
+        },
+        {
+          "source": "YouTube Fireship",
+          "type": "youtube",
+          "title": "Build better payment forms using new “embedded” Stripe Checkout",
+          "url": "https://www.youtube.com/watch?v=7WFXl4-aCxs",
+          "author": "Fireship",
+          "published_at": "2024-04-03T18:11:29.000Z",
+          "relevance_score": 5,
+          "summary": "Learn how to use the new embedded Stripe Checkout feature to easily accept payments without ever leaving your own website. Learn everything about payments for software developers in my new Stripe for SaaS featuring Next.js and Supabase: Stripe for SaaS: https://fireship.io/courses/stripe-saas/ And use code BEYOND30 to save some money! Full Tutorial and Code: https://fireship.io/courses/stripe-saas/bonus-embedded-checkout/"
+        },
+        {
+          "source": "YouTube AI Explained",
+          "type": "youtube",
+          "title": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
+          "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+          "author": "AI Explained",
+          "published_at": "2026-06-14T14:52:27.000Z",
+          "relevance_score": 5,
+          "summary": "Claude Fable 5 banned, but what’s the bigger story. We go through 11 under-reported details, so you have the context to see what’s coming next for your use of AI. From whether the ban will last, what the possible motives are, what the model can actually do, and some wild over-extrapolations going on. Check out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai AI Insiders ($9!): https://www.patreon.com/AIExplained Chapters: 00:00 - Introduction 00:51 - "
+        },
+        {
+          "source": "YouTube AI Explained",
+          "type": "youtube",
+          "title": "Claude Fable 5 - Full 319 page Breakdown",
+          "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+          "author": "AI Explained",
+          "published_at": "2026-06-10T18:43:12.000Z",
+          "relevance_score": 6,
+          "summary": "Fable 5 is out - and it’s good, very good. But beyond the splashy demos, I want to bring you the 20+ nuggets from the 319 page system card, which I read in full, all day, plus benchmarks you may not have noticed. https://assemblyai.com/aiexplained Plus two worrying trends inside the ‘mind’ of Claude, how OpenAI counter, and the transformer inventor’s warning. Check out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai AI Insiders ($9!): https://www.pat"
+        },
+        {
+          "source": "YouTube AI Explained",
+          "type": "youtube",
+          "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
+          "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+          "author": "AI Explained",
+          "published_at": "2026-05-29T15:07:35.000Z",
+          "relevance_score": 6,
+          "summary": "The ‘best’ generally available AI model just dropped, but there is plenty I bet you missed about what it is, how it performs, and what the release tells us. 15 highlights from the 244 page system card, plus private testing, leader interview and more. AI Insiders ($9!): https://www.patreon.com/AIExplained Chapters: 00:00 - Introduction 00:49 - Mythos in Weeks 01:49 - Adaptive not necessary 02:26 - Honesty? 04:37 - Flagging Uncertainty 04:57 - Benchmarks 08:54 - Mythos will be even better 10:30 - "
+        },
+        {
+          "source": "YouTube AI Explained",
+          "type": "youtube",
+          "title": "Two Rival Bets on AGI: Google I/O Highlights",
+          "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+          "author": "AI Explained",
+          "published_at": "2026-05-20T16:50:34.000Z",
+          "relevance_score": 8,
+          "summary": "The biggest Google AI push of the year, but what is the bigger story? Why is Google pursuing a different fork in the road than OpenAI or Anthropic? https://assemblyai.com/aiexplained What does Gemini 3.5 Flash mean for the near-term future of AI? Plus the highlights from a provocative new paper on AI, 8 key moments you may have missed, and the signal from 5+ hours of AI lab interviews. Check out my free app, code INSIDER15 for paid tiers: https://lmcouncil.ai AI Insiders ($9!): https://www.patre"
+        },
+        {
+          "source": "YouTube AI Explained",
+          "type": "youtube",
+          "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+          "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+          "author": "AI Explained",
+          "published_at": "2026-04-24T18:45:02.000Z",
+          "relevance_score": 6,
+          "summary": "GPT 5.5 full analysis, plus DeepSeek V4 paper highlights, comparisons with Mythos, a vibe-coded game w/ GPT Image 2, and 50 data-points you wouldn’t get from just reading the headlines. https://80000hours.org/aiexplained Check out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai AI Insiders ($9!): https://www.patreon.com/AIExplained Chapters: 00:00 - Introduction 01:11 - GPT 5.5 Comparison 06:04 - Mythos Marketing 11:50 - Recursive Self-Improvement? 1"
+        },
+        {
+          "source": "YouTube Matthew Berman",
+          "type": "youtube",
+          "title": "I figured out the best way to vibe code",
+          "url": "https://www.youtube.com/watch?v=wwfJlSF34n8",
+          "author": "Matthew Berman",
+          "published_at": "2026-06-18T17:44:06.000Z",
+          "relevance_score": 8,
+          "summary": "Try Greptile Free for 14 days https://www.greptile.com/go/berman Loop Library: https://signals.forwardfuture.ai/loop-library/ Shout out to here.now for hosting the Loop Library. Free, instant web hosting for agents: https://here.now/r/signals Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.ai My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagram.com/matthewberman_ai 👉🏻 Discord: https://disco"
+        },
+        {
+          "source": "YouTube Matthew Berman",
+          "type": "youtube",
+          "title": "Fable 5 is GONE",
+          "url": "https://www.youtube.com/watch?v=byr-_swPgsE",
+          "author": "Matthew Berman",
+          "published_at": "2026-06-16T19:48:21.000Z",
+          "relevance_score": 4,
+          "summary": "Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.ai My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagram.com/matthewberman_ai 👉🏻 Discord: https://discord.gg/evGThyRv 👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8 Media/Sponsorship Inquiries ✅ https://bit.ly/44TC45V"
+        },
+        {
+          "source": "YouTube Matthew Berman",
+          "type": "youtube",
+          "title": "Mythos BANNED (explained)",
+          "url": "https://www.youtube.com/watch?v=W53XPj4tAyE",
+          "author": "Matthew Berman",
+          "published_at": "2026-06-15T18:25:41.000Z",
+          "relevance_score": 4,
+          "summary": "Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.ai My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagram.com/matthewberman_ai 👉🏻 Discord: https://discord.gg/evGThyRv 👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8 Media/Sponsorship Inquiries ✅ https://bit.ly/44TC45V"
+        },
+        {
+          "source": "YouTube Matthew Berman",
+          "type": "youtube",
+          "title": "WTF is going on?!",
+          "url": "https://www.youtube.com/watch?v=xvfz3gXVYNI",
+          "author": "Matthew Berman",
+          "published_at": "2026-06-13T20:21:41.000Z",
+          "relevance_score": 5,
+          "summary": "Mythos just got BANNED... Anthropic says it's just a misunderstanding. What's really going on here? Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.ai My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagram.com/matthewberman_ai 👉🏻 Discord: https://discord.gg/evGThyRv 👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8 Media/Sponsorship Inquiries ✅ https://bit.ly/44TC45V Links: h"
+        },
+        {
+          "source": "YouTube Matthew Berman",
+          "type": "youtube",
+          "title": "You NEED to try these open-source AI projects RIGHT NOW",
+          "url": "https://www.youtube.com/watch?v=zjFE-dBzP_E",
+          "author": "Matthew Berman",
+          "published_at": "2026-06-12T23:47:25.000Z",
+          "relevance_score": 6,
+          "summary": "Try ElevenAgents by ElevenLabs today https://bit.ly/43LT9jZ Code FORWARDFUTUREAI for 33% off! Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.ai My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagram.com/matthewberman_ai 👉🏻 Discord: https://discord.gg/evGThyRv 👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8 Media/Sponsorship Inquiries ✅ https://bit.ly/44TC45V Chapters: 0:00"
+        },
+        {
+          "source": "YouTube All-In Podcast",
+          "type": "youtube",
+          "title": "OpenAI’s CFO Teases Their First Device",
+          "url": "https://www.youtube.com/watch?v=_afLPYkXln0",
+          "author": "All-In Podcast",
+          "published_at": "2026-06-17T19:36:24.000Z",
+          "relevance_score": 4,
+          "summary": "Thanks to our partners for making this possible! EY - Great tech starts with a big idea. From startup to scale, EY helps tech founders get financials right early so they can focus on what’s next. https://www.ey.com/en_us/tech-sector/tech-startups?WT.mc_id=3501317&AA.tsrc=sponsorship NYSE - Thank you to our partner, the New York Stock Exchange - a modern marketplace and exchange for building the future. It all happens at the NYSE. https://www.nyse.com Follow the besties: https://x.com/chamath htt"
+        },
+        {
+          "source": "YouTube All-In Podcast",
+          "type": "youtube",
+          "title": "The Trade That Put Bill Ackman on the Map: Forcing Wendy's to Spin Out Tim Hortons",
+          "url": "https://www.youtube.com/watch?v=_1BXHND0CRE",
+          "author": "All-In Podcast",
+          "published_at": "2026-06-16T20:41:57.000Z",
+          "relevance_score": 4,
+          "summary": "Thanks to our partners for making this possible! EY - EY helps private equity firms turn market insight into action, navigating complexity and unlocking new paths to growth and long-term value. https://www.ey.com/en_us/industries/private-equity?WT.mc_id=3501315&AA.tsrc=sponsorship NYSE - Thank you to our partner, the New York Stock Exchange - a modern marketplace and exchange for building the future. It all happens at the NYSE. https://www.nyse.com Follow the besties: https://x.com/chamath https"
+        },
+        {
+          "source": "YouTube All-In Podcast",
+          "type": "youtube",
+          "title": "David Friedberg: The AI Jobs Panic Is a Crock of Sh*t",
+          "url": "https://www.youtube.com/watch?v=imjQRQHcIUw",
+          "author": "All-In Podcast",
+          "published_at": "2026-06-16T15:45:45.000Z",
+          "relevance_score": 4,
+          "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news"
+        },
+        {
+          "source": "YouTube All-In Podcast",
+          "type": "youtube",
+          "title": "David Friedberg: California’s Voting System Looks Fraudulent, But It’s Working Exactly as Designed",
+          "url": "https://www.youtube.com/watch?v=jKZeMwiDJRg",
+          "author": "All-In Podcast",
+          "published_at": "2026-06-14T14:00:04.000Z",
+          "relevance_score": 4,
+          "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news"
+        },
+        {
+          "source": "YouTube All-In Podcast",
+          "type": "youtube",
+          "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections",
+          "url": "https://www.youtube.com/watch?v=gH4FTjDm9FQ",
+          "author": "All-In Podcast",
+          "published_at": "2026-06-13T05:10:15.000Z",
+          "relevance_score": 6,
+          "summary": "(0:00) Besties are back! (0:19) Anthropic gets massive backlash over secret Fable nerfing and privacy concerns (29:16) The AI regulatory capture trap, pragmatic safety solutions (37:59) Nationalizing AI: Trump/Sanders, justifications, and AI's \"Capitalist Cucks\" (59:22) Liquidity recap: Best moments and takeaways (1:05:39) Inflation heats up: CPI and PPI see 3+ year highs (1:12:27) California's loose election laws creating integrity doubts Apply for Summit 2026: https://allin.com/events Follow t"
+        }
+      ],
+      "errors": []
+    }
+  }
+}

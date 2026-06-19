@@ -1,0 +1,15 @@
+{
+  "title": "Day 23 of building GTA 6 using claude",
+  "source": "Reddit r/Codex_programming",
+  "source_type": "reddit",
+  "url": "https://www.reddit.com/r/aiwars/comments/1u9291j/day_23_of_building_gta_6_using_claude/",
+  "published_at": "2026-06-18T10:08:53.000Z",
+  "score": 39,
+  "tags": [
+    "Codex/AI编程",
+    "Claude",
+    "可做工具",
+    "可写内容"
+  ],
+  "summary": "Building a GTA online clone in voxel style where the world never sleeps and all the NPCs are AI agents. Everything is built by players using prompts. Prompt your own car. Prompt your own building. Prompt your own weapon. I know in 2026 most people already gave up on huge online worlds but I'm naive enough to keep working on it. Having too much fun with this. Using claude code and codex for development. Generations are done with OpenAI, groq api. link: https://flair-3d.fly.dev/ &#32; submitted by"
+}

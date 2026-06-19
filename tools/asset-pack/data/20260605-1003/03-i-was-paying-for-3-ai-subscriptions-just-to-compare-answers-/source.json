@@ -1,0 +1,13 @@
+{
+  "title": "I was paying for 3 AI subscriptions just to compare answers — so I built a chatroom where they all reply at once, on your own API keys. Roast it.",
+  "source": "Reddit r/SideProject",
+  "source_type": "reddit",
+  "url": "https://www.reddit.com/r/SideProject/comments/1txlqco/i_was_paying_for_3_ai_subscriptions_just_to/",
+  "published_at": "2026-06-05T13:57:40.000Z",
+  "score": 32,
+  "tags": [
+    "可做工具",
+    "只观察"
+  ],
+  "summary": "Hey r/SideProject 👋 I am a solo creator (well, who is not these days?). I kept paying for ChatGPT Plus + Claude Pro + Gemini mostly to compare answers across tabs — ~$60/mo for tools I each used part-time. So I built ByteChat ( https://bytechat.io): one chatroom where you add your own API keys and every model answers together. Ask once, compare side by side, \"@mention\" one to go deeper, or chain them (draft → refine). The BYOK part is the point: you pay each provider's raw token rate — usually "
+}

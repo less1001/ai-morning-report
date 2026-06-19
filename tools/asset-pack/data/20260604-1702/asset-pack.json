@@ -1,0 +1,247 @@
+{
+  "generated_at": "2026-06-05T00:02:16.742Z",
+  "report_generated_at": "2026-06-05T00:02:16.615Z",
+  "run_id": "20260604-1702",
+  "output_dir": "/Volumes/Samsung T7/Codex/Legacy Projects/New project 4/tools/asset-pack/data/20260604-1702",
+  "strategy": "Pick 1-3 high-action-value candidates and generate publishable drafts for WeChat, Xiaohongshu, X, card prompts, and MVP briefs.",
+  "counts": {
+    "assets": 3,
+    "platform_jobs": 15
+  },
+  "multipost": {
+    "role": "publishing_executor",
+    "chrome_web_store_url": "https://chromewebstore.google.com/detail/multipost/dhohkaclnjgcikfoaacfgijgjgceofih",
+    "local_extension_dir": "/Volumes/Samsung T7/Codex/Legacy Projects/New project 4/tools/multipost-extension/chrome-mv3-prod",
+    "status": "not_verified_in_browser"
+  },
+  "assets": [
+    {
+      "id": "01-drop-your-saas-and-i-ll-check-its-seo-aeo-readiness",
+      "source": {
+        "title": "Drop your SaaS and I’ll check its SEO/AEO readiness",
+        "source": "Reddit r/microsaas",
+        "source_type": "reddit",
+        "url": "https://www.reddit.com/r/microsaas/comments/1tt0oc3/drop_your_saas_and_ill_check_its_seoaeo_readiness/",
+        "published_at": "2026-05-31T16:54:01.000Z",
+        "score": 38,
+        "tags": [
+          "GEO",
+          "可做工具",
+          "可做站",
+          "可写内容"
+        ],
+        "summary": "I added a free SEO/AEO report to InkieAI. It checks how ready your SaaS website is for both traditional search engines and AI answer engines like ChatGPT, Perplexity, Claude, and Google AI. The report looks at things like: Can Google understand and rank your pages? Can AI tools clearly understand what your product does? Are your landing pages, pricing, features, docs, and CTAs easy to find? What content pages should you create to get discovered by search and AI answers? What competitors and keyw"
+      },
+      "case_type": "growth_case",
+      "priority": "high",
+      "files": {
+        "wechat_article": "01-drop-your-saas-and-i-ll-check-its-seo-aeo-readiness/wechat-article.md",
+        "xhs_note": "01-drop-your-saas-and-i-ll-check-its-seo-aeo-readiness/xiaohongshu-note.md",
+        "x_thread": "01-drop-your-saas-and-i-ll-check-its-seo-aeo-readiness/x-thread.md",
+        "card_prompt": "01-drop-your-saas-and-i-ll-check-its-seo-aeo-readiness/card-prompt.md",
+        "mvp_brief": "01-drop-your-saas-and-i-ll-check-its-seo-aeo-readiness/mvp-brief.md"
+      },
+      "platform_jobs": [
+        {
+          "platform": "wechat",
+          "label": "公众号",
+          "skill": "ljg-writes -> baoyu-post-to-wechat",
+          "status": "draft_ready",
+          "file": "01-drop-your-saas-and-i-ll-check-its-seo-aeo-readiness/wechat-article.md"
+        },
+        {
+          "platform": "xiaohongshu",
+          "label": "小红书",
+          "skill": "ljg-card / baoyu-xhs-images",
+          "status": "draft_ready",
+          "file": "01-drop-your-saas-and-i-ll-check-its-seo-aeo-readiness/xiaohongshu-note.md"
+        },
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "skill": "ljg-writes -> baoyu-post-to-x",
+          "status": "draft_ready",
+          "file": "01-drop-your-saas-and-i-ll-check-its-seo-aeo-readiness/x-thread.md"
+        },
+        {
+          "platform": "card",
+          "label": "知识卡片",
+          "skill": "ljg-card",
+          "status": "prompt_ready",
+          "file": "01-drop-your-saas-and-i-ll-check-its-seo-aeo-readiness/card-prompt.md"
+        },
+        {
+          "platform": "product",
+          "label": "工具/MVP",
+          "skill": "ljg-rank",
+          "status": "brief_ready",
+          "file": "01-drop-your-saas-and-i-ll-check-its-seo-aeo-readiness/mvp-brief.md"
+        }
+      ],
+      "preview": {
+        "wechat_title": "拆一个机会：Drop your SaaS and I’ll check its SEO/AEO readiness",
+        "xhs_title": "我从一个海外帖子里看到的新机会",
+        "x_hook": "Drop your SaaS and I’ll check its SEO/AEO readiness",
+        "card_title": "Drop your SaaS and I’ll check its SEO/AEO readiness"
+      },
+      "drafts": {
+        "wechat_article": "# 拆一个机会：Drop your SaaS and I’ll check its SEO/AEO readiness\n\n来源：Reddit r/microsaas\n原文：https://www.reddit.com/r/microsaas/comments/1tt0oc3/drop_your_saas_and_ill_check_its_seoaeo_readiness/\n发布时间：2026-05-31T16:54:01.000Z\n类型：growth_case\n\n## 先说结论\nI added a free SEO/AEO report to InkieAI. It checks how ready your SaaS website is for both traditional search engines and AI answer engines like ChatGPT, Perplexity, Claude, and … 这条信息真正值得看的，不是表面热闹，而是它暴露了一个可以被产品化、内容化或服务化的缺口。\n\n## 5W1H 拆解\n\n**What｜它是什么**：Drop your SaaS and I’ll check its SEO/AEO readiness\n\n**Who｜谁在做/谁在需要**：Reddit r/microsaas 提供了这个信号；潜在用户是正在找流量、找分发、找 AI 工具机会的独立开发者、出海团队和内容创业者。\n\n**Why｜为什么现在重要**：AI 工具和出海独立站的竞争越来越像“信息差 + 执行速度”的比赛。谁能更快把案例拆成页面、工具、文章和分发动作，谁就更容易获得第一波流量。\n\n**Where｜机会在哪里**：机会不在复述原文，而在把它变成一个可复制模板：案例页、审计工具、选题库、服务包或平台分发内容。\n\n**When｜什么时候做**：现在适合做 48 小时小验证。先不要做大产品，先写一篇拆解、发一组卡片、做一个落地页或收集 10 个潜在用户反馈。\n\n**How｜怎么做**：\n1. 把原文里的痛点、数据、动作和结果拆出来。\n2. 写成一篇中文案例拆解，标题直接说清楚收益或反差。\n3. 压缩成小红书 5-7 张卡片，用“问题 -> 关键数据 -> 方法 -> 可复制步骤 -> 风险”结构。\n4. 改成一条 X 长帖，突出海外工具/独立站可复制的部分。\n5. 如果信号足够强，再做一个极简 MVP 或 Notion/表单验证。\n\n## 可复制动作\n- 公众号：写成产品/增长案例拆解。\n- 小红书：做“一个人/一个站/一个工具怎么赚钱”的图文笔记。\n- X：发一条 thread，讲它对 indie hacker 或 AI builder 的启发。\n- 工具：如果反复出现同类痛点，做一个 URL 输入 -> 报告输出的小工具。\n\n## 风险\n这条信息仍需要继续验证：原文数据是否可复核，讨论是否真实，是否只是单次噪音。正式发布时要保留来源，不要把推断写成事实。\n",
+        "xhs_note": "# 我从一个海外帖子里看到的新机会\n\n## 标题备选\n1. 我从一个海外帖子里看到的新机会\n2. Drop your SaaS and I’ll chec，到底能不能抄？\n3. 普通人做 AI 出海，应该先看这种小机会\n\n## 正文\n今天看到一个很适合拆的案例：Drop your SaaS and I’ll check its SEO/AEO readiness\n\nI added a free SEO/AEO report to InkieAI. It checks how ready your SaaS website is for both traditional search engines and AI answer engines like ChatGPT, Perplexity, Claude, and Google AI. The report looks at things li…\n\n我觉得它值得看，不是因为它很热，而是因为里面有 3 个可以复用的动作：\n\n1. 先找一个具体人群的具体问题，不要上来做大平台。\n2. 把解决方案包装成一个可检查、可交付、可复用的结果。\n3. 用内容和社区先验证需求，再决定要不要做工具。\n\n如果你也在看 AI 出海机会，可以先问自己：\n- 这个需求有没有人已经在公开抱怨？\n- 有没有人愿意为了省时间/省钱/多流量付费？\n- 能不能先做成一页报告、一篇内容、一个小工具？\n\n## 标签\n#AI出海 #独立开发 #小而美创业 #一人公司 #AI工具 #海外案例 #副业项目\n\n## 分图脚本\n1. 封面：一个海外小案例，藏着 AI 出海机会\n2. 这个案例在说什么\n3. 真正痛点是什么\n4. 可以复制的 3 个动作\n5. 适合做成什么产品/内容\n6. 48 小时验证清单\n",
+        "x_thread": "1/ Drop your SaaS and I’ll check its SEO/AEO readiness\n\nThis is a useful AI/indie opportunity signal, not just another link.\n\nSource: https://www.reddit.com/r/microsaas/comments/1tt0oc3/drop_your_saas_and_ill_check_its_seoaeo_readiness/\n\n2/ The short version: I added a free SEO/AEO report to InkieAI. It checks how ready your SaaS website is for both traditional search engines and AI answer engines like ChatGPT, Perplexity, Claude, and Google AI. The report looks at things like: Can Google under…\n\n3/ The opportunity is not to copy the surface.\nThe opportunity is to turn the pattern into a repeatable asset:\n- a landing page\n- a report\n- a checklist\n- a small tool\n- a case study\n\n4/ My 48-hour validation plan:\nPick one narrow user.\nWrite one teardown.\nCreate one simple offer.\nSend it to 10 people who already show the pain.\n\n5/ If people reply with their own URLs, data, or problems, build.\nIf they only like the post, keep it as content.\n",
+        "card_prompt": "标题：Drop your SaaS and I’ll check its SEO/AEO readiness\n\n适合 skill：ljg-card -m 或 baoyu-xhs-images --preset knowledge-card\n\n卡片结构：\n1. 封面：一句反差结论\n2. 事实：原文说了什么\n3. 痛点：用户为什么需要\n4. 机会：可以做成什么\n5. 动作：48 小时验证清单\n\n视觉要求：小红书 1080x1440 多卡；信息密度中等；标题短；每张只讲一个点；保留来源名但不放长链接。\n\n来源：Reddit r/microsaas https://www.reddit.com/r/microsaas/comments/1tt0oc3/drop_your_saas_and_ill_check_its_seoaeo_readiness/",
+        "mvp_brief": "# MVP Brief：Drop your SaaS and I’ll check its SEO/AEO readiness\n\n来源：https://www.reddit.com/r/microsaas/comments/1tt0oc3/drop_your_saas_and_ill_check_its_seoaeo_readiness/\n\n## 目标用户\nAI 出海独立开发者、micro-SaaS 创始人、SEO/GEO 服务商、内容创业者。\n\n## 问题\nI added a free SEO/AEO report to InkieAI. It checks how ready your SaaS website is for both traditional search engines and AI answer engines like ChatGPT, Perplexity, Claude, and Google AI. The report looks at things like: Can Google understand and rank your pages? Can AI tools clearly understand what your product doe…\n\n## 输入\n- 一个 URL / 一个案例链接 / 一段用户抱怨\n- 目标平台：公众号、小红书、X、网站\n\n## 输出\n- 案例拆解文章\n- 小红书分图脚本\n- X 长帖\n- 可验证的产品假设\n\n## 48 小时验证\n1. 选 10 个类似案例。\n2. 每个案例生成一篇拆解和一组卡片。\n3. 发布到 2 个平台，记录阅读、收藏、评论、私信。\n4. 如果连续 3 条内容出现明确需求，再做工具页。\n"
+      }
+    },
+    {
+      "id": "02-大宇-btcdayu-16分钟-这",
+      "source": {
+        "title": "大宇 @BTCdayu · 16分钟 这",
+        "source": "@BTCdayu",
+        "source_type": "x",
+        "url": "https://x.com/BTCdayu/status/2062681987073319416",
+        "published_at": "2026-06-04T23:44:43.000Z",
+        "score": 16,
+        "tags": [
+          "只观察"
+        ],
+        "summary": "大宇 @BTCdayu · 16分钟 这 @168MrZ 是把 @qinbafrank 压箱底东西给聊出来了 先转发收藏，然后全文背诵。 引用 168X @168X_Fortune · 14小时 文章 qinbafrank 拆解美股回调级别，AI 真正风险是什么？从软件股、Marvell 光互连、Nokia 到 SpaceX 看资金轮动 文 | Victor (@vcmktasa) · Mr. Z (@168MrZ) 2026 年 6 月初，台北 COMPUTEX 大会火热，黄仁勋喊出 Marvell... 3 4 7 1,212"
+      },
+      "case_type": "content_case",
+      "priority": "medium",
+      "files": {
+        "wechat_article": "02-大宇-btcdayu-16分钟-这/wechat-article.md",
+        "xhs_note": "02-大宇-btcdayu-16分钟-这/xiaohongshu-note.md",
+        "x_thread": "02-大宇-btcdayu-16分钟-这/x-thread.md",
+        "card_prompt": "02-大宇-btcdayu-16分钟-这/card-prompt.md",
+        "mvp_brief": "02-大宇-btcdayu-16分钟-这/mvp-brief.md"
+      },
+      "platform_jobs": [
+        {
+          "platform": "wechat",
+          "label": "公众号",
+          "skill": "ljg-writes -> baoyu-post-to-wechat",
+          "status": "draft_ready",
+          "file": "02-大宇-btcdayu-16分钟-这/wechat-article.md"
+        },
+        {
+          "platform": "xiaohongshu",
+          "label": "小红书",
+          "skill": "ljg-card / baoyu-xhs-images",
+          "status": "draft_ready",
+          "file": "02-大宇-btcdayu-16分钟-这/xiaohongshu-note.md"
+        },
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "skill": "ljg-writes -> baoyu-post-to-x",
+          "status": "draft_ready",
+          "file": "02-大宇-btcdayu-16分钟-这/x-thread.md"
+        },
+        {
+          "platform": "card",
+          "label": "知识卡片",
+          "skill": "ljg-card",
+          "status": "prompt_ready",
+          "file": "02-大宇-btcdayu-16分钟-这/card-prompt.md"
+        },
+        {
+          "platform": "product",
+          "label": "工具/MVP",
+          "skill": "ljg-rank",
+          "status": "brief_ready",
+          "file": "02-大宇-btcdayu-16分钟-这/mvp-brief.md"
+        }
+      ],
+      "preview": {
+        "wechat_title": "拆一个机会：大宇 @BTCdayu · 16分钟 这",
+        "xhs_title": "我从一个海外帖子里看到的新机会",
+        "x_hook": "大宇 @BTCdayu · 16分钟 这",
+        "card_title": "大宇 @BTCdayu · 16分钟 这"
+      },
+      "drafts": {
+        "wechat_article": "# 拆一个机会：大宇 @BTCdayu · 16分钟 这\n\n来源：@BTCdayu\n原文：https://x.com/BTCdayu/status/2062681987073319416\n发布时间：2026-06-04T23:44:43.000Z\n类型：content_case\n\n## 先说结论\n大宇 @BTCdayu · 16分钟 这 @168MrZ 是把 @qinbafrank 压箱底东西给聊出来了 先转发收藏，然后全文背诵。 引用 168X @168X_Fortune · 14小时 文章 qinbafrank 拆解美股回调级别，AI 真正风险是什么？从软件股、Marvell 光互连、Nokia 到 SpaceX 看资金轮动 文 | Victo… 这条信息真正值得看的，不是表面热闹，而是它暴露了一个可以被产品化、内容化或服务化的缺口。\n\n## 5W1H 拆解\n\n**What｜它是什么**：大宇 @BTCdayu · 16分钟 这\n\n**Who｜谁在做/谁在需要**：@BTCdayu 提供了这个信号；潜在用户是正在找流量、找分发、找 AI 工具机会的独立开发者、出海团队和内容创业者。\n\n**Why｜为什么现在重要**：AI 工具和出海独立站的竞争越来越像“信息差 + 执行速度”的比赛。谁能更快把案例拆成页面、工具、文章和分发动作，谁就更容易获得第一波流量。\n\n**Where｜机会在哪里**：机会不在复述原文，而在把它变成一个可复制模板：案例页、审计工具、选题库、服务包或平台分发内容。\n\n**When｜什么时候做**：现在适合做 48 小时小验证。先不要做大产品，先写一篇拆解、发一组卡片、做一个落地页或收集 10 个潜在用户反馈。\n\n**How｜怎么做**：\n1. 把原文里的痛点、数据、动作和结果拆出来。\n2. 写成一篇中文案例拆解，标题直接说清楚收益或反差。\n3. 压缩成小红书 5-7 张卡片，用“问题 -> 关键数据 -> 方法 -> 可复制步骤 -> 风险”结构。\n4. 改成一条 X 长帖，突出海外工具/独立站可复制的部分。\n5. 如果信号足够强，再做一个极简 MVP 或 Notion/表单验证。\n\n## 可复制动作\n- 公众号：写成产品/增长案例拆解。\n- 小红书：做“一个人/一个站/一个工具怎么赚钱”的图文笔记。\n- X：发一条 thread，讲它对 indie hacker 或 AI builder 的启发。\n- 工具：如果反复出现同类痛点，做一个 URL 输入 -> 报告输出的小工具。\n\n## 风险\n这条信息仍需要继续验证：原文数据是否可复核，讨论是否真实，是否只是单次噪音。正式发布时要保留来源，不要把推断写成事实。\n",
+        "xhs_note": "# 我从一个海外帖子里看到的新机会\n\n## 标题备选\n1. 我从一个海外帖子里看到的新机会\n2. 大宇 @BTCdayu · 16分钟 这，到底能不能抄？\n3. 普通人做 AI 出海，应该先看这种小机会\n\n## 正文\n今天看到一个很适合拆的案例：大宇 @BTCdayu · 16分钟 这\n\n大宇 @BTCdayu · 16分钟 这 @168MrZ 是把 @qinbafrank 压箱底东西给聊出来了 先转发收藏，然后全文背诵。 引用 168X @168X_Fortune · 14小时 文章 qinbafrank 拆解美股回调级别，AI 真正风险是什么？从软件股、Marvell 光互连、Nokia 到 SpaceX 看资金轮动 文 | Victor (@vcmktasa) · Mr. Z (@168MrZ) 2026 年 6…\n\n我觉得它值得看，不是因为它很热，而是因为里面有 3 个可以复用的动作：\n\n1. 先找一个具体人群的具体问题，不要上来做大平台。\n2. 把解决方案包装成一个可检查、可交付、可复用的结果。\n3. 用内容和社区先验证需求，再决定要不要做工具。\n\n如果你也在看 AI 出海机会，可以先问自己：\n- 这个需求有没有人已经在公开抱怨？\n- 有没有人愿意为了省时间/省钱/多流量付费？\n- 能不能先做成一页报告、一篇内容、一个小工具？\n\n## 标签\n#AI出海 #独立开发 #小而美创业 #一人公司 #AI工具 #海外案例 #副业项目\n\n## 分图脚本\n1. 封面：一个海外小案例，藏着 AI 出海机会\n2. 这个案例在说什么\n3. 真正痛点是什么\n4. 可以复制的 3 个动作\n5. 适合做成什么产品/内容\n6. 48 小时验证清单\n",
+        "x_thread": "1/ 大宇 @BTCdayu · 16分钟 这\n\nThis is a useful AI/indie opportunity signal, not just another link.\n\nSource: https://x.com/BTCdayu/status/2062681987073319416\n\n2/ The short version: 大宇 @BTCdayu · 16分钟 这 @168MrZ 是把 @qinbafrank 压箱底东西给聊出来了 先转发收藏，然后全文背诵。 引用 168X @168X_Fortune · 14小时 文章 qinbafrank 拆解美股回调级别，AI 真正风险是什么？从软件股、Marvell 光互连、Nokia 到 SpaceX 看资金轮动 文 | Victor (@vcmktasa) · Mr. Z (@168MrZ) 2026 年 6 月初，台北 COMPUTEX 大会火热…\n\n3/ The opportunity is not to copy the surface.\nThe opportunity is to turn the pattern into a repeatable asset:\n- a landing page\n- a report\n- a checklist\n- a small tool\n- a case study\n\n4/ My 48-hour validation plan:\nPick one narrow user.\nWrite one teardown.\nCreate one simple offer.\nSend it to 10 people who already show the pain.\n\n5/ If people reply with their own URLs, data, or problems, build.\nIf they only like the post, keep it as content.\n",
+        "card_prompt": "标题：大宇 @BTCdayu · 16分钟 这\n\n适合 skill：ljg-card -m 或 baoyu-xhs-images --preset knowledge-card\n\n卡片结构：\n1. 封面：一句反差结论\n2. 事实：原文说了什么\n3. 痛点：用户为什么需要\n4. 机会：可以做成什么\n5. 动作：48 小时验证清单\n\n视觉要求：小红书 1080x1440 多卡；信息密度中等；标题短；每张只讲一个点；保留来源名但不放长链接。\n\n来源：@BTCdayu https://x.com/BTCdayu/status/2062681987073319416",
+        "mvp_brief": "# MVP Brief：大宇 @BTCdayu · 16分钟 这\n\n来源：https://x.com/BTCdayu/status/2062681987073319416\n\n## 目标用户\nAI 出海独立开发者、micro-SaaS 创始人、SEO/GEO 服务商、内容创业者。\n\n## 问题\n大宇 @BTCdayu · 16分钟 这 @168MrZ 是把 @qinbafrank 压箱底东西给聊出来了 先转发收藏，然后全文背诵。 引用 168X @168X_Fortune · 14小时 文章 qinbafrank 拆解美股回调级别，AI 真正风险是什么？从软件股、Marvell 光互连、Nokia 到 SpaceX 看资金轮动 文 | Victor (@vcmktasa) · Mr. Z (@168MrZ) 2026 年 6 月初，台北 COMPUTEX 大会火热，黄仁勋喊出 Marvell... 3 4 7 1,212\n\n## 输入\n- 一个 URL / 一个案例链接 / 一段用户抱怨\n- 目标平台：公众号、小红书、X、网站\n\n## 输出\n- 案例拆解文章\n- 小红书分图脚本\n- X 长帖\n- 可验证的产品假设\n\n## 48 小时验证\n1. 选 10 个类似案例。\n2. 每个案例生成一篇拆解和一组卡片。\n3. 发布到 2 个平台，记录阅读、收藏、评论、私信。\n4. 如果连续 3 条内容出现明确需求，再做工具页。\n"
+      }
+    },
+    {
+      "id": "03-反差感极强-一些人月入万刀像好玩-一些人连门都入不了",
+      "source": {
+        "title": "反差感极强，一些人月入万刀像好玩，一些人连门都入不了",
+        "source": "跨境风向标",
+        "source_type": "wechat",
+        "url": "https://mp.weixin.qq.com/s/YTzdCEjNuCIS08Kdn67oIA",
+        "published_at": "2026-05-25T12:58:06.000Z",
+        "score": 20,
+        "tags": [
+          "可做工具",
+          "可做站",
+          "商业化案例",
+          "可写内容"
+        ],
+        "summary": "&nbsp; 1000个赚钱案例摆在眼前，进群一句话不说 AI出海与应用星球，1000+赚钱案例，68块钱一年。今天看了一下配套微信群，一片安静。 不是群出了问题。是进群的人出了问题。 星球里有什么，群里在发生什么 先摆事实。 星球内容 群里现状 1000+赚钱案例，持续更新 没人讨论任何一个案例 实操拆解，从注册到收款全链路 没人提问 工具推荐+踩坑记录 没人分享自己的进展 API中转站、部署方案等核心资源 安静 1000个案例不是凑数的。每一个都是真实跑通的路径，有些是我们自己跑的，有些是验证过的同行案例。从选品到建站到流量到收款，全链路拆解。 68块钱一年。一杯半星巴克的价格。 结果呢？进群，沉默，消失。 后台三种人，同一个病根 这几天后台反复出现三类消息。 类型 行为 根源 反复确认型 \"到底有没有攻略？\"\"资料在哪？\" 1000个案例就是攻略，但他一个都没点开 AI客服当真人型 给公众号发语音问\"在吗\" 菜单标注了AI客服，不读 连加客服微信都卡住型 不知道怎么加 群里置顶帖写了，不看 三种行为看起来不一样。但指向同一个根源：不阅读。 置顶帖里写了怎么加客服微信。不看。 公众"
+      },
+      "case_type": "money_traffic_teardown",
+      "priority": "medium",
+      "files": {
+        "wechat_article": "03-反差感极强-一些人月入万刀像好玩-一些人连门都入不了/wechat-article.md",
+        "xhs_note": "03-反差感极强-一些人月入万刀像好玩-一些人连门都入不了/xiaohongshu-note.md",
+        "x_thread": "03-反差感极强-一些人月入万刀像好玩-一些人连门都入不了/x-thread.md",
+        "card_prompt": "03-反差感极强-一些人月入万刀像好玩-一些人连门都入不了/card-prompt.md",
+        "mvp_brief": "03-反差感极强-一些人月入万刀像好玩-一些人连门都入不了/mvp-brief.md"
+      },
+      "platform_jobs": [
+        {
+          "platform": "wechat",
+          "label": "公众号",
+          "skill": "ljg-writes -> baoyu-post-to-wechat",
+          "status": "draft_ready",
+          "file": "03-反差感极强-一些人月入万刀像好玩-一些人连门都入不了/wechat-article.md"
+        },
+        {
+          "platform": "xiaohongshu",
+          "label": "小红书",
+          "skill": "ljg-card / baoyu-xhs-images",
+          "status": "draft_ready",
+          "file": "03-反差感极强-一些人月入万刀像好玩-一些人连门都入不了/xiaohongshu-note.md"
+        },
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "skill": "ljg-writes -> baoyu-post-to-x",
+          "status": "draft_ready",
+          "file": "03-反差感极强-一些人月入万刀像好玩-一些人连门都入不了/x-thread.md"
+        },
+        {
+          "platform": "card",
+          "label": "知识卡片",
+          "skill": "ljg-card",
+          "status": "prompt_ready",
+          "file": "03-反差感极强-一些人月入万刀像好玩-一些人连门都入不了/card-prompt.md"
+        },
+        {
+          "platform": "product",
+          "label": "工具/MVP",
+          "skill": "ljg-rank",
+          "status": "brief_ready",
+          "file": "03-反差感极强-一些人月入万刀像好玩-一些人连门都入不了/mvp-brief.md"
+        }
+      ],
+      "preview": {
+        "wechat_title": "拆一个机会：反差感极强，一些人月入万刀像好玩，一些人连门都入不了",
+        "xhs_title": "这个出海案例，最值钱的不是产品",
+        "x_hook": "反差感极强，一些人月入万刀像好玩，一些人连门都入不了",
+        "card_title": "反差感极强，一些人月入万刀像好玩，一些人连门都入不了"
+      },
+      "drafts": {
+        "wechat_article": "# 拆一个机会：反差感极强，一些人月入万刀像好玩，一些人连门都入不了\n\n来源：跨境风向标\n原文：https://mp.weixin.qq.com/s/YTzdCEjNuCIS08Kdn67oIA\n发布时间：2026-05-25T12:58:06.000Z\n类型：money_traffic_teardown\n\n## 先说结论\n&nbsp; 1000个赚钱案例摆在眼前，进群一句话不说 AI出海与应用星球，1000+赚钱案例，68块钱一年。今天看了一下配套微信群，一片安静。 不是群出了问题。是进群的人出了问题。 星球里有什么，群里在发生什么 先摆事实。 星球内容 群里现状 1000+赚钱案例，持续更新 没人讨论任何一个案例 实操拆解，从注册到收款全链路 没人提问 工具推荐+踩坑记录… 这条信息真正值得看的，不是表面热闹，而是它暴露了一个可以被产品化、内容化或服务化的缺口。\n\n## 5W1H 拆解\n\n**What｜它是什么**：反差感极强，一些人月入万刀像好玩，一些人连门都入不了\n\n**Who｜谁在做/谁在需要**：跨境风向标 提供了这个信号；潜在用户是正在找流量、找分发、找 AI 工具机会的独立开发者、出海团队和内容创业者。\n\n**Why｜为什么现在重要**：AI 工具和出海独立站的竞争越来越像“信息差 + 执行速度”的比赛。谁能更快把案例拆成页面、工具、文章和分发动作，谁就更容易获得第一波流量。\n\n**Where｜机会在哪里**：机会不在复述原文，而在把它变成一个可复制模板：案例页、审计工具、选题库、服务包或平台分发内容。\n\n**When｜什么时候做**：现在适合做 48 小时小验证。先不要做大产品，先写一篇拆解、发一组卡片、做一个落地页或收集 10 个潜在用户反馈。\n\n**How｜怎么做**：\n1. 把原文里的痛点、数据、动作和结果拆出来。\n2. 写成一篇中文案例拆解，标题直接说清楚收益或反差。\n3. 压缩成小红书 5-7 张卡片，用“问题 -> 关键数据 -> 方法 -> 可复制步骤 -> 风险”结构。\n4. 改成一条 X 长帖，突出海外工具/独立站可复制的部分。\n5. 如果信号足够强，再做一个极简 MVP 或 Notion/表单验证。\n\n## 可复制动作\n- 公众号：写成产品/增长案例拆解。\n- 小红书：做“一个人/一个站/一个工具怎么赚钱”的图文笔记。\n- X：发一条 thread，讲它对 indie hacker 或 AI builder 的启发。\n- 工具：如果反复出现同类痛点，做一个 URL 输入 -> 报告输出的小工具。\n\n## 风险\n这条信息仍需要继续验证：原文数据是否可复核，讨论是否真实，是否只是单次噪音。正式发布时要保留来源，不要把推断写成事实。\n",
+        "xhs_note": "# 这个出海案例，最值钱的不是产品\n\n## 标题备选\n1. 这个出海案例，最值钱的不是产品\n2. 反差感极强，一些人月入万刀像好玩，一些人连门都入不了，到底能不能抄？\n3. 普通人做 AI 出海，应该先看这种小机会\n\n## 正文\n今天看到一个很适合拆的案例：反差感极强，一些人月入万刀像好玩，一些人连门都入不了\n\n&nbsp; 1000个赚钱案例摆在眼前，进群一句话不说 AI出海与应用星球，1000+赚钱案例，68块钱一年。今天看了一下配套微信群，一片安静。 不是群出了问题。是进群的人出了问题。 星球里有什么，群里在发生什么 先摆事实。 星球内容 群里现状 1000+赚钱案例，持续更新 没人讨论任何一个案例 实操拆解，从注册到收款全链路 没人提问 工具推荐+踩坑记录 没人分享自己的进展 API中转站、部署方案等核心资源 安静 1000个案例不是…\n\n我觉得它值得看，不是因为它很热，而是因为里面有 3 个可以复用的动作：\n\n1. 先找一个具体人群的具体问题，不要上来做大平台。\n2. 把解决方案包装成一个可检查、可交付、可复用的结果。\n3. 用内容和社区先验证需求，再决定要不要做工具。\n\n如果你也在看 AI 出海机会，可以先问自己：\n- 这个需求有没有人已经在公开抱怨？\n- 有没有人愿意为了省时间/省钱/多流量付费？\n- 能不能先做成一页报告、一篇内容、一个小工具？\n\n## 标签\n#AI出海 #独立开发 #小而美创业 #一人公司 #AI工具 #海外案例 #副业项目\n\n## 分图脚本\n1. 封面：一个海外小案例，藏着 AI 出海机会\n2. 这个案例在说什么\n3. 真正痛点是什么\n4. 可以复制的 3 个动作\n5. 适合做成什么产品/内容\n6. 48 小时验证清单\n",
+        "x_thread": "1/ 反差感极强，一些人月入万刀像好玩，一些人连门都入不了\n\nThis is a useful AI/indie opportunity signal, not just another link.\n\nSource: https://mp.weixin.qq.com/s/YTzdCEjNuCIS08Kdn67oIA\n\n2/ The short version: &nbsp; 1000个赚钱案例摆在眼前，进群一句话不说 AI出海与应用星球，1000+赚钱案例，68块钱一年。今天看了一下配套微信群，一片安静。 不是群出了问题。是进群的人出了问题。 星球里有什么，群里在发生什么 先摆事实。 星球内容 群里现状 1000+赚钱案例，持续更新 没人讨论任何一个案例 实操拆解，从注册到收款全链路 没人提问 工具推荐+踩坑记录 没人分享自己的进展 API中转站、部署方案等核心资源 安静 1000个案例不是凑数的。每一个都是真实跑通的路径，有些是…\n\n3/ The opportunity is not to copy the surface.\nThe opportunity is to turn the pattern into a repeatable asset:\n- a landing page\n- a report\n- a checklist\n- a small tool\n- a case study\n\n4/ My 48-hour validation plan:\nPick one narrow user.\nWrite one teardown.\nCreate one simple offer.\nSend it to 10 people who already show the pain.\n\n5/ If people reply with their own URLs, data, or problems, build.\nIf they only like the post, keep it as content.\n",
+        "card_prompt": "标题：反差感极强，一些人月入万刀像好玩，一些人连门都入不了\n\n适合 skill：ljg-card -m 或 baoyu-xhs-images --preset knowledge-card\n\n卡片结构：\n1. 封面：一句反差结论\n2. 事实：原文说了什么\n3. 痛点：用户为什么需要\n4. 机会：可以做成什么\n5. 动作：48 小时验证清单\n\n视觉要求：小红书 1080x1440 多卡；信息密度中等；标题短；每张只讲一个点；保留来源名但不放长链接。\n\n来源：跨境风向标 https://mp.weixin.qq.com/s/YTzdCEjNuCIS08Kdn67oIA",
+        "mvp_brief": "# MVP Brief：反差感极强，一些人月入万刀像好玩，一些人连门都入不了\n\n来源：https://mp.weixin.qq.com/s/YTzdCEjNuCIS08Kdn67oIA\n\n## 目标用户\nAI 出海独立开发者、micro-SaaS 创始人、SEO/GEO 服务商、内容创业者。\n\n## 问题\n&nbsp; 1000个赚钱案例摆在眼前，进群一句话不说 AI出海与应用星球，1000+赚钱案例，68块钱一年。今天看了一下配套微信群，一片安静。 不是群出了问题。是进群的人出了问题。 星球里有什么，群里在发生什么 先摆事实。 星球内容 群里现状 1000+赚钱案例，持续更新 没人讨论任何一个案例 实操拆解，从注册到收款全链路 没人提问 工具推荐+踩坑记录 没人分享自己的进展 API中转站、部署方案等核心资源 安静 1000个案例不是凑数的。每一个都是真实跑通的路径，有些是我们自己跑的，有些是验证过的同行案例。从选品到建站到流量到收款，全链路拆解。 68块钱一年。一杯半星巴克的价格。 结果呢？进群，沉默，消失。 后台三种人，同一个…\n\n## 输入\n- 一个 URL / 一个案例链接 / 一段用户抱怨\n- 目标平台：公众号、小红书、X、网站\n\n## 输出\n- 案例拆解文章\n- 小红书分图脚本\n- X 长帖\n- 可验证的产品假设\n\n## 48 小时验证\n1. 选 10 个类似案例。\n2. 每个案例生成一篇拆解和一组卡片。\n3. 发布到 2 个平台，记录阅读、收藏、评论、私信。\n4. 如果连续 3 条内容出现明确需求，再做工具页。\n"
+      }
+    }
+  ]
+}

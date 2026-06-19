@@ -1,0 +1,170 @@
+{
+  "generated_at": "2026-06-19T02:57:32.613Z",
+  "report_generated_at": "2026-06-19T02:57:32.488Z",
+  "run_id": "20260618-1957",
+  "output_dir": "/Volumes/Samsung T7/Codex/Legacy Projects/New project 4/tools/asset-pack/data/20260618-1957",
+  "strategy": "Pick 1-3 high-action-value candidates and generate publishable drafts for WeChat, Xiaohongshu, X, card prompts, and MVP briefs.",
+  "counts": {
+    "assets": 2,
+    "platform_jobs": 10
+  },
+  "multipost": {
+    "role": "publishing_executor",
+    "chrome_web_store_url": "https://chromewebstore.google.com/detail/multipost/dhohkaclnjgcikfoaacfgijgjgceofih",
+    "local_extension_dir": "/Volumes/Samsung T7/Codex/Legacy Projects/New project 4/tools/multipost-extension/chrome-mv3-prod",
+    "status": "not_verified_in_browser"
+  },
+  "assets": [
+    {
+      "id": "01-openai-developers-openaidevs-6月18日-last-week-we-hosted-women",
+      "source": {
+        "title": "OpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x)",
+        "source": "@OpenAIDevs",
+        "source_type": "x",
+        "url": "https://x.com/OpenAIDevs/status/2067328594758848513",
+        "published_at": "2026-06-17T19:28:40.000Z",
+        "score": 32,
+        "tags": [
+          "Codex/AI编程",
+          "可做工具"
+        ],
+        "summary": "OpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x) The output: task agents, personal guides, and a lot of projects shipped with Codex 38 38 392 5万"
+      },
+      "case_type": "product_case",
+      "priority": "high",
+      "files": {
+        "wechat_article": "01-openai-developers-openaidevs-6月18日-last-week-we-hosted-women/wechat-article.md",
+        "xhs_note": "01-openai-developers-openaidevs-6月18日-last-week-we-hosted-women/xiaohongshu-note.md",
+        "x_thread": "01-openai-developers-openaidevs-6月18日-last-week-we-hosted-women/x-thread.md",
+        "card_prompt": "01-openai-developers-openaidevs-6月18日-last-week-we-hosted-women/card-prompt.md",
+        "mvp_brief": "01-openai-developers-openaidevs-6月18日-last-week-we-hosted-women/mvp-brief.md"
+      },
+      "platform_jobs": [
+        {
+          "platform": "wechat",
+          "label": "公众号",
+          "skill": "ljg-writes -> baoyu-post-to-wechat",
+          "status": "draft_ready",
+          "file": "01-openai-developers-openaidevs-6月18日-last-week-we-hosted-women/wechat-article.md"
+        },
+        {
+          "platform": "xiaohongshu",
+          "label": "小红书",
+          "skill": "ljg-card / baoyu-xhs-images",
+          "status": "draft_ready",
+          "file": "01-openai-developers-openaidevs-6月18日-last-week-we-hosted-women/xiaohongshu-note.md"
+        },
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "skill": "ljg-writes -> baoyu-post-to-x",
+          "status": "draft_ready",
+          "file": "01-openai-developers-openaidevs-6月18日-last-week-we-hosted-women/x-thread.md"
+        },
+        {
+          "platform": "card",
+          "label": "知识卡片",
+          "skill": "ljg-card",
+          "status": "prompt_ready",
+          "file": "01-openai-developers-openaidevs-6月18日-last-week-we-hosted-women/card-prompt.md"
+        },
+        {
+          "platform": "product",
+          "label": "工具/MVP",
+          "skill": "ljg-rank",
+          "status": "brief_ready",
+          "file": "01-openai-developers-openaidevs-6月18日-last-week-we-hosted-women/mvp-brief.md"
+        }
+      ],
+      "preview": {
+        "wechat_title": "拆一个机会：OpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x)",
+        "xhs_title": "我从一个海外帖子里看到的新机会",
+        "x_hook": "OpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x)",
+        "card_title": "OpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x)"
+      },
+      "drafts": {
+        "wechat_article": "# 拆一个机会：OpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x)\n\n来源：@OpenAIDevs\n原文：https://x.com/OpenAIDevs/status/2067328594758848513\n发布时间：2026-06-17T19:28:40.000Z\n类型：product_case\n\n## 先说结论\nOpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x) The output: task agents, personal guides, and a lot of projects shipped with Codex 38 38 392 5万 这条信息真正值得看的，不是表面热闹，而是它暴露了一个可以被产品化、内容化或服务化的缺口。\n\n## 5W1H 拆解\n\n**What｜它是什么**：OpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x)\n\n**Who｜谁在做/谁在需要**：@OpenAIDevs 提供了这个信号；潜在用户是正在找流量、找分发、找 AI 工具机会的独立开发者、出海团队和内容创业者。\n\n**Why｜为什么现在重要**：AI 工具和出海独立站的竞争越来越像“信息差 + 执行速度”的比赛。谁能更快把案例拆成页面、工具、文章和分发动作，谁就更容易获得第一波流量。\n\n**Where｜机会在哪里**：机会不在复述原文，而在把它变成一个可复制模板：案例页、审计工具、选题库、服务包或平台分发内容。\n\n**When｜什么时候做**：现在适合做 48 小时小验证。先不要做大产品，先写一篇拆解、发一组卡片、做一个落地页或收集 10 个潜在用户反馈。\n\n**How｜怎么做**：\n1. 把原文里的痛点、数据、动作和结果拆出来。\n2. 写成一篇中文案例拆解，标题直接说清楚收益或反差。\n3. 压缩成小红书 5-7 张卡片，用“问题 -> 关键数据 -> 方法 -> 可复制步骤 -> 风险”结构。\n4. 改成一条 X 长帖，突出海外工具/独立站可复制的部分。\n5. 如果信号足够强，再做一个极简 MVP 或 Notion/表单验证。\n\n## 可复制动作\n- 公众号：写成产品/增长案例拆解。\n- 小红书：做“一个人/一个站/一个工具怎么赚钱”的图文笔记。\n- X：发一条 thread，讲它对 indie hacker 或 AI builder 的启发。\n- 工具：如果反复出现同类痛点，做一个 URL 输入 -> 报告输出的小工具。\n\n## 风险\n这条信息仍需要继续验证：原文数据是否可复核，讨论是否真实，是否只是单次噪音。正式发布时要保留来源，不要把推断写成事实。\n",
+        "xhs_note": "# 我从一个海外帖子里看到的新机会\n\n## 标题备选\n1. 我从一个海外帖子里看到的新机会\n2. OpenAI Developers @OpenAIDev，到底能不能抄？\n3. 普通人做 AI 出海，应该先看这种小机会\n\n## 正文\n今天看到一个很适合拆的案例：OpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x)\n\nOpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x) The output: task agents, personal guides, and a lot of projects shipped with Codex 38 38 392 5万\n\n我觉得它值得看，不是因为它很热，而是因为里面有 3 个可以复用的动作：\n\n1. 先找一个具体人群的具体问题，不要上来做大平台。\n2. 把解决方案包装成一个可检查、可交付、可复用的结果。\n3. 用内容和社区先验证需求，再决定要不要做工具。\n\n如果你也在看 AI 出海机会，可以先问自己：\n- 这个需求有没有人已经在公开抱怨？\n- 有没有人愿意为了省时间/省钱/多流量付费？\n- 能不能先做成一页报告、一篇内容、一个小工具？\n\n## 标签\n#AI出海 #独立开发 #小而美创业 #一人公司 #AI工具 #海外案例 #副业项目\n\n## 分图脚本\n1. 封面：一个海外小案例，藏着 AI 出海机会\n2. 这个案例在说什么\n3. 真正痛点是什么\n4. 可以复制的 3 个动作\n5. 适合做成什么产品/内容\n6. 48 小时验证清单\n",
+        "x_thread": "1/ OpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x)\n\nThis is a useful AI/indie opportunity signal, not just another link.\n\nSource: https://x.com/OpenAIDevs/status/2067328594758848513\n\n2/ The short version: OpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x) The output: task agents, personal guides, and a lot of projects shipped with Codex 38 38 392 5万\n\n3/ The opportunity is not to copy the surface.\nThe opportunity is to turn the pattern into a repeatable asset:\n- a landing page\n- a report\n- a checklist\n- a small tool\n- a case study\n\n4/ My 48-hour validation plan:\nPick one narrow user.\nWrite one teardown.\nCreate one simple offer.\nSend it to 10 people who already show the pain.\n\n5/ If people reply with their own URLs, data, or problems, build.\nIf they only like the post, keep it as content.\n",
+        "card_prompt": "标题：OpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x)\n\n适合 skill：ljg-card -m 或 baoyu-xhs-images --preset knowledge-card\n\n卡片结构：\n1. 封面：一句反差结论\n2. 事实：原文说了什么\n3. 痛点：用户为什么需要\n4. 机会：可以做成什么\n5. 动作：48 小时验证清单\n\n视觉要求：小红书 1080x1440 多卡；信息密度中等；标题短；每张只讲一个点；保留来源名但不放长链接。\n\n来源：@OpenAIDevs https://x.com/OpenAIDevs/status/2067328594758848513",
+        "mvp_brief": "# MVP Brief：OpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x)\n\n来源：https://x.com/OpenAIDevs/status/2067328594758848513\n\n## 目标用户\nAI 出海独立开发者、micro-SaaS 创始人、SEO/GEO 服务商、内容创业者。\n\n## 问题\nOpenAI Developers @OpenAIDevs · 6月18日 Last week, we hosted Women who Code(x) The output: task agents, personal guides, and a lot of projects shipped with Codex 38 38 392 5万\n\n## 输入\n- 一个 URL / 一个案例链接 / 一段用户抱怨\n- 目标平台：公众号、小红书、X、网站\n\n## 输出\n- 案例拆解文章\n- 小红书分图脚本\n- X 长帖\n- 可验证的产品假设\n\n## 48 小时验证\n1. 选 10 个类似案例。\n2. 每个案例生成一篇拆解和一组卡片。\n3. 发布到 2 个平台，记录阅读、收藏、评论、私信。\n4. 如果连续 3 条内容出现明确需求，再做工具页。\n"
+      }
+    },
+    {
+      "id": "02-how-a-private-chef-startup-went-all-in-on-ai-agents",
+      "source": {
+        "title": "How a Private Chef Startup Went All In on AI Agents",
+        "source": "YouTube Y Combinator",
+        "source_type": "youtube",
+        "url": "https://www.youtube.com/watch?v=jikOaczZxTY",
+        "published_at": "2026-05-19T18:23:10.000Z",
+        "score": 22,
+        "tags": [
+          "YouTube",
+          "可做工具",
+          "商业化案例"
+        ],
+        "summary": "Yhangry is a private chef marketplace doing $15 million in GMV that's going all in on AI agents across every function of the company — from an autonomous bug fixer that shipped 25 fixes in its first week to an AI product that matches chefs and customers instantly. In this recent batch talk, founder Siddhi Mittal walks through three real business use cases for agents at yhangry, how she turned teaching AI in plain English into a growth channel worth $50K in free conference slots, and the hard org"
+      },
+      "case_type": "money_traffic_teardown",
+      "priority": "medium",
+      "files": {
+        "wechat_article": "02-how-a-private-chef-startup-went-all-in-on-ai-agents/wechat-article.md",
+        "xhs_note": "02-how-a-private-chef-startup-went-all-in-on-ai-agents/xiaohongshu-note.md",
+        "x_thread": "02-how-a-private-chef-startup-went-all-in-on-ai-agents/x-thread.md",
+        "card_prompt": "02-how-a-private-chef-startup-went-all-in-on-ai-agents/card-prompt.md",
+        "mvp_brief": "02-how-a-private-chef-startup-went-all-in-on-ai-agents/mvp-brief.md"
+      },
+      "platform_jobs": [
+        {
+          "platform": "wechat",
+          "label": "公众号",
+          "skill": "ljg-writes -> baoyu-post-to-wechat",
+          "status": "draft_ready",
+          "file": "02-how-a-private-chef-startup-went-all-in-on-ai-agents/wechat-article.md"
+        },
+        {
+          "platform": "xiaohongshu",
+          "label": "小红书",
+          "skill": "ljg-card / baoyu-xhs-images",
+          "status": "draft_ready",
+          "file": "02-how-a-private-chef-startup-went-all-in-on-ai-agents/xiaohongshu-note.md"
+        },
+        {
+          "platform": "x",
+          "label": "X/Twitter",
+          "skill": "ljg-writes -> baoyu-post-to-x",
+          "status": "draft_ready",
+          "file": "02-how-a-private-chef-startup-went-all-in-on-ai-agents/x-thread.md"
+        },
+        {
+          "platform": "card",
+          "label": "知识卡片",
+          "skill": "ljg-card",
+          "status": "prompt_ready",
+          "file": "02-how-a-private-chef-startup-went-all-in-on-ai-agents/card-prompt.md"
+        },
+        {
+          "platform": "product",
+          "label": "工具/MVP",
+          "skill": "ljg-rank",
+          "status": "brief_ready",
+          "file": "02-how-a-private-chef-startup-went-all-in-on-ai-agents/mvp-brief.md"
+        }
+      ],
+      "preview": {
+        "wechat_title": "拆一个机会：How a Private Chef Startup Went All In on AI Agents",
+        "xhs_title": "这个出海案例，最值钱的不是产品",
+        "x_hook": "How a Private Chef Startup Went All In on AI Agents",
+        "card_title": "How a Private Chef Startup Went All In on AI Agents"
+      },
+      "drafts": {
+        "wechat_article": "# 拆一个机会：How a Private Chef Startup Went All In on AI Agents\n\n来源：YouTube Y Combinator\n原文：https://www.youtube.com/watch?v=jikOaczZxTY\n发布时间：2026-05-19T18:23:10.000Z\n类型：money_traffic_teardown\n\n## 先说结论\nYhangry is a private chef marketplace doing $15 million in GMV that's going all in on AI agents across every function of the company — from an autonomous bug fixer that shipped 25… 这条信息真正值得看的，不是表面热闹，而是它暴露了一个可以被产品化、内容化或服务化的缺口。\n\n## 5W1H 拆解\n\n**What｜它是什么**：How a Private Chef Startup Went All In on AI Agents\n\n**Who｜谁在做/谁在需要**：YouTube Y Combinator 提供了这个信号；潜在用户是正在找流量、找分发、找 AI 工具机会的独立开发者、出海团队和内容创业者。\n\n**Why｜为什么现在重要**：AI 工具和出海独立站的竞争越来越像“信息差 + 执行速度”的比赛。谁能更快把案例拆成页面、工具、文章和分发动作，谁就更容易获得第一波流量。\n\n**Where｜机会在哪里**：机会不在复述原文，而在把它变成一个可复制模板：案例页、审计工具、选题库、服务包或平台分发内容。\n\n**When｜什么时候做**：现在适合做 48 小时小验证。先不要做大产品，先写一篇拆解、发一组卡片、做一个落地页或收集 10 个潜在用户反馈。\n\n**How｜怎么做**：\n1. 把原文里的痛点、数据、动作和结果拆出来。\n2. 写成一篇中文案例拆解，标题直接说清楚收益或反差。\n3. 压缩成小红书 5-7 张卡片，用“问题 -> 关键数据 -> 方法 -> 可复制步骤 -> 风险”结构。\n4. 改成一条 X 长帖，突出海外工具/独立站可复制的部分。\n5. 如果信号足够强，再做一个极简 MVP 或 Notion/表单验证。\n\n## 可复制动作\n- 公众号：写成产品/增长案例拆解。\n- 小红书：做“一个人/一个站/一个工具怎么赚钱”的图文笔记。\n- X：发一条 thread，讲它对 indie hacker 或 AI builder 的启发。\n- 工具：如果反复出现同类痛点，做一个 URL 输入 -> 报告输出的小工具。\n\n## 风险\n这条信息仍需要继续验证：原文数据是否可复核，讨论是否真实，是否只是单次噪音。正式发布时要保留来源，不要把推断写成事实。\n",
+        "xhs_note": "# 这个出海案例，最值钱的不是产品\n\n## 标题备选\n1. 这个出海案例，最值钱的不是产品\n2. How a Private Chef Startup W，到底能不能抄？\n3. 普通人做 AI 出海，应该先看这种小机会\n\n## 正文\n今天看到一个很适合拆的案例：How a Private Chef Startup Went All In on AI Agents\n\nYhangry is a private chef marketplace doing $15 million in GMV that's going all in on AI agents across every function of the company — from an autonomous bug fixer that shipped 25 fixes in its first week to an AI produc…\n\n我觉得它值得看，不是因为它很热，而是因为里面有 3 个可以复用的动作：\n\n1. 先找一个具体人群的具体问题，不要上来做大平台。\n2. 把解决方案包装成一个可检查、可交付、可复用的结果。\n3. 用内容和社区先验证需求，再决定要不要做工具。\n\n如果你也在看 AI 出海机会，可以先问自己：\n- 这个需求有没有人已经在公开抱怨？\n- 有没有人愿意为了省时间/省钱/多流量付费？\n- 能不能先做成一页报告、一篇内容、一个小工具？\n\n## 标签\n#AI出海 #独立开发 #小而美创业 #一人公司 #AI工具 #海外案例 #副业项目\n\n## 分图脚本\n1. 封面：一个海外小案例，藏着 AI 出海机会\n2. 这个案例在说什么\n3. 真正痛点是什么\n4. 可以复制的 3 个动作\n5. 适合做成什么产品/内容\n6. 48 小时验证清单\n",
+        "x_thread": "1/ How a Private Chef Startup Went All In on AI Agents\n\nThis is a useful AI/indie opportunity signal, not just another link.\n\nSource: https://www.youtube.com/watch?v=jikOaczZxTY\n\n2/ The short version: Yhangry is a private chef marketplace doing $15 million in GMV that's going all in on AI agents across every function of the company — from an autonomous bug fixer that shipped 25 fixes in its first week to an AI product that matches chefs…\n\n3/ The opportunity is not to copy the surface.\nThe opportunity is to turn the pattern into a repeatable asset:\n- a landing page\n- a report\n- a checklist\n- a small tool\n- a case study\n\n4/ My 48-hour validation plan:\nPick one narrow user.\nWrite one teardown.\nCreate one simple offer.\nSend it to 10 people who already show the pain.\n\n5/ If people reply with their own URLs, data, or problems, build.\nIf they only like the post, keep it as content.\n",
+        "card_prompt": "标题：How a Private Chef Startup Went All In on AI Agents\n\n适合 skill：ljg-card -m 或 baoyu-xhs-images --preset knowledge-card\n\n卡片结构：\n1. 封面：一句反差结论\n2. 事实：原文说了什么\n3. 痛点：用户为什么需要\n4. 机会：可以做成什么\n5. 动作：48 小时验证清单\n\n视觉要求：小红书 1080x1440 多卡；信息密度中等；标题短；每张只讲一个点；保留来源名但不放长链接。\n\n来源：YouTube Y Combinator https://www.youtube.com/watch?v=jikOaczZxTY",
+        "mvp_brief": "# MVP Brief：How a Private Chef Startup Went All In on AI Agents\n\n来源：https://www.youtube.com/watch?v=jikOaczZxTY\n\n## 目标用户\nAI 出海独立开发者、micro-SaaS 创始人、SEO/GEO 服务商、内容创业者。\n\n## 问题\nYhangry is a private chef marketplace doing $15 million in GMV that's going all in on AI agents across every function of the company — from an autonomous bug fixer that shipped 25 fixes in its first week to an AI product that matches chefs and customers instantly. In this recent batch talk, founder Siddhi Mittal walks…\n\n## 输入\n- 一个 URL / 一个案例链接 / 一段用户抱怨\n- 目标平台：公众号、小红书、X、网站\n\n## 输出\n- 案例拆解文章\n- 小红书分图脚本\n- X 长帖\n- 可验证的产品假设\n\n## 48 小时验证\n1. 选 10 个类似案例。\n2. 每个案例生成一篇拆解和一组卡片。\n3. 发布到 2 个平台，记录阅读、收藏、评论、私信。\n4. 如果连续 3 条内容出现明确需求，再做工具页。\n"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-01T10:44:00Z",
+  "local_services": {
+    "wechat_download_api": {
+      "base_url": "http://localhost:5010",
+      "health_url": "http://localhost:5010/api/health",
+      "aggregate_rss_url": "http://localhost:5010/api/rss/all",
+      "admin_url": "http://localhost:5010/admin.html",
+      "login_url": "http://localhost:5010/login.html",
+      "notes": "Runs via Docker Compose in tools/wechat-download-api. External port 5010 avoids macOS ControlCenter on 5000."
+    }
+  },
+  "sources": [
+    {
+      "id": "wechat-liuxiaopai-r",
+      "tier": "S",
+      "name": "刘小排r",
+      "platform": "wechat",
+      "fakeid": "MzI1MTUxNzgxMA==",
+      "rss_url": "http://localhost:5010/api/rss/MzI1MTUxNzgxMA==",
+      "fallback_rss_url": "http://localhost:5010/api/rss/all",
+      "focus": ["AI 出海", "AI 工具", "产品商业化", "独立开发"],
+      "status": "subscribed"
+    },
+    {
+      "id": "wechat-gefei",
+      "tier": "S",
+      "name": "哥飞",
+      "platform": "wechat",
+      "fakeid": "MjM5OTIzMzYyMA==",
+      "rss_url": "http://localhost:5010/api/rss/MjM5OTIzMzYyMA==",
+      "fallback_rss_url": "http://localhost:5010/api/rss/all",
+      "focus": ["AI 工具站", "SEO", "GEO", "独立站", "流量"],
+      "status": "subscribed"
+    },
+    {
+      "id": "wechat-liangchenmei",
+      "tier": "S",
+      "name": "良辰美",
+      "platform": "wechat",
+      "fakeid": "MzAxMzg0MzMxNg==",
+      "rss_url": "http://localhost:5010/api/rss/MzAxMzg0MzMxNg==",
+      "fallback_rss_url": "http://localhost:5010/api/rss/all",
+      "focus": ["AI 产品", "AI 工具", "出海", "商业化案例"],
+      "status": "subscribed"
+    },
+    {
+      "id": "wechat-kuajing-fengxiangbiao",
+      "tier": "S",
+      "name": "跨境风向标",
+      "platform": "wechat",
+      "fakeid": "MzkwNjU3OTkzNg==",
+      "rss_url": "http://localhost:5010/api/rss/MzkwNjU3OTkzNg==",
+      "fallback_rss_url": "http://localhost:5010/api/rss/all",
+      "focus": ["跨境出海", "GEO", "AI 搜索", "谷歌 SEO", "广告投放", "流量增长", "独立站"],
+      "status": "subscribed"
+    }
+  ]
+}

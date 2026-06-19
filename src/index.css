@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Noto+Serif+SC:wght@500;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --bg-main: #f5f4ed;
+  --bg-panel: #faf9f5;
+  --text-primary: #141413;
+  --text-secondary: #5e5d59;
+  --text-muted: #87867f;
+  --border-light: #f0eee6;
+  --border-warm: #e8e6dc;
+  --brand-accent: #c96442;
+  --brand-accent-hover: #b05436;
+  --ring-shadow: 0 0 0 1px var(--border-warm);
+  --ring-hover: 0 0 0 1px var(--text-muted);
+  --whisper-shadow: rgba(20, 20, 19, 0.03) 0 4px 24px;
+  
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  color: var(--text-secondary);
+  background: var(--bg-main);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root.light-mode {
+  /* 亮色模式与默认Parchment完全一致 */
+}
+
+/* 真正的暗黑模式，遵循温润而非冷硬的色彩美学 */
+:root:not(.light-mode) {
+  --bg-main: #141413;
+  --bg-panel: #1c1c1a;
+  --text-primary: #f5f4ed;
+  --text-secondary: #b0aea5;
+  --text-muted: #87867f;
+  --border-light: #30302e;
+  --border-warm: #3d3d3a;
+  --brand-accent: #d97757;
+  --brand-accent-hover: #c96442;
+  --ring-shadow: 0 0 0 1px var(--border-light);
+  --ring-hover: 0 0 0 1px var(--border-warm);
+  --whisper-shadow: rgba(0, 0, 0, 0.2) 0 8px 32px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: var(--bg-main);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* 改进文字排版与印刷品级别阅读体验 */
+h1, h2, h3, h4, h5, h6 {
+  text-wrap: balance;
+  font-family: 'Georgia', 'Noto Serif SC', serif;
+  font-weight: 500; /* Claude学术风格严禁粗重字重 */
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+p, li, blockquote {
+  text-wrap: pretty;
+  line-height: 1.75;
+}
+
+/* 极简无阴影温润容器 */
+.parchment-panel {
+  background-color: var(--bg-panel);
+  border: 1px solid var(--border-light);
+  border-radius: 12px;
+  box-shadow: var(--whisper-shadow);
+  transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
+}
+
+.parchment-panel:hover {
+  border-color: var(--border-warm);
+  box-shadow: var(--ring-shadow);
+}
+
+/* 隐藏滚动条 */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}

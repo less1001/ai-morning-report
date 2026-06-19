@@ -1,0 +1,14 @@
+{
+  "title": "Built with Claude Code: pidgin.sh — let Claude share artifacts as URLs",
+  "source": "Reddit r/Claude_programming",
+  "source_type": "reddit",
+  "url": "https://www.reddit.com/r/ClaudeAI/comments/1tyqblc/built_with_claude_code_pidginsh_let_claude_share/",
+  "published_at": "2026-06-06T19:23:36.000Z",
+  "score": 41,
+  "tags": [
+    "Codex/AI编程",
+    "Claude",
+    "可做工具"
+  ],
+  "summary": "I kept running into the same friction with Claude Code: it'd generate something nice (an HTML mockup, a report, a plot, a one-pager) and then I'd have to manually save it, find somewhere to host it, and send a link. So I built pidgin.sh , a service plus an agent skill that lets Claude upload a file and hand back a public URL in one step. What it does You install the pidgin-share skill (npx skills add pidgin-sh/skills -g — works in Claude Code, Cursor, Codex, etc.). Ask Claude: \"share this file a"
+}

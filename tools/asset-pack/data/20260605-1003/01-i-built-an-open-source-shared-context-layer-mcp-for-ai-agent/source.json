@@ -1,0 +1,13 @@
+{
+  "title": "I built an open-source shared context layer (MCP) for AI agents. It's basically a self-updating brain for every company that fetches all the information out of connected SaaS tools and exposes it as MCP to agents.",
+  "source": "Reddit r/SideProject",
+  "source_type": "reddit",
+  "url": "https://www.reddit.com/r/SideProject/comments/1twzgc4/i_built_an_opensource_shared_context_layer_mcp/",
+  "published_at": "2026-06-04T20:25:20.000Z",
+  "score": 32,
+  "tags": [
+    "可做工具",
+    "可写内容"
+  ],
+  "summary": "I've been building holo solo for the past few weeks and wanted feedback from people who actually care about self-hostable infra. Where this came from At my day job we ran into this problem firsthand: we run multiple AI agents in production, each one re-implementing its own connectors, its own retriever, its own \"how do we handle X\" prompts. Same Linear, same GitHub, same Notion, three bespoke ingestion pipelines. We ended up building an internal version of a shared context layer to fix it with a"
+}

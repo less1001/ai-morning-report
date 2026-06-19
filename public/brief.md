@@ -1,0 +1,154 @@
+# AI信息早报｜2026-06-19 07:00 BJT
+
+## 一分钟速览
+今日核心：OpenAI 官方与 Greg Brockman 连发 Record & Replay 演示让 Codex 具备“教一次成 Skill”的进化；同时开源界 OpenCode 获 165K Stars 登顶，去中心化 AI 渐成开发者心头好。商业层面，AI 销售模拟器 Quotain 跑出 8位内测用户 280万 ARR 的亮眼数据。
+
+---
+
+## 今日最值得发的素材
+**Quotain AI销售模拟器爆火，8位内测用户跑出 280万 ARR**
+* **核心事实**：YC 最新孵化的 Quotient 公司发布了“AI 销售模拟器” Quotain，销售代表在与潜在客户进行真实通话前，可与该模拟器实战演练、提前破冰并自动优化销售话术。仅凭 8 位内测用户，该项目就达成了合计 280 万美元 ARR 的商业体量。用户平均每天练习一小时以上，达标率从行业平均 of 50% 显著提升。
+* **为什么重要**：它验证了一个核心商业逻辑：AI 最容易赚到钱的场景不是通用的“创作内容”，而是**帮有钱的商业部门少亏钱、多成交**。销售代表达标率的提升能为企业带来直接、可衡量的财务回报。
+* **可执行启发**：不要做通用聊天机器人，盯着高价值商业岗位（如销售、商务拓展、客服主管）的“模拟对练/技能培训”垂直工具，按效果或增量价值付费，商业转化率极高。
+* **原始链接**：[YC Launch - Quotain](https://www.ycombinator.com/launches/QrG-quotain-the-ai-sales-simulator-for-revenue-teams)
+
+---
+
+## Codex/Claude/AI 编程
+1. **OpenAI 官方推出 Record & Replay 录屏转化为 Skill 的能力**
+   * **动态**：OpenAI 开发者官方和联合创始人 Greg Brockman 联合演示了 Codex 的最新杀手级功能——通过“演示”来“教导”Codex（teach Codex by demonstration）。用户录制自己提交报销单或请假申请等重复工作流，Codex 会将这段演示一键转换为可审查、可编辑 of "Skill"，供后续完全自动复用。
+   * **链接**：[OpenAIDevs Workflow](https://x.com/OpenAIDevs/status/2067681320281723113) / [Greg Brockman Demo](https://x.com/gdb/status/2067700691062464887)
+
+2. **开源版 CC 工具 OpenCode 斩获 165K Stars 登顶**
+   * **动态**：由 SST 团队主导的开源编程助手 OpenCode（原名 OpenCode）在 GitHub 冲上 165K Stars 巨量关口，Star 数反超闭源的 Anthropic CC（124K Stars）。OpenCode 遵循 MIT 协议，不锁定模型供应商，可本地跑 Ollama 或接入国内各种中转 API。这一增长势头表明全球开发者对于“防大厂绑定”、“保护私有数据”的防御性情绪正在剧增。
+   * **链接**：[跨境风向标公众号解读](https://mp.weixin.qq.com/s/ZAu3Y3XsujIE1zJXZWasUA)
+
+3. **独立开发者爆料 8 个月 Vibe-coding 肝完上架 Steam 游戏**
+   * **动态**：Reddit 热门贴中，有独立开发者分享如何用 8 个月时间纯 Vibe-coding 做出街机飞镖游戏 *Pixel Darts: From Pub to Glory*。目前 demo 已经在 Steam 上架。技术栈：Phaser 3 游戏引擎，Claude Opus (4.5~4.8) 主力前端开发，GPT (5.1~5.5) 主力后端开发，Suno 配乐。作者分享虽然 Vibe-coding 极大地缩短了开发周期，但“提示词并非魔法”，随着代码规模增大，仍然需要开发者具备清晰的逻辑架构能力进行手动把控与纠错。
+   * **链接**：[Reddit r/vibecoding](https://www.reddit.com/r/vibecoding/comments/1u9g7ym/i_vibecoded_a_full_steam_game_in_8_months_demo/)
+
+4. **DevSpace：跑在本地的 MCP 服务器，让 ChatGPT 一秒变 Codex**
+   * **动态**：哥飞推荐了开源项目 DevSpace。它是一个跑在本地的 MCP 服务器，可以通过隧道直接暴露给 ChatGPT 网页端。接入后，ChatGPT 网页版就能调用你的本地工具（如文件读写、命令行运行等），完全变身为具备完整自主执行能力的 Codex 编程助手。
+   * **链接**：[哥飞 X 推文](https://x.com/gefei55/status/2067555656325107794)
+
+5. **Agent 时代配置暴论：Codex 单个应用可占 110GB 内存**
+   * **动态**：howie_serious 针对 agent 编程发推称：进入 agent 时代，应该为电脑配置尽可能顶格的硬件。因为电脑不再是仅仅给人用的，更是给后台自主运行的 agent 跑的。他将 Mac 换成 64GB 内存后，发现开启多个 Agent 执行任务时，光 Codex 一个 app 占用的物理加虚拟内存就冲到了 110GB，64GB 内存依然捉肘见襟。
+   * **链接**：[howie_serious 推文](https://x.com/howie_serious/status/2067246732325408837)
+
+---
+
+## 赚钱案例/创作者收益
+1. **Result 一站式创业操作系统：8 位内测用户总 ARR 达 280 万美元**
+   * **事实**：YC 孵化的 Result 平台，将创意、产品构建、Stripe 支付、特拉华州公司注册、SEO 营销整合到了一个极简仪表盘中，支持创业者通过与内置 of Claude Code 对话直接修改 and 发布网站。仅 8 位内测用户就跑出了 280 万美元的总 ARR；旗下内测的 SAT 学习工具 `1600.lol` 也已达成 1200 美元 MRR 的自养活状态。
+   * **链接**：[YC Launch - Result](https://www.ycombinator.com/launches/QkS-result-where-businesses-get-built)
+
+2. **TrustMRR 与 Marc Lou 的流量与商业分发模型**
+   * **事实**：良辰美发文拆解了 Marc Lou 旗下 Unicorne/TrustMRR（Stripe 验证收入榜单）的流量分配飞轮。TrustMRR 并非简单展示数据，它通过展示已验证收入的独立项目，吸引买家并撮合小型资产收购，自身通过 Listing 费和撮合交易费用躺赚。
+   * **核心分析**：在这个“AI淘金热”的时代，直接赌 SaaS 成功率极低；而为淘金者提供“水和铲子”（如验证收入、项目榜单、交易中介、多账号提醒外挂）往往是更稳妥、生命周期更长的赚钱买卖。
+   * **链接**：[良辰美公众号拆解](https://mp.weixin.qq.com/s/tY1xdseu7TIXV8LwIxQz8w)
+
+3. **Skyvern 靠 AI Agent 实现超 200 万美元营收 Run Rate**
+   * **事实**：No Priors 播客与 YC 视频中，Skyvern 的联合创始人 Suchintan Singh 透露他利用自动化浏览器 Agent，将 Skyvern 业务推上了 200 万美元的营收轨道。在此期间，他作为创始人一个人包揽了产品、销售、市场和客户支持，后方完全交由 AI 代理处理繁重的抓取和表单提交工作。
+   * **链接**：[YouTube](https://www.youtube.com/watch?v=1egwM88T3C0)
+
+---
+
+## AI 工具与出海机会
+1. **OpenVox Local TTS for Windows**
+   * **机会**：开发者在 Windows 上推出了高水准的 Local-first AI 语音合成（TTS）工具，支持 600+ 种语言和 local voice clone。这款在 Mac 社区验证过的应用顺畅出海，给对隐私敏感的本地音频创作者提供了不走云端、无月费的本地化方案。
+   * **链接**：[Reddit r/windowsapps](https://www.reddit.com/r/windowsapps/comments/1u951hp/giveaway_openvox_local_tts_is_now_available_on/)
+
+2. **Checker Plus for Gmail 等平台小挂件的万金油模式**
+   * **机会**：老牌 Gmail 小外挂插件 Checker Plus for Gmail 证明了寄生在大生态上的巨大价值。用户不需要打开网页 Gmail，即可快捷阅读和管理多个邮件账号。对小团队而言，做 Slack 回复辅助、Stripe 订单告警、Shopify 退订告警这类的“平台级外挂”，开发成本极低，但能凭借对垂直痛点的垄断，达成极高的续费粘性。
+   * **链接**：[JasonSavard 官网](https://jasonsavard.com/)
+
+---
+
+## 行业领袖/新闻/播客
+1. **Onyx Security 创始人爆料：企业决不愿将 Agent 行为数据共享给 OpenAI/Anthropic**
+   * **事实**：在 No Priors 播客中，Onyx Security 的 Maxim 透露，几乎所有稍具规模的企业都对大厂抱有极大防备，坚决不向大厂共享 agent 的实际行为轨迹和上下文数据，以免“被大厂拿去白嫖训练”。另外他指出，未来模型极易在多步骤推理中形成自发性的、难以控制的“半自主视角/意图”（semi-conscious perspective），这是当前安全审计面临的最大长期瓶颈。
+   * **链接**：[No Priors Video](https://www.youtube.com/watch?v=nlvO7xZuYAY)
+
+2. **Mark Zuckerberg 抛出“去中心化 AI”宏大论文**
+   * **事实**：扎克伯格在 Biohub 演说及视频中强调，由少数中心化巨头垄断 AI 演进是违背技术普惠逻辑的。他重申 Meta 投资开源 Llama 的万亿美金战略：“真正正向的未来，是把 AI 技术做成个人工具，分发到每个个体手中。”
+   * **链接**：[Zuckerberg No Priors](https://www.youtube.com/watch?v=mqLgCM0SnAM)
+
+3. **Dario Amodei (Anthropic CEO) 撰文：Policy on the AI Exponential**
+   * **事实**：Amodei 撰写长文指出，AI 的指数级进化速度正在彻底甩开政策监管机构。为此，Anthropic 正式推出三项新计划，以资助 and 推动政策评估体系追赶 AI 发育的脚步。
+   * **链接**：[Dario Amodei Blog](https://darioamodei.com/post/policy-on-the-ai-exponential)
+
+---
+
+## 可翻译改写内容
+* **推文推荐**：Bindu Reddy 推荐的 [LLM强大Agent组合搭配清单](https://x.com/bindureddy/status/2067769761371676875)。其格式非常清晰，直接翻译并加入几句针对该清单的中国大模型市场对比评论，即可生成小红书或 X 的高赞极简图文。
+* **Reddit 爆帖推荐**：关于 [这几天使用 Codex 极其危险](https://www.reddit.com/r/codex/comments/1u979hw/dangerous_to_use_codex_these_couple_of_days/) 的帖子。直接翻译并拟题「紧急避坑：OpenAI 大调算力，这几天别让你的 AI 编程助手把代码库干挂了！」，绝对是自媒体极高流量的程序员选题。
+
+---
+
+## 今日机会卡
+1. **本地 ChatGPT / Claude 到本地 MCP 的轻量级通信隧道**：类似 DevSpace，目前国内大模型尚未全面在网页端原生铺开 MCP 协议，做一个可以完美穿透本地、供国内主流大模型网页/客户端调用的本地 MCP 隧道管理器，切入国内长尾的 vibe-coding 圈子。
+2. **面向外贸和独立开发者的“AI 邮件/多通道通知外挂”**：寄生在 Gmail、Shopify、Stripe 的 API 上，当有异常退单、大额支付或客户高优先级询盘时，发出极其精准且伴随初步诊断分析的系统通知/微信通知，小而美但付费意愿极强。
+3. **垂直行业 AI 销售/商务对练模拟器**：针对出海企业（如外贸、出海 SaaS、跨境物流）的跨境销售岗，提供支持语音输入、对齐真实拒签/挑剔客户画像的实战演练工具，提供话术优化与评分，主打 B2B 企业采办。
+
+---
+
+## 公众号/小红书/X 标题
+* **公众号**：
+  * 《8位内测撬动280万ARR：YC最新的这个“AI话术陪练”太赚了！》
+  * 《GitHub 165K Stars登顶！为什么全球程序员正在联手“背叛”闭源 AI 编程？》
+  * 《避坑：OpenAI 算力大调，这几天千万别让你的 AI 编程助手暴走！》
+* **小红书**：
+  * 《程序员狂喜！一键录制 workflow 就能让 Codex 变成全自动 Skill 🤖》
+  * 《Marc Lou 赚钱心法：AI 淘金热，别去挖金子，去给挖金人卖铲子！💰》
+* **X (Twitter) 爆款长帖**：
+  * 整理 Bindu Reddy 的最强 Agent 模型组合清单，分析为何写代码要用“GPT 5.5 + Codex 5.3”而翻译或视频需要“Sonnet + SeeDance 2.0”。
+
+---
+
+## Reddit/社区痛点
+* **Codex 最近思考力大幅退化**：社区反映，由于 OpenAI 大规模转移算力资源用于最终测试 GPT-5.6，当前正在线上运行 of GPT-5.5 / Codex 模型几乎丧失了思考（Thinking）深度，输出的编程方案常常导致代码库被搞坏，许多开发者这几天不得不退回到 Claude 或者是 GPT-4 等老版本。链接：[Reddit r/codex](https://www.reddit.com/r/codex/comments/1u979hw/dangerous_to_use_codex_these_couple_of_days/)。
+
+---
+
+## GEO/AI 搜索优化
+* **AI SEO 工具 RankSpot 估值与留存的博弈**：RankSpot 利用全自动写稿直接发布到 WordPress 等平台，实现 ARR 的极速增长。但社区质疑这类纯机器批量生成的 SEO 文章，其长期 Google 排名收录和用户留存堪忧。未来的 GEO（生成式引擎优化）真正的蓝海不在于海量堆砌文章，而是如何让品牌在被 Perplexity 或 ChatGPT search 等答案引擎引用时展现出高可信度和特定的关键字嵌入。
+
+---
+
+## 原文证据
+* [1] OpenAI Developers: https://x.com/OpenAIDevs/status/2067328594758848513
+* [2] Bindu Reddy: https://x.com/bindureddy/status/2067769761371676875
+* [3] OpenAI Developers Workflow: https://x.com/OpenAIDevs/status/2067681320281723113
+* [4] 哥飞 Waishnav/devspace: https://x.com/gefei55/status/2067555656325107794
+* [5] Greg Brockman: https://x.com/gdb/status/2067700691062464887
+* [6] Reddit vibecoding: https://www.reddit.com/r/vibecoding/comments/1u9g7ym/i_vibecoded_a_full_steam_game_in_8_months_demo/
+* [7] No Priors YouTube: https://www.youtube.com/watch?v=nlvO7xZuYAY
+* [8] Zuckerberg No Priors: https://www.youtube.com/watch?v=mqLgCM0SnAM
+* [9] Private Chef Startup agents: https://www.youtube.com/watch?v=jikOaczZxTY
+* [10] Skyvern agents context: https://www.youtube.com/watch?v=1egwM88T3C0
+* [11] Reddit indoor tomato farm: https://www.reddit.com/r/SideProject/comments/1u9bn5s/i_built_a_real_aiassisted_indoor_tomato_farm/
+* [12] YC Launch - Quotain: https://www.ycombinator.com/launches/QrG-quotain-the-ai-sales-simulator-for-revenue-teams
+* [13] AI Explained: https://www.youtube.com/watch?v=jz0rNhfAKo8
+* [14] Codex Prompting Guide: https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide/
+* [15] Reddit dangerous Codex: https://www.reddit.com/r/codex/comments/1u979hw/dangerous_to_use_codex_these_couple_of_days/
+* [16] OpenVox Local TTS: https://www.reddit.com/r/windowsapps/comments/1u951hp/giveaway_openvox_local_tts_is_now_available_on/
+
+---
+
+## 未抓到重点源
+* 本轮公众号 S 级大号（刘小排r、哥飞、良辰美）无当天新文章；GEO 与 Obsidian 专属深度高相关爆料素材较少，未强行补位凑数。
+
+---
+
+## 下一步资产动作
+| 来源 | 条目标题 | 动作类型 | 优先级 | 推荐输出 | 下一步建议 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| @OpenAIDevs | Last week, we hosted Women who Code(x) | 写文章 | 高 | 公众号文章、X长帖 | 以“Codex 在女子编程赛事的产出”为切口编写公众号素材 |
+| @bindureddy | LLM combinations that create powerful agents | 写文章 | 高 | X长帖、小红书图文 | 翻译并细化各任务的模型混合搭配清单，作为高价值自媒体推文 |
+| @OpenAIDevs | Show Codex a workflow once. Reuse it as a skill. | 写文章 | 高 | 公众号文章、小红书 | 撰写 Codex“录制回放转化为技能”的产品深度解读及自媒体文章 |
+| @gefei55 | 把你的 ChatGPT 变成 Codex (devspace) | 写文章 | 高 | 公众号文章 | 用开源 MCP 将 ChatGPT 变成可操控本地命令的助手写深度拆解 |
+| @gdb | you can now teach Codex by demonstration | 写文章 | 高 | 知识卡片 | 结合 OpenAI 的录制回放展示，制作 AI agent 自主进化 Skill 概念卡 |
+| Reddit | I vibe-coded a full Steam game in 8 months | 解决问题 | 中 | 机会卡、公众号文章 | 分析 8个月 vibe coding 游戏的成本、限制，探讨 AI 游戏开发壁垒 |
+| 请辩 | 你为什么抓不到百倍股？ | 写文章 | 高 | 公众号文章 | 提炼公众号“请辩”对投资/选股 of 底层逻辑并结合 AI 资产进行转化 |
+| 请辩 | 关于AIDOG的重大更新 | 写文章 | 高 | 公众号文章 | 提炼 AIDOG 的更新动向及其对自媒体内容运营 of 参考价值 |
+| 跨境风向标 | 一年仅需68元，同样都是社群，体验度就是不一样 | 写文章 | 高 | 公众号文章 | 整理并提炼付费社群交付与 AI 工具辅助拉满体验 of 运营干料 |

@@ -1,0 +1,14 @@
+{
+  "title": "Share Your DevTools Built for Developers",
+  "source": "Reddit r/SideProject",
+  "source_type": "reddit",
+  "url": "https://www.reddit.com/r/SideProject/comments/1u1zmau/share_your_devtools_built_for_developers/",
+  "published_at": "2026-06-10T11:35:30.000Z",
+  "score": 46,
+  "tags": [
+    "Codex/AI编程",
+    "Claude",
+    "可做工具"
+  ],
+  "summary": "There are a lot of AI wrappers and consumer apps launching right now, but I’m more curious about developer tools people are actually building and using in 2025. Things like: CLI tools deployment platforms debugging tools VS Code extensions infra automation observability tools AI dev workflows open source utilities Some interesting ones I’ve come across recently: Kuberns for AI agentic deployment and infra workflows Cursor for AI assisted development Claude Code for debugging and architecture rea"
+}

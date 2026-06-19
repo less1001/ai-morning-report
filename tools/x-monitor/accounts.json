@@ -1,0 +1,23 @@
+[
+  { "handle": "OpenAIDevs", "name": "OpenAI Developers", "tier": "S", "focus": "OpenAI API, Codex, agents, developer launches" },
+  { "handle": "OpenAI", "name": "OpenAI", "tier": "S", "focus": "OpenAI product launches, Codex, ChatGPT, agents" },
+  { "handle": "AnthropicAI", "name": "Anthropic", "tier": "S", "focus": "Claude, Claude Code, Anthropic launches and research" },
+  { "handle": "claudeai", "name": "Claude", "tier": "S", "focus": "Claude app, Claude Code, Claude workflows" },
+  { "handle": "obsdmd", "name": "Obsidian", "tier": "A", "focus": "Obsidian, PKM, knowledge management workflows" },
+  { "handle": "sama", "name": "Sam Altman", "tier": "S", "focus": "OpenAI, product direction, high-visibility AI commentary" },
+  { "handle": "karpathy", "name": "Andrej Karpathy", "tier": "S", "focus": "AI coding, education, agents, high-visibility technical posts" },
+  { "handle": "swyx", "name": "swyx", "tier": "A", "focus": "AI engineering, agents, developer tools, viral AI threads" },
+  { "handle": "levelsio", "name": "Pieter Levels", "tier": "A", "focus": "AI apps, indie hacking, viral builder content" },
+  { "handle": "AravSrinivas", "name": "Aravind Srinivas", "tier": "A", "focus": "Perplexity, AI search, founder commentary" },
+  { "handle": "emollick", "name": "Ethan Mollick", "tier": "A", "focus": "AI use cases, education, knowledge work" },
+  { "handle": "bindureddy", "name": "Bindu Reddy", "tier": "A", "focus": "AI industry commentary, model launches, founder takes" },
+  { "handle": "gdb", "name": "Greg Brockman", "tier": "A", "focus": "OpenAI, developer products, technical demos" },
+  { "handle": "coolish", "name": "Paulwei", "tier": "S", "focus": "AI/crypto/product thinking" },
+  { "handle": "gefei55", "name": "哥飞", "tier": "S", "focus": "AI tools, SEO, indie sites" },
+  { "handle": "BTCdayu", "name": "宇十一", "tier": "A", "focus": "crypto, macro, builder cases" },
+  { "handle": "bitfool1", "name": "比特傻", "tier": "A", "focus": "crypto, investment thinking" },
+  { "handle": "Svwang1", "name": "硅谷王川", "tier": "A", "focus": "AI, tech, business, investing" },
+  { "handle": "11dizhu", "name": "十一地主", "tier": "A", "focus": "AI, product, independent creation" },
+  { "handle": "Super4DeFi", "name": "benmo.eth", "tier": "A", "focus": "AI, DeFi, crypto tools" },
+  { "handle": "howie_serious", "name": "Howie", "tier": "A", "focus": "AI, product, growth" }
+]

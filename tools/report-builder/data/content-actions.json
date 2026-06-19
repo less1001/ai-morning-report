@@ -1,0 +1,343 @@
+{
+  "generated_at": "2026-06-19T10:29:49.360Z",
+  "mode": "preview",
+  "source_status": {
+    "wechat": "75 条",
+    "x": "156 条",
+    "product_hunt": "14 条",
+    "reddit": "16 条",
+    "one_ms_yc": "17 条",
+    "one_ms_hn": "1 条",
+    "news": "10 条",
+    "podcast": "10 条",
+    "youtube": "56 条"
+  },
+  "content_actions": [
+    {
+      "id": "2067246732325408837",
+      "source_type": "x",
+      "source": "@howie_serious",
+      "title": "howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。",
+      "asset_title": "Codex 素材雷达：这条新闻/帖子可以怎么改成中文爆款内容",
+      "url": "https://x.com/howie_serious/status/2067246732325408837",
+      "published_at": "2026-06-17T14:03:23.000Z",
+      "score": 25,
+      "tags": [
+        "Codex/AI编程",
+        "可做工具"
+      ],
+      "priority": "高",
+      "action_type": "写文章",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "公众号文章",
+        "X 长帖",
+        "小红书图文卡片"
+      ],
+      "next_step": "用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "2066969542010806561",
+      "source_type": "x",
+      "source": "@AnthropicAI",
+      "title": "Anthropic @AnthropicAI · 6月17日 These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'",
+      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
+      "url": "https://x.com/AnthropicAI/status/2066969542010806561",
+      "published_at": "2026-06-16T19:41:55.000Z",
+      "score": 25,
+      "tags": [
+        "Claude",
+        "可做工具"
+      ],
+      "priority": "低",
+      "action_type": "产品验证",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "机会卡",
+        "验证问卷",
+        "MVP 需求文档",
+        "公众号文章",
+        "X 长帖",
+        "小红书图文卡片"
+      ],
+      "next_step": "生成一页机会卡，明确目标用户、输入输出、收费方式和 48 小时验证动作。",
+      "skill_chain": [
+        "ljg-rank",
+        "ljg-card",
+        "ljg-writes"
+      ]
+    },
+    {
+      "id": "2065057393927467084",
+      "source_type": "x",
+      "source": "@AnthropicAI",
+      "title": "Anthropic @AnthropicAI · 6月11日 We’re launching Claude Corps, a national fellowship program matching people early in their careers with US no",
+      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
+      "url": "https://x.com/AnthropicAI/status/2065057393927467084",
+      "published_at": "2026-06-11T13:03:44.000Z",
+      "score": 25,
+      "tags": [
+        "Claude"
+      ],
+      "priority": "低",
+      "action_type": "做卡片",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "公众号文章",
+        "X 长帖",
+        "小红书图文卡片",
+        "知识卡片"
+      ],
+      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "2064783418844762489",
+      "source_type": "x",
+      "source": "@AnthropicAI",
+      "title": "Anthropic @AnthropicAI · 6月11日 AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is b",
+      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
+      "url": "https://x.com/AnthropicAI/status/2064783418844762489",
+      "published_at": "2026-06-10T18:55:03.000Z",
+      "score": 23,
+      "tags": [
+        "Claude"
+      ],
+      "priority": "低",
+      "action_type": "做卡片",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "知识卡片"
+      ],
+      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "2067651700757086553",
+      "source_type": "x",
+      "source": "@AnthropicAI",
+      "title": "Anthropic @AnthropicAI · 8小时 Watch the robodogs in action in our first Project Fetch experiment:",
+      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
+      "url": "https://x.com/AnthropicAI/status/2067651700757086553",
+      "published_at": "2026-06-18T16:52:35.000Z",
+      "score": 22,
+      "tags": [
+        "Claude"
+      ],
+      "priority": "低",
+      "action_type": "做卡片",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "知识卡片"
+      ],
+      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "2064741184547795408",
+      "source_type": "x",
+      "source": "@claudeai",
+      "title": "Claude @claudeai · 6月11日 Scheduled deployments and environment variables in vaults are available today on the Claude Platform.",
+      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
+      "url": "https://x.com/claudeai/status/2064741184547795408",
+      "published_at": "2026-06-10T16:07:14.000Z",
+      "score": 22,
+      "tags": [
+        "Claude",
+        "可做工具"
+      ],
+      "priority": "低",
+      "action_type": "产品验证",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "机会卡",
+        "验证问卷",
+        "MVP 需求文档"
+      ],
+      "next_step": "生成一页机会卡，明确目标用户、输入输出、收费方式和 48 小时验证动作。",
+      "skill_chain": [
+        "ljg-rank",
+        "ljg-card",
+        "ljg-writes"
+      ]
+    },
+    {
+      "id": "https://mp.weixin.qq.com/s/Z4Bd77SVP8vlqXgOaQS52w",
+      "source_type": "wechat",
+      "source": "刘小排r",
+      "title": "在海边工作的真实感受",
+      "asset_title": "高传播素材拆解：为什么这条内容值得翻译/改写/发公众号",
+      "url": "https://mp.weixin.qq.com/s/Z4Bd77SVP8vlqXgOaQS52w",
+      "published_at": "2026-05-25T03:59:28.000Z",
+      "score": 13,
+      "tags": [
+        "自媒体素材"
+      ],
+      "priority": "高",
+      "action_type": "写文章",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "公众号文章",
+        "X 长帖",
+        "小红书图文卡片"
+      ],
+      "next_step": "用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "https://mp.weixin.qq.com/s/Yk-nSSn1rV5NoIapVzlQfg",
+      "source_type": "wechat",
+      "source": "请辩",
+      "title": "人类社会是一个大型的偏见游戏",
+      "asset_title": "人类社会是一个大型的偏见游戏",
+      "url": "https://mp.weixin.qq.com/s/Yk-nSSn1rV5NoIapVzlQfg",
+      "published_at": "2026-05-21T05:20:19.000Z",
+      "score": 12,
+      "tags": [
+        "自媒体素材"
+      ],
+      "priority": "高",
+      "action_type": "做卡片",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "知识卡片"
+      ],
+      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "https://mp.weixin.qq.com/s/sh_E_786J6kQ9kRFiaXxBQ",
+      "source_type": "wechat",
+      "source": "哥飞",
+      "title": "阿彪说要做可以吹牛的创新业务",
+      "asset_title": "高传播素材拆解：为什么这条内容值得翻译/改写/发公众号",
+      "url": "https://mp.weixin.qq.com/s/sh_E_786J6kQ9kRFiaXxBQ",
+      "published_at": "2026-04-08T00:26:30.000Z",
+      "score": 11,
+      "tags": [
+        "自媒体素材"
+      ],
+      "priority": "高",
+      "action_type": "写文章",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "公众号文章",
+        "X 长帖",
+        "小红书图文卡片"
+      ],
+      "next_step": "用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "https://mp.weixin.qq.com/s/A4CK0TX8xTszL3EYRq2sSA",
+      "source_type": "wechat",
+      "source": "雕爷",
+      "title": "万字实录 | 对谈雕爷：我从来都不会做营销",
+      "asset_title": "万字实录 | 对谈雕爷：我从来都不会做营销",
+      "url": "https://mp.weixin.qq.com/s/A4CK0TX8xTszL3EYRq2sSA",
+      "published_at": "2024-04-02T05:52:18.000Z",
+      "score": 10,
+      "tags": [
+        "自媒体素材"
+      ],
+      "priority": "高",
+      "action_type": "做卡片",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "知识卡片"
+      ],
+      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "https://www.ycombinator.com/launches/Qtg-no-logo-turn-any-idea-into-a-real-manufactured-product",
+      "source_type": "one_ms_yc",
+      "source": "1ms.news YC Launch",
+      "title": "No Logo：将任何创意转化为真实制造的产品",
+      "asset_title": "No Logo：将任何创意转化为真实制造的产品",
+      "url": "https://www.ycombinator.com/launches/Qtg-no-logo-turn-any-idea-into-a-real-manufactured-product",
+      "published_at": "2026-06-17T22:59:00.000Z",
+      "score": 20,
+      "tags": [
+        "只观察"
+      ],
+      "priority": "低",
+      "action_type": "做卡片",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "知识卡片"
+      ],
+      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "https://platform.openai.com/docs/guides/realtime-models-prompting",
+      "source_type": "news",
+      "source": "OpenAI Developers",
+      "title": "Realtime prompting guide",
+      "asset_title": "Realtime prompting guide",
+      "url": "https://platform.openai.com/docs/guides/realtime-models-prompting",
+      "published_at": "2026-05-05T00:00:00.000Z",
+      "score": 20,
+      "tags": [
+        "新闻",
+        "可做工具",
+        "可写内容"
+      ],
+      "priority": "中",
+      "action_type": "产品验证",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "机会卡",
+        "验证问卷",
+        "MVP 需求文档",
+        "公众号文章",
+        "X 长帖",
+        "小红书图文卡片"
+      ],
+      "next_step": "生成一页机会卡，明确目标用户、输入输出、收费方式和 48 小时验证动作。",
+      "skill_chain": [
+        "ljg-rank",
+        "ljg-card",
+        "ljg-writes"
+      ]
+    }
+  ]
+}
