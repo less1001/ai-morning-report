@@ -312,7 +312,7 @@ export default function ReaderView({ onBackToConsole }: ReaderViewProps) {
                   </div>
                   <div className="planet-qrcode-wrapper">
                     <img 
-                      src="/images/planet_qrcode.png" 
+                      src="/images/planet_qrcode.jpg"
                       alt="知识星球二维码" 
                       className="planet-qrcode-img"
                     />
