@@ -1,4 +1,3 @@
-import type React from 'react'
 import { useEffect, useState } from 'react'
 import { marked } from 'marked'
 
@@ -19,8 +18,7 @@ export default function ReaderView({ onBackToConsole }: ReaderViewProps) {
   const [briefRawMd, setBriefRawMd] = useState<string>('')
   const [sections, setSections] = useState<SidebarCategory[]>([])
   const [loading, setLoading] = useState(true)
-  const [email, setEmail] = useState('')
-  const [subscribed, setSubscribed] = useState(false)
+
   const [copied, setCopied] = useState(false)
   const [activeSection, setActiveSection] = useState<string>('')
   const [scrollProgress, setScrollProgress] = useState(0)
@@ -183,15 +181,7 @@ export default function ReaderView({ onBackToConsole }: ReaderViewProps) {
     }
   }
 
-  const handleSubscribe = (e: React.FormEvent) => {
-    e.preventDefault()
-    if (!email) return
-    setSubscribed(true)
-    setTimeout(() => {
-      setSubscribed(false)
-      setEmail('')
-    }, 3000)
-  }
+
 
   const scrollToSection = (originalTitle: string) => {
     const cleanId = originalTitle.replace(/[^\w\u4e00-\u9fa5]/g, '-')
