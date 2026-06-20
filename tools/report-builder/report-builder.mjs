@@ -672,11 +672,15 @@ async function main() {
   const mdContent = markdown(all, fresh, editorial, sourceStatus, contentActions)
   await fs.writeFile(markdownPath, mdContent)
 
-  const dateObj = new Date()
-  const yyyy = dateObj.getFullYear()
-  const mm = String(dateObj.getMonth() + 1).padStart(2, '0')
-  const dd = String(dateObj.getDate()).padStart(2, '0')
+  const formatter = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  })
+  const [{ value: mm }, , { value: dd }, , { value: yyyy }] = formatter.formatToParts(new Date())
   const dateStr = `${yyyy}-${mm}-${dd}`
+
 
   const archiveDir = path.join(projectRoot, 'public/archive')
   await fs.mkdir(archiveDir, { recursive: true })

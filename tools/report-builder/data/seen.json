@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T01:09:09.545Z",
+  "updated_at": "2026-06-20T01:25:01.469Z",
   "items": {
     "reddit:https://www.reddit.com/r/AI_Agents/comments/1tuigqc/nvidias_new_pcs_for_agentic_ai_power_users_are/": {
       "first_seen_at": "2026-06-02T12:05:41.186Z",
@@ -1673,6 +1673,146 @@
       "title": "Realtime prompting guide",
       "url": "https://platform.openai.com/docs/guides/realtime-models-prompting",
       "source_type": "news"
+    },
+    "x:https://x.com/AnthropicAI/status/2065057393927467084": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "Anthropic @AnthropicAI · 6月11日 We’re launching Claude Corps, a national fellowship program matching people early in their careers with US no",
+      "url": "https://x.com/AnthropicAI/status/2065057393927467084",
+      "source_type": "x"
+    },
+    "x:https://x.com/AnthropicAI/status/2067651699486200091": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "Anthropic @AnthropicAI · 6月19日 New Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog.",
+      "url": "https://x.com/AnthropicAI/status/2067651699486200091",
+      "source_type": "x"
+    },
+    "x:https://x.com/OpenAIDevs/status/2066916479438930166": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "OpenAI Developers @OpenAIDevs · 6月17日 More of Codex is rolling out across Europe this week.",
+      "url": "https://x.com/OpenAIDevs/status/2066916479438930166",
+      "source_type": "x"
+    },
+    "x:https://x.com/OpenAIDevs/status/2067681321695191545": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "OpenAI Developers @OpenAIDevs · 6月19日 Record & Replay is an optional feature rolling out to select markets, with broader availability to com",
+      "url": "https://x.com/OpenAIDevs/status/2067681321695191545",
+      "source_type": "x"
+    },
+    "x:https://x.com/AnthropicAI/status/2064783418844762489": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "Anthropic @AnthropicAI · 6月11日 AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is b",
+      "url": "https://x.com/AnthropicAI/status/2064783418844762489",
+      "source_type": "x"
+    },
+    "x:https://x.com/swyx/status/2068084391260426345": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "swyx @swyx · 3小时 Anthropic is going to IPO at $2T",
+      "url": "https://x.com/swyx/status/2068084391260426345",
+      "source_type": "x"
+    },
+    "reddit:https://www.reddit.com/r/ClaudeCode/comments/1uab0qe/are_the_glm_52_glazers_all_chinese_bots/": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "Are the GLM 5.2 glazers all Chinese bots?",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1uab0qe/are_the_glm_52_glazers_all_chinese_bots/",
+      "source_type": "reddit"
+    },
+    "reddit:https://www.reddit.com/r/LocalLLaMA/comments/1u9w6my/researchers_trained_a_deep_research_agent_with_32/": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "Researchers trained a Deep Research agent with 32 H100s and open-sourced everything",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9w6my/researchers_trained_a_deep_research_agent_with_32/",
+      "source_type": "reddit"
+    },
+    "reddit:https://www.reddit.com/r/SaaS/comments/1u9ug96/my_saas_has_99_problems_and_distribution_is_all/": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "My SaaS has 99 problems and distribution is all of them.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1u9ug96/my_saas_has_99_problems_and_distribution_is_all/",
+      "source_type": "reddit"
+    },
+    "reddit:https://www.reddit.com/r/aipartners/comments/1u9qjdw/the_modern_day_companion_ai_issue/": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "The Modern Day Companion AI Issue",
+      "url": "https://www.reddit.com/r/aipartners/comments/1u9qjdw/the_modern_day_companion_ai_issue/",
+      "source_type": "reddit"
+    },
+    "one_ms_yc:https://www.ycombinator.com/launches/Qtg-no-logo-turn-any-idea-into-a-real-manufactured-product": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "No Logo：将任何创意转化为真实制造的产品",
+      "url": "https://www.ycombinator.com/launches/Qtg-no-logo-turn-any-idea-into-a-real-manufactured-product",
+      "source_type": "one_ms_yc"
+    },
+    "one_ms_hn:https://aiclambake.com/clamtakes/linear-a/": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "业余爱好者声称破解线性文字A，120年未解之谜或将告破",
+      "url": "https://aiclambake.com/clamtakes/linear-a/",
+      "source_type": "one_ms_hn"
+    },
+    "youtube:https://www.youtube.com/watch?v=Qj71N0tBzRo": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "source_type": "youtube"
+    },
+    "youtube:https://www.youtube.com/watch?v=haK1KoQWm18": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "Claude Fable 5 - Full 319 page Breakdown",
+      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "source_type": "youtube"
+    },
+    "youtube:https://www.youtube.com/watch?v=aJvP3nXWkwM": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "source_type": "youtube"
+    },
+    "wechat:https://mp.weixin.qq.com/s/Vr0IrgxdngsuA5IjSTbWVw": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "从23个平台域名7万个子域名列表里面找新增站的爆炸性需求",
+      "url": "https://mp.weixin.qq.com/s/Vr0IrgxdngsuA5IjSTbWVw",
+      "source_type": "wechat"
+    },
+    "reddit:https://www.reddit.com/r/tanzania/comments/1u9xslt/i_built_5_side_projects_this_year_the_most_boring/": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "I Built 5 Side Projects This Year. The Most Boring One Makes the Most Money",
+      "url": "https://www.reddit.com/r/tanzania/comments/1u9xslt/i_built_5_side_projects_this_year_the_most_boring/",
+      "source_type": "reddit"
+    },
+    "wechat:https://mp.weixin.qq.com/s/5ehSVr_2nP7Ff6gbmhW8Mg": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "Opus 4.8编程能力不如GPT-5.5",
+      "url": "https://mp.weixin.qq.com/s/5ehSVr_2nP7Ff6gbmhW8Mg",
+      "source_type": "wechat"
+    },
+    "news:https://developers.openai.com/learn/developers-codex-plugin/": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "OpenAI Developers plugin for Codex",
+      "url": "https://developers.openai.com/learn/developers-codex-plugin/",
+      "source_type": "news"
+    },
+    "product_hunt:https://www.producthunt.com/products/narration-room": {
+      "first_seen_at": "2026-06-20T01:25:01.469Z",
+      "last_seen_at": "2026-06-20T01:25:01.469Z",
+      "title": "Narration Room Turn source text into editable multi-voice scripts",
+      "url": "https://www.producthunt.com/products/narration-room",
+      "source_type": "product_hunt"
     }
   }
 }

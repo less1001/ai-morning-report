@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T01:09:09.536Z",
+  "generated_at": "2026-06-20T01:25:01.434Z",
   "mode": "commit",
   "source_status": {
     "wechat": "75 条",
     "x": "157 条",
     "product_hunt": "15 条",
-    "reddit": "21 条",
+    "reddit": "20 条",
     "one_ms_yc": "17 条",
     "one_ms_hn": "2 条",
     "news": "10 条",
@@ -14,87 +14,27 @@
   },
   "content_actions": [
     {
-      "id": "https://www.reddit.com/r/ClaudeAI/comments/1ua6sfe/lowskilled_attacker_used_claude_code_and_codex_to/",
-      "source_type": "reddit",
-      "source": "Reddit r/Codex_programming",
-      "title": "Low-skilled attacker used Claude Code and Codex to breach 14 companies",
-      "asset_title": "Codex 素材雷达：这条新闻/帖子可以怎么改成中文爆款内容",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ua6sfe/lowskilled_attacker_used_claude_code_and_codex_to/",
-      "published_at": "2026-06-19T16:35:20.000Z",
-      "score": 51,
-      "tags": [
-        "Codex/AI编程",
-        "Claude",
-        "可做工具",
-        "可写内容"
-      ],
-      "priority": "高",
-      "action_type": "写文章",
-      "recommended_outputs": [
-        "Obsidian 笔记",
-        "公众号文章",
-        "X 长帖",
-        "小红书图文卡片"
-      ],
-      "next_step": "用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。",
-      "skill_chain": [
-        "ljg-read",
-        "ljg-writes",
-        "ljg-card"
-      ]
-    },
-    {
-      "id": "https://www.youtube.com/watch?v=3Amlu4y94Ho",
-      "source_type": "youtube",
-      "source": "YouTube All-In Podcast",
-      "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
-      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
-      "url": "https://www.youtube.com/watch?v=3Amlu4y94Ho",
-      "published_at": "2026-06-19T22:22:20.000Z",
-      "score": 32,
-      "tags": [
-        "Codex/AI编程",
-        "Claude",
-        "YouTube"
-      ],
-      "priority": "高",
-      "action_type": "写文章",
-      "recommended_outputs": [
-        "Obsidian 笔记",
-        "公众号文章",
-        "X 长帖",
-        "小红书图文卡片"
-      ],
-      "next_step": "用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。",
-      "skill_chain": [
-        "ljg-read",
-        "ljg-writes",
-        "ljg-card"
-      ]
-    },
-    {
-      "id": "2067839690158268923",
+      "id": "2065057393927467084",
       "source_type": "x",
-      "source": "@emollick",
-      "title": "Ethan Mollick @emollick · 19小时 Some (early) evidence that managers have the highest success rate in using Claude Code for coding.",
+      "source": "@AnthropicAI",
+      "title": "Anthropic @AnthropicAI · 6月11日 We’re launching Claude Corps, a national fellowship program matching people early in their careers with US no",
       "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
-      "url": "https://x.com/emollick/status/2067839690158268923",
-      "published_at": "2026-06-19T05:19:35.000Z",
-      "score": 29,
+      "url": "https://x.com/AnthropicAI/status/2065057393927467084",
+      "published_at": "2026-06-11T13:03:44.000Z",
+      "score": 25,
       "tags": [
-        "Codex/AI编程",
-        "Claude",
-        "可做工具"
+        "Claude"
       ],
-      "priority": "高",
-      "action_type": "写文章",
+      "priority": "低",
+      "action_type": "做卡片",
       "recommended_outputs": [
         "Obsidian 笔记",
         "公众号文章",
         "X 长帖",
-        "小红书图文卡片"
+        "小红书图文卡片",
+        "知识卡片"
       ],
-      "next_step": "用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。",
+      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
       "skill_chain": [
         "ljg-read",
         "ljg-writes",
@@ -102,14 +42,41 @@
       ]
     },
     {
-      "id": "https://www.reddit.com/r/opencode/comments/1u9sy7v/sorry_but_glm_52_is_not_vibing_for_me/",
-      "source_type": "reddit",
-      "source": "Reddit r/Codex_programming",
-      "title": "Sorry, but GLM 5.2 is not vibing for me.",
+      "id": "2067651699486200091",
+      "source_type": "x",
+      "source": "@AnthropicAI",
+      "title": "Anthropic @AnthropicAI · 6月19日 New Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog.",
+      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
+      "url": "https://x.com/AnthropicAI/status/2067651699486200091",
+      "published_at": "2026-06-18T16:52:34.000Z",
+      "score": 24,
+      "tags": [
+        "Claude"
+      ],
+      "priority": "低",
+      "action_type": "解决问题",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "机会卡",
+        "验证问卷",
+        "MVP 需求文档"
+      ],
+      "next_step": "抽取用户原话和失败场景，写成问题定义，再列 10 个潜在用户访谈问题。",
+      "skill_chain": [
+        "ljg-rank",
+        "ljg-card",
+        "ljg-writes"
+      ]
+    },
+    {
+      "id": "2066916479438930166",
+      "source_type": "x",
+      "source": "@OpenAIDevs",
+      "title": "OpenAI Developers @OpenAIDevs · 6月17日 More of Codex is rolling out across Europe this week.",
       "asset_title": "Codex 素材雷达：这条新闻/帖子可以怎么改成中文爆款内容",
-      "url": "https://www.reddit.com/r/opencode/comments/1u9sy7v/sorry_but_glm_52_is_not_vibing_for_me/",
-      "published_at": "2026-06-19T05:14:17.000Z",
-      "score": 29,
+      "url": "https://x.com/OpenAIDevs/status/2066916479438930166",
+      "published_at": "2026-06-16T16:11:04.000Z",
+      "score": 24,
       "tags": [
         "Codex/AI编程"
       ],
@@ -129,28 +96,127 @@
       ]
     },
     {
-      "id": "https://www.reddit.com/r/singularity/comments/1ua75fz/deepmind_is_now_reportedly_struggling_to_compete/",
-      "source_type": "reddit",
-      "source": "Reddit r/Codex_programming",
-      "title": "DeepMind is now reportedly struggling to compete with Anthropic and OpenAI while 3.5 Pro is not the step change they'd need to be competitive",
-      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
-      "url": "https://www.reddit.com/r/singularity/comments/1ua75fz/deepmind_is_now_reportedly_struggling_to_compete/",
-      "published_at": "2026-06-19T16:49:15.000Z",
-      "score": 27,
+      "id": "2067681321695191545",
+      "source_type": "x",
+      "source": "@OpenAIDevs",
+      "title": "OpenAI Developers @OpenAIDevs · 6月19日 Record & Replay is an optional feature rolling out to select markets, with broader availability to com",
+      "asset_title": "Codex 素材雷达：这条新闻/帖子可以怎么改成中文爆款内容",
+      "url": "https://x.com/OpenAIDevs/status/2067681321695191545",
+      "published_at": "2026-06-18T18:50:17.000Z",
+      "score": 23,
       "tags": [
-        "Claude",
-        "可做工具"
+        "Codex/AI编程"
+      ],
+      "priority": "高",
+      "action_type": "写文章",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "公众号文章",
+        "X 长帖",
+        "小红书图文卡片"
+      ],
+      "next_step": "用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "2064783418844762489",
+      "source_type": "x",
+      "source": "@AnthropicAI",
+      "title": "Anthropic @AnthropicAI · 6月11日 AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is b",
+      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
+      "url": "https://x.com/AnthropicAI/status/2064783418844762489",
+      "published_at": "2026-06-10T18:55:03.000Z",
+      "score": 23,
+      "tags": [
+        "Claude"
       ],
       "priority": "低",
+      "action_type": "做卡片",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "知识卡片"
+      ],
+      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "2068084391260426345",
+      "source_type": "x",
+      "source": "@swyx",
+      "title": "swyx @swyx · 3小时 Anthropic is going to IPO at $2T",
+      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
+      "url": "https://x.com/swyx/status/2068084391260426345",
+      "published_at": "2026-06-19T21:31:56.000Z",
+      "score": 22,
+      "tags": [
+        "Claude"
+      ],
+      "priority": "低",
+      "action_type": "做卡片",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "知识卡片"
+      ],
+      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "https://www.reddit.com/r/ClaudeCode/comments/1uab0qe/are_the_glm_52_glazers_all_chinese_bots/",
+      "source_type": "reddit",
+      "source": "Reddit r/Codex_programming",
+      "title": "Are the GLM 5.2 glazers all Chinese bots?",
+      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1uab0qe/are_the_glm_52_glazers_all_chinese_bots/",
+      "published_at": "2026-06-19T19:15:58.000Z",
+      "score": 21,
+      "tags": [
+        "Claude"
+      ],
+      "priority": "低",
+      "action_type": "做卡片",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "知识卡片"
+      ],
+      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u9w6my/researchers_trained_a_deep_research_agent_with_32/",
+      "source_type": "reddit",
+      "source": "Reddit r/Codex_programming",
+      "title": "Researchers trained a Deep Research agent with 32 H100s and open-sourced everything",
+      "asset_title": "Researchers trained a Deep Research agent with 32 H100s and open-sourced everything",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9w6my/researchers_trained_a_deep_research_agent_with_32/",
+      "published_at": "2026-06-19T08:20:43.000Z",
+      "score": 19,
+      "tags": [
+        "可做工具",
+        "商业化案例"
+      ],
+      "priority": "中",
       "action_type": "产品验证",
       "recommended_outputs": [
         "Obsidian 笔记",
         "机会卡",
         "验证问卷",
-        "MVP 需求文档",
-        "公众号文章",
-        "X 长帖",
-        "小红书图文卡片"
+        "MVP 需求文档"
       ],
       "next_step": "生成一页机会卡，明确目标用户、输入输出、收费方式和 48 小时验证动作。",
       "skill_chain": [
@@ -160,161 +226,24 @@
       ]
     },
     {
-      "id": "2067884985596703079",
-      "source_type": "x",
-      "source": "@gdb",
-      "title": "Greg Brockman @gdb · 16小时 Codex app is very good",
-      "asset_title": "Codex 素材雷达：这条新闻/帖子可以怎么改成中文爆款内容",
-      "url": "https://x.com/gdb/status/2067884985596703079",
-      "published_at": "2026-06-19T08:19:34.000Z",
-      "score": 27,
-      "tags": [
-        "Codex/AI编程",
-        "可做工具"
-      ],
-      "priority": "高",
-      "action_type": "写文章",
-      "recommended_outputs": [
-        "Obsidian 笔记",
-        "公众号文章",
-        "X 长帖",
-        "小红书图文卡片"
-      ],
-      "next_step": "用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。",
-      "skill_chain": [
-        "ljg-read",
-        "ljg-writes",
-        "ljg-card"
-      ]
-    },
-    {
-      "id": "https://mp.weixin.qq.com/s/Z4Bd77SVP8vlqXgOaQS52w",
-      "source_type": "wechat",
-      "source": "刘小排r",
-      "title": "在海边工作的真实感受",
-      "asset_title": "高传播素材拆解：为什么这条内容值得翻译/改写/发公众号",
-      "url": "https://mp.weixin.qq.com/s/Z4Bd77SVP8vlqXgOaQS52w",
-      "published_at": "2026-05-25T03:59:28.000Z",
-      "score": 13,
-      "tags": [
-        "自媒体素材"
-      ],
-      "priority": "高",
-      "action_type": "写文章",
-      "recommended_outputs": [
-        "Obsidian 笔记",
-        "公众号文章",
-        "X 长帖",
-        "小红书图文卡片"
-      ],
-      "next_step": "用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。",
-      "skill_chain": [
-        "ljg-read",
-        "ljg-writes",
-        "ljg-card"
-      ]
-    },
-    {
-      "id": "https://mp.weixin.qq.com/s/Yk-nSSn1rV5NoIapVzlQfg",
-      "source_type": "wechat",
-      "source": "请辩",
-      "title": "人类社会是一个大型的偏见游戏",
-      "asset_title": "人类社会是一个大型的偏见游戏",
-      "url": "https://mp.weixin.qq.com/s/Yk-nSSn1rV5NoIapVzlQfg",
-      "published_at": "2026-05-21T05:20:19.000Z",
-      "score": 12,
-      "tags": [
-        "自媒体素材"
-      ],
-      "priority": "高",
-      "action_type": "做卡片",
-      "recommended_outputs": [
-        "Obsidian 笔记",
-        "知识卡片"
-      ],
-      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
-      "skill_chain": [
-        "ljg-read",
-        "ljg-writes",
-        "ljg-card"
-      ]
-    },
-    {
-      "id": "https://mp.weixin.qq.com/s/sh_E_786J6kQ9kRFiaXxBQ",
-      "source_type": "wechat",
-      "source": "哥飞",
-      "title": "阿彪说要做可以吹牛的创新业务",
-      "asset_title": "高传播素材拆解：为什么这条内容值得翻译/改写/发公众号",
-      "url": "https://mp.weixin.qq.com/s/sh_E_786J6kQ9kRFiaXxBQ",
-      "published_at": "2026-04-08T00:26:30.000Z",
-      "score": 11,
-      "tags": [
-        "自媒体素材"
-      ],
-      "priority": "高",
-      "action_type": "写文章",
-      "recommended_outputs": [
-        "Obsidian 笔记",
-        "公众号文章",
-        "X 长帖",
-        "小红书图文卡片"
-      ],
-      "next_step": "用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。",
-      "skill_chain": [
-        "ljg-read",
-        "ljg-writes",
-        "ljg-card"
-      ]
-    },
-    {
-      "id": "https://mp.weixin.qq.com/s/A4CK0TX8xTszL3EYRq2sSA",
-      "source_type": "wechat",
-      "source": "雕爷",
-      "title": "万字实录 | 对谈雕爷：我从来都不会做营销",
-      "asset_title": "万字实录 | 对谈雕爷：我从来都不会做营销",
-      "url": "https://mp.weixin.qq.com/s/A4CK0TX8xTszL3EYRq2sSA",
-      "published_at": "2024-04-02T05:52:18.000Z",
-      "score": 10,
-      "tags": [
-        "自媒体素材"
-      ],
-      "priority": "高",
-      "action_type": "做卡片",
-      "recommended_outputs": [
-        "Obsidian 笔记",
-        "知识卡片"
-      ],
-      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
-      "skill_chain": [
-        "ljg-read",
-        "ljg-writes",
-        "ljg-card"
-      ]
-    },
-    {
-      "id": "https://www.reddit.com/r/ollama/comments/1ua0zrp/can_local_agentic_coding_truly_replace_claude_pro/",
+      "id": "https://www.reddit.com/r/SaaS/comments/1u9ug96/my_saas_has_99_problems_and_distribution_is_all/",
       "source_type": "reddit",
       "source": "Reddit r/Codex_programming",
-      "title": "Can local agentic coding truly replace Claude Pro? (My experience with an RX 7900XTX and Aider)",
-      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
-      "url": "https://www.reddit.com/r/ollama/comments/1ua0zrp/can_local_agentic_coding_truly_replace_claude_pro/",
-      "published_at": "2026-06-19T12:43:00.000Z",
-      "score": 25,
+      "title": "My SaaS has 99 problems and distribution is all of them.",
+      "asset_title": "My SaaS has 99 problems and distribution is all of them.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1u9ug96/my_saas_has_99_problems_and_distribution_is_all/",
+      "published_at": "2026-06-19T06:37:27.000Z",
+      "score": 19,
       "tags": [
-        "Claude",
-        "可做工具",
-        "商业化案例"
+        "可做工具"
       ],
-      "priority": "中",
+      "priority": "低",
       "action_type": "解决问题",
       "recommended_outputs": [
         "Obsidian 笔记",
         "机会卡",
         "验证问卷",
-        "MVP 需求文档",
-        "公众号文章",
-        "X 长帖",
-        "小红书图文卡片"
+        "MVP 需求文档"
       ],
       "next_step": "抽取用户原话和失败场景，写成问题定义，再列 10 个潜在用户访谈问题。",
       "skill_chain": [
@@ -324,34 +253,81 @@
       ]
     },
     {
-      "id": "https://www.reddit.com/r/SillyTavernAI/comments/1u9zbq7/open_source_a_roleplay_engine_built_as_an_agentic/",
+      "id": "https://www.reddit.com/r/aipartners/comments/1u9qjdw/the_modern_day_companion_ai_issue/",
       "source_type": "reddit",
       "source": "Reddit r/Codex_programming",
-      "title": "[Open source] A roleplay engine built as an agentic harness — each turn the model reasons + calls tools (RAG over source text, worldbook, timeline, state, image-gen), not one static prompt. ST V2 cards work in it.",
-      "asset_title": "[Open source] A roleplay engine built as an agentic harness — each turn the model reasons + calls tools (RAG over source text, worldbook, timeline, state, image-gen), not one static prompt. ST V2 cards work in it.",
-      "url": "https://www.reddit.com/r/SillyTavernAI/comments/1u9zbq7/open_source_a_roleplay_engine_built_as_an_agentic/",
-      "published_at": "2026-06-19T11:21:59.000Z",
-      "score": 25,
+      "title": "The Modern Day Companion AI Issue",
+      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
+      "url": "https://www.reddit.com/r/aipartners/comments/1u9qjdw/the_modern_day_companion_ai_issue/",
+      "published_at": "2026-06-19T03:10:13.000Z",
+      "score": 19,
       "tags": [
-        "可做工具",
-        "可写内容"
+        "Claude"
       ],
-      "priority": "中",
-      "action_type": "产品验证",
+      "priority": "低",
+      "action_type": "做卡片",
       "recommended_outputs": [
         "Obsidian 笔记",
-        "机会卡",
-        "验证问卷",
-        "MVP 需求文档",
+        "知识卡片"
+      ],
+      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "https://www.ycombinator.com/launches/Qtg-no-logo-turn-any-idea-into-a-real-manufactured-product",
+      "source_type": "one_ms_yc",
+      "source": "1ms.news YC Launch",
+      "title": "No Logo：将任何创意转化为真实制造的产品",
+      "asset_title": "No Logo：将任何创意转化为真实制造的产品",
+      "url": "https://www.ycombinator.com/launches/Qtg-no-logo-turn-any-idea-into-a-real-manufactured-product",
+      "published_at": "2026-06-17T22:59:00.000Z",
+      "score": 19,
+      "tags": [
+        "只观察"
+      ],
+      "priority": "低",
+      "action_type": "做卡片",
+      "recommended_outputs": [
+        "Obsidian 笔记",
+        "知识卡片"
+      ],
+      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
+      "skill_chain": [
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
+      ]
+    },
+    {
+      "id": "https://aiclambake.com/clamtakes/linear-a/",
+      "source_type": "one_ms_hn",
+      "source": "1ms.news HN 72h",
+      "title": "业余爱好者声称破解线性文字A，120年未解之谜或将告破",
+      "asset_title": "Claude 素材雷达：这条动态可以怎么改成中文内容",
+      "url": "https://aiclambake.com/clamtakes/linear-a/",
+      "published_at": "2026-06-19T16:04:00.000Z",
+      "score": 18,
+      "tags": [
+        "Codex/AI编程",
+        "Claude"
+      ],
+      "priority": "高",
+      "action_type": "写文章",
+      "recommended_outputs": [
+        "Obsidian 笔记",
         "公众号文章",
         "X 长帖",
         "小红书图文卡片"
       ],
-      "next_step": "生成一页机会卡，明确目标用户、输入输出、收费方式和 48 小时验证动作。",
+      "next_step": "用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。",
       "skill_chain": [
-        "ljg-rank",
-        "ljg-card",
-        "ljg-writes"
+        "ljg-read",
+        "ljg-writes",
+        "ljg-card"
       ]
     }
   ]
