@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T03:02:10.241Z",
+  "updated_at": "2026-06-20T01:09:09.545Z",
   "items": {
     "reddit:https://www.reddit.com/r/AI_Agents/comments/1tuigqc/nvidias_new_pcs_for_agentic_ai_power_users_are/": {
       "first_seen_at": "2026-06-02T12:05:41.186Z",
@@ -1533,6 +1533,146 @@
       "title": "[Giveaway] OpenVox Local TTS is now available on Windows - local AI voice generation with 600+ languages (6 SOTA TTS Models)",
       "url": "https://www.reddit.com/r/windowsapps/comments/1u951hp/giveaway_openvox_local_tts_is_now_available_on/",
       "source_type": "reddit"
+    },
+    "reddit:https://www.reddit.com/r/ClaudeAI/comments/1ua6sfe/lowskilled_attacker_used_claude_code_and_codex_to/": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "Low-skilled attacker used Claude Code and Codex to breach 14 companies",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ua6sfe/lowskilled_attacker_used_claude_code_and_codex_to/",
+      "source_type": "reddit"
+    },
+    "youtube:https://www.youtube.com/watch?v=3Amlu4y94Ho": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+      "url": "https://www.youtube.com/watch?v=3Amlu4y94Ho",
+      "source_type": "youtube"
+    },
+    "x:https://x.com/emollick/status/2067839690158268923": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "Ethan Mollick @emollick · 19小时 Some (early) evidence that managers have the highest success rate in using Claude Code for coding.",
+      "url": "https://x.com/emollick/status/2067839690158268923",
+      "source_type": "x"
+    },
+    "reddit:https://www.reddit.com/r/opencode/comments/1u9sy7v/sorry_but_glm_52_is_not_vibing_for_me/": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "Sorry, but GLM 5.2 is not vibing for me.",
+      "url": "https://www.reddit.com/r/opencode/comments/1u9sy7v/sorry_but_glm_52_is_not_vibing_for_me/",
+      "source_type": "reddit"
+    },
+    "reddit:https://www.reddit.com/r/singularity/comments/1ua75fz/deepmind_is_now_reportedly_struggling_to_compete/": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "DeepMind is now reportedly struggling to compete with Anthropic and OpenAI while 3.5 Pro is not the step change they'd need to be competitive",
+      "url": "https://www.reddit.com/r/singularity/comments/1ua75fz/deepmind_is_now_reportedly_struggling_to_compete/",
+      "source_type": "reddit"
+    },
+    "x:https://x.com/gdb/status/2067884985596703079": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "Greg Brockman @gdb · 16小时 Codex app is very good",
+      "url": "https://x.com/gdb/status/2067884985596703079",
+      "source_type": "x"
+    },
+    "wechat:https://mp.weixin.qq.com/s/Z4Bd77SVP8vlqXgOaQS52w": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "在海边工作的真实感受",
+      "url": "https://mp.weixin.qq.com/s/Z4Bd77SVP8vlqXgOaQS52w",
+      "source_type": "wechat"
+    },
+    "wechat:https://mp.weixin.qq.com/s/Yk-nSSn1rV5NoIapVzlQfg": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "人类社会是一个大型的偏见游戏",
+      "url": "https://mp.weixin.qq.com/s/Yk-nSSn1rV5NoIapVzlQfg",
+      "source_type": "wechat"
+    },
+    "wechat:https://mp.weixin.qq.com/s/sh_E_786J6kQ9kRFiaXxBQ": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "阿彪说要做可以吹牛的创新业务",
+      "url": "https://mp.weixin.qq.com/s/sh_E_786J6kQ9kRFiaXxBQ",
+      "source_type": "wechat"
+    },
+    "wechat:https://mp.weixin.qq.com/s/A4CK0TX8xTszL3EYRq2sSA": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "万字实录 | 对谈雕爷：我从来都不会做营销",
+      "url": "https://mp.weixin.qq.com/s/A4CK0TX8xTszL3EYRq2sSA",
+      "source_type": "wechat"
+    },
+    "reddit:https://www.reddit.com/r/ollama/comments/1ua0zrp/can_local_agentic_coding_truly_replace_claude_pro/": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "Can local agentic coding truly replace Claude Pro? (My experience with an RX 7900XTX and Aider)",
+      "url": "https://www.reddit.com/r/ollama/comments/1ua0zrp/can_local_agentic_coding_truly_replace_claude_pro/",
+      "source_type": "reddit"
+    },
+    "reddit:https://www.reddit.com/r/SillyTavernAI/comments/1u9zbq7/open_source_a_roleplay_engine_built_as_an_agentic/": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "[Open source] A roleplay engine built as an agentic harness — each turn the model reasons + calls tools (RAG over source text, worldbook, timeline, state, image-gen), not one static prompt. ST V2 cards work in it.",
+      "url": "https://www.reddit.com/r/SillyTavernAI/comments/1u9zbq7/open_source_a_roleplay_engine_built_as_an_agentic/",
+      "source_type": "reddit"
+    },
+    "x:https://x.com/gdb/status/2067843106469515603": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "Greg Brockman @gdb · 19小时 Launching credit usage analytics and updated spend controls for enterprises, available in our global admin console",
+      "url": "https://x.com/gdb/status/2067843106469515603",
+      "source_type": "x"
+    },
+    "x:https://x.com/howie_serious/status/2067246732325408837": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。",
+      "url": "https://x.com/howie_serious/status/2067246732325408837",
+      "source_type": "x"
+    },
+    "x:https://x.com/AnthropicAI/status/2066969542010806561": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "Anthropic @AnthropicAI · 6月17日 These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'",
+      "url": "https://x.com/AnthropicAI/status/2066969542010806561",
+      "source_type": "x"
+    },
+    "youtube:https://www.youtube.com/watch?v=F4a8aMLb678": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "7 INSANE loops you need to try right now",
+      "url": "https://www.youtube.com/watch?v=F4a8aMLb678",
+      "source_type": "youtube"
+    },
+    "reddit:https://www.reddit.com/r/ValueInvesting/comments/1u9x5q4/about_saaspocalypse_and_my_thought/": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "About SaaSpocalypse and my thought",
+      "url": "https://www.reddit.com/r/ValueInvesting/comments/1u9x5q4/about_saaspocalypse_and_my_thought/",
+      "source_type": "reddit"
+    },
+    "one_ms_yc:https://www.ycombinator.com/launches/QwO-thomas-the-first-yc-backed-ai-founder": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "Thomas：首个YC支持的AI创始人，自主创业赚钱",
+      "url": "https://www.ycombinator.com/launches/QwO-thomas-the-first-yc-backed-ai-founder",
+      "source_type": "one_ms_yc"
+    },
+    "reddit:https://www.reddit.com/r/collegeindia/comments/1ua2xcu/the_stier_jee_paths_nobody_on_this_sub_talks_about/": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "The S-tier JEE paths nobody on this sub talks about",
+      "url": "https://www.reddit.com/r/collegeindia/comments/1ua2xcu/the_stier_jee_paths_nobody_on_this_sub_talks_about/",
+      "source_type": "reddit"
+    },
+    "news:https://platform.openai.com/docs/guides/realtime-models-prompting": {
+      "first_seen_at": "2026-06-20T01:09:09.545Z",
+      "last_seen_at": "2026-06-20T01:09:09.545Z",
+      "title": "Realtime prompting guide",
+      "url": "https://platform.openai.com/docs/guides/realtime-models-prompting",
+      "source_type": "news"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-06-19T00:57:51.826Z",
+  "captured_at": "2026-06-20T01:08:54.938Z",
   "source": "x.com via persistent local Chrome profile",
   "results": [
     {
@@ -13,36 +13,43 @@
           "id": "2067681320281723113",
           "href": "https://x.com/OpenAIDevs/status/2067681320281723113",
           "time": "2026-06-18T18:50:17.000Z",
-          "text": "OpenAI Developers\n@OpenAIDevs\n·\n6小时\nShow Codex a workflow once. Reuse it as a skill.\nRecord & Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request.\nCodex turns that demo into an inspectable, editable skill.\nYou control when recording starts and stops.\n250\n911\n7,012\n98万",
-          "captured_at": "2026-06-19T00:54:38.477Z"
+          "text": "OpenAI Developers\n@OpenAIDevs\n·\n6月19日\nShow Codex a workflow once. Reuse it as a skill.\nRecord & Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request.\nCodex turns that demo into an inspectable, editable skill.\nYou control when recording starts and stops.\n0:01 / 2:05\n433\n1,921\n1.2万\n344万",
+          "captured_at": "2026-06-20T01:05:41.110Z"
         },
         {
           "id": "2067681321695191545",
           "href": "https://x.com/OpenAIDevs/status/2067681321695191545",
           "time": "2026-06-18T18:50:17.000Z",
-          "text": "OpenAI Developers\n@OpenAIDevs\n·\n6小时\nRecord & Replay is an optional feature rolling out to select markets, with broader availability to come.\nChangelog – Codex | OpenAI Developers\n来自 developers.openai.com\n6\n23\n290\n3.2万",
-          "captured_at": "2026-06-19T00:54:38.478Z"
+          "text": "OpenAI Developers\n@OpenAIDevs\n·\n6月19日\nRecord & Replay is an optional feature rolling out to select markets, with broader availability to come.\nChangelog – Codex | OpenAI Developers\n来自 developers.openai.com\n16\n38\n502\n7.2万",
+          "captured_at": "2026-06-20T01:05:41.111Z"
         },
         {
           "id": "2067328594758848513",
           "href": "https://x.com/OpenAIDevs/status/2067328594758848513",
           "time": "2026-06-17T19:28:40.000Z",
-          "text": "OpenAI Developers\n@OpenAIDevs\n·\n6月18日\nLast week, we hosted Women who Code(x)\nThe output: task agents, personal guides, and a lot of projects shipped with Codex\n38\n38\n392\n5万",
-          "captured_at": "2026-06-19T00:54:38.478Z"
+          "text": "OpenAI Developers\n@OpenAIDevs\n·\n6月18日\nLast week, we hosted Women who Code(x)\nThe output: task agents, personal guides, and a lot of projects shipped with Codex\n0:01 / 1:20\n39\n41\n427\n5.6万",
+          "captured_at": "2026-06-20T01:05:41.111Z"
         },
         {
           "id": "2067280779689042235",
           "href": "https://x.com/OpenAIDevs/status/2067280779689042235",
           "time": "2026-06-17T16:18:40.000Z",
-          "text": "OpenAI Developers\n@OpenAIDevs\n·\n6月18日\nOpen source projects depend on the maintainers who review, release, secure, and steward the infrastructure many teams build on.\nWe’re proud to support the \n@rust_foundation\n's work.\nrustfoundation.org\nRust Foundation Welcomes OpenAI As Platinum Member, Announces Donation to Rust Project - The Rust...\nDOVER, DELAWARE, USA - June 17, 2026 — The Rust Foundation, the nonprofit steward of the Rust programming language, today announced that OpenAI, a leading AI research and deployment company, has...\n27\n41\n412\n3.6万",
-          "captured_at": "2026-06-19T00:54:38.478Z"
+          "text": "OpenAI Developers\n@OpenAIDevs\n·\n6月18日\nOpen source projects depend on the maintainers who review, release, secure, and steward the infrastructure many teams build on.\nWe’re proud to support the \n@rust_foundation\n's work.\nrustfoundation.org\nRust Foundation Welcomes OpenAI As Platinum Member, Announces Donation to Rust Project - The Rust...\nDOVER, DELAWARE, USA - June 17, 2026 — The Rust Foundation, the nonprofit steward of the Rust programming language, today announced that OpenAI, a leading AI research and deployment company, has...\n28\n43\n421\n3.9万",
+          "captured_at": "2026-06-20T01:05:41.111Z"
         },
         {
           "id": "2067280791881810246",
           "href": "https://x.com/OpenAIDevs/status/2067280791881810246",
           "time": "2026-06-17T16:18:43.000Z",
-          "text": "OpenAI Developers\n@OpenAIDevs\n·\n6月18日\n引用\nCharlie Marsh\n@charliermarsh\n·\n6月18日\nAt OpenAI, we're continuing to bet on Rust as the future of systems programming.\nI'm proud to announce that we're making a $600,000 commitment to the Rust Foundation, which combines our Platinum membership with additional support for maintainer efforts across the Rust ecosystem.\n1\n53\n2.2万",
-          "captured_at": "2026-06-19T00:54:38.478Z"
+          "text": "OpenAI Developers\n@OpenAIDevs\n·\n6月18日\n引用\nCharlie Marsh\n@charliermarsh\n·\n6月18日\nAt OpenAI, we're continuing to bet on Rust as the future of systems programming.\nI'm proud to announce that we're making a $600,000 commitment to the Rust Foundation, which combines our Platinum membership with additional support for maintainer efforts across the Rust ecosystem.\n1\n60\n2.4万",
+          "captured_at": "2026-06-20T01:05:41.111Z"
+        },
+        {
+          "id": "2066916479438930166",
+          "href": "https://x.com/OpenAIDevs/status/2066916479438930166",
+          "time": "2026-06-16T16:11:04.000Z",
+          "text": "OpenAI Developers\n@OpenAIDevs\n·\n6月17日\nMore of Codex is rolling out across Europe this week.\nWe’re bringing Computer use, the Codex Chrome extension, personalized memory, and Chronicle to Codex users in the EEA, UK, and Switzerland.\nChangelog – Codex | OpenAI Developers\n来自 developers.openai.com\n254\n367\n3,562\n60万",
+          "captured_at": "2026-06-20T01:05:41.111Z"
         }
       ]
     },
@@ -57,57 +64,57 @@
           "id": "2067722688165232654",
           "href": "https://x.com/OpenAI/status/2067722688165232654",
           "time": "2026-06-18T21:34:39.000Z",
-          "text": "OpenAI\n@OpenAI\n·\n3小时\nAs AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure.\nThat’s the idea behind our new research on training models to be broadly and persistently beneficial.\n显示更多\nReinforcement learning towards broadly and persistently beneficial models\n来自 alignment.openai.com\n92\n139\n1,350\n10万",
-          "captured_at": "2026-06-19T00:54:48.223Z"
+          "text": "OpenAI\n@OpenAI\n·\n6月19日\nAs AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure.\nThat’s the idea behind our new research on training models to be broadly and persistently beneficial.\n显示更多\nReinforcement learning towards broadly and persistently beneficial models\n来自 alignment.openai.com\n174\n277\n2,452\n26万",
+          "captured_at": "2026-06-20T01:05:51.146Z"
         },
         {
           "id": "2067722695270334549",
           "href": "https://x.com/OpenAI/status/2067722695270334549",
           "time": "2026-06-18T21:34:41.000Z",
-          "text": "OpenAI\n@OpenAI\n·\n3小时\nWe also tested whether alignment persisted under pressure. \nThe model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions.\nWe saw preliminary evidence of greater resistance to harmful fine-tuning.\n7\n4\n117\n3.3万",
-          "captured_at": "2026-06-19T00:54:48.223Z"
+          "text": "OpenAI\n@OpenAI\n·\n6月19日\nWe also tested whether alignment persisted under pressure. \nThe model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions.\nWe saw preliminary evidence of greater resistance to harmful fine-tuning.\n13\n9\n209\n6.5万",
+          "captured_at": "2026-06-20T01:05:51.146Z"
         },
         {
           "id": "2067722696759329125",
           "href": "https://x.com/OpenAI/status/2067722696759329125",
           "time": "2026-06-18T21:34:41.000Z",
-          "text": "OpenAI\n@OpenAI\n·\n3小时\nThis is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.\n6\n3\n110\n2.8万",
-          "captured_at": "2026-06-19T00:54:48.223Z"
+          "text": "OpenAI\n@OpenAI\n·\n6月19日\nThis is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.\n10\n7\n195\n5.5万",
+          "captured_at": "2026-06-20T01:05:51.146Z"
         },
         {
           "id": "2067672740539306261",
           "href": "https://x.com/OpenAI/status/2067672740539306261",
           "time": "2026-06-18T18:16:11.000Z",
-          "text": "OpenAI\n@OpenAI\n·\n6小时\nGPT-5.5 Instant is now on par with our frontier Thinking models for health-related questions.\nEvery week, more than 230 million people turn to ChatGPT with health and wellness questions, and GPT-5.5 Instant is better at recognizing when urgent care may be needed, asking for\n显示更多\n2:48\n156\n209\n2,598\n25万",
-          "captured_at": "2026-06-19T00:54:48.223Z"
+          "text": "OpenAI\n@OpenAI\n·\n6月19日\nGPT-5.5 Instant is now on par with our frontier Thinking models for health-related questions.\nEvery week, more than 230 million people turn to ChatGPT with health and wellness questions, and GPT-5.5 Instant is better at recognizing when urgent care may be needed, asking for\n显示更多\n2:48\n223\n361\n3,876\n50万",
+          "captured_at": "2026-06-20T01:05:51.146Z"
         },
         {
           "id": "2067672742426775728",
           "href": "https://x.com/OpenAI/status/2067672742426775728",
           "time": "2026-06-18T18:16:11.000Z",
-          "text": "OpenAI\n@OpenAI\n·\n6小时\nTo improve our models, we collaborate with a global network of hundreds of physicians across 60 countries, 49 languages, and 26 specialties.\nTheir feedback helps us identify where responses miss important context, sound overly confident, need clearer next steps, or should more\n显示更多\n14\n13\n392\n5.2万",
-          "captured_at": "2026-06-19T00:54:48.223Z"
+          "text": "OpenAI\n@OpenAI\n·\n6月19日\nTo improve our models, we collaborate with a global network of hundreds of physicians across 60 countries, 49 languages, and 26 specialties.\nTheir feedback helps us identify where responses miss important context, sound overly confident, need clearer next steps, or should more\n显示更多\n18\n18\n489\n7.4万",
+          "captured_at": "2026-06-20T01:05:51.146Z"
         },
         {
           "id": "2067672744108724635",
           "href": "https://x.com/OpenAI/status/2067672744108724635",
           "time": "2026-06-18T18:16:12.000Z",
-          "text": "OpenAI\n@OpenAI\n·\n6小时\nImproving human health will be one of the most personal, tangible impacts of AGI.\nAs our models continue to improve, our goal is to make ChatGPT more accurate, more useful, and more impactful in those moments — and to keep bringing that progress to more people.\n显示更多\nImproving health intelligence in ChatGPT\n来自 openai.com\n14\n27\n447\n4.9万",
-          "captured_at": "2026-06-19T00:54:48.223Z"
+          "text": "OpenAI\n@OpenAI\n·\n6月19日\nImproving human health will be one of the most personal, tangible impacts of AGI.\nAs our models continue to improve, our goal is to make ChatGPT more accurate, more useful, and more impactful in those moments — and to keep bringing that progress to more people.\n显示更多\nImproving health intelligence in ChatGPT\n来自 openai.com\n20\n36\n543\n7万",
+          "captured_at": "2026-06-20T01:05:51.146Z"
         },
         {
           "id": "2067625110199247353",
           "href": "https://x.com/OpenAI/status/2067625110199247353",
           "time": "2026-06-18T15:06:55.000Z",
-          "text": "OpenAI\n@OpenAI\n·\n9小时\nTogether with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.\n130\n279\n1,929\n92万",
-          "captured_at": "2026-06-19T00:54:48.223Z"
+          "text": "OpenAI\n@OpenAI\n·\n6月18日\nTogether with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.\n184\n415\n2,666\n245万",
+          "captured_at": "2026-06-20T01:05:51.146Z"
         },
         {
           "id": "2067625113193951611",
           "href": "https://x.com/OpenAI/status/2067625113193951611",
           "time": "2026-06-18T15:06:56.000Z",
-          "text": "OpenAI\n@OpenAI\n·\n9小时\nRare disease diagnosis is challenging, as sequencing can surface millions of variants, and medical knowledge changes constantly. \no3 Deep Research helped connect clinical features, inheritance patterns, variant evidence, and scientific literature into hypotheses for specialists\n显示更多\n9\n14\n240\n4.9万",
-          "captured_at": "2026-06-19T00:54:48.223Z"
+          "text": "OpenAI\n@OpenAI\n·\n6月18日\nRare disease diagnosis is challenging, as sequencing can surface millions of variants, and medical knowledge changes constantly. \no3 Deep Research helped connect clinical features, inheritance patterns, variant evidence, and scientific literature into hypotheses for specialists\n显示更多\n12\n17\n302\n6.3万",
+          "captured_at": "2026-06-20T01:05:51.146Z"
         }
       ]
     },
@@ -122,57 +129,57 @@
           "id": "2067651699486200091",
           "href": "https://x.com/AnthropicAI/status/2067651699486200091",
           "time": "2026-06-18T16:52:34.000Z",
-          "text": "Anthropic\n@AnthropicAI\n·\n8小时\nNew Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog.\nOpus 4.7, on its own, was ~20x faster than last year's best human team aided by Opus 4.1. (The robodog, alas, still failed to fetch a beach ball.)\nProject Fetch: Phase two\n来自 anthropic.com\n221\n153\n1,477\n16万",
-          "captured_at": "2026-06-19T00:54:57.865Z"
+          "text": "Anthropic\n@AnthropicAI\n·\n6月19日\nNew Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog.\nOpus 4.7, on its own, was ~20x faster than last year's best human team aided by Opus 4.1. (The robodog, alas, still failed to fetch a beach ball.)\nProject Fetch: Phase two\n来自 anthropic.com\n274\n231\n2,010\n27万",
+          "captured_at": "2026-06-20T01:06:00.836Z"
         },
         {
           "id": "2067651700757086553",
           "href": "https://x.com/AnthropicAI/status/2067651700757086553",
           "time": "2026-06-18T16:52:35.000Z",
-          "text": "Anthropic\n@AnthropicAI\n·\n8小时\nWatch the robodogs in action in our first Project Fetch experiment:\n引用\nAnthropic\n@AnthropicAI\n·\n2025年11月13日\nNew Anthropic research: Project Fetch.\nWe asked two teams of Anthropic researchers to program a robot dog. Neither team had any robotics expertise—but we let only one team use Claude.\nHow did they do?\n0:01 / 7:40\n13\n20\n160\n5.9万",
-          "captured_at": "2026-06-19T00:54:57.865Z"
+          "text": "Anthropic\n@AnthropicAI\n·\n6月19日\nWatch the robodogs in action in our first Project Fetch experiment:\n引用\nAnthropic\n@AnthropicAI\n·\n2025年11月13日\nNew Anthropic research: Project Fetch.\nWe asked two teams of Anthropic researchers to program a robot dog. Neither team had any robotics expertise—but we let only one team use Claude.\nHow did they do?\n0:01 / 7:40\n21\n20\n212\n8.9万",
+          "captured_at": "2026-06-20T01:06:00.836Z"
         },
         {
           "id": "2066969532380721386",
           "href": "https://x.com/AnthropicAI/status/2066969532380721386",
           "time": "2026-06-16T19:41:53.000Z",
-          "text": "Anthropic\n@AnthropicAI\n·\n6月17日\nOur latest economic research introduces a framework for tracking Claude Code as it scales. \nWho is using Claude Code, and what are they using it for? How is the value of tasks changing? And how much does domain expertise shape whether a session succeeds?\nAgentic coding and persistent returns to expertise\n来自 anthropic.com\n480\n549\n3,443\n86万",
-          "captured_at": "2026-06-19T00:54:57.865Z"
+          "text": "Anthropic\n@AnthropicAI\n·\n6月17日\nOur latest economic research introduces a framework for tracking Claude Code as it scales. \nWho is using Claude Code, and what are they using it for? How is the value of tasks changing? And how much does domain expertise shape whether a session succeeds?\nAgentic coding and persistent returns to expertise\n来自 anthropic.com\n483\n555\n3,461\n88万",
+          "captured_at": "2026-06-20T01:06:00.836Z"
         },
         {
           "id": "2066969540412780644",
           "href": "https://x.com/AnthropicAI/status/2066969540412780644",
           "time": "2026-06-16T19:41:55.000Z",
-          "text": "Anthropic\n@AnthropicAI\n·\n6月17日\nDomain experts—as judged by the questions they ask and vocabulary they use about a subject—are more likely to see success.\nBut the gap between intermediate and expert users is quite modest, suggesting that proficiency in a domain is sufficient to code successfully within it.\n51\n51\n466\n13万",
-          "captured_at": "2026-06-19T00:54:57.865Z"
+          "text": "Anthropic\n@AnthropicAI\n·\n6月17日\nDomain experts—as judged by the questions they ask and vocabulary they use about a subject—are more likely to see success.\nBut the gap between intermediate and expert users is quite modest, suggesting that proficiency in a domain is sufficient to code successfully within it.\n54\n53\n481\n14万",
+          "captured_at": "2026-06-20T01:06:00.836Z"
         },
         {
           "id": "2066969542010806561",
           "href": "https://x.com/AnthropicAI/status/2066969542010806561",
           "time": "2026-06-16T19:41:55.000Z",
-          "text": "Anthropic\n@AnthropicAI\n·\n6月17日\nThese and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. \nRead the full report:\nAgentic coding and persistent returns to expertise\n来自 anthropic.com\n100\n29\n249\n10万",
-          "captured_at": "2026-06-19T00:54:57.865Z"
+          "text": "Anthropic\n@AnthropicAI\n·\n6月17日\nThese and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. \nRead the full report:\nAgentic coding and persistent returns to expertise\n来自 anthropic.com\n103\n33\n261\n11万",
+          "captured_at": "2026-06-20T01:06:00.836Z"
         },
         {
           "id": "2065597531644743999",
           "href": "https://x.com/AnthropicAI/status/2065597531644743999",
           "time": "2026-06-13T00:50:03.000Z",
-          "text": "Anthropic\n@AnthropicAI\n·\n6月13日\nThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.\nThe net effect of\n显示更多\nStatement on the US government directive to suspend access to Fable 5 and Mythos 5\n来自 anthropic.com\n1.2万\n5.4万\n8.8万\n9,099万",
-          "captured_at": "2026-06-19T00:54:57.865Z"
+          "text": "Anthropic\n@AnthropicAI\n·\n6月13日\nThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.\nThe net effect of\n显示更多\nStatement on the US government directive to suspend access to Fable 5 and Mythos 5\n来自 anthropic.com\n1.2万\n5.4万\n8.8万\n9,118万",
+          "captured_at": "2026-06-20T01:06:00.836Z"
         },
         {
           "id": "2065057393927467084",
           "href": "https://x.com/AnthropicAI/status/2065057393927467084",
           "time": "2026-06-11T13:03:44.000Z",
-          "text": "Anthropic\n@AnthropicAI\n·\n6月11日\nWe’re launching Claude Corps, a national fellowship program matching people early in their careers with US nonprofits.\nWe'll teach 1,000 people to use Claude, and pay them to use AI to advance their hosts’ missions.\nClaude Corps\n来自 anthropic.com\n584\n947\n6,962\n103万",
-          "captured_at": "2026-06-19T00:54:57.865Z"
+          "text": "Anthropic\n@AnthropicAI\n·\n6月11日\nWe’re launching Claude Corps, a national fellowship program matching people early in their careers with US nonprofits.\nWe'll teach 1,000 people to use Claude, and pay them to use AI to advance their hosts’ missions.\nClaude Corps\n来自 anthropic.com\n584\n946\n6,969\n103万",
+          "captured_at": "2026-06-20T01:06:00.836Z"
         },
         {
           "id": "2064783418844762489",
           "href": "https://x.com/AnthropicAI/status/2064783418844762489",
           "time": "2026-06-10T18:55:03.000Z",
-          "text": "Anthropic\n@AnthropicAI\n·\n6月11日\nAI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is becoming the central challenge of the technology. In his latest essay, our CEO Dario Amodei lays out how to close it.\nWe're launching three new initiatives to support the\n显示更多\n引用\nDario Amodei\n@DarioAmodei\n·\n6月11日\nToday I'm publishing a new essay, Policy on the AI Exponential. AI is progressing extremely fast—much faster than the policy process was built to handle. The essay lays out where I think the technology is now, and the action needed to close the gap: \nhttps://\ndarioamodei.com/post/policy-on\n-the-ai-exponential\n…\n436\n586\n5,520\n152万",
-          "captured_at": "2026-06-19T00:54:57.865Z"
+          "text": "Anthropic\n@AnthropicAI\n·\n6月11日\nAI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is becoming the central challenge of the technology. In his latest essay, our CEO Dario Amodei lays out how to close it.\nWe're launching three new initiatives to support the\n显示更多\n引用\nDario Amodei\n@DarioAmodei\n·\n6月11日\nToday I'm publishing a new essay, Policy on the AI Exponential. AI is progressing extremely fast—much faster than the policy process was built to handle. The essay lays out where I think the technology is now, and the action needed to close the gap: \nhttps://\ndarioamodei.com/post/policy-on\n-the-ai-exponential\n…\n436\n589\n5,519\n153万",
+          "captured_at": "2026-06-20T01:06:00.836Z"
         }
       ]
     },
@@ -187,57 +194,57 @@
           "id": "2065456678909227064",
           "href": "https://x.com/claudeai/status/2065456678909227064",
           "time": "2026-06-12T15:30:21.000Z",
-          "text": "Claude\n@claudeai\n·\n6月12日\nClaude Fable 5 has been out for a couple of days. Some projects people have already built with it:\n1,644\n3,642\n5.2万\n923万",
-          "captured_at": "2026-06-19T00:55:07.519Z"
+          "text": "Claude\n@claudeai\n·\n6月12日\nClaude Fable 5 has been out for a couple of days. Some projects people have already built with it:\n1,649\n3,645\n5.2万\n926万",
+          "captured_at": "2026-06-20T01:06:10.481Z"
         },
         {
           "id": "2065456697670352901",
           "href": "https://x.com/claudeai/status/2065456697670352901",
           "time": "2026-06-12T15:30:25.000Z",
-          "text": "Claude\n@claudeai\n·\n6月12日\n引用\nAnn Nguyen\n@ann_nnng\n·\n6月10日\nMythos is going crazy with the glass liquid UI with just css  x.com/claudeai/statu…\n0:18\n34\n83\n2,659\n115万",
-          "captured_at": "2026-06-19T00:55:07.519Z"
+          "text": "Claude\n@claudeai\n·\n6月12日\n引用\nAnn Nguyen\n@ann_nnng\n·\n6月10日\nMythos is going crazy with the glass liquid UI with just css  x.com/claudeai/statu…\n0:18\n35\n84\n2,675\n117万",
+          "captured_at": "2026-06-20T01:06:10.481Z"
         },
         {
           "id": "2065456700379807900",
           "href": "https://x.com/claudeai/status/2065456700379807900",
           "time": "2026-06-12T15:30:26.000Z",
-          "text": "Claude\n@claudeai\n·\n6月12日\nWhat are you building?\n526\n154\n1,318\n185万",
-          "captured_at": "2026-06-19T00:55:07.519Z"
+          "text": "Claude\n@claudeai\n·\n6月12日\nWhat are you building?\n530\n155\n1,326\n185万",
+          "captured_at": "2026-06-20T01:06:10.481Z"
         },
         {
           "id": "2064757537992249734",
           "href": "https://x.com/claudeai/status/2064757537992249734",
           "time": "2026-06-10T17:12:13.000Z",
-          "text": "Claude\n@claudeai\n·\n6月11日\nMichael Truell (\n@mntruell\n) fell in love with coding at 12. The company he co-founded, \n@cursor_ai\n, went from 15 people to 700 in two years.\nToday, over 60% of the Fortune 500 build with its AI coding platform.\n229\n412\n6,999\n70万",
-          "captured_at": "2026-06-19T00:55:07.519Z"
+          "text": "Claude\n@claudeai\n·\n6月11日\nMichael Truell (\n@mntruell\n) fell in love with coding at 12. The company he co-founded, \n@cursor_ai\n, went from 15 people to 700 in two years.\nToday, over 60% of the Fortune 500 build with its AI coding platform.\n228\n413\n7,012\n71万",
+          "captured_at": "2026-06-20T01:06:10.481Z"
         },
         {
           "id": "2064757539762295177",
           "href": "https://x.com/claudeai/status/2064757539762295177",
           "time": "2026-06-10T17:12:13.000Z",
-          "text": "Claude\n@claudeai\n·\n6月11日\nFrom The Problem Solvers, our series featuring founders taking on hard problems with Claude: \nhttps://\nclaude.com/problem-solvers\n26\n19\n216\n13万",
-          "captured_at": "2026-06-19T00:55:07.519Z"
+          "text": "Claude\n@claudeai\n·\n6月11日\nFrom The Problem Solvers, our series featuring founders taking on hard problems with Claude: \nhttps://\nclaude.com/problem-solvers\n27\n19\n221\n13万",
+          "captured_at": "2026-06-20T01:06:10.481Z"
         },
         {
           "id": "2064741174317924421",
           "href": "https://x.com/claudeai/status/2064741174317924421",
           "time": "2026-06-10T16:07:11.000Z",
-          "text": "Claude\n@claudeai\n·\n6月11日\nNew from Code with Claude Tokyo: scheduled deployments and environment variables in vaults are in public beta in Claude Managed Agents, and dynamic workflows in Claude Code are generally available.\nAgents now run on a schedule, use your tools securely, and take on bigger jobs.\n249\n418\n4,975\n58万",
-          "captured_at": "2026-06-19T00:55:07.519Z"
+          "text": "Claude\n@claudeai\n·\n6月11日\nNew from Code with Claude Tokyo: scheduled deployments and environment variables in vaults are in public beta in Claude Managed Agents, and dynamic workflows in Claude Code are generally available.\nAgents now run on a schedule, use your tools securely, and take on bigger jobs.\n249\n419\n4,975\n58万",
+          "captured_at": "2026-06-20T01:06:10.481Z"
         },
         {
           "id": "2064741182853296339",
           "href": "https://x.com/claudeai/status/2064741182853296339",
           "time": "2026-06-10T16:07:13.000Z",
-          "text": "Claude\n@claudeai\n·\n6月11日\nDynamic workflows in Claude Code are now generally available.\nFor complex tasks like codebase-wide bug hunts, Claude writes its own orchestration and runs subagents in parallel, verifying the work before it reaches you.\nRead more: \nhttps://\nclaude.com/blog/introduci\nng-dynamic-workflows-in-claude-code\n…\n22\n19\n171\n9.3万",
-          "captured_at": "2026-06-19T00:55:07.519Z"
+          "text": "Claude\n@claudeai\n·\n6月11日\nDynamic workflows in Claude Code are now generally available.\nFor complex tasks like codebase-wide bug hunts, Claude writes its own orchestration and runs subagents in parallel, verifying the work before it reaches you.\nRead more: \nhttps://\nclaude.com/blog/introduci\nng-dynamic-workflows-in-claude-code\n…\n22\n19\n175\n9.6万",
+          "captured_at": "2026-06-20T01:06:10.481Z"
         },
         {
           "id": "2064741184547795408",
           "href": "https://x.com/claudeai/status/2064741184547795408",
           "time": "2026-06-10T16:07:14.000Z",
-          "text": "Claude\n@claudeai\n·\n6月11日\nScheduled deployments and environment variables in vaults are available today on the Claude Platform.\nRead more:\nNew in Claude Managed Agents: run agents on a schedule and store environment variables in vaults |...\n来自 claude.com\n13\n18\n158\n8.3万",
-          "captured_at": "2026-06-19T00:55:07.519Z"
+          "text": "Claude\n@claudeai\n·\n6月11日\nScheduled deployments and environment variables in vaults are available today on the Claude Platform.\nRead more:\nNew in Claude Managed Agents: run agents on a schedule and store environment variables in vaults |...\n来自 claude.com\n13\n18\n162\n8.5万",
+          "captured_at": "2026-06-20T01:06:10.481Z"
         }
       ]
     },
@@ -252,57 +259,57 @@
           "id": "2064454615383589357",
           "href": "https://x.com/obsdmd/status/2064454615383589357",
           "time": "2026-06-09T21:08:30.000Z",
-          "text": "Obsidian\n@obsdmd\n·\n6月10日\nObsidian 1.13.1 (early access) is now available to Catalyst members for desktop and mobile with many bug fixes and small improvements to Settings.\n1\n8\n264\n2.7万",
-          "captured_at": "2026-06-19T00:55:17.172Z"
+          "text": "Obsidian\n@obsdmd\n·\n6月10日\nObsidian 1.13.1 (early access) is now available to Catalyst members for desktop and mobile with many bug fixes and small improvements to Settings.\n1\n8\n263\n2.7万",
+          "captured_at": "2026-06-20T01:06:20.134Z"
         },
         {
           "id": "2064454616516059519",
           "href": "https://x.com/obsdmd/status/2064454616516059519",
           "time": "2026-06-09T21:08:30.000Z",
-          "text": "Obsidian\n@obsdmd\n·\n6月10日\nObsidian 1.13.1 Desktop (early access)\nObsidian 1.13.1 Desktop (Early access)\n来自 obsidian.md\n2\n51\n9,728",
-          "captured_at": "2026-06-19T00:55:17.172Z"
+          "text": "Obsidian\n@obsdmd\n·\n6月10日\nObsidian 1.13.1 Desktop (early access)\nObsidian 1.13.1 Desktop (Early access)\n来自 obsidian.md\n2\n51\n9,934",
+          "captured_at": "2026-06-20T01:06:20.134Z"
         },
         {
           "id": "2064454617673650616",
           "href": "https://x.com/obsdmd/status/2064454617673650616",
           "time": "2026-06-09T21:08:31.000Z",
-          "text": "Obsidian\n@obsdmd\n·\n6月10日\nObsidian 1.13.1 Mobile (early access)\nObsidian 1.13.1 Mobile (Early access)\n来自 obsidian.md\n14\n7,400",
-          "captured_at": "2026-06-19T00:55:17.172Z"
+          "text": "Obsidian\n@obsdmd\n·\n6月10日\nObsidian 1.13.1 Mobile (early access)\nObsidian 1.13.1 Mobile (Early access)\n来自 obsidian.md\n14\n7,579",
+          "captured_at": "2026-06-20T01:06:20.134Z"
         },
         {
           "id": "2060119588978008414",
           "href": "https://x.com/obsdmd/status/2060119588978008414",
           "time": "2026-05-28T22:02:39.000Z",
           "text": "Obsidian\n@obsdmd\n·\n5月29日\nObsidian 1.13.0 (early access) is now available to Catalyst members for desktop and mobile.\n- New iOS Share Sheet lets you save content from web pages and apps like X and YouTube.\n- Added search and keyboard navigation to Settings.\n- Dozens of bug fixes and improvements!\n13\n29\n691\n5.2万",
-          "captured_at": "2026-06-19T00:55:17.172Z"
+          "captured_at": "2026-06-20T01:06:20.134Z"
         },
         {
           "id": "2060119590496256266",
           "href": "https://x.com/obsdmd/status/2060119590496256266",
           "time": "2026-05-28T22:02:40.000Z",
           "text": "Obsidian\n@obsdmd\n·\n5月29日\nObsidian 1.13.0 Mobile (early access)\nObsidian 1.13.0 Mobile (Early access)\n来自 obsidian.md\n2\n3\n61\n1.4万",
-          "captured_at": "2026-06-19T00:55:17.172Z"
+          "captured_at": "2026-06-20T01:06:20.134Z"
         },
         {
           "id": "2060119591813263848",
           "href": "https://x.com/obsdmd/status/2060119591813263848",
           "time": "2026-05-28T22:02:40.000Z",
           "text": "Obsidian\n@obsdmd\n·\n5月29日\nObsidian 1.13.0 Desktop (early access)\nObsidian 1.13.0 Desktop (Early access)\n来自 obsidian.md\n1\n43\n1.1万",
-          "captured_at": "2026-06-19T00:55:17.172Z"
+          "captured_at": "2026-06-20T01:06:20.134Z"
         },
         {
           "id": "2059661471144096148",
           "href": "https://x.com/obsdmd/status/2059661471144096148",
           "time": "2026-05-27T15:42:16.000Z",
           "text": "Obsidian\n@obsdmd\n·\n5月27日\nObsidian Web Clipper has its own icon now \n43\n74\n2,049\n15万",
-          "captured_at": "2026-06-19T00:55:17.172Z"
+          "captured_at": "2026-06-20T01:06:20.134Z"
         },
         {
           "id": "2054606618818711862",
           "href": "https://x.com/obsdmd/status/2054606618818711862",
           "time": "2026-05-13T16:56:05.000Z",
-          "text": "Obsidian\n@obsdmd\n·\n5月14日\nTwo new security audits of Obsidian Sync by \n@cure53berlin\n and \n@trailofbits\n are now available on our Security page.\nAll findings have been addressed via remediations and disclosures validated by the respective auditors. Read more:\nObsidian Sync audits by Cure53 and Trail of Bits\n来自 obsidian.md\n4\n43\n477\n6.2万",
-          "captured_at": "2026-06-19T00:55:17.172Z"
+          "text": "Obsidian\n@obsdmd\n·\n5月14日\nTwo new security audits of Obsidian Sync by \n@cure53berlin\n and \n@trailofbits\n are now available on our Security page.\nAll findings have been addressed via remediations and disclosures validated by the respective auditors. Read more:\nObsidian Sync audits by Cure53 and Trail of Bits\n来自 obsidian.md\n4\n43\n476\n6.2万",
+          "captured_at": "2026-06-20T01:06:20.134Z"
         }
       ]
     },
@@ -317,57 +324,57 @@
           "id": "2067427678529974740",
           "href": "https://x.com/sama/status/2067427678529974740",
           "time": "2026-06-18T02:02:24.000Z",
-          "text": "Sam Altman\n@sama\n·\n22小时\nWe offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence.\n引用\nNoam Brown\n@polynoamial\n·\n6月18日\nI'm always thrilled to have more Noams at @OpenAI, but I'm especially thrilled to welcome @NoamShazeer! x.com/NoamShazeer/st…\n417\n370\n7,684\n82万",
-          "captured_at": "2026-06-19T00:55:26.827Z"
+          "text": "Sam Altman\n@sama\n·\n6月18日\nWe offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence.\n引用\nNoam Brown\n@polynoamial\n·\n6月18日\nI'm always thrilled to have more Noams at @OpenAI, but I'm especially thrilled to welcome @NoamShazeer! x.com/NoamShazeer/st…\n474\n413\n8,443\n96万",
+          "captured_at": "2026-06-20T01:06:29.797Z"
         },
         {
           "id": "2067427421083652131",
           "href": "https://x.com/sama/status/2067427421083652131",
           "time": "2026-06-18T02:01:22.000Z",
-          "text": "Sam Altman\n@sama\n·\n22小时\nnoam is one of the people I have most wanted to work with since the very beginning of openai.\nonly took 10 years.\ni think it will be worth the wait!\n引用\nNoam Shazeer\n@NoamShazeer\n·\n6月18日\nI’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there.\nIt was a difficult decision to move on. I’m incredibly proud of the amazing team at Google and everything we’ve built together.  It has been an honor and a pleasure to\n344\n316\n8,572\n77万",
-          "captured_at": "2026-06-19T00:55:26.827Z"
+          "text": "Sam Altman\n@sama\n·\n6月18日\nnoam is one of the people I have most wanted to work with since the very beginning of openai.\nonly took 10 years.\ni think it will be worth the wait!\n引用\nNoam Shazeer\n@NoamShazeer\n·\n6月18日\nI’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there.\nIt was a difficult decision to move on. I’m incredibly proud of the amazing team at Google and everything we’ve built together.  It has been an honor and a pleasure to\n381\n359\n9,670\n94万",
+          "captured_at": "2026-06-20T01:06:29.797Z"
         },
         {
           "id": "2065160791205310565",
           "href": "https://x.com/sama/status/2065160791205310565",
           "time": "2026-06-11T19:54:36.000Z",
-          "text": "Sam Altman\n@sama\n·\n6月12日\nreally looking forward to working together!\n引用\nJohannes Landgraf\n@jolandgraf\n·\n6月11日\n 文章\nOna is joining OpenAI\nI always thought selling the company would feel like an ending. Instead, our life's work is getting bigger and more important.\nToday, we are announcing that @ona_hq has entered into an agreement to...\n512\n210\n3,005\n84万",
-          "captured_at": "2026-06-19T00:55:26.827Z"
+          "text": "Sam Altman\n@sama\n·\n6月12日\nreally looking forward to working together!\n引用\nJohannes Landgraf\n@jolandgraf\n·\n6月11日\n 文章\nOna is joining OpenAI\nI always thought selling the company would feel like an ending. Instead, our life's work is getting bigger and more important.\nToday, we are announcing that @ona_hq has entered into an agreement to...\n514\n211\n3,010\n85万",
+          "captured_at": "2026-06-20T01:06:29.797Z"
         },
         {
           "id": "2064088940932641225",
           "href": "https://x.com/sama/status/2064088940932641225",
           "time": "2026-06-08T20:55:27.000Z",
-          "text": "Sam Altman\n@sama\n·\n6月9日\nHere is our current plan for OpenAI:\nBuilt to benefit everyone: our plan\n来自 openai.com\n1,339\n1,234\n7,677\n162万",
-          "captured_at": "2026-06-19T00:55:26.827Z"
+          "text": "Sam Altman\n@sama\n·\n6月9日\nHere is our current plan for OpenAI:\nBuilt to benefit everyone: our plan\n来自 openai.com\n1,346\n1,236\n7,680\n163万",
+          "captured_at": "2026-06-20T01:06:29.797Z"
         },
         {
           "id": "2063779477419901071",
           "href": "https://x.com/sama/status/2063779477419901071",
           "time": "2026-06-08T00:25:45.000Z",
-          "text": "Sam Altman\n@sama\n·\n6月8日\ninteresting recursive loop here maybe\n引用\nTibo\n@thsottiaux\n·\n6月8日\nI have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or incredibly useful work with Codex and give them 10X usage limits for a month to see what they can do with it.\nFirst one tomorrow.\n504\n205\n3,700\n80万",
-          "captured_at": "2026-06-19T00:55:26.827Z"
+          "text": "Sam Altman\n@sama\n·\n6月8日\ninteresting recursive loop here maybe\n引用\nTibo\n@thsottiaux\n·\n6月8日\nI have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or incredibly useful work with Codex and give them 10X usage limits for a month to see what they can do with it.\nFirst one tomorrow.\n504\n204\n3,700\n80万",
+          "captured_at": "2026-06-20T01:06:29.797Z"
         },
         {
           "id": "2062661191969972645",
           "href": "https://x.com/sama/status/2062661191969972645",
           "time": "2026-06-04T22:22:05.000Z",
-          "text": "Sam Altman\n@sama\n·\n6月5日\nman the early days of the internet were so special\n2,135\n1,270\n1.5万\n109万",
-          "captured_at": "2026-06-19T00:55:26.827Z"
+          "text": "Sam Altman\n@sama\n·\n6月5日\nman the early days of the internet were so special\n2,134\n1,273\n1.5万\n109万",
+          "captured_at": "2026-06-20T01:06:29.797Z"
         },
         {
           "id": "2062661071761211561",
           "href": "https://x.com/sama/status/2062661071761211561",
           "time": "2026-06-04T22:21:36.000Z",
-          "text": "Sam Altman\n@sama\n·\n6月5日\nbuild and publish web apps with chatgpt!\ni really wish i had this when i was a kid, but i do miss hypercard.\n引用\nOpenAI\n@OpenAI\n·\n6月3日\nBuilding apps has never been easier.\nWith Sites, Codex can turn your work, ideas, and plans into an interactive website or app your team can explore, use, and share with a URL.\nRolling out to Business and Enterprise plans, before expanding more broadly.\n437\n234\n3,446\n50万",
-          "captured_at": "2026-06-19T00:55:26.827Z"
+          "text": "Sam Altman\n@sama\n·\n6月5日\nbuild and publish web apps with chatgpt!\ni really wish i had this when i was a kid, but i do miss hypercard.\n引用\nOpenAI\n@OpenAI\n·\n6月3日\nBuilding apps has never been easier.\nWith Sites, Codex can turn your work, ideas, and plans into an interactive website or app your team can explore, use, and share with a URL.\nRolling out to Business and Enterprise plans, before expanding more broadly.\n437\n234\n3,444\n50万",
+          "captured_at": "2026-06-20T01:06:29.797Z"
         },
         {
           "id": "2062660086787613116",
           "href": "https://x.com/sama/status/2062660086787613116",
           "time": "2026-06-04T22:17:41.000Z",
-          "text": "Sam Altman\n@sama\n·\n6月5日\nbig upgrade to chatgpt memory rolling out today!\n引用\nOpenAI\n@OpenAI\n·\n6月5日\nWe’ve been researching new ways for ChatGPT memory to carry context across conversations and keep it useful over time.\nToday, that work is rolling out as a more capable memory system in ChatGPT. \nhttps://\nopenai.com/index/chatgpt-\nmemory-dreaming/\n…\n536\n305\n5,541\n76万",
-          "captured_at": "2026-06-19T00:55:26.827Z"
+          "text": "Sam Altman\n@sama\n·\n6月5日\nbig upgrade to chatgpt memory rolling out today!\n引用\nOpenAI\n@OpenAI\n·\n6月5日\nWe’ve been researching new ways for ChatGPT memory to carry context across conversations and keep it useful over time.\nToday, that work is rolling out as a more capable memory system in ChatGPT. \nhttps://\nopenai.com/index/chatgpt-\nmemory-dreaming/\n…\n536\n305\n5,539\n76万",
+          "captured_at": "2026-06-20T01:06:29.797Z"
         }
       ]
     },
@@ -382,43 +389,43 @@
           "id": "2065490793092337691",
           "href": "https://x.com/karpathy/status/2065490793092337691",
           "time": "2026-06-12T17:45:54.000Z",
-          "text": "Andrej Karpathy\n@karpathy\n·\n6月13日\nIn awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! \n361\n1,045\n2.1万\n90万",
-          "captured_at": "2026-06-19T00:55:36.497Z"
+          "text": "Andrej Karpathy\n@karpathy\n·\n6月13日\nIn awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! \n367\n1,046\n2.1万\n91万",
+          "captured_at": "2026-06-20T01:06:39.455Z"
         },
         {
           "id": "2064409694761054332",
           "href": "https://x.com/karpathy/status/2064409694761054332",
           "time": "2026-06-09T18:10:00.000Z",
-          "text": "Andrej Karpathy\n@karpathy\n·\n6月10日\nThis is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward\n显示更多\n引用\nClaude\n@claudeai\n·\n6月10日\n回复 @claudeai\nFable 5 is state-of-the-art on nearly all tested benchmarks, with exceptional performance in software engineering, knowledge work, scientific research, and vision.\nThe longer and more complex the task, the larger Fable 5’s lead over our other models.\n1,287\n2,837\n2.5万\n274万",
-          "captured_at": "2026-06-19T00:55:36.497Z"
+          "text": "Andrej Karpathy\n@karpathy\n·\n6月10日\nThis is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward\n显示更多\n引用\nClaude\n@claudeai\n·\n6月10日\n回复 @claudeai\nFable 5 is state-of-the-art on nearly all tested benchmarks, with exceptional performance in software engineering, knowledge work, scientific research, and vision.\nThe longer and more complex the task, the larger Fable 5’s lead over our other models.\n1,296\n2,838\n2.5万\n275万",
+          "captured_at": "2026-06-20T01:06:39.455Z"
         },
         {
           "id": "2056753169888334312",
           "href": "https://x.com/karpathy/status/2056753169888334312",
           "time": "2026-05-19T15:05:42.000Z",
-          "text": "Andrej Karpathy\n@karpathy\n·\n5月19日\nPersonal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&D. I remain deeply passionate about education and plan to resume my work on it in time.\n7,990\n1.8万\n15万\n2,759万",
-          "captured_at": "2026-06-19T00:55:36.497Z"
+          "text": "Andrej Karpathy\n@karpathy\n·\n5月19日\nPersonal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&D. I remain deeply passionate about education and plan to resume my work on it in time.\n7,989\n1.8万\n15万\n2,760万",
+          "captured_at": "2026-06-20T01:06:39.455Z"
         },
         {
           "id": "2053872850101285137",
           "href": "https://x.com/karpathy/status/2053872850101285137",
           "time": "2026-05-11T16:20:21.000Z",
           "text": "Andrej Karpathy\n@karpathy\n·\n5月12日\nThis works really well btw, at the end of your query ask your LLM to \"structure your response as HTML\", then view the generated file in your browser. I've also had some success asking the LLM to present its output as slideshows, etc.\nMore generally, imo audio is the\n显示更多\n引用\nThariq\n@trq212\n·\n5月9日\n 文章\nUsing Claude Code: The Unreasonable Effectiveness of HTML\nThis is now also on the Claude Blog.\nMarkdown has become the dominant file format used by agents to communicate with us. It’s simple, portable, has some rich text capability and is easy for you to...\n1,043\n2,489\n1.9万\n384万",
-          "captured_at": "2026-06-19T00:55:36.497Z"
+          "captured_at": "2026-06-20T01:06:39.455Z"
         },
         {
           "id": "2049907410303865030",
           "href": "https://x.com/karpathy/status/2049907410303865030",
           "time": "2026-04-30T17:43:06.000Z",
           "text": "Andrej Karpathy\n@karpathy\n·\n5月1日\nThis is the the quote I've been citing a lot recently.\n引用\nkache\n@yacineMTB\n·\n2月4日\nyou can outsource your thinking\nbut you cannot outsource your understanding\n852\n4,650\n4.6万\n260万",
-          "captured_at": "2026-06-19T00:55:36.497Z"
+          "captured_at": "2026-06-20T01:06:39.455Z"
         },
         {
           "id": "2049903821095354523",
           "href": "https://x.com/karpathy/status/2049903821095354523",
           "time": "2026-04-30T17:28:50.000Z",
-          "text": "Andrej Karpathy\n@karpathy\n·\n5月1日\nFireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights:\nThe first theme I tried to push on is that LLMs are about a lot more than just speeding up what existed before (e.g. coding). Three examples of new horizons:\n1. menugen: an app that can be fully engulfed by\n显示更多\n引用\nStephanie Zhan\n@stephzhan\n·\n4月29日\n@karpathy and I are back! At @sequoia AI Ascent 2026. And a lot has changed. Last year, he coined “vibe coding”. This year, he’s never felt more behind as a programmer.\nThe big shift: vibe coding raised the floor. Agentic engineering raises the ceiling.\nWe talk about what it\n373\n947\n6,131\n120万",
-          "captured_at": "2026-06-19T00:55:36.497Z"
+          "text": "Andrej Karpathy\n@karpathy\n·\n5月1日\nFireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights:\nThe first theme I tried to push on is that LLMs are about a lot more than just speeding up what existed before (e.g. coding). Three examples of new horizons:\n1. menugen: an app that can be fully engulfed by\n显示更多\n引用\nStephanie Zhan\n@stephzhan\n·\n4月29日\n@karpathy and I are back! At @sequoia AI Ascent 2026. And a lot has changed. Last year, he coined “vibe coding”. This year, he’s never felt more behind as a programmer.\nThe big shift: vibe coding raised the floor. Agentic engineering raises the ceiling.\nWe talk about what it\n373\n945\n6,133\n120万",
+          "captured_at": "2026-06-20T01:06:39.455Z"
         }
       ]
     },
@@ -430,39 +437,39 @@
       "status": "ok",
       "tweets": [
         {
+          "id": "2068115087165194703",
+          "href": "https://x.com/swyx/status/2068115087165194703",
+          "time": "2026-06-19T23:33:55.000Z",
+          "text": "swyx\n@swyx\n·\n1小时\nme holding on to \n@aidotengineer\n World Fair x World Cup SF game tix today\n0:01 / 0:13\n5\n2\n9\n1,788",
+          "captured_at": "2026-06-20T01:06:49.139Z"
+        },
+        {
+          "id": "2068084391260426345",
+          "href": "https://x.com/swyx/status/2068084391260426345",
+          "time": "2026-06-19T21:31:56.000Z",
+          "text": "swyx\n@swyx\n·\n3小时\nAnthropic is going to IPO at $2T\n引用\nJohn Jumper\n@JohnJumperSci\n·\n9小时\nA bit of news: After nearly 9 years, I have decided to leave Google DeepMind and join Anthropic (after taking some time to recharge). I am incredibly grateful for my time at GDM. @demishassabis took a real chance letting me lead the AlphaFold team just six months after finishing\n15\n3\n165\n2万",
+          "captured_at": "2026-06-20T01:06:49.139Z"
+        },
+        {
           "id": "2067764968808915392",
           "href": "https://x.com/swyx/status/2067764968808915392",
           "time": "2026-06-19T00:22:40.000Z",
-          "text": "swyx\n@swyx\n·\n32分钟\n+55% in one day. i should start a fund\n(dm if you would actually help me run one, i have no idea how to run one)\n引用\nswyx\n@swyx\n·\n20小时\nmy notes from the @midjourney medical launch\n- @Scobleizer compared this to the original iPhone and Tesla launches (that he was also front row for)\n- find you a man who looks at you like @bryan_johnson was  ing for @DavidSHolz \n- see @iScienceLuvr tweet linked for Nature paper  x.com/latentspacepod…\n3\n1\n13\n2,090",
-          "captured_at": "2026-06-19T00:55:46.144Z"
+          "text": "swyx\n@swyx\n·\n6月19日\n+55% in one day. i should start a fund\n(dm if you would actually help me run one, i have no idea how to run one)\n引用\nswyx\n@swyx\n·\n6月18日\nmy notes from the @midjourney medical launch\n- @Scobleizer compared this to the original iPhone and Tesla launches (that he was also front row for)\n- find you a man who looks at you like @bryan_johnson was  ing for @DavidSHolz \n- see @iScienceLuvr tweet linked for Nature paper  x.com/latentspacepod…\n32\n6\n137\n3.6万",
+          "captured_at": "2026-06-20T01:06:49.139Z"
         },
         {
           "id": "2067658992739029252",
           "href": "https://x.com/swyx/status/2067658992739029252",
           "time": "2026-06-18T17:21:33.000Z",
-          "text": "swyx\n@swyx\n·\n7小时\ncompletely unprompted wow moment from today - asked \n@DevinAI\n to make us a \n@tbpn\n style breaking news style announcement card for our AIEWF speakers drop tmr, FULLY expecting it to fail at a heavily visual task\nand it oneshotted the WHOLE DAMN THING\n引用\nRyan Carson\n@ryancarson\n·\n4月10日\n回复 @theo\nHonestly just use Devin. It's really really good now\n25\n4\n59\n1.3万",
-          "captured_at": "2026-06-19T00:55:46.144Z"
+          "text": "swyx\n@swyx\n·\n6月19日\ncompletely unprompted wow moment from today - asked \n@DevinAI\n to make us a \n@tbpn\n style breaking news style announcement card for our AIEWF speakers drop tmr, FULLY expecting it to fail at a heavily visual task\nand it oneshotted the WHOLE DAMN THING\n引用\nRyan Carson\n@ryancarson\n·\n4月10日\n回复 @theo\nHonestly just use Devin. It's really really good now\n34\n4\n85\n2万",
+          "captured_at": "2026-06-20T01:06:49.139Z"
         },
         {
           "id": "2067744224892821737",
           "href": "https://x.com/swyx/status/2067744224892821737",
           "time": "2026-06-18T23:00:14.000Z",
-          "text": "swyx\n@swyx\n·\n1小时\n引用\nAI Engineer\n@aiDotEngineer\n·\n1小时\n BREAKING\n(are we doing X right?)  x.com/trq212/status/…\n4\n1,899",
-          "captured_at": "2026-06-19T00:55:46.144Z"
-        },
-        {
-          "id": "2067468331918242127",
-          "href": "https://x.com/swyx/status/2067468331918242127",
-          "time": "2026-06-18T04:43:56.000Z",
-          "text": "swyx\n@swyx\n·\n20小时\nmy notes from the \n@midjourney\n medical launch\n- \n@Scobleizer\n compared this to the original iPhone and Tesla launches (that he was also front row for)\n- find you a man who looks at you like \n@bryan_johnson\n was  ing for \n@DavidSHolz\n \n- see \n@iScienceLuvr\n tweet linked for Nature paper\n显示更多\n引用\nLatent.Space\n@latentspacepod\n·\n20小时\n[AINews Jun 17] \nMidjourney Medical: scan your organs like you step on a scale\nhttps://\nlatent.space/p/ainews-midjo\nurney-medical-scan-your\n…\n42\n50\n385\n13万",
-          "captured_at": "2026-06-19T00:55:46.144Z"
-        },
-        {
-          "id": "2067741621647749296",
-          "href": "https://x.com/swyx/status/2067741621647749296",
-          "time": "2026-06-18T22:49:54.000Z",
-          "text": "swyx\n@swyx\n·\n2小时\nwhoa i had no idea who i was talking to lmao \n引用\nIan Kar\n@iankar_\n·\n3小时\nashlee vance really is the goat...what a great paragraph\n1\n3\n2,317",
-          "captured_at": "2026-06-19T00:55:46.144Z"
+          "text": "swyx\n@swyx\n·\n6月19日\n引用\nAI Engineer\n@aiDotEngineer\n·\n6月19日\n BREAKING\n(are we doing X right?)  x.com/trq212/status/…\n6\n4,020",
+          "captured_at": "2026-06-20T01:06:49.139Z"
         }
       ]
     },
@@ -474,60 +481,60 @@
       "status": "ok",
       "tweets": [
         {
+          "id": "2068069963126943909",
+          "href": "https://x.com/levelsio/status/2068069963126943909",
+          "time": "2026-06-19T20:34:36.000Z",
+          "text": "@levelsio\n@levelsio\n·\n4小时\nI respect his game but he's proving that the biggest part of beauty (especially for a guy) is about your energy and if you are in love with life and that itself is infectious to other people which is why they are then attracted to you\n引用\nClavicular Updates\n@Clav0Updates\n·\n8小时\nClavicular lands in Paris for Fashion Week just 2 weeks after getting 4 surgeries \n25\n21\n609\n9万",
+          "captured_at": "2026-06-20T01:06:58.815Z"
+        },
+        {
+          "id": "2068033500792717454",
+          "href": "https://x.com/levelsio/status/2068033500792717454",
+          "time": "2026-06-19T18:09:43.000Z",
+          "text": "@levelsio\n@levelsio\n·\n6小时\nAny SF startup office we can work from today? SF cafes are absolutely unworkable, reminds me of Lisbon, no laptop culture which is of course ironic\n68\n12\n745\n12万",
+          "captured_at": "2026-06-20T01:06:58.815Z"
+        },
+        {
+          "id": "2068014812815331632",
+          "href": "https://x.com/levelsio/status/2068014812815331632",
+          "time": "2026-06-19T16:55:27.000Z",
+          "text": "@levelsio\n@levelsio\n·\n8小时\nWhere to go for brunch in SF and there's not a massive line and 1 hour wait like Plow? Like steak and eggs etc??\n53\n4\n162\n6.4万",
+          "captured_at": "2026-06-20T01:06:58.815Z"
+        },
+        {
+          "id": "2067779131279032686",
+          "href": "https://x.com/levelsio/status/2067779131279032686",
+          "time": "2026-06-19T01:18:57.000Z",
+          "text": "@levelsio\n@levelsio\n·\n23小时\nThat's not really what's commoditization is about I think\nIt means more that the profit margin of something goes to close to zero where it's sold at cost, as in it's not really a good business anymore where you can make lots of money\nIt means that it's so easy to make and\n显示更多\n引用\nPraneeth Pike\n@praneethpike\n·\n23小时\ncan the average person watch a youtube video to make themselves a michelin star dish at home? yes. \nbut does that mean everyone will do it or want to always do it? no. \ndid making high quality recipes kill restaurants? no. x.com/levelsio/statu…\n57\n11\n159\n8.9万",
+          "captured_at": "2026-06-20T01:06:58.815Z"
+        },
+        {
           "id": "2067754350030778382",
           "href": "https://x.com/levelsio/status/2067754350030778382",
           "time": "2026-06-18T23:40:28.000Z",
-          "text": "@levelsio\n@levelsio\n·\n1小时\nAnyone know what's the best Thai massage in SF? I need massage after deadlift for lower back a bit, also foot massage would be nice\n32\n1\n41\n1.6万",
-          "captured_at": "2026-06-19T00:55:55.815Z"
+          "text": "@levelsio\n@levelsio\n·\n6月19日\nAnyone know what's the best Thai massage in SF? I need massage after deadlift for lower back a bit, also foot massage would be nice\n82\n3\n197\n10万",
+          "captured_at": "2026-06-20T01:06:58.815Z"
         },
         {
           "id": "2067755279111041425",
           "href": "https://x.com/levelsio/status/2067755279111041425",
           "time": "2026-06-18T23:44:10.000Z",
-          "text": "@levelsio\n@levelsio\n·\n1小时\nI did Romanian deadlift but I did bit too heavy, injury but a bit tense\n7\n7\n6,853",
-          "captured_at": "2026-06-19T00:55:55.815Z"
+          "text": "@levelsio\n@levelsio\n·\n6月19日\nI did Romanian deadlift but I did bit too heavy, injury but a bit tense\n13\n23\n2万",
+          "captured_at": "2026-06-20T01:06:58.815Z"
         },
         {
           "id": "2067730243817783595",
           "href": "https://x.com/levelsio/status/2067730243817783595",
           "time": "2026-06-18T22:04:41.000Z",
-          "text": "@levelsio\n@levelsio\n·\n2小时\nHoly shit America took stroopwafels and made them pre-workouts?\n34\n15\n470\n3万",
-          "captured_at": "2026-06-19T00:55:55.815Z"
+          "text": "@levelsio\n@levelsio\n·\n6月19日\nHoly shit America took stroopwafels and made them pre-workouts?\n63\n34\n1,110\n10万",
+          "captured_at": "2026-06-20T01:06:58.815Z"
         },
         {
           "id": "2067719335733322158",
           "href": "https://x.com/levelsio/status/2067719335733322158",
           "time": "2026-06-18T21:21:20.000Z",
-          "text": "@levelsio\n@levelsio\n·\n3小时\nYou won't believe the things the rest of the world already solved but Europeans still have to go through in 2026\n引用\nChristian Ascone\n@christianascone\n·\n3小时\nItaly here, 38°C outside. \nI just got back from the cinema, where there were about 50 people (fortunately, half the theater was empty).\nThe AC was set to the minimum (I guess ~29°C), and I was sweating throughout the entire movie. People kept going to the toilets just to cool x.com/levelsio/statu…\n14\n9\n284\n3.8万",
-          "captured_at": "2026-06-19T00:55:55.815Z"
-        },
-        {
-          "id": "2067697024070266910",
-          "href": "https://x.com/levelsio/status/2067697024070266910",
-          "time": "2026-06-18T19:52:41.000Z",
-          "text": "@levelsio\n@levelsio\n·\n5小时\nRegarding nose trimmers, I bought one, trimmed my nose hairs and then it kept getting itchy af, then I told my dad and he said you shouldn't use a nose trimmer cuz it just makes the end of the hairs flat and then they will grow back and itch, so better not to trim?\n58\n4\n187\n7.6万",
-          "captured_at": "2026-06-19T00:55:55.815Z"
-        },
-        {
-          "id": "2067694338931372196",
-          "href": "https://x.com/levelsio/status/2067694338931372196",
-          "time": "2026-06-18T19:42:00.000Z",
-          "text": "@levelsio\n@levelsio\n·\n5小时\nI don't know if it's placebo but using Fable for those few days it felt it just never gave up on problems and kept trying crazy ways to get whatever you wanted done. Now back on Opus and it's kinda lazy, thinks things are too daunting and keeps asking if you sure\n68\n32\n972\n5万",
-          "captured_at": "2026-06-19T00:55:55.815Z"
-        },
-        {
-          "id": "2067682551213519202",
-          "href": "https://x.com/levelsio/status/2067682551213519202",
-          "time": "2026-06-18T18:55:10.000Z",
-          "text": "@levelsio\n@levelsio\n·\n6小时\nThank you \n@onlinedopamine\n  You get it!!!\n引用\nVik\n@onlinedopamine\n·\n6小时\nhow can you not be inspired???  x.com/levelsio/statu…\n7\n1\n88\n2.3万",
-          "captured_at": "2026-06-19T00:55:55.815Z"
-        },
-        {
-          "id": "2067662326082498899",
-          "href": "https://x.com/levelsio/status/2067662326082498899",
-          "time": "2026-06-18T17:34:48.000Z",
-          "text": "@levelsio\n@levelsio\n·\n7小时\nI don't know if it's obvious information or not but if you talk to random people in San Francisco the general thing they say is that software is commoditized cause so easy to make anything with AI fast (like how I cancelled all my SaaS subscriptions and just vibe coded a\n显示更多\n77\n104\n2,337\n18万",
-          "captured_at": "2026-06-19T00:55:55.815Z"
+          "text": "@levelsio\n@levelsio\n·\n6月19日\nYou won't believe the things the rest of the world already solved but Europeans still have to go through in 2026\n引用\nChristian Ascone\n@christianascone\n·\n6月19日\nItaly here, 38°C outside. \nI just got back from the cinema, where there were about 50 people (fortunately, half the theater was empty).\nThe AC was set to the minimum (I guess ~29°C), and I was sweating throughout the entire movie. People kept going to the toilets just to cool x.com/levelsio/statu…\n23\n16\n783\n12万",
+          "captured_at": "2026-06-20T01:06:58.815Z"
         }
       ]
     },
@@ -542,50 +549,50 @@
           "id": "2067683803032850813",
           "href": "https://x.com/AravSrinivas/status/2067683803032850813",
           "time": "2026-06-18T19:00:09.000Z",
-          "text": "Aravind Srinivas\n@AravSrinivas\n·\n5小时\nfrontier ai for all\n引用\njietang\n@jietang\n·\n12小时\n回复 @elonmusk 和 @teortaxesTex\nwon’t take that long\n16\n5\n247\n2.4万",
-          "captured_at": "2026-06-19T00:56:05.498Z"
+          "text": "Aravind Srinivas\n@AravSrinivas\n·\n6月19日\nfrontier ai for all\n引用\njietang\n@jietang\n·\n6月18日\n回复 @elonmusk 和 @teortaxesTex\nwon’t take that long\n26\n18\n581\n5.4万",
+          "captured_at": "2026-06-20T01:07:08.483Z"
         },
         {
           "id": "2067645893394968742",
           "href": "https://x.com/AravSrinivas/status/2067645893394968742",
           "time": "2026-06-18T16:29:30.000Z",
-          "text": "Aravind Srinivas\n@AravSrinivas\n·\n8小时\nContext graphs will be the best way for businesses to enable and deploy agentic harnesses. There's a lot of context fragmentation across so many different tools in every company. A god-mode view that self-improves and self-organizes is the way tacit knowledge can be captured.\n50\n39\n555\n3.1万",
-          "captured_at": "2026-06-19T00:56:05.498Z"
+          "text": "Aravind Srinivas\n@AravSrinivas\n·\n6月19日\nContext graphs will be the best way for businesses to enable and deploy agentic harnesses. There's a lot of context fragmentation across so many different tools in every company. A god-mode view that self-improves and self-organizes is the way tacit knowledge can be captured.\n79\n93\n937\n9.7万",
+          "captured_at": "2026-06-20T01:07:08.483Z"
         },
         {
           "id": "2066669393128649007",
           "href": "https://x.com/AravSrinivas/status/2066669393128649007",
           "time": "2026-06-15T23:49:14.000Z",
-          "text": "Aravind Srinivas\n@AravSrinivas\n·\n6月16日\nNew Pod\n引用\nHarry Stebbings\n@HarryStebbings\n·\n6月15日\n回复 @HarryStebbings\nSpotify  \nhttps://\nopen.spotify.com/episode/2lcWvX\nxCs1rIie9r5HQE13\n…\nYoutube  \nhttps://\nyoutu.be/OxFyVcO1Yow\nApple Podcasts  \nhttps://\npodcasts.apple.com/us/podcast/20v\nc-micron-will-be-more-valuable-than-meta-how-export/id958230465?i=1000772739926\n…\n12\n5\n94\n2.8万",
-          "captured_at": "2026-06-19T00:56:05.498Z"
+          "text": "Aravind Srinivas\n@AravSrinivas\n·\n6月16日\nNew Pod\n引用\nHarry Stebbings\n@HarryStebbings\n·\n6月15日\n回复 @HarryStebbings\nSpotify  \nhttps://\nopen.spotify.com/episode/2lcWvX\nxCs1rIie9r5HQE13\n…\nYoutube  \nhttps://\nyoutu.be/OxFyVcO1Yow\nApple Podcasts  \nhttps://\npodcasts.apple.com/us/podcast/20v\nc-micron-will-be-more-valuable-than-meta-how-export/id958230465?i=1000772739926\n…\n12\n5\n98\n2.9万",
+          "captured_at": "2026-06-20T01:07:08.483Z"
         },
         {
           "id": "2066207511469003154",
           "href": "https://x.com/AravSrinivas/status/2066207511469003154",
           "time": "2026-06-14T17:13:53.000Z",
-          "text": "Aravind Srinivas\n@AravSrinivas\n·\n6月15日\nCongrats \n@LewisHamilton\n on a brilliant win today in Barcelona!\n24\n136\n2,250\n11万",
-          "captured_at": "2026-06-19T00:56:05.498Z"
+          "text": "Aravind Srinivas\n@AravSrinivas\n·\n6月15日\nCongrats \n@LewisHamilton\n on a brilliant win today in Barcelona!\n24\n140\n2,267\n11万",
+          "captured_at": "2026-06-20T01:07:08.483Z"
         },
         {
           "id": "2065551922367512641",
           "href": "https://x.com/AravSrinivas/status/2065551922367512641",
           "time": "2026-06-12T21:48:49.000Z",
-          "text": "Aravind Srinivas\n@AravSrinivas\n·\n6月13日\n“I don’t ever give up” Congrats \n@elonmusk\n \n72\n629\n5,771\n28万",
-          "captured_at": "2026-06-19T00:56:05.498Z"
+          "text": "Aravind Srinivas\n@AravSrinivas\n·\n6月13日\n“I don’t ever give up” Congrats \n@elonmusk\n \n73\n629\n5,782\n28万",
+          "captured_at": "2026-06-20T01:07:08.483Z"
         },
         {
           "id": "2065443027997356539",
           "href": "https://x.com/AravSrinivas/status/2065443027997356539",
           "time": "2026-06-12T14:36:06.000Z",
           "text": "Aravind Srinivas\n@AravSrinivas\n·\n6月12日\nPlan Mode has been released to all Computer users. Will now clarify with you sufficiently before proceeding with a plan and pulling the right connectors\n引用\nComputer\n@AskPerplexity\n·\n6月12日\nPlan Mode, clarifying questions, and connector requests now appear directly in the input box — bringing all interactions with Computer to the same place.\n43\n14\n279\n4.1万",
-          "captured_at": "2026-06-19T00:56:05.498Z"
+          "captured_at": "2026-06-20T01:07:08.483Z"
         },
         {
           "id": "2065138600589607176",
           "href": "https://x.com/AravSrinivas/status/2065138600589607176",
           "time": "2026-06-11T18:26:25.000Z",
           "text": "Aravind Srinivas\n@AravSrinivas\n·\n6月12日\nPerplexity Computer is an agent harness that just keeps delivering. Deep Research is now a native skill inside Computer (you don’t have to explicitly think of using it as a standalone mode anymore as long as you’re using Computer), furthering the state of the art significantly\n引用\nPerplexity\n@perplexity_ai\n·\n6月12日\n回复 @perplexity_ai\nDeep Research in Computer is built on our Search as Code architecture.\nThe model writes code that assembles search itself, running thousands of retrieval steps in parallel, tailored to each question.\nIt outperforms legacy Deep Research on every benchmark.\n39\n19\n286\n3.2万",
-          "captured_at": "2026-06-19T00:56:05.498Z"
+          "captured_at": "2026-06-20T01:07:08.483Z"
         }
       ]
     },
@@ -597,60 +604,60 @@
       "status": "ok",
       "tweets": [
         {
-          "id": "2067767909770805685",
-          "href": "https://x.com/emollick/status/2067767909770805685",
-          "time": "2026-06-19T00:34:21.000Z",
-          "text": "Ethan Mollick\n@emollick\n·\n21分钟\nOne of the key moments of the LLM era, ali g with GPT-3.5 and the decision by Microsoft to not take down Bing/Sydney/GPT-4 after the \n@kevinroose\n New York Times article.\n引用\nroon\n@tszzl\n·\n50分钟\nimo it is crazy that openai, years into the heated AGI race, released o1 and described in quite a bit of detail the principles of scaling RL over CoT. I wonder how much value was dispersed to the public that day\n1\n31\n4,311",
-          "captured_at": "2026-06-19T00:56:15.172Z"
+          "id": "2068083655570784675",
+          "href": "https://x.com/emollick/status/2068083655570784675",
+          "time": "2026-06-19T21:29:01.000Z",
+          "text": "Ethan Mollick\n@emollick\n·\n3小时\nI suspect that companies underestimate the value of using higher intelligence for tasks where weaker AIs seem to be good enough to hit KPIs at a lower price.\nAt least build architectures where you can flexibly experiment with smarter models to see whether it makes a difference.\n18\n14\n205\n1.1万",
+          "captured_at": "2026-06-20T01:07:18.145Z"
         },
         {
-          "id": "2067757196188774660",
-          "href": "https://x.com/emollick/status/2067757196188774660",
-          "time": "2026-06-18T23:51:47.000Z",
-          "text": "Ethan Mollick\n@emollick\n·\n1小时\nI have given AA a hard time about its previous agentic evaluation but this looks like a good and impressive benchmark for real world knowledge work that is unsaturated and had private hold out tests.\nThis is one to watch - I didn’t see a human comparison score though?\n引用\nArtificial Analysis\n@ArtificialAnlys\n·\n1小时\nAnnouncing AA-Briefcase, the benchmark for the next era of agentic knowledge work\nAA-Briefcase is our new benchmark for testing models on long-horizon knowledge work tasks in complex projects built by industry experts. Models are evaluated on multi-week projects, each with many\n5\n1\n78\n9,350",
-          "captured_at": "2026-06-19T00:56:15.172Z"
+          "id": "2067988324984217626",
+          "href": "https://x.com/emollick/status/2067988324984217626",
+          "time": "2026-06-19T15:10:12.000Z",
+          "text": "Ethan Mollick\n@emollick\n·\n9小时\nMore evidence, from a large-scale study in China, that using AI hurts learning if it undermines mental effort. When homework time drops due to AI use, so do test scores.\nAcross studies, a theme: AI tutoring in support of classes is good, using AI to \"help\" with homework is bad.\n41\n108\n537\n3.4万",
+          "captured_at": "2026-06-20T01:07:18.145Z"
         },
         {
-          "id": "2067669551685218638",
-          "href": "https://x.com/emollick/status/2067669551685218638",
-          "time": "2026-06-18T18:03:31.000Z",
-          "text": "Ethan Mollick\n@emollick\n·\n6小时\nIs there a business model for being profitable off training frontier open weights models? \nOther people can host, fine-tune, consult etc. as least as cheaply as you can. There are no ancilary product sales & it is fantastically expensive to make compared to most open source work\n27\n6\n155\n1.8万",
-          "captured_at": "2026-06-19T00:56:15.172Z"
+          "id": "2067989839740309698",
+          "href": "https://x.com/emollick/status/2067989839740309698",
+          "time": "2026-06-19T15:16:13.000Z",
+          "text": "Ethan Mollick\n@emollick\n·\n9小时\nThe instinct of students is often to use AI to help with homework, even if they are not trying to cheat. And because off-the-shelf chatbots are a helpful assistant, rather than a tutor, they give you the answer and undermine learning.\nPaper:\ncepr.org\nDP21577 The Generative AI Learning Penalty: Evidence from Chinese Secondary Education\nUsing 30 months of panel data on 26,811 Chinese students in grades 7--12, we study how generative AI affects homework productivity and learning. The data combine monthly closed-book exams, high-sch...\n4\n5\n42\n8,015",
+          "captured_at": "2026-06-20T01:07:18.145Z"
         },
         {
-          "id": "2067670308937437542",
-          "href": "https://x.com/emollick/status/2067670308937437542",
-          "time": "2026-06-18T18:06:31.000Z",
-          "text": "Ethan Mollick\n@emollick\n·\n6小时\nI know I keep harping on this theme but open weights models are quite valuable to AI users, and people seem to assume that they will always keep up as training costs grow, but I don’t really understand the incentives as opposed to open source, which was much clearer\n6\n5\n74\n9,544",
-          "captured_at": "2026-06-19T00:56:15.172Z"
+          "id": "2067991571266417132",
+          "href": "https://x.com/emollick/status/2067991571266417132",
+          "time": "2026-06-19T15:23:06.000Z",
+          "text": "Ethan Mollick\n@emollick\n·\n9小时\nI talk about the research on when AI undermines, versus supporting, thinking and learning here:\nChoosing to Stay Human\n来自 oneusefulthing.org\n1\n19\n5,920",
+          "captured_at": "2026-06-20T01:07:18.145Z"
         },
         {
-          "id": "2067680363804020979",
-          "href": "https://x.com/emollick/status/2067680363804020979",
-          "time": "2026-06-18T18:46:29.000Z",
-          "text": "Ethan Mollick\n@emollick\n·\n6小时\nKind of a big deal that no one has been able to answer this question definitively?\n(The only complimentary asset owner open weights makes sense for is Nvidia)\n5\n38\n5,656",
-          "captured_at": "2026-06-19T00:56:15.172Z"
+          "id": "2067839690158268923",
+          "href": "https://x.com/emollick/status/2067839690158268923",
+          "time": "2026-06-19T05:19:35.000Z",
+          "text": "Ethan Mollick\n@emollick\n·\n19小时\nSome (early) evidence that managers have the highest success rate in using Claude Code for coding.\nI have been arguing that management is an AI superpower, as clearly specifying what you want, how to do it & what good looks like is key to using agents. \nhttps://\noneusefulthing.org/p/management-a\ns-ai-superpower\n…\n73\n136\n1,251\n9.1万",
+          "captured_at": "2026-06-20T01:07:18.145Z"
         },
         {
-          "id": "2067617541762031900",
-          "href": "https://x.com/emollick/status/2067617541762031900",
-          "time": "2026-06-18T14:36:51.000Z",
-          "text": "Ethan Mollick\n@emollick\n·\n10小时\nInterestingly, Google no longer has a public frontier model. They have a very good flash model, but a very good flash model can't do frontier work without a good frontier orchestrator.\nI am sure this will change soon, but Gemini 3.1 Pro is very clearly lagging at this point.\n79\n35\n1,175\n8.9万",
-          "captured_at": "2026-06-19T00:56:15.172Z"
+          "id": "2067840160234868965",
+          "href": "https://x.com/emollick/status/2067840160234868965",
+          "time": "2026-06-19T05:21:27.000Z",
+          "text": "Ethan Mollick\n@emollick\n·\n19小时\nAnd here is the Anthropic report with the chart: \nhttps://\ncdn.sanity.io/files/4zrzovbb\n/website/b93c7465925dc052b9102209b29b58f11df4fe55.pdf\n…\n5\n3\n58\n1.3万",
+          "captured_at": "2026-06-20T01:07:18.145Z"
         },
         {
-          "id": "2067620594221298007",
-          "href": "https://x.com/emollick/status/2067620594221298007",
-          "time": "2026-06-18T14:48:58.000Z",
-          "text": "Ethan Mollick\n@emollick\n·\n10小时\nIts also a shame because Google has some of the most innovative AI apps, like NotebookLM, but they need smarter brains to power them (as well as the harnesses needed for those brains)\n15\n8\n152\n1.4万",
-          "captured_at": "2026-06-19T00:56:15.172Z"
+          "id": "2067844731539751010",
+          "href": "https://x.com/emollick/status/2067844731539751010",
+          "time": "2026-06-19T05:39:37.000Z",
+          "text": "Ethan Mollick\n@emollick\n·\n19小时\nAnd this really is early evidence: sample size was excellent and approach to verifying outputs makes sense, but there are lots of unobservable elements that could play a role in relative success rates.\n2\n1\n51\n1.1万",
+          "captured_at": "2026-06-20T01:07:18.145Z"
         },
         {
-          "id": "2067656937735364894",
-          "href": "https://x.com/emollick/status/2067656937735364894",
-          "time": "2026-06-18T17:13:23.000Z",
-          "text": "Ethan Mollick\n@emollick\n·\n7小时\nUpdate!\n引用\nLogan Kilpatrick\n@OfficialLoganK\n·\n8小时\n回复 @emollick\nteam is cooking on 3.5 pro!\n1\n61\n9,505",
-          "captured_at": "2026-06-19T00:56:15.172Z"
+          "id": "2067803678002594021",
+          "href": "https://x.com/emollick/status/2067803678002594021",
+          "time": "2026-06-19T02:56:29.000Z",
+          "text": "Ethan Mollick\n@emollick\n·\n22小时\nThere are papers that show training AI on \"evil\" data results in general misalignment, so it is nice to know the opposite is  true and that beneficial RL data in one field leads to more aligned models across a range of tasks.\n引用\nKaran Singhal\n@thekaransinghal\n·\n6月19日\nNew research on beneficial RL: models trained on a small amount of beneficial trait data improve on a wide range of alignment and benefits evaluations, even if trained only on health domain data.\nWe hope it’s a step towards more broadly and persistently beneficial models. \n11\n16\n161\n2.4万",
+          "captured_at": "2026-06-20T01:07:18.145Z"
         }
       ]
     },
@@ -662,60 +669,60 @@
       "status": "ok",
       "tweets": [
         {
+          "id": "2068023661345603899",
+          "href": "https://x.com/bindureddy/status/2068023661345603899",
+          "time": "2026-06-19T17:30:37.000Z",
+          "text": "Bindu Reddy\n@bindureddy\n·\n7小时\nGoogle Gemini can make a come back  \nMuch like OpenAI did with GPT 5.5 and the upcoming GPT 5.6\nThey have the data, the compute and the talent\n33\n9\n187\n9,016",
+          "captured_at": "2026-06-20T01:07:27.811Z"
+        },
+        {
           "id": "2067769761371676875",
           "href": "https://x.com/bindureddy/status/2067769761371676875",
           "time": "2026-06-19T00:41:43.000Z",
-          "text": "Bindu Reddy\n@bindureddy\n·\n14分钟\nLLM combinations that create powerful agents\nBackend-coder- GPT 5.5 + Codex 5.3\nPpt creator - Opus 4.8 + Sonnet 4.8\nSearch - Flash 3.5 + Grok API\nVideo agent -  Sonnet + SeeDance 2.0\nImage agent - Haiku +  GPT Image 2\nMassively parallel - Opus 4.8 + Kimi 2.7 / Deepseek Flash\n显示更多\n1\n2\n12\n2,321",
-          "captured_at": "2026-06-19T00:56:24.812Z"
+          "text": "Bindu Reddy\n@bindureddy\n·\n6月19日\nLLM combinations that create powerful agents\nBackend-coder- GPT 5.5 + Codex 5.3\nPpt creator - Opus 4.8 + Sonnet 4.8\nSearch - Flash 3.5 + Grok API\nVideo agent -  Sonnet + SeeDance 2.0\nImage agent - Haiku +  GPT Image 2\nMassively parallel - Opus 4.8 + Kimi 2.7 / Deepseek Flash\n显示更多\n65\n165\n2,147\n150万",
+          "captured_at": "2026-06-20T01:07:27.811Z"
         },
         {
           "id": "2067678047525027848",
           "href": "https://x.com/bindureddy/status/2067678047525027848",
           "time": "2026-06-18T18:37:16.000Z",
-          "text": "Bindu Reddy\n@bindureddy\n·\n6小时\nCredible Rumors have GPT 5.6 launching next Thursday\nIt will be a very capable model which is much cheaper and faster. \nMore practical and useful in the real world than Fable which was expensive\n14\n9\n128\n6,090",
-          "captured_at": "2026-06-19T00:56:24.812Z"
+          "text": "Bindu Reddy\n@bindureddy\n·\n6月19日\nCredible Rumors have GPT 5.6 launching next Thursday\nIt will be a very capable model which is much cheaper and faster. \nMore practical and useful in the real world than Fable which was expensive\n18\n12\n171\n1万",
+          "captured_at": "2026-06-20T01:07:27.811Z"
         },
         {
           "id": "2067519376681804011",
           "href": "https://x.com/bindureddy/status/2067519376681804011",
           "time": "2026-06-18T08:06:46.000Z",
-          "text": "Bindu Reddy\n@bindureddy\n·\n16小时\nThe biggest question in AI today -\nWill GPT 5.6 Be Allowed to Launch?\nHopefully \n50\n11\n264\n2万",
-          "captured_at": "2026-06-19T00:56:24.812Z"
+          "text": "Bindu Reddy\n@bindureddy\n·\n6月18日\nThe biggest question in AI today -\nWill GPT 5.6 Be Allowed to Launch?\nHopefully \n54\n11\n277\n2.3万",
+          "captured_at": "2026-06-20T01:07:27.811Z"
         },
         {
           "id": "2067380901714268474",
           "href": "https://x.com/bindureddy/status/2067380901714268474",
           "time": "2026-06-17T22:56:31.000Z",
-          "text": "Bindu Reddy\n@bindureddy\n·\n6月18日\n Open Source Abacus AI Dragon Models Are Coming \nOpen-source has almost caught to closed source.\nWe are actively working on\n> creating a flash size model for small agentic loops\n> best for 1000s of parallel tasks\nName: Smaug-Flash\nGIF\n61\n113\n1,754\n149万",
-          "captured_at": "2026-06-19T00:56:24.812Z"
+          "text": "Bindu Reddy\n@bindureddy\n·\n6月18日\n Open Source Abacus AI Dragon Models Are Coming \nOpen-source has almost caught to closed source.\nWe are actively working on\n> creating a flash size model for small agentic loops\n> best for 1000s of parallel tasks\nName: Smaug-Flash\nGIF\n64\n122\n2,018\n184万",
+          "captured_at": "2026-06-20T01:07:27.811Z"
         },
         {
           "id": "2067342531617337513",
           "href": "https://x.com/bindureddy/status/2067342531617337513",
           "time": "2026-06-17T20:24:03.000Z",
-          "text": "Bindu Reddy\n@bindureddy\n·\n6月18日\nAnthropic employees are complaining that the Trump admin is attacking them\nThey are in part to blame - maybe they should stop saying they are building tech that is going to kill us all \nPlus - why even build it, if it really will kill us all \n64\n18\n338\n1.6万",
-          "captured_at": "2026-06-19T00:56:24.812Z"
+          "text": "Bindu Reddy\n@bindureddy\n·\n6月18日\nAnthropic employees are complaining that the Trump admin is attacking them\nThey are in part to blame - maybe they should stop saying they are building tech that is going to kill us all \nPlus - why even build it, if it really will kill us all \n64\n18\n347\n1.7万",
+          "captured_at": "2026-06-20T01:07:27.811Z"
         },
         {
           "id": "2067298931386806352",
           "href": "https://x.com/bindureddy/status/2067298931386806352",
           "time": "2026-06-17T17:30:48.000Z",
-          "text": "Bindu Reddy\n@bindureddy\n·\n6月18日\nGPT 5.6 will bring back the AGI energy that the Fable ban took away \nGemini 3.5 Pro will add more fuel to it \n23\n9\n299\n1.3万",
-          "captured_at": "2026-06-19T00:56:24.812Z"
+          "text": "Bindu Reddy\n@bindureddy\n·\n6月18日\nGPT 5.6 will bring back the AGI energy that the Fable ban took away \nGemini 3.5 Pro will add more fuel to it \n23\n10\n307\n1.3万",
+          "captured_at": "2026-06-20T01:07:27.811Z"
         },
         {
           "id": "2067291976102535352",
           "href": "https://x.com/bindureddy/status/2067291976102535352",
           "time": "2026-06-17T17:03:10.000Z",
-          "text": "Bindu Reddy\n@bindureddy\n·\n6月18日\nGLM 5.2 Is Mind Blowingly Good On Benchmarks \nYes, it even beats Opus 4.8 and GPT 5.5. on some of them\nHowever it is also bench-maxxed!  Internal evals have it behind them \nSTILL - A HUGE WIN FOR OPEN SOURCE AI\n48\n20\n370\n2万",
-          "captured_at": "2026-06-19T00:56:24.812Z"
-        },
-        {
-          "id": "2066963043104563443",
-          "href": "https://x.com/bindureddy/status/2066963043104563443",
-          "time": "2026-06-16T19:16:06.000Z",
-          "text": "Bindu Reddy\n@bindureddy\n·\n6月17日\nTBH, the entire world has no choice but to go ALL IN on open-source\n- closed US models can be yanked any time\n- your business can sink if you depend on AI\n- dynamic switching and optionality is a MUST\nSoon the US government will find out all models, not just Fable 5, can also\n显示更多\n44\n24\n264\n1.4万",
-          "captured_at": "2026-06-19T00:56:24.812Z"
+          "text": "Bindu Reddy\n@bindureddy\n·\n6月18日\nGLM 5.2 Is Mind Blowingly Good On Benchmarks \nYes, it even beats Opus 4.8 and GPT 5.5. on some of them\nHowever it is also bench-maxxed!  Internal evals have it behind them \nSTILL - A HUGE WIN FOR OPEN SOURCE AI\n47\n21\n372\n2.1万",
+          "captured_at": "2026-06-20T01:07:27.811Z"
         }
       ]
     },
@@ -727,60 +734,60 @@
       "status": "ok",
       "tweets": [
         {
+          "id": "2068016345451831480",
+          "href": "https://x.com/gdb/status/2068016345451831480",
+          "time": "2026-06-19T17:01:33.000Z",
+          "text": "Greg Brockman\n@gdb\n·\n8小时\nOpenAI for helping families facing rare genetic diseases. This was done with o3 which is over a year old, amazing to think what will be possible with today’s models.\n引用\nOpenAI Newsroom\n@OpenAINewsroom\n·\n8小时\nFor families facing rare genetic diseases, answers can be hard to find.\n@HallieJackson spoke live with @_perloj and Dr. Catherine Brownstein about the new NEJM AI paper and our work with Boston Children’s Hospital, where experts used o3 Deep Research to help diagnose rare\n0:01 / 3:08\n50\n33\n423\n3.9万",
+          "captured_at": "2026-06-20T01:07:37.507Z"
+        },
+        {
+          "id": "2067884985596703079",
+          "href": "https://x.com/gdb/status/2067884985596703079",
+          "time": "2026-06-19T08:19:34.000Z",
+          "text": "Greg Brockman\n@gdb\n·\n16小时\nCodex app is very good\n引用\nQ\n@q_yeon_gyu_kim\n·\n18小时\ncodex desktop app @OpenAI is crazy\ni have a session with nearly 300 subagents running more than a day\nthanks to @justsisyphus lazycodex\nand it is just smooth as hell\nno bad experience\n0:01 / 0:35\n70\n45\n850\n9.6万",
+          "captured_at": "2026-06-20T01:07:37.507Z"
+        },
+        {
+          "id": "2067843106469515603",
+          "href": "https://x.com/gdb/status/2067843106469515603",
+          "time": "2026-06-19T05:33:09.000Z",
+          "text": "Greg Brockman\n@gdb\n·\n19小时\nLaunching credit usage analytics and updated spend controls for enterprises, available in our global admin console:\n引用\nangel\n@angelbrodin\n·\n6月19日\nnothing gets admins more excited than enterprise spend controls and we’re happy to deliver! \nadmins can now manage spend controls for codex and that on the workspace, group, and user level; users can also view their credit consumption and request additional credits. \nhappy\n47\n37\n611\n6.5万",
+          "captured_at": "2026-06-20T01:07:37.507Z"
+        },
+        {
           "id": "2067722188027994275",
           "href": "https://x.com/gdb/status/2067722188027994275",
           "time": "2026-06-18T21:32:40.000Z",
-          "text": "Greg Brockman\n@gdb\n·\n3小时\nthe reasoning paradigm unlocking medical progress for humanity\n引用\nNoam Brown\n@polynoamial\n·\n8小时\nWhen we announced @OpenAI o1 some researchers from other labs told me we made a strategic mistake and should have kept it secret so we could accelerate ourselves and pull farther ahead of the competition. Studies like these make me confident we made the right choice. x.com/openai/status/…\n24\n9\n336\n3.4万",
-          "captured_at": "2026-06-19T00:56:34.528Z"
+          "text": "Greg Brockman\n@gdb\n·\n6月19日\nthe reasoning paradigm unlocking medical progress for humanity\n引用\nNoam Brown\n@polynoamial\n·\n6月19日\nWhen we announced @OpenAI o1 some researchers from other labs told me we made a strategic mistake and should have kept it secret so we could accelerate ourselves and pull farther ahead of the competition. Studies like these make me confident we made the right choice. x.com/openai/status/…\n32\n13\n594\n7.1万",
+          "captured_at": "2026-06-20T01:07:37.507Z"
         },
         {
           "id": "2067700691062464887",
           "href": "https://x.com/gdb/status/2067700691062464887",
           "time": "2026-06-18T20:07:15.000Z",
-          "text": "Greg Brockman\n@gdb\n·\n4小时\nyou can now teach Codex by demonstration:\n引用\nOpenAI Developers\n@OpenAIDevs\n·\n6小时\nShow Codex a workflow once. Reuse it as a skill.\nRecord & Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request.\nCodex turns that demo into an inspectable, editable skill.\nYou control when recording starts and stops.\n0:01 / 2:05\n51\n72\n1,324\n20万",
-          "captured_at": "2026-06-19T00:56:34.528Z"
+          "text": "Greg Brockman\n@gdb\n·\n6月19日\nyou can now teach Codex by demonstration:\n引用\nOpenAI Developers\n@OpenAIDevs\n·\n6月19日\nShow Codex a workflow once. Reuse it as a skill.\nRecord & Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request.\nCodex turns that demo into an inspectable, editable skill.\nYou control when recording starts and stops.\n2:03\n93\n141\n2,833\n48万",
+          "captured_at": "2026-06-20T01:07:37.507Z"
         },
         {
           "id": "2067675030335668270",
           "href": "https://x.com/gdb/status/2067675030335668270",
           "time": "2026-06-18T18:25:17.000Z",
-          "text": "Greg Brockman\n@gdb\n·\n6小时\nWe've collaborating with hundreds of physicians across 60 countries, 49 languages, and 26 specialties to make ChatGPT great at health-related questions for everyone:\n引用\nOpenAI\n@OpenAI\n·\n6小时\nGPT-5.5 Instant is now on par with our frontier Thinking models for health-related questions.\nEvery week, more than 230 million people turn to ChatGPT with health and wellness questions, and GPT-5.5 Instant is better at recognizing when urgent care may be needed, asking for\n0:01 / 2:51\n42\n34\n621\n6.1万",
-          "captured_at": "2026-06-19T00:56:34.528Z"
+          "text": "Greg Brockman\n@gdb\n·\n6月19日\nWe've collaborating with hundreds of physicians across 60 countries, 49 languages, and 26 specialties to make ChatGPT great at health-related questions for everyone:\n引用\nOpenAI\n@OpenAI\n·\n6月19日\nGPT-5.5 Instant is now on par with our frontier Thinking models for health-related questions.\nEvery week, more than 230 million people turn to ChatGPT with health and wellness questions, and GPT-5.5 Instant is better at recognizing when urgent care may be needed, asking for\n59\n61\n897\n9.6万",
+          "captured_at": "2026-06-20T01:07:37.507Z"
         },
         {
           "id": "2067648020934701541",
           "href": "https://x.com/gdb/status/2067648020934701541",
           "time": "2026-06-18T16:37:57.000Z",
-          "text": "Greg Brockman\n@gdb\n·\n8小时\nOpenAI for helping find 18 new diagnoses across 376 previously unsolved medical cases.\nIncludes diagnosing Kyra, who has been trying to understand her muscle weakness since age 9, with a rare form of myofibrillar myopathy shortly before her 28th birthday.\n引用\nOpenAI\n@OpenAI\n·\n9小时\n1:49\nTogether with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.\n57\n72\n780\n5.9万",
-          "captured_at": "2026-06-19T00:56:34.528Z"
+          "text": "Greg Brockman\n@gdb\n·\n6月19日\nOpenAI for helping find 18 new diagnoses across 376 previously unsolved medical cases.\nIncludes diagnosing Kyra, who has been trying to understand her muscle weakness since age 9, with a rare form of myofibrillar myopathy shortly before her 28th birthday.\n引用\nOpenAI\n@OpenAI\n·\n6月18日\n1:49\nTogether with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.\n71\n116\n1,161\n9.4万",
+          "captured_at": "2026-06-20T01:07:37.507Z"
         },
         {
           "id": "2067473704200863774",
           "href": "https://x.com/gdb/status/2067473704200863774",
           "time": "2026-06-18T05:05:17.000Z",
-          "text": "Greg Brockman\n@gdb\n·\n19小时\na much better way to build iOS apps\n引用\nBlaida\n@kedytcom\n·\n6月17日\nOpenAI just killed the worst part of building iOS apps with AI.\nThe new Codex \"Build iOS Apps\" plugin can now:\n→ run your app in an in-app browser\n→ open SwiftUI previews\n→ hot reload edits\nall without leaving Codex.\nNo more copy-paste-build-screenshot loop. The agent sees\n0:40\n68\n114\n2,967\n56万",
-          "captured_at": "2026-06-19T00:56:34.528Z"
-        },
-        {
-          "id": "2067466758873915887",
-          "href": "https://x.com/gdb/status/2067466758873915887",
-          "time": "2026-06-18T04:37:41.000Z",
-          "text": "Greg Brockman\n@gdb\n·\n20小时\nRust is great.\nWe’re making a $600,000 commitment to the Rust Foundation:\n引用\nCharlie Marsh\n@charliermarsh\n·\n6月18日\nAt OpenAI, we're continuing to bet on Rust as the future of systems programming.\nI'm proud to announce that we're making a $600,000 commitment to the Rust Foundation, which combines our Platinum membership with additional support for maintainer efforts across the Rust ecosystem.\n111\n173\n3,073\n28万",
-          "captured_at": "2026-06-19T00:56:34.528Z"
-        },
-        {
-          "id": "2067344606128468445",
-          "href": "https://x.com/gdb/status/2067344606128468445",
-          "time": "2026-06-17T20:32:18.000Z",
-          "text": "Greg Brockman\n@gdb\n·\n6月18日\nGPT-5.4 for improving a challenging reaction in medicinal chemistry:\n引用\nOpenAI\n@OpenAI\n·\n6月18日\nGPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result.\nPaired with \nhttp://\nMolecule.one’s Maria AI and specialized lab, the model proposed an unexpected way to improve a widely used reaction in drug discovery.\n43\n25\n528\n7万",
-          "captured_at": "2026-06-19T00:56:34.528Z"
-        },
-        {
-          "id": "2067144669897859411",
-          "href": "https://x.com/gdb/status/2067144669897859411",
-          "time": "2026-06-17T07:17:49.000Z",
-          "text": "Greg Brockman\n@gdb\n·\n6月17日\nAI for helping crack a health mystery. So many stories like this, and a clear motivation to be excited about AI:\n引用\nAmy Deng\n@amydeng_\n·\n6月17日\nI’m an AI researcher turned brain tumor patient, and recently I used the models to crack my mystery fatigue faster than my PCP could. \nI believe everyone can do the same with their own symptoms. Here’s how:\n80\n67\n820\n11万",
-          "captured_at": "2026-06-19T00:56:34.528Z"
+          "text": "Greg Brockman\n@gdb\n·\n6月18日\na much better way to build iOS apps\n引用\nBlaida\n@kedytcom\n·\n6月17日\nOpenAI just killed the worst part of building iOS apps with AI.\nThe new Codex \"Build iOS Apps\" plugin can now:\n→ run your app in an in-app browser\n→ open SwiftUI previews\n→ hot reload edits\nall without leaving Codex.\nNo more copy-paste-build-screenshot loop. The agent sees\n81\n140\n3,539\n69万",
+          "captured_at": "2026-06-20T01:07:37.507Z"
         }
       ]
     },
@@ -795,36 +802,36 @@
           "id": "2067529328892809331",
           "href": "https://x.com/coolish/status/2067529328892809331",
           "time": "2026-06-18T08:46:19.000Z",
-          "text": "paulwei\n@coolish\n·\n16小时\n记录下关于A股目前不成熟的猜想：\nA股老登股，像是茅台这种，\n已经沦为末日战车、情绪高潮信号，\n过去几年里，往往茅台出现\n脉冲大涨摸到前期筹码密集压力位，\n就意味着上证大盘后续要歇一下了\n（如图所示）。\n结合时间周期角度，\n2024年“爱在深秋”至今600天左右，\n2005～2006那轮A股牛是700多天，\n显示更多\n引用\npaulwei\n@coolish\n·\n2024年10月6日\n众里选股千百度，蓦然回首，\n指数ETF却在，灯火阑珊处。\n最近有身边朋友来问我\nA股怎么买，我统一回答是，\n打开支付宝买沪深ETF最好，\n这对一个浅经验普通玩家来说，\n远比自己去券商开户→银证转账→选股买卖要好，\n操作体验最简单快捷，各方面坑最少，\n情绪更稳定，睡眠质量更高，\n56\n16\n123\n2.6万",
-          "captured_at": "2026-06-19T00:56:44.158Z"
+          "text": "paulwei\n@coolish\n·\n6月18日\n记录下关于A股目前不成熟的猜想：\nA股老登股，像是茅台这种，\n已经沦为末日战车、情绪高潮信号，\n过去几年里，往往茅台出现\n脉冲大涨摸到前期筹码密集压力位，\n就意味着上证大盘后续要歇一下了\n（如图所示）。\n结合时间周期角度，\n2024年“爱在深秋”至今600天左右，\n2005～2006那轮A股牛是700多天，\n显示更多\n引用\npaulwei\n@coolish\n·\n2024年10月6日\n众里选股千百度，蓦然回首，\n指数ETF却在，灯火阑珊处。\n最近有身边朋友来问我\nA股怎么买，我统一回答是，\n打开支付宝买沪深ETF最好，\n这对一个浅经验普通玩家来说，\n远比自己去券商开户→银证转账→选股买卖要好，\n操作体验最简单快捷，各方面坑最少，\n情绪更稳定，睡眠质量更高，\n75\n19\n138\n3.2万",
+          "captured_at": "2026-06-20T01:07:47.170Z"
         },
         {
           "id": "2067239089552965943",
           "href": "https://x.com/coolish/status/2067239089552965943",
           "time": "2026-06-17T13:33:01.000Z",
-          "text": "paulwei\n@coolish\n·\n6月17日\n有人说100万韩元5年翻了80倍\n变成8000万韩元，但其实就是5万美金\n有这么强的示范效应吗？\n给没注册的人展示新手村奖励\n给新手村的人展示野外奖励\n给野外的人展示地下城奖励\n给地下城的人展示打Boss奖励\n金额如果太大，没入坑的人就不容易代入了？\n反而是差一点点就能够得着的故事\n更能影响最多的人？\n引用\n美股金虫哥\n@SpermCapital\n·\n6月17日\n14岁拿100万韩元起步，5年变成8000万，19岁男偶像韩维辰带火韩国股市\n韩国19岁男偶像韩维辰在《认识的哥哥》公开8000%炒股收益率，直接把韩国股市带火了\n节目播出后，连小学生都开始入场。韩国0至9岁儿童新开户数今年环比暴增119.2%，10至19岁青少年增幅也达101.1%\n39\n3\n28\n1.4万",
-          "captured_at": "2026-06-19T00:56:44.158Z"
+          "text": "paulwei\n@coolish\n·\n6月17日\n有人说100万韩元5年翻了80倍\n变成8000万韩元，但其实就是5万美金\n有这么强的示范效应吗？\n给没注册的人展示新手村奖励\n给新手村的人展示野外奖励\n给野外的人展示地下城奖励\n给地下城的人展示打Boss奖励\n金额如果太大，没入坑的人就不容易代入了？\n反而是差一点点就能够得着的故事\n更能影响最多的人？\n引用\n美股金虫哥\n@SpermCapital\n·\n6月17日\n14岁拿100万韩元起步，5年变成8000万，19岁男偶像韩维辰带火韩国股市\n韩国19岁男偶像韩维辰在《认识的哥哥》公开8000%炒股收益率，直接把韩国股市带火了\n节目播出后，连小学生都开始入场。韩国0至9岁儿童新开户数今年环比暴增119.2%，10至19岁青少年增幅也达101.1%\n39\n3\n29\n1.4万",
+          "captured_at": "2026-06-20T01:07:47.170Z"
         },
         {
           "id": "2066796120802771267",
           "href": "https://x.com/coolish/status/2066796120802771267",
           "time": "2026-06-16T08:12:49.000Z",
-          "text": "paulwei\n@coolish\n·\n6月16日\n所以上一届世界杯，\n已经是最后一届没有视频 +AI 的了\n0:38\n引用\npaulwei\n@coolish\n·\n6月12日\n是否可以做个免费世界杯 AI 直播网站（有延迟也可）\n画面由基于原始直播，由 AI 实时生成显示\n各种贝叶斯概率预测数据/趣味特效/AI毒蛇语音解说，\n甚至球员体力槽，游戏视角等..\n可以比较不同模型表现。\n会比较有趣吗？有这类服务吗？\n这届世界杯会不会是最后一届\n没有这类+AI实时视频服务的世界杯？\n83\n31\n396\n37万",
-          "captured_at": "2026-06-19T00:56:44.158Z"
+          "text": "paulwei\n@coolish\n·\n6月16日\n所以上一届世界杯，\n已经是最后一届没有视频 +AI 的了\n0:38\n引用\npaulwei\n@coolish\n·\n6月12日\n是否可以做个免费世界杯 AI 直播网站（有延迟也可）\n画面由基于原始直播，由 AI 实时生成显示\n各种贝叶斯概率预测数据/趣味特效/AI毒蛇语音解说，\n甚至球员体力槽，游戏视角等..\n可以比较不同模型表现。\n会比较有趣吗？有这类服务吗？\n这届世界杯会不会是最后一届\n没有这类+AI实时视频服务的世界杯？\n85\n31\n397\n37万",
+          "captured_at": "2026-06-20T01:07:47.170Z"
         },
         {
           "id": "2066111368538046706",
           "href": "https://x.com/coolish/status/2066111368538046706",
           "time": "2026-06-14T10:51:51.000Z",
-          "text": "paulwei\n@coolish\n·\n6月14日\n受大橙子蛊惑，买了 Fitbit 确实比Whoop好\n真正随身AI教练、身体管家，会主动那种。\n持续主动收集你的选择题反馈，\n会记住细节，比如提到过肩膀不舒服，\n它会记住并定制后续。\n今天健身时想到它们要是都有个\n实时语音健身记录功能就好了：\n健身时嘴里说“二头肌杠铃弯举30kg 1组”\n就太方便了。\n引用\n很大很大的橙子\n@0xVeryBigOrange\n·\n6月1日\nWhoop在Fibit面前，像个傻子。\n52\n1\n61\n3万",
-          "captured_at": "2026-06-19T00:56:44.158Z"
+          "text": "paulwei\n@coolish\n·\n6月14日\n受大橙子蛊惑，买了 Fitbit 确实比Whoop好\n真正随身AI教练、身体管家，会主动那种。\n持续主动收集你的选择题反馈，\n会记住细节，比如提到过肩膀不舒服，\n它会记住并定制后续。\n今天健身时想到它们要是都有个\n实时语音健身记录功能就好了：\n健身时嘴里说“二头肌杠铃弯举30kg 1组”\n就太方便了。\n引用\n很大很大的橙子\n@0xVeryBigOrange\n·\n6月1日\nWhoop在Fibit面前，像个傻子。\n52\n1\n61\n3.1万",
+          "captured_at": "2026-06-20T01:07:47.170Z"
         },
         {
           "id": "2065738491485708666",
           "href": "https://x.com/coolish/status/2065738491485708666",
           "time": "2026-06-13T10:10:10.000Z",
           "text": "paulwei\n@coolish\n·\n6月13日\n今天下午3点左发 n 条\n关于 DeAI 的推文后这三个小时里，\nTao（Bittensor）涨了 10% \n引用\npaulwei\n@coolish\n·\n6月13日\n回复 @coolish\n38\n8\n53\n2.9万",
-          "captured_at": "2026-06-19T00:56:44.158Z"
+          "captured_at": "2026-06-20T01:07:47.170Z"
         }
       ]
     },
@@ -839,57 +846,57 @@
           "id": "2067637722966380891",
           "href": "https://x.com/gefei55/status/2067637722966380891",
           "time": "2026-06-18T15:57:02.000Z",
-          "text": "哥飞\n@gefei55\n·\n8小时\n搞了个小玩具，调用了推特的 API 来扫描有点赞且带链接的推文，然后去查域名流量。\n找到了个新产品 subservientghostface . com ，5 月 13 注册的域名，5 月 18 天访问量 202 万。\n群友都知道，找新词要去 Google Trends 查找和验证，毕竟 Similarweb、Semrush 反应都没它快。\n显示更多\n29\n27\n175\n1.1万",
-          "captured_at": "2026-06-19T00:56:53.791Z"
+          "text": "哥飞\n@gefei55\n·\n6月18日\n搞了个小玩具，调用了推特的 API 来扫描有点赞且带链接的推文，然后去查域名流量。\n找到了个新产品 subservientghostface . com ，5 月 13 注册的域名，5 月 18 天访问量 202 万。\n群友都知道，找新词要去 Google Trends 查找和验证，毕竟 Similarweb、Semrush 反应都没它快。\n显示更多\n104\n62\n376\n2.9万",
+          "captured_at": "2026-06-20T01:07:56.822Z"
         },
         {
           "id": "2067645113862599139",
           "href": "https://x.com/gefei55/status/2067645113862599139",
           "time": "2026-06-18T16:26:24.000Z",
-          "text": "哥飞\n@gefei55\n·\n8小时\n代码开源了，可以在自己本机部署起来了\nGitHub - qiayue/Twitter-Trend-Radar: Twitter Trend Radar\n来自 github.com\n2\n2\n21\n1,220",
-          "captured_at": "2026-06-19T00:56:53.791Z"
+          "text": "哥飞\n@gefei55\n·\n6月19日\n代码开源了，可以在自己本机部署起来了\nGitHub - qiayue/Twitter-Trend-Radar: Twitter Trend Radar\n来自 github.com\n2\n6\n41\n2,847",
+          "captured_at": "2026-06-20T01:07:56.822Z"
         },
         {
           "id": "2067638491396415768",
           "href": "https://x.com/gefei55/status/2067638491396415768",
           "time": "2026-06-18T16:00:05.000Z",
-          "text": "哥飞\n@gefei55\n·\n8小时\n回复 \n@gefei55\n用的是这个 Twitter API ，我感觉好处是便宜，我调用了 194 次，也才 0.43 刀，不到 3 块钱，让我可以不用心疼 API 费用，尽情调用\nhttps://\naisa.one/skills/twitter\n-autopilot?utm_source=twitter&utm_medium=text&utm_campaign=gefei\n…\n1\n1\n14\n1,447",
-          "captured_at": "2026-06-19T00:56:53.791Z"
+          "text": "哥飞\n@gefei55\n·\n6月19日\n回复 \n@gefei55\n用的是这个 Twitter API ，我感觉好处是便宜，我调用了 194 次，也才 0.43 刀，不到 3 块钱，让我可以不用心疼 API 费用，尽情调用\nhttps://\naisa.one/skills/twitter\n-autopilot?utm_source=twitter&utm_medium=text&utm_campaign=gefei\n…\n3\n1\n26\n3,360",
+          "captured_at": "2026-06-20T01:07:56.822Z"
         },
         {
           "id": "2067555656325107794",
           "href": "https://x.com/gefei55/status/2067555656325107794",
           "time": "2026-06-18T10:30:56.000Z",
-          "text": "哥飞\n@gefei55\n·\n14小时\n这个开源项目有点意思，可以把你的 ChatGPT 变成 变成 Codex \nhttps://\ngithub.com/Waishnav/devsp\nace\n…\nhttp://\nChatGPT.com 现在支持 MCP connector（让 ChatGPT 连接外部工具）。\nDevSpace 就是一个跑在你本地的 MCP 服务器，通过隧道暴露给 \nhttp://\nChatGPT.com。\n一旦连上，ChatGPT\n显示更多\nGitHub - Waishnav/devspace: Turn ChatGPT into Codex\n来自 github.com\n30\n19\n108\n1.4万",
-          "captured_at": "2026-06-19T00:56:53.791Z"
+          "text": "哥飞\n@gefei55\n·\n6月18日\n这个开源项目有点意思，可以把你的 ChatGPT 变成 变成 Codex \nhttps://\ngithub.com/Waishnav/devsp\nace\n…\nhttp://\nChatGPT.com 现在支持 MCP connector（让 ChatGPT 连接外部工具）。\nDevSpace 就是一个跑在你本地的 MCP 服务器，通过隧道暴露给 \nhttp://\nChatGPT.com。\n一旦连上，ChatGPT\n显示更多\nGitHub - Waishnav/devspace: Turn ChatGPT into Codex\n来自 github.com\n66\n23\n165\n2.3万",
+          "captured_at": "2026-06-20T01:07:56.822Z"
         },
         {
           "id": "2067568447136080000",
           "href": "https://x.com/gefei55/status/2067568447136080000",
           "time": "2026-06-18T11:21:46.000Z",
-          "text": "哥飞\n@gefei55\n·\n13小时\n解释一下，他这样做的好处有两个：\n1、CodeX 里无法使用最强模型 GPT 5.5 Pro ，但是 \nhttp://\nChatGPT.com 里是可以的。你可以先用最强模型做规划，之后再用 CodeX 来写代码；\n2、\nhttp://\nChatGPT.com 和 CodeX 的额度是分开计算的，用这个方法，你相当于付一次钱，有了双倍额度。\n1\n3\n3,584",
-          "captured_at": "2026-06-19T00:56:53.791Z"
+          "text": "哥飞\n@gefei55\n·\n6月18日\n解释一下，他这样做的好处有两个：\n1、CodeX 里无法使用最强模型 GPT 5.5 Pro ，但是 \nhttp://\nChatGPT.com 里是可以的。你可以先用最强模型做规划，之后再用 CodeX 来写代码；\n2、\nhttp://\nChatGPT.com 和 CodeX 的额度是分开计算的，用这个方法，你相当于付一次钱，有了双倍额度。\n1\n7\n4,539",
+          "captured_at": "2026-06-20T01:07:56.822Z"
         },
         {
           "id": "2067497295420215736",
           "href": "https://x.com/gefei55/status/2067497295420215736",
           "time": "2026-06-18T06:39:02.000Z",
-          "text": "哥飞\n@gefei55\n·\n18小时\n如果你想让你的产品出现在一些依赖于 Similarweb 数据做出来的榜单上，最简单的办法，就是去给自己网站刷流量，写个简单脚本，打开网站首页，停留几十秒，之后随机再点击首页里的某一个链接，打开第二个页面，停留几十秒，然后关闭页面。\n这样你的谷歌分析数据就会有大量的访问数据，再在 Similarweb\n显示更多\n11\n4\n26\n6,177",
-          "captured_at": "2026-06-19T00:56:53.791Z"
+          "text": "哥飞\n@gefei55\n·\n6月18日\n如果你想让你的产品出现在一些依赖于 Similarweb 数据做出来的榜单上，最简单的办法，就是去给自己网站刷流量，写个简单脚本，打开网站首页，停留几十秒，之后随机再点击首页里的某一个链接，打开第二个页面，停留几十秒，然后关闭页面。\n这样你的谷歌分析数据就会有大量的访问数据，再在 Similarweb\n显示更多\n13\n4\n33\n7,355",
+          "captured_at": "2026-06-20T01:07:56.822Z"
         },
         {
           "id": "2066131711453429827",
           "href": "https://x.com/gefei55/status/2066131711453429827",
           "time": "2026-06-14T12:12:41.000Z",
-          "text": "哥飞\n@gefei55\n·\n6月14日\n想问下大家，钉钉和飞书的市场份额到底是因为什么原因而拉开差距的？\n飞书做对了哪些？可以真的归因出来吗？\n124\n4\n43\n7.9万",
-          "captured_at": "2026-06-19T00:56:53.791Z"
+          "text": "哥飞\n@gefei55\n·\n6月14日\n想问下大家，钉钉和飞书的市场份额到底是因为什么原因而拉开差距的？\n飞书做对了哪些？可以真的归因出来吗？\n124\n4\n43\n8万",
+          "captured_at": "2026-06-20T01:07:56.822Z"
         },
         {
           "id": "2065618952668254486",
           "href": "https://x.com/gefei55/status/2065618952668254486",
           "time": "2026-06-13T02:15:10.000Z",
-          "text": "哥飞\n@gefei55\n·\n6月13日\n如果用2022年之前的眼光看，我此时此刻正在做的事情，其实是科幻电影里才会出现的场景。\n一个中国程序员，坐在从深圳到广州的汽车上，双手握住手机，眼睛盯着屏幕，两只大拇指按住键盘，不断的敲击，输入文字，指挥一个远在美国的全球最顶级 AI\n显示更多\n14\n1\n14\n9,244",
-          "captured_at": "2026-06-19T00:56:53.791Z"
+          "text": "哥飞\n@gefei55\n·\n6月13日\n如果用2022年之前的眼光看，我此时此刻正在做的事情，其实是科幻电影里才会出现的场景。\n一个中国程序员，坐在从深圳到广州的汽车上，双手握住手机，眼睛盯着屏幕，两只大拇指按住键盘，不断的敲击，输入文字，指挥一个远在美国的全球最顶级 AI\n显示更多\n14\n1\n14\n9,314",
+          "captured_at": "2026-06-20T01:07:56.822Z"
         }
       ]
     },
@@ -901,60 +908,60 @@
       "status": "ok",
       "tweets": [
         {
+          "id": "2068115016906420274",
+          "href": "https://x.com/BTCdayu/status/2068115016906420274",
+          "time": "2026-06-19T23:33:38.000Z",
+          "text": "大宇\n@BTCdayu\n·\n1小时\n在去年国内媒体一边倒吹捧雷军的时候，就知道今天会变成人人喊打局面。\n在中国，千万别出名，千万别高调——做好人，做好事更不能高调，因为最后踩你的全是当初捧你的。\n中国企业家、富人等，要警惕鲜花和赞美，那是危险的标志。\n普通人也最好低调、扮拙，穷一点好。\n引用\n大宇\n@BTCdayu\n·\n2025年11月11日\n回复 @liangsu1999\n国内是好的时候希望他是完美的人，坏的时候只要说错一句话，就应该处以绞刑，这是非常愚蠢的思维方式。所谓造神，就是假设雷军是完美的，所谓毁神，就是他不能犯任何错。犯了错，让法律去制裁，动不动就要上纲上线，民族企业起得来?\n11\n15\n4,337",
+          "captured_at": "2026-06-20T01:08:06.488Z"
+        },
+        {
+          "id": "2067884391683264935",
+          "href": "https://x.com/BTCdayu/status/2067884391683264935",
+          "time": "2026-06-19T08:17:13.000Z",
+          "text": "大宇\n@BTCdayu\n·\n16小时\n房地产最残酷的点不在于价格下跌，而在于流动性消失。\n111\n3\n88\n2.5万",
+          "captured_at": "2026-06-20T01:08:06.488Z"
+        },
+        {
+          "id": "2067870631920849308",
+          "href": "https://x.com/BTCdayu/status/2067870631920849308",
+          "time": "2026-06-19T07:22:32.000Z",
+          "text": "大宇\n@BTCdayu\n·\n17小时\n中国人口数量会持续下降，而反直觉的是，核心城市的房价反而会越容易上涨。\n因为人口数量下降以后，人越少的地方，教育、医疗甚至快递等都会不断质量下降，促使人往“好”的地方走，于是越发达地方就越多人。\n中国大城市中，深圳土地极小、产业集中、年轻人多、产业链完备，人口持续净流入，值得关注\n96\n13\n130\n3.8万",
+          "captured_at": "2026-06-20T01:08:06.488Z"
+        },
+        {
+          "id": "2067820757636559252",
+          "href": "https://x.com/BTCdayu/status/2067820757636559252",
+          "time": "2026-06-19T04:04:21.000Z",
+          "text": "大宇\n@BTCdayu\n·\n21小时\n香港市场5月租金指数环比升1.3%，为2025年6月以来最强月度增速。\n16\n2\n21\n9,243",
+          "captured_at": "2026-06-20T01:08:06.488Z"
+        },
+        {
+          "id": "2067797427239997500",
+          "href": "https://x.com/BTCdayu/status/2067797427239997500",
+          "time": "2026-06-19T02:31:39.000Z",
+          "text": "大宇\n@BTCdayu\n·\n22小时\n相信基金经理有一个坏处是：他可能落后而你不知道。\n所谓落后，不是业绩，而是知识落后。\n没有任何人能不学习而变强，只有持续学习的人才是无敌的。\n17\n1\n40\n8,109",
+          "captured_at": "2026-06-20T01:08:06.488Z"
+        },
+        {
+          "id": "2067796797784035417",
+          "href": "https://x.com/BTCdayu/status/2067796797784035417",
+          "time": "2026-06-19T02:29:09.000Z",
+          "text": "大宇\n@BTCdayu\n·\n22小时\n继续坚定看多A股。\n当前中国家庭总资产稳定在约730万亿元，随着房产不行，股市大涨，会有越来越多资金进入股市。\n中国的AI越来越能打，无论是智谱、DP还是字节的视频模型。至于机器人，中国的产业链无敌。\n下一个10年属于中国。\n150\n25\n223\n6.5万",
+          "captured_at": "2026-06-20T01:08:06.488Z"
+        },
+        {
+          "id": "2067789706625163425",
+          "href": "https://x.com/BTCdayu/status/2067789706625163425",
+          "time": "2026-06-19T02:00:58.000Z",
+          "text": "大宇\n@BTCdayu\n·\n23小时\n智谱的glm 5.2 超过了Claude 乐章，接近了“寓言”和“神话”。但有意思的是，没有新名字，只有版号5.2。\nAnthropic的创始人达里奥说我们太强了，我要限制我自己。\n而智谱的创始人 \n@JIETANG\n ，我们会超过，开源可用。\n感谢智谱普普通通的神话工作。\n39\n9\n100\n2.7万",
+          "captured_at": "2026-06-20T01:08:06.488Z"
+        },
+        {
           "id": "2067747142165565914",
           "href": "https://x.com/BTCdayu/status/2067747142165565914",
           "time": "2026-06-18T23:11:50.000Z",
-          "text": "大宇\n@BTCdayu\n·\n1小时\n我很喜欢这个球员，看起来他真的很享受足球\n0:01 / 0:35\n6\n14\n3,463",
-          "captured_at": "2026-06-19T00:57:03.454Z"
-        },
-        {
-          "id": "2067525452592566390",
-          "href": "https://x.com/BTCdayu/status/2067525452592566390",
-          "time": "2026-06-18T08:30:55.000Z",
-          "text": "大宇\n@BTCdayu\n·\n16小时\n80多买的美团，跌到70多\n20多买的小米，也能亏损\n算了，国内这些生意卷得太厉害\n还是回到AI革命吧。\n100\n1\n105\n2.7万",
-          "captured_at": "2026-06-19T00:57:03.454Z"
-        },
-        {
-          "id": "2067515873381015857",
-          "href": "https://x.com/BTCdayu/status/2067515873381015857",
-          "time": "2026-06-18T07:52:51.000Z",
-          "text": "大宇\n@BTCdayu\n·\n17小时\n看别人AI天天涨，自己没研究不敢上怎么办？用笨办法，适合99%的人。\n美股\n指数关注：QQQ，整个科技股\n个股：等SPACEX 跌到100以下定投。\nA股\n159819，跟踪中证AI指数\n512930，算力为主，激进派关注\n日本（经济起飞中，也可以关注）\n2644：日本半导体相关公司\n2638：押机器人+AI\n能跑过90%的人。\n71\n18\n119\n1.9万",
-          "captured_at": "2026-06-19T00:57:03.454Z"
-        },
-        {
-          "id": "2067456700328927308",
-          "href": "https://x.com/BTCdayu/status/2067456700328927308",
-          "time": "2026-06-18T03:57:43.000Z",
-          "text": "大宇\n@BTCdayu\n·\n20小时\n伊拉克竟然批准了星链进入\n他们怎么也改革开放了\n我以为他们很落后，抱歉。\n41\n2\n86\n3.3万",
-          "captured_at": "2026-06-19T00:57:03.454Z"
-        },
-        {
-          "id": "2067456270756667412",
-          "href": "https://x.com/BTCdayu/status/2067456270756667412",
-          "time": "2026-06-18T03:56:01.000Z",
-          "text": "大宇\n@BTCdayu\n·\n21小时\nA：共识 + 正确：会赚钱，但很难赚大\nB：共识 + 错误：会亏钱，但不丢脸\nC：反共识 + 错误：会亏钱，而且看起来特别愚蠢\nD：反共识 + 正确：这才是创造代际财富的地方\n你的仓位在哪个位置？\n引用\nVivi\n@vivilinsv\n·\n6月18日\n“做一个反共识的人”，在投资圈几乎已经成了一句老生常谈。\n但红杉资本合伙人Alfred Lin 把这句话讲得更精准：真正赚大钱的，是那些既 正确，又反共识 的人。\n这听起来像常识 - 直到你真的要拿真金白银、时间和声誉去下注。\n他做了一个很清楚的区分（4种模式）：\n共识 +  x.com/vivilinsv/stat…\n11\n9\n28\n1万",
-          "captured_at": "2026-06-19T00:57:03.454Z"
-        },
-        {
-          "id": "2067455784427073985",
-          "href": "https://x.com/BTCdayu/status/2067455784427073985",
-          "time": "2026-06-18T03:54:05.000Z",
-          "text": "大宇\n@BTCdayu\n·\n21小时\nASTER又跌回去了\n这说明币圈的傻子真的越来越少了\n45\n3\n96\n3万",
-          "captured_at": "2026-06-19T00:57:03.454Z"
-        },
-        {
-          "id": "2067455055314485682",
-          "href": "https://x.com/BTCdayu/status/2067455055314485682",
-          "time": "2026-06-18T03:51:11.000Z",
-          "text": "大宇\n@BTCdayu\n·\n21小时\nAI领域到处都是10倍\n但是每个我上车的时候都是一两倍就已经很好了\n谁知道当下还有哪个10倍？\n35\n4\n65\n4.4万",
-          "captured_at": "2026-06-19T00:57:03.454Z"
-        },
-        {
-          "id": "2067423216730345815",
-          "href": "https://x.com/BTCdayu/status/2067423216730345815",
-          "time": "2026-06-18T01:44:40.000Z",
-          "text": "大宇\n@BTCdayu\n·\n23小时\n这篇文章对于存储不是周期股作了判断\n彼时的海力士还没有翻倍\n今天差不多翻倍了\n接下来是估值向英伟达靠拢，美股上市等一系列动作了。\n唯一的小遗憾是这一波回调太快反弹了，加仓的按钮没能点击下去。\n引用\n大宇\n@BTCdayu\n·\n5月4日\n 文章\nHBM全景研报：从训练到推理，主角不再是GPU\n封面图为《 雨、蒸气与速度——大西部铁路（威廉·透纳 ）》\n在AI推理大爆炸的新阶段，GPU 仍然稀缺和紧张，但是装得下数据、跑得快数据的内存才会是新的主角。...\n23\n13\n87\n3.8万",
-          "captured_at": "2026-06-19T00:57:03.454Z"
+          "text": "大宇\n@BTCdayu\n·\n6月19日\n我很喜欢这个球员，看起来他真的很享受足球\n0:33\n15\n3\n37\n1.4万",
+          "captured_at": "2026-06-20T01:08:06.488Z"
         }
       ]
     },
@@ -966,60 +973,60 @@
       "status": "ok",
       "tweets": [
         {
+          "id": "2067863430745522179",
+          "href": "https://x.com/bitfool1/status/2067863430745522179",
+          "time": "2026-06-19T06:53:55.000Z",
+          "text": "比特傻\n@bitfool1\n·\n18小时\n突然有个好奇，A股中有哪些AI标的可以投？\n把A股打入冷宫太久了，突然想看看冷宫的冷妃\n55\n16\n1.5万",
+          "captured_at": "2026-06-20T01:08:16.159Z"
+        },
+        {
+          "id": "2067829582800335227",
+          "href": "https://x.com/bitfool1/status/2067829582800335227",
+          "time": "2026-06-19T04:39:25.000Z",
+          "text": "比特傻\n@bitfool1\n·\n20小时\n币圈播种的季节近了，如何下注呢？\n什么时机：9-10月份左右开始定投，传统周期低点+Mstr尘埃落定+美股股票或可一跌\n买什么：核心就是btc，其他都信不过，可能出问题。可以附加Mstr和Circle。Eth最好直接放弃。\n什么价格买： BTC再次腰斩左右，4.5万左右可以开始定投\n显示更多\n57\n6\n59\n1.4万",
+          "captured_at": "2026-06-20T01:08:16.159Z"
+        },
+        {
           "id": "2067644350331555981",
           "href": "https://x.com/bitfool1/status/2067644350331555981",
           "time": "2026-06-18T16:23:22.000Z",
-          "text": "比特傻\n@bitfool1\n·\n8小时\n今天有些灵感，傻哥做了三笔操作：\n1、 把美光买回来了。\n之前小高点卖出，好在傻哥脸皮厚，今天买回来，价格差不多。\n但傻哥在实践中明白了美股中的强势股，不要去波段，hodl是最好的策略。\n甚至美股整个底层机制设计，促成了低波动+牛长熊短的格局，就是引导股民不要波段的。\n显示更多\n9\n2\n19\n8,088",
-          "captured_at": "2026-06-19T00:57:13.088Z"
+          "text": "比特傻\n@bitfool1\n·\n6月19日\n今天有些灵感，傻哥做了三笔操作：\n1、 把美光买回来了。\n之前小高点卖出，好在傻哥脸皮厚，今天买回来，价格差不多。\n但傻哥在实践中明白了美股中的强势股，不要去波段，hodl是最好的策略。\n甚至美股整个底层机制设计，促成了低波动+牛长熊短的格局，就是引导股民不要波段的。\n显示更多\n32\n9\n55\n1.8万",
+          "captured_at": "2026-06-20T01:08:16.159Z"
         },
         {
           "id": "2067432495210217821",
           "href": "https://x.com/bitfool1/status/2067432495210217821",
           "time": "2026-06-18T02:21:32.000Z",
-          "text": "比特傻\n@bitfool1\n·\n22小时\n傻哥看完SpaceX\n右脑觉得：\n唯有SpaceX是宇宙级别的公司\n其他的公司都是在地球上做点业务，小打小闹，不值一提\n左脑想拿个板砖拍醒自己\n好矛盾啊\n27\n1\n15\n5,623",
-          "captured_at": "2026-06-19T00:57:13.088Z"
+          "text": "比特傻\n@bitfool1\n·\n6月18日\n傻哥看完SpaceX\n右脑觉得：\n唯有SpaceX是宇宙级别的公司\n其他的公司都是在地球上做点业务，小打小闹，不值一提\n左脑想拿个板砖拍醒自己\n好矛盾啊\n30\n1\n16\n6,256",
+          "captured_at": "2026-06-20T01:08:16.159Z"
         },
         {
           "id": "2067122722141004255",
           "href": "https://x.com/bitfool1/status/2067122722141004255",
           "time": "2026-06-17T05:50:36.000Z",
-          "text": "比特傻\n@bitfool1\n·\n6月17日\n《男人的地狱模式》\n一朋友爱玩，说北京的Spa店现在是什么情况呢？\n大活儿是传说，都听过但谁也没见过\n小活儿绝迹了，所有人都像怀念当年的东莞一样怀念\n那现在有什么呢？\n可以花大活儿的钱，在Spa的过程中挑逗下你\n然后让你快点回家自己撸\n傻哥听后很平静\n幸亏傻哥从来不需要这些服务\n30\n1\n13\n9,821",
-          "captured_at": "2026-06-19T00:57:13.088Z"
+          "text": "比特傻\n@bitfool1\n·\n6月17日\n《男人的地狱模式》\n一朋友爱玩，说北京的Spa店现在是什么情况呢？\n大活儿是传说，都听过但谁也没见过\n小活儿绝迹了，所有人都像怀念当年的东莞一样怀念\n那现在有什么呢？\n可以花大活儿的钱，在Spa的过程中挑逗下你\n然后让你快点回家自己撸\n傻哥听后很平静\n幸亏傻哥从来不需要这些服务\n30\n1\n13\n1万",
+          "captured_at": "2026-06-20T01:08:16.159Z"
         },
         {
           "id": "2067087137334558967",
           "href": "https://x.com/bitfool1/status/2067087137334558967",
           "time": "2026-06-17T03:29:12.000Z",
-          "text": "比特傻\n@bitfool1\n·\n6月17日\n《从SpaceX开盘看meme思维的胜利》\n在SpaceX开盘前， 傻哥订阅的付费美股老炮都说不能搞\n有说估值高到离谱的\n有说xai收购道德风险的\n有说定价现金流已经包含了所有最好的预期的\n有说AI业务风险极大，不具备竞争优势的\n事后看这班人都是麻瓜\n显示更多\n18\n3\n21\n5,568",
-          "captured_at": "2026-06-19T00:57:13.088Z"
+          "text": "比特傻\n@bitfool1\n·\n6月17日\n《从SpaceX开盘看meme思维的胜利》\n在SpaceX开盘前， 傻哥订阅的付费美股老炮都说不能搞\n有说估值高到离谱的\n有说xai收购道德风险的\n有说定价现金流已经包含了所有最好的预期的\n有说AI业务风险极大，不具备竞争优势的\n事后看这班人都是麻瓜\n显示更多\n18\n3\n22\n5,712",
+          "captured_at": "2026-06-20T01:08:16.159Z"
         },
         {
           "id": "2066898501406257307",
           "href": "https://x.com/bitfool1/status/2066898501406257307",
           "time": "2026-06-16T14:59:38.000Z",
-          "text": "比特傻\n@bitfool1\n·\n6月16日\n前两天盈透开好\n今天试了下长桥被封\n长桥啊长桥，你以后改名叫“断桥”好不好\n40\n3\n23\n2.3万",
-          "captured_at": "2026-06-19T00:57:13.088Z"
+          "text": "比特傻\n@bitfool1\n·\n6月16日\n前两天盈透开好\n今天试了下长桥被封\n长桥啊长桥，你以后改名叫“断桥”好不好\n40\n3\n23\n2.4万",
+          "captured_at": "2026-06-20T01:08:16.159Z"
         },
         {
           "id": "2066487599674585192",
           "href": "https://x.com/bitfool1/status/2066487599674585192",
           "time": "2026-06-15T11:46:51.000Z",
           "text": "比特傻\n@bitfool1\n·\n6月15日\n襄阳\"割四赔五\"的事情看得头皮发麻\n大家都害怕\n诚信在农村成了稀缺品\n奸诈和算计在农村成了常态\n一声叹息，这一代人走后，未来会好吗\n56\n3\n29\n3万",
-          "captured_at": "2026-06-19T00:57:13.088Z"
-        },
-        {
-          "id": "2066462637731520921",
-          "href": "https://x.com/bitfool1/status/2066462637731520921",
-          "time": "2026-06-15T10:07:40.000Z",
-          "text": "比特傻\n@bitfool1\n·\n6月15日\n研究美股这几个月来\n傻哥发现生活节奏变好了\n家庭关系和谐了\n找不出来原因\n为什么呢？\n想来想去\n原因应该是美股周末休市无法交易\n44\n6\n42\n7,982",
-          "captured_at": "2026-06-19T00:57:13.088Z"
-        },
-        {
-          "id": "2066084847240819084",
-          "href": "https://x.com/bitfool1/status/2066084847240819084",
-          "time": "2026-06-14T09:06:28.000Z",
-          "text": "比特傻\n@bitfool1\n·\n6月14日\n终于把盈透开通了\n下午入金成功了\n虽然麻烦，审批折腾了我好几次\n但终究拦不住我\n空了给你们写教程\n218\n26\n332\n10万",
-          "captured_at": "2026-06-19T00:57:13.088Z"
+          "captured_at": "2026-06-20T01:08:16.159Z"
         }
       ]
     },
@@ -1034,57 +1041,57 @@
           "id": "2067452894937588150",
           "href": "https://x.com/Svwang1/status/2067452894937588150",
           "time": "2026-06-18T03:42:36.000Z",
-          "text": "硅谷王川 Chuan\n@Svwang1\n·\n21小时\n从自己各种运动受伤的经历来看：凡是刻意的试图优化体能的某个单一参数的行为, 都会不自觉的在看不见的难于测量的地方做出牺牲，以支持可见的地方获得更好的数据。时间长了，那个看不见的地方越来越脆弱，突然有一天就崩溃，人就受伤了，有些伤病恢复非常耗时，严重影响日常生活质量。\n显示更多\n1\n17\n115\n1万",
-          "captured_at": "2026-06-19T00:57:22.811Z"
+          "text": "硅谷王川 Chuan\n@Svwang1\n·\n6月18日\n从自己各种运动受伤的经历来看：凡是刻意的试图优化体能的某个单一参数的行为, 都会不自觉的在看不见的难于测量的地方做出牺牲，以支持可见的地方获得更好的数据。时间长了，那个看不见的地方越来越脆弱，突然有一天就崩溃，人就受伤了，有些伤病恢复非常耗时，严重影响日常生活质量。\n显示更多\n1\n18\n129\n1.2万",
+          "captured_at": "2026-06-20T01:08:25.928Z"
         },
         {
           "id": "2067309875995254938",
           "href": "https://x.com/Svwang1/status/2067309875995254938",
           "time": "2026-06-17T18:14:17.000Z",
-          "text": "硅谷王川 Chuan\n@Svwang1\n·\n6月18日\nSPV 最大的风险是各种法律问题。但人们只有交纳了昂贵的学费之后，才能真正理解。\n引用\nFrancisco Amador – Sleepwell \n@SleepwellCap\n·\n6月17日\nscary stuff from a TechCrunch article about SpaceX multi-layered SPVs:\n1\n5\n32\n1.5万",
-          "captured_at": "2026-06-19T00:57:22.811Z"
+          "text": "硅谷王川 Chuan\n@Svwang1\n·\n6月18日\nSPV 最大的风险是各种法律问题。但人们只有交纳了昂贵的学费之后，才能真正理解。\n引用\nFrancisco Amador – Sleepwell \n@SleepwellCap\n·\n6月17日\nscary stuff from a TechCrunch article about SpaceX multi-layered SPVs:\n1\n5\n33\n1.6万",
+          "captured_at": "2026-06-20T01:08:25.928Z"
         },
         {
           "id": "2066980175590633963",
           "href": "https://x.com/Svwang1/status/2066980175590633963",
           "time": "2026-06-16T20:24:11.000Z",
-          "text": "硅谷王川 Chuan\n@Svwang1\n·\n6月17日\nTim Ferriss 说他的书的销量，从 2025年开始发生了断崖式的下跌。2025比 2024下跌了 46%， 2026年迄今为止比去年同期下跌 57%。 他推测原因可能是 AI，尤其是AI 对于非虚构类的书籍的冲击. \n我觉得很有道理，因为我自己最近几个月的习惯不再是看书，而是不断拷问不同的  AI.\n显示更多\n引用\nTim Ferriss\n@tferriss\n·\n6月13日\nNEW blog post is up! \n\"Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future\"\nMy head has been spinning after getting a spreadsheet roughly a week ago.\nBefore we dive into my dirty laundry, let’s state the obvious:\n1\n16\n94\n2.6万",
-          "captured_at": "2026-06-19T00:57:22.811Z"
+          "text": "硅谷王川 Chuan\n@Svwang1\n·\n6月17日\nTim Ferriss 说他的书的销量，从 2025年开始发生了断崖式的下跌。2025比 2024下跌了 46%， 2026年迄今为止比去年同期下跌 57%。 他推测原因可能是 AI，尤其是AI 对于非虚构类的书籍的冲击. \n我觉得很有道理，因为我自己最近几个月的习惯不再是看书，而是不断拷问不同的  AI.\n显示更多\n引用\nTim Ferriss\n@tferriss\n·\n6月13日\nNEW blog post is up! \n\"Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future\"\nMy head has been spinning after getting a spreadsheet roughly a week ago.\nBefore we dive into my dirty laundry, let’s state the obvious:\n1\n17\n94\n2.6万",
+          "captured_at": "2026-06-20T01:08:25.928Z"
         },
         {
           "id": "2066876081995764104",
           "href": "https://x.com/Svwang1/status/2066876081995764104",
           "time": "2026-06-16T13:30:33.000Z",
-          "text": "硅谷王川 Chuan\n@Svwang1\n·\n6月16日\nOpenAI 2025年按照通用会计准则计算，实际亏损 385亿美…\nSubscribe to unlock\n1\n8\n500",
-          "captured_at": "2026-06-19T00:57:22.811Z"
+          "text": "硅谷王川 Chuan\n@Svwang1\n·\n6月16日\nOpenAI 2025年按照通用会计准则计算，实际亏损 385亿美…\nSubscribe to unlock\n1\n8\n517",
+          "captured_at": "2026-06-20T01:08:25.928Z"
         },
         {
           "id": "2066004303672909881",
           "href": "https://x.com/Svwang1/status/2066004303672909881",
           "time": "2026-06-14T03:46:25.000Z",
           "text": "硅谷王川 Chuan\n@Svwang1\n·\n6月14日\n三个臭皮匠，抵得上一个诸葛亮。价格便宜一半，还不用受“三顾茅庐”的鸟气。:)\n引用\nOpenRouter\n@OpenRouter\n·\n6月14日\n回复 @OpenRouter\nNotably, the budget panel was comparable with Claude Fable 5 in performance.\nA panel of Gemini 3 Flash, Kimi K2.6, and DeepSeek V4 Pro, fused together, beat solo GPT-5.5 and solo Opus 4.8 outright.\nAnd it landed within 1% of Fable 5 while costing roughly half the price.\n1\n7\n58\n2.7万",
-          "captured_at": "2026-06-19T00:57:22.811Z"
+          "captured_at": "2026-06-20T01:08:25.928Z"
         },
         {
           "id": "2065569924672897198",
           "href": "https://x.com/Svwang1/status/2065569924672897198",
           "time": "2026-06-12T23:00:21.000Z",
-          "text": "硅谷王川 Chuan\n@Svwang1\n·\n6月13日\n安然 2001年时因为把很多债务隐藏在资本负债表之外而破产。安然破产时最大的赢家是一位名叫白露龙的\n显示更多\n引用\nKakashii\n@kakashiii111\n·\n6月12日\nI released my third and final article in the Dot-Com Flashback Series. This time, I discussed a vehicle that was commonly used back then, and now.\nhttps://\nkakashiii111.substack.com/p/dot-com-flas\nhback-the-spv\n…\n18\n99\n4.1万",
-          "captured_at": "2026-06-19T00:57:22.811Z"
+          "text": "硅谷王川 Chuan\n@Svwang1\n·\n6月13日\n安然 2001年时因为把很多债务隐藏在资本负债表之外而破产。安然破产时最大的赢家是一位名叫白露龙的\n显示更多\n引用\nKakashii\n@kakashiii111\n·\n6月12日\nI released my third and final article in the Dot-Com Flashback Series. This time, I discussed a vehicle that was commonly used back then, and now.\nhttps://\nkakashiii111.substack.com/p/dot-com-flas\nhback-the-spv\n…\n19\n99\n4.1万",
+          "captured_at": "2026-06-20T01:08:25.928Z"
         },
         {
           "id": "2064889319073235320",
           "href": "https://x.com/Svwang1/status/2064889319073235320",
           "time": "2026-06-11T01:55:52.000Z",
           "text": "硅谷王川 Chuan\n@Svwang1\n·\n6月11日\n据说很多 2000年被割惨了的人，现在都按耐不住了。\n更何况 2000年之后才工作，2000年之后才出生的人。\n投资者作为一个整体，因为不断有新人入场，不断有胆大的赌徒输光而被淘汰离场 （其失败记忆也离场），因此整体上永远缺乏长期记忆，永远缺乏风险意识。\n1\n22\n176\n2.6万",
-          "captured_at": "2026-06-19T00:57:22.811Z"
+          "captured_at": "2026-06-20T01:08:25.928Z"
         },
         {
           "id": "2064484754792329576",
           "href": "https://x.com/Svwang1/status/2064484754792329576",
           "time": "2026-06-09T23:08:16.000Z",
           "text": "硅谷王川 Chuan\n@Svwang1\n·\n6月10日\n太多人看问题只是孤立的纠结某个案例的好坏，却没有意识到，一个稍微好一点的决策，可以提供良好的物质基础，让你有能力抓住下一个更大的机会。\n很多机会，不在于你是否有能力判断，而关键在于你是否有财力和物力捕获。财力物力和捕获能力，不是一蹴而就，而是慢慢积累，越来越大。\n显示更多\n1\n45\n214\n1.6万",
-          "captured_at": "2026-06-19T00:57:22.811Z"
+          "captured_at": "2026-06-20T01:08:25.928Z"
         }
       ]
     },
@@ -1099,57 +1106,57 @@
           "id": "2067427013649121542",
           "href": "https://x.com/11dizhu/status/2067427013649121542",
           "time": "2026-06-18T01:59:45.000Z",
-          "text": "十一地主\n@11dizhu\n·\n22小时\n这是至今为止在社区认识最有趣的朋友。\nhttps://\nmp.weixin.qq.com/s/BGFj4xYZXmJU\nRK2ITHAIeA\n…\n5\n5\n2,262",
-          "captured_at": "2026-06-19T00:57:32.453Z"
+          "text": "十一地主\n@11dizhu\n·\n6月18日\n这是至今为止在社区认识最有趣的朋友。\nhttps://\nmp.weixin.qq.com/s/BGFj4xYZXmJU\nRK2ITHAIeA\n…\n5\n5\n2,655",
+          "captured_at": "2026-06-20T01:08:35.585Z"
         },
         {
           "id": "2067416432993096070",
           "href": "https://x.com/11dizhu/status/2067416432993096070",
           "time": "2026-06-18T01:17:43.000Z",
-          "text": "十一地主\n@11dizhu\n·\n23小时\n当然是选KFC一桶\n引用\nPP-重生之在Panda钱包当实习生\n@PPZS001\n·\n6月17日\n达到 100 粉丝也很厉害了，我们来准备一下抽奖奖品，你希望是哪个呢？\n显示投票\n2\n1\n1,863",
-          "captured_at": "2026-06-19T00:57:32.453Z"
+          "text": "十一地主\n@11dizhu\n·\n6月18日\n当然是选KFC一桶\n引用\nPP-重生之在Panda钱包当实习生\n@PPZS001\n·\n6月17日\n达到 100 粉丝也很厉害了，我们来准备一下抽奖奖品，你希望是哪个呢？\n显示投票\n3\n2\n2,146",
+          "captured_at": "2026-06-20T01:08:35.585Z"
         },
         {
           "id": "2066420541809139935",
           "href": "https://x.com/11dizhu/status/2066420541809139935",
           "time": "2026-06-15T07:20:24.000Z",
-          "text": "十一地主\n@11dizhu\n·\n6月15日\n这是谁呀\n引用\nPP-重生之在Panda钱包当实习生\n@PPZS001\n·\n6月15日\n我一直呼吁大家用冷钱包囤币，真不是因为我自己是做钱包的。（怎么不是呢，嘻嘻）\n而是因为在这个日新月异、分秒必争的行业里，如果非要找一条能够穿透熊牛、适应任何版本的核心财富密码，那有且只有两个字：囤币。\n看看我们身边的人，每天都在发生什么？\n29\n6\n6,741",
-          "captured_at": "2026-06-19T00:57:32.453Z"
+          "text": "十一地主\n@11dizhu\n·\n6月15日\n这是谁呀\n引用\nPP-重生之在Panda钱包当实习生\n@PPZS001\n·\n6月15日\n我一直呼吁大家用冷钱包囤币，真不是因为我自己是做钱包的。（怎么不是呢，嘻嘻）\n而是因为在这个日新月异、分秒必争的行业里，如果非要找一条能够穿透熊牛、适应任何版本的核心财富密码，那有且只有两个字：囤币。\n看看我们身边的人，每天都在发生什么？\n29\n6\n6,794",
+          "captured_at": "2026-06-20T01:08:35.585Z"
         },
         {
           "id": "2065570177090306312",
           "href": "https://x.com/11dizhu/status/2065570177090306312",
           "time": "2026-06-12T23:01:21.000Z",
-          "text": "十一地主\n@11dizhu\n·\n6月13日\n昨天晚上和朋友们玩桌游，很快乐。\n4\n3\n2,788",
-          "captured_at": "2026-06-19T00:57:32.453Z"
+          "text": "十一地主\n@11dizhu\n·\n6月13日\n昨天晚上和朋友们玩桌游，很快乐。\n4\n3\n2,821",
+          "captured_at": "2026-06-20T01:08:35.585Z"
         },
         {
           "id": "2065270406072905810",
           "href": "https://x.com/11dizhu/status/2065270406072905810",
           "time": "2026-06-12T03:10:10.000Z",
-          "text": "十一地主\n@11dizhu\n·\n6月12日\n引用\n十一地主\n@11dizhu\n·\n2025年7月4日\n当不知道如何是好的时候，选择一种有序的方式，就是知如何是好。比如运动、学习、吃饭、工作、整理情绪、交友、打扫卫生。这些看起来对当下的困境没有帮助，但如果你这么去做了，就会改变自己看待困境的方式，让自己觉得困境其实很容易跨过去，没什么可怕的，就当作是得了一次感冒。相信我，要去做一些\n2\n4\n3,071",
-          "captured_at": "2026-06-19T00:57:32.453Z"
+          "text": "十一地主\n@11dizhu\n·\n6月12日\n引用\n十一地主\n@11dizhu\n·\n2025年7月4日\n当不知道如何是好的时候，选择一种有序的方式，就是知如何是好。比如运动、学习、吃饭、工作、整理情绪、交友、打扫卫生。这些看起来对当下的困境没有帮助，但如果你这么去做了，就会改变自己看待困境的方式，让自己觉得困境其实很容易跨过去，没什么可怕的，就当作是得了一次感冒。相信我，要去做一些\n2\n4\n3,108",
+          "captured_at": "2026-06-20T01:08:35.585Z"
         },
         {
           "id": "2065237497437966532",
           "href": "https://x.com/11dizhu/status/2065237497437966532",
           "time": "2026-06-12T00:59:24.000Z",
-          "text": "十一地主\n@11dizhu\n·\n6月12日\n成为任何\n引用\n十一地主\n@11dizhu\n·\n1月7日\n我是水，也是风\n消失于田野，或出现在云端\n神让我流于各处\n也是神抹去了我的身份\n于是就自由着成为任何\n是野蛮的，是温柔的\n是五彩的，是黑白的\n在春天到来的时候有我\n在秋风渐起之际也有我\n我与万物一起，也不必有名\n我也是神的作品\n2\n4\n2,908",
-          "captured_at": "2026-06-19T00:57:32.453Z"
+          "text": "十一地主\n@11dizhu\n·\n6月12日\n成为任何\n引用\n十一地主\n@11dizhu\n·\n1月7日\n我是水，也是风\n消失于田野，或出现在云端\n神让我流于各处\n也是神抹去了我的身份\n于是就自由着成为任何\n是野蛮的，是温柔的\n是五彩的，是黑白的\n在春天到来的时候有我\n在秋风渐起之际也有我\n我与万物一起，也不必有名\n我也是神的作品\n2\n4\n2,943",
+          "captured_at": "2026-06-20T01:08:35.585Z"
         },
         {
           "id": "2064930403765592105",
           "href": "https://x.com/11dizhu/status/2064930403765592105",
           "time": "2026-06-11T04:39:07.000Z",
-          "text": "十一地主\n@11dizhu\n·\n6月11日\n2\n2\n6\n2,339",
-          "captured_at": "2026-06-19T00:57:32.453Z"
+          "text": "十一地主\n@11dizhu\n·\n6月11日\n2\n2\n6\n2,359",
+          "captured_at": "2026-06-20T01:08:35.585Z"
         },
         {
           "id": "2064880971741274522",
           "href": "https://x.com/11dizhu/status/2064880971741274522",
           "time": "2026-06-11T01:22:41.000Z",
-          "text": "十一地主\n@11dizhu\n·\n6月11日\n我想去泰国看迪克打鼓\n5\n2\n2,925",
-          "captured_at": "2026-06-19T00:57:32.453Z"
+          "text": "十一地主\n@11dizhu\n·\n6月11日\n我想去泰国看迪克打鼓\n5\n2\n2,940",
+          "captured_at": "2026-06-20T01:08:35.585Z"
         }
       ]
     },
@@ -1164,57 +1171,57 @@
           "id": "2067618986960035840",
           "href": "https://x.com/Super4DeFi/status/2067618986960035840",
           "time": "2026-06-18T14:42:35.000Z",
-          "text": "benmo.eth\n@Super4DeFi\n·\n10小时\n人要是可以选择地去掉一些执念就好了，可是…终究是后视镜的幻念\n6\n18\n3,706",
-          "captured_at": "2026-06-19T00:57:42.172Z"
+          "text": "benmo.eth\n@Super4DeFi\n·\n6月18日\n人要是可以选择地去掉一些执念就好了，可是…终究是后视镜的幻念\n10\n28\n5,284",
+          "captured_at": "2026-06-20T01:08:45.244Z"
         },
         {
           "id": "2066710059531542568",
           "href": "https://x.com/Super4DeFi/status/2066710059531542568",
           "time": "2026-06-16T02:30:50.000Z",
-          "text": "benmo.eth\n@Super4DeFi\n·\n6月16日\n\"141的spaceX，可以冲去梭哈;\n150的spaceX，一股都不敢买...”\n64\n5\n88\n4.4万",
-          "captured_at": "2026-06-19T00:57:42.172Z"
+          "text": "benmo.eth\n@Super4DeFi\n·\n6月16日\n\"141的spaceX，可以冲去梭哈;\n150的spaceX，一股都不敢买...”\n65\n5\n88\n4.4万",
+          "captured_at": "2026-06-20T01:08:45.244Z"
         },
         {
           "id": "2066397037281808805",
           "href": "https://x.com/Super4DeFi/status/2066397037281808805",
           "time": "2026-06-15T05:47:00.000Z",
-          "text": "benmo.eth\n@Super4DeFi\n·\n6月15日\n过去五年，eth每年都有1700的价格，tesla每年都有222的价格，不知道未来五年，spaceX每年是不是也有160的价格...\n55\n5\n72\n2.5万",
-          "captured_at": "2026-06-19T00:57:42.172Z"
+          "text": "benmo.eth\n@Super4DeFi\n·\n6月15日\n过去五年，eth每年都有1700的价格，tesla每年都有222的价格，不知道未来五年，spaceX每年是不是也有160的价格...\n56\n5\n73\n2.5万",
+          "captured_at": "2026-06-20T01:08:45.244Z"
         },
         {
           "id": "2065442334414938415",
           "href": "https://x.com/Super4DeFi/status/2065442334414938415",
           "time": "2026-06-12T14:33:21.000Z",
-          "text": "benmo.eth\n@Super4DeFi\n·\n6月12日\n智能合约才能按照区块时间履约，传统合同无法保证，合同本身就是两部分--履约和毁约。好遗憾，但接受。\n11\n9\n67\n2.3万",
-          "captured_at": "2026-06-19T00:57:42.172Z"
+          "text": "benmo.eth\n@Super4DeFi\n·\n6月12日\n智能合约才能按照区块时间履约，传统合同无法保证，合同本身就是两部分--履约和毁约。好遗憾，但接受。\n12\n9\n67\n2.3万",
+          "captured_at": "2026-06-20T01:08:45.244Z"
         },
         {
           "id": "2064971991074189438",
           "href": "https://x.com/Super4DeFi/status/2064971991074189438",
           "time": "2026-06-11T07:24:22.000Z",
-          "text": "benmo.eth\n@Super4DeFi\n·\n6月11日\n今天最不可思议的是，清华北大的人一直被骗鸭腿是鹅腿……本每年吃一百只鹅腿的广东人……出离愤怒。\n14\n58\n1.7万",
-          "captured_at": "2026-06-19T00:57:42.172Z"
+          "text": "benmo.eth\n@Super4DeFi\n·\n6月11日\n今天最不可思议的是，清华北大的人一直被骗鸭腿是鹅腿……本每年吃一百只鹅腿的广东人……出离愤怒。\n15\n58\n1.7万",
+          "captured_at": "2026-06-20T01:08:45.244Z"
         },
         {
           "id": "2064599711101989113",
           "href": "https://x.com/Super4DeFi/status/2064599711101989113",
           "time": "2026-06-10T06:45:04.000Z",
-          "text": "benmo.eth\n@Super4DeFi\n·\n6月10日\n对于投资来说，一个标的研究得越深，自我加持的光环就越大，就越会忘记退出路线。\n36\n5\n110\n1.3万",
-          "captured_at": "2026-06-19T00:57:42.172Z"
+          "text": "benmo.eth\n@Super4DeFi\n·\n6月10日\n对于投资来说，一个标的研究得越深，自我加持的光环就越大，就越会忘记退出路线。\n37\n5\n111\n1.3万",
+          "captured_at": "2026-06-20T01:08:45.244Z"
         },
         {
           "id": "2061826546143535324",
           "href": "https://x.com/Super4DeFi/status/2061826546143535324",
           "time": "2026-06-02T15:05:30.000Z",
-          "text": "benmo.eth\n@Super4DeFi\n·\n6月2日\n推荐一位群友做的新闻集合站：\nhttps://\n1ms.news\nhacknew、reddit、AI热点、交易所热点，都是我每天刷的东西。\n1ms.news\nHackNews72H最热 · 1ms.news\n用中文读 HackerNews 最热、Launch YC、币安与全交易所公告。AI 中文导读，秒级更新。\n19\n44\n288\n3.6万",
-          "captured_at": "2026-06-19T00:57:42.172Z"
+          "text": "benmo.eth\n@Super4DeFi\n·\n6月2日\n推荐一位群友做的新闻集合站：\nhttps://\n1ms.news\nhacknew、reddit、AI热点、交易所热点，都是我每天刷的东西。\n1ms.news\nHackNews72H最热 · 1ms.news\n用中文读 HackerNews 最热、Launch YC、币安与全交易所公告。AI 中文导读，秒级更新。\n19\n44\n287\n3.6万",
+          "captured_at": "2026-06-20T01:08:45.244Z"
         },
         {
           "id": "2061684510077731022",
           "href": "https://x.com/Super4DeFi/status/2061684510077731022",
           "time": "2026-06-02T05:41:06.000Z",
           "text": "benmo.eth\n@Super4DeFi\n·\n6月2日\n今日最佳。\n引用\n社Q君crypto\n@shequjuncrypto\n·\n6月2日\n中国国内走的是低价格循环体系：\n东西便宜--商家赚的少--员工收入低--倾向于便宜东西\n老美走的是高价格循环体系：\n东西贵--商家赚的多--员工收入高--有钱买贵东西\n------\n老中的好处，能照顾到不在老中循环体系内的穷人，穷人想办法赚点钱，就能活。活的比历史好。\n7\n5\n21\n1.4万",
-          "captured_at": "2026-06-19T00:57:42.172Z"
+          "captured_at": "2026-06-20T01:08:45.244Z"
         }
       ]
     },
@@ -1226,60 +1233,60 @@
       "status": "ok",
       "tweets": [
         {
+          "id": "2067793415748964451",
+          "href": "https://x.com/howie_serious/status/2067793415748964451",
+          "time": "2026-06-19T02:15:42.000Z",
+          "text": "howie.serious\n@howie_serious\n·\n22小时\n我有一个想法，不知道对不对：或许，我们应该现在把笔记本电脑升级到 128GB 内存版本？\n反正以后几年，电脑价格只升不降，不如提前升级。\n大家考虑行动吗？\n111\n1\n48\n3.9万",
+          "captured_at": "2026-06-20T01:08:54.938Z"
+        },
+        {
           "id": "2067246732325408837",
           "href": "https://x.com/howie_serious/status/2067246732325408837",
           "time": "2026-06-17T14:03:23.000Z",
-          "text": "howie.serious\n@howie_serious\n·\n6月17日\n【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。\ncontext：为了挖掘 agent范式带来的全新生产力，几个月前换了 64GB 内存的 mac。\n今天发现，开启多 agent 干活时，光 codex 一个 app，就可以占用了 110GB 的内存。\n64GB 内存不够用，还额外开了 60GB\n显示更多\n38\n1\n29\n8,165",
-          "captured_at": "2026-06-19T00:57:51.826Z"
+          "text": "howie.serious\n@howie_serious\n·\n6月17日\n【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。\ncontext：为了挖掘 agent范式带来的全新生产力，几个月前换了 64GB 内存的 mac。\n今天发现，开启多 agent 干活时，光 codex 一个 app，就可以占用了 110GB 的内存。\n64GB 内存不够用，还额外开了 60GB\n显示更多\n37\n1\n29\n8,695",
+          "captured_at": "2026-06-20T01:08:54.938Z"
         },
         {
           "id": "2066364318774591980",
           "href": "https://x.com/howie_serious/status/2066364318774591980",
           "time": "2026-06-15T03:36:59.000Z",
-          "text": "howie.serious\n@howie_serious\n·\n6月15日\n还好我有 2 个 chatgpt pro 账号，1 个 claude max\n今年我想测试一个 idea：个人/企业，到底能不能通过烧 token 获得实实在在的竞争优势？\n例如，1-2 人全面 agent 范式的新团队，配合不限量的 token，到底能不能达到甚至碾压非 agent 范式的传统百人团队？\n25\n14\n6,466",
-          "captured_at": "2026-06-19T00:57:51.826Z"
+          "text": "howie.serious\n@howie_serious\n·\n6月15日\n还好我有 2 个 chatgpt pro 账号，1 个 claude max\n今年我想测试一个 idea：个人/企业，到底能不能通过烧 token 获得实实在在的竞争优势？\n例如，1-2 人全面 agent 范式的新团队，配合不限量的 token，到底能不能达到甚至碾压非 agent 范式的传统百人团队？\n25\n14\n6,541",
+          "captured_at": "2026-06-20T01:08:54.938Z"
         },
         {
           "id": "2066148172146303109",
           "href": "https://x.com/howie_serious/status/2066148172146303109",
           "time": "2026-06-14T13:18:06.000Z",
-          "text": "howie.serious\n@howie_serious\n·\n6月14日\n这种垃圾内容，为什么在推上流量这么大？\n胡编乱造，啥都往 claude fable 上扯，侮辱智商。\np.s. 已拉黑。\n引用\nVincent | 信号＞噪音\n@VincentLogic\n·\n6月14日\n孟买一个22岁小哥，花了100刀买了个 Claude Fable，开了场二次元男主直播\n本来就是闹着玩，想试试这个AI换脸换声在直播间能不能扛住观众挑刺\n结果扛住了。实时变脸变声，没延迟没穿帮\n一个小时不到，观众开始刷500到1000刀的打赏让他别下播\n最大一笔单次打赏 $75,000\n6个小时总收入 $640,500\n0:12\n4\n10\n5,419",
-          "captured_at": "2026-06-19T00:57:51.826Z"
+          "text": "howie.serious\n@howie_serious\n·\n6月14日\n这种垃圾内容，为什么在推上流量这么大？\n胡编乱造，啥都往 claude fable 上扯，侮辱智商。\np.s. 已拉黑。\n引用\nVincent | 信号＞噪音\n@VincentLogic\n·\n6月14日\n孟买一个22岁小哥，花了100刀买了个 Claude Fable，开了场二次元男主直播\n本来就是闹着玩，想试试这个AI换脸换声在直播间能不能扛住观众挑刺\n结果扛住了。实时变脸变声，没延迟没穿帮\n一个小时不到，观众开始刷500到1000刀的打赏让他别下播\n最大一笔单次打赏 $75,000\n6个小时总收入 $640,500\n0:13\n4\n10\n5,479",
+          "captured_at": "2026-06-20T01:08:54.938Z"
         },
         {
           "id": "2064869327237767378",
           "href": "https://x.com/howie_serious/status/2064869327237767378",
           "time": "2026-06-11T00:36:25.000Z",
-          "text": "howie.serious\n@howie_serious\n·\n6月11日\ndesigned by claude fable 5\n设计确实是 ai 编程的一个瓶颈。用 ai 做产品，需要提前做设计，否则会导致千篇一律平庸乏味 AI 味太重的产品外观。\nagentic design，类似 claude design 这样的方案，可以消除设计瓶颈。\n3\n15\n5,460",
-          "captured_at": "2026-06-19T00:57:51.826Z"
+          "text": "howie.serious\n@howie_serious\n·\n6月11日\ndesigned by claude fable 5\n设计确实是 ai 编程的一个瓶颈。用 ai 做产品，需要提前做设计，否则会导致千篇一律平庸乏味 AI 味太重的产品外观。\nagentic design，类似 claude design 这样的方案，可以消除设计瓶颈。\n3\n15\n5,496",
+          "captured_at": "2026-06-20T01:08:54.938Z"
         },
         {
           "id": "2064545645306999084",
           "href": "https://x.com/howie_serious/status/2064545645306999084",
           "time": "2026-06-10T03:10:13.000Z",
-          "text": "howie.serious\n@howie_serious\n·\n6月10日\n我目前 2 个 chatgpt 200 刀会员，1 个 Claude 125 刀会员。\n就这，token 也不太富裕，够用而已。\n杰文斯悖论，诚不我欺！\n引用\nJason Ng 阿禅\n@jason5ng32\n·\n6月10日\n大模型公司逐渐教育了市场：免费就是体验一下，20 刀一个月是肯定不够的，100 刀以上是常态，想用好东西，还得额外付费。\n26\n1\n16\n9,215",
-          "captured_at": "2026-06-19T00:57:51.826Z"
+          "text": "howie.serious\n@howie_serious\n·\n6月10日\n我目前 2 个 chatgpt 200 刀会员，1 个 Claude 125 刀会员。\n就这，token 也不太富裕，够用而已。\n杰文斯悖论，诚不我欺！\n引用\nJason Ng 阿禅\n@jason5ng32\n·\n6月10日\n大模型公司逐渐教育了市场：免费就是体验一下，20 刀一个月是肯定不够的，100 刀以上是常态，想用好东西，还得额外付费。\n26\n1\n16\n9,256",
+          "captured_at": "2026-06-20T01:08:54.938Z"
         },
         {
           "id": "2064512359818043467",
           "href": "https://x.com/howie_serious/status/2064512359818043467",
           "time": "2026-06-10T00:57:58.000Z",
           "text": "howie.serious\n@howie_serious\n·\n6月10日\n服气了 \nclaude fable 5 确实厉害！\n引用\nhowie.serious\n@howie_serious\n·\n6月10日\nclaude 的“超大杯”模型 fable 5 发布了。是否可以理解为对标openai 的 gpt-5.5 pro？\n简单说，fable（“寓言”）就是之前 mythos（“神话”）的安全版。mythos 因为“过于强大过于危险”，所以“不便开放”。现在 mythos 则是“muthos 级别模型”，但是加了安全护栏。\n奇葩的开放方式：6 月 22 前在 pro、max  x.com/claudeai/statu…\n18\n1\n55\n3.8万",
-          "captured_at": "2026-06-19T00:57:51.826Z"
+          "captured_at": "2026-06-20T01:08:54.938Z"
         },
         {
           "id": "2064507288732475438",
           "href": "https://x.com/howie_serious/status/2064507288732475438",
           "time": "2026-06-10T00:37:48.000Z",
-          "text": "howie.serious\n@howie_serious\n·\n6月10日\nkarpathy 认为，fable 5 值得从 4 到 5 的版本号升级。\n重要性登记和去年 11 月发布 opus 4.5 一样。\n引用\nAndrej Karpathy\n@karpathy\n·\n6月10日\nThis is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward x.com/claudeai/statu…\n12\n5,097",
-          "captured_at": "2026-06-19T00:57:51.826Z"
-        },
-        {
-          "id": "2064506379776471058",
-          "href": "https://x.com/howie_serious/status/2064506379776471058",
-          "time": "2026-06-10T00:34:12.000Z",
-          "text": "howie.serious\n@howie_serious\n·\n6月10日\nclaude 的“超大杯”模型 fable 5 发布了。是否可以理解为对标openai 的 gpt-5.5 pro？\n简单说，fable（“寓言”）就是之前 mythos（“神话”）的安全版。mythos 因为“过于强大过于危险”，所以“不便开放”。现在 mythos 则是“muthos 级别模型”，但是加了安全护栏。\n奇葩的开放方式：6 月 22 前在 pro、max\n显示更多\n引用\nClaude\n@claudeai\n·\n6月10日\n0:20\nIntroducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use.\nIts capabilities exceed those of any model we’ve ever made generally available.\n5\n3\n17\n4.7万",
-          "captured_at": "2026-06-19T00:57:51.826Z"
+          "text": "howie.serious\n@howie_serious\n·\n6月10日\nkarpathy 认为，fable 5 值得从 4 到 5 的版本号升级。\n重要性登记和去年 11 月发布 opus 4.5 一样。\n引用\nAndrej Karpathy\n@karpathy\n·\n6月10日\nThis is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward x.com/claudeai/statu…\n12\n5,121",
+          "captured_at": "2026-06-20T01:08:54.938Z"
         }
       ]
     }

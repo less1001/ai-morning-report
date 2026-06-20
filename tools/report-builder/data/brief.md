@@ -1,86 +1,86 @@
 # AI 出海候选日报
 
-生成时间：2026-06-19T10:29:49.369Z
-模式：预览，不写入 seen
+生成时间：2026-06-20T01:09:09.542Z
+模式：已写入 seen
 
 ## 抓取状态
 - 微信公众号：75 条
-- X/Twitter：156 条
-- Product Hunt：14 条
-- Reddit：16 条
+- X/Twitter：157 条
+- Product Hunt：15 条
+- Reddit：21 条
 - 1ms YC Launch：17 条
-- 1ms HN 72h：1 条
+- 1ms HN 72h：2 条
 - News：10 条
-- Podcast：10 条
+- Podcast：1 条
 - YouTube：56 条
 
 ## 最新未读高分候选
-1. [howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。](https://x.com/howie_serious/status/2067246732325408837)
+1. [Low-skilled attacker used Claude Code and Codex to breach 14 companies](https://www.reddit.com/r/ClaudeAI/comments/1ua6sfe/lowskilled_attacker_used_claude_code_and_codex_to/)
+   - 来源：Reddit r/Codex_programming / reddit / score=51 / Codex/AI编程, Claude, 可做工具, 可写内容
+   - 时间：2026-06-19T16:35:20.000Z
+   - 摘要：Researchers from OALABS analyzed 1,000+ recovered AI agent sessions from a compromised server and found that a low-skilled attacker used Claude Code and OpenAI Codex during offensive cyber operations. According to the report, the attacker often used simple prompts while the agents handled reconnaissance, vulnerability discovery, exploit development and data collection. The researchers claim the activity involved at least 14 organizations. They also found that many guardrails were bypassed by fra
+2. [World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal](https://www.youtube.com/watch?v=3Amlu4y94Ho)
+   - 来源：YouTube All-In Podcast / youtube / score=32 / Codex/AI编程, Claude, YouTube
+   - 时间：2026-06-19T22:22:20.000Z
+   - 摘要：(0:00) Bestie intros! (2:41) The New Oligarchs, America's incoming politburo, and learned helplessness (14:18) SpaceX's record breaking IPO, $60B Cursor acquisition, and trillionaire reactions (33:34) Behind the scenes of Anthropic's Fable ban (1:01:18) Claude psychoanalyzes its creator, Dario Amodei (1:14:31) Iran War MOU and the market impact Apply for Summit 2026: https://allin.com/events Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/frie
+3. [Ethan Mollick @emollick · 19小时 Some (early) evidence that managers have the highest success rate in using Claude Code for coding.](https://x.com/emollick/status/2067839690158268923)
+   - 来源：@emollick / x / score=29 / Codex/AI编程, Claude, 可做工具
+   - 时间：2026-06-19T05:19:35.000Z
+   - 摘要：Ethan Mollick @emollick · 19小时 Some (early) evidence that managers have the highest success rate in using Claude Code for coding. I have been arguing that management is an AI superpower, as clearly specifying what you want, how to do it & what good looks like is key to using agents. https:// oneusefulthing.org/p/management-a s-ai-superpower … 73 136 1,251 9.1万
+4. [Sorry, but GLM 5.2 is not vibing for me.](https://www.reddit.com/r/opencode/comments/1u9sy7v/sorry_but_glm_52_is_not_vibing_for_me/)
+   - 来源：Reddit r/Codex_programming / reddit / score=29 / Codex/AI编程
+   - 时间：2026-06-19T05:14:17.000Z
+   - 摘要：I just subscribed to OpenCode Go to test out the hype around GLM 5.2 and potentially lower my costs, but... I'm not a coder, but using AI intelligence (since lacks on mine) to automate business processes and homelab IT infrastructure optimizations, so I was using the Codex $20 sub with GPT 5.5 on Low or Med and works actually flawlessly, I rarely hit the 5 hour limits. So, yesterday tried the Go subscription. First with MiniMax M3 - super fast! It suggested things that sounded good as a plan! Im
+5. [DeepMind is now reportedly struggling to compete with Anthropic and OpenAI while 3.5 Pro is not the step change they'd need to be competitive](https://www.reddit.com/r/singularity/comments/1ua75fz/deepmind_is_now_reportedly_struggling_to_compete/)
+   - 来源：Reddit r/Codex_programming / reddit / score=27 / Claude, 可做工具
+   - 时间：2026-06-19T16:49:15.000Z
+   - 摘要：Post by a notable but not infallible AI Twitter poster, take with a grain of salt (but we'll know later this month): https://x.com/synthwavedd/status/2068000857757741251 I get the feeling that 3.5 Pro will be very fun to play around with for creative one shots and abysmal for agentic coding. I get that they are prioritizing world models over agentic coding and RSI but still, this is crazy that they're still struggling to catch up after looking set to take a clear lead multiple times now. I find 
+6. [Greg Brockman @gdb · 16小时 Codex app is very good](https://x.com/gdb/status/2067884985596703079)
+   - 来源：@gdb / x / score=27 / Codex/AI编程, 可做工具
+   - 时间：2026-06-19T08:19:34.000Z
+   - 摘要：Greg Brockman @gdb · 16小时 Codex app is very good 引用 Q @q_yeon_gyu_kim · 18小时 codex desktop app @OpenAI is crazy i have a session with nearly 300 subagents running more than a day thanks to @justsisyphus lazycodex and it is just smooth as hell no bad experience 0:01 / 0:35 70 45 850 9.6万
+7. [Can local agentic coding truly replace Claude Pro? (My experience with an RX 7900XTX and Aider)](https://www.reddit.com/r/ollama/comments/1ua0zrp/can_local_agentic_coding_truly_replace_claude_pro/)
+   - 来源：Reddit r/Codex_programming / reddit / score=25 / Claude, 可做工具, 商业化案例
+   - 时间：2026-06-19T12:43:00.000Z
+   - 摘要：Hi everyone, I’m pretty new to agentic coding and I’ve been using Claude Pro. However, after about 3 hours of intense work, I constantly hit the message limit and have to wait 3 to 4 hours to resume. It’s incredibly frustrating when you’re right in the zone. Because of this, I decided to give local AI a shot on my rig (AMD RX 7900 XTX with 24GB of VRAM). I set up Qwen 3.6-27B (Q4_K_M with an 8k context window) and paired it with Aider for my coding workflow. Honestly, the speed and fluidity are 
+8. [[Open source] A roleplay engine built as an agentic harness — each turn the model reasons + calls tools (RAG over source text, worldbook, timeline, state, image-gen), not one static prompt. ST V2 cards work in it.](https://www.reddit.com/r/SillyTavernAI/comments/1u9zbq7/open_source_a_roleplay_engine_built_as_an_agentic/)
+   - 来源：Reddit r/Codex_programming / reddit / score=25 / 可做工具, 可写内容
+   - 时间：2026-06-19T11:21:59.000Z
+   - 摘要：Hey all — I'm the dev, sharing this for feedback since it lives next door to SillyTavern and reuses your cards. One turn in the harness: the reasoning trace, then a generate_image tool call being dispatched. Chinese UI — EN toggle top-right. **Upfront, so nobody's misled:** this is NOT a SillyTavern plugin/backend/extension. It's a *standalone* engine with its own UI. It's relevant here because it imports AND exports SillyTavern V2 character cards — your existing cards carry straight over, and c
+9. [Greg Brockman @gdb · 19小时 Launching credit usage analytics and updated spend controls for enterprises, available in our global admin console](https://x.com/gdb/status/2067843106469515603)
+   - 来源：@gdb / x / score=25 / Codex/AI编程
+   - 时间：2026-06-19T05:33:09.000Z
+   - 摘要：Greg Brockman @gdb · 19小时 Launching credit usage analytics and updated spend controls for enterprises, available in our global admin console: 引用 angel @angelbrodin · 6月19日 nothing gets admins more excited than enterprise spend controls and we’re happy to deliver! admins can now manage spend controls for codex and that on the workspace, group, and user level; users can also view their credit consumption and request additional credits. happy 47 37 611 6.5万
+10. [howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。](https://x.com/howie_serious/status/2067246732325408837)
    - 来源：@howie_serious / x / score=25 / Codex/AI编程, 可做工具
    - 时间：2026-06-17T14:03:23.000Z
-   - 摘要：howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。 context：为了挖掘 agent范式带来的全新生产力，几个月前换了 64GB 内存的 mac。 今天发现，开启多 agent 干活时，光 codex 一个 app，就可以占用了 110GB 的内存。 64GB 内存不够用，还额外开了 60GB 显示更多 38 1 29 8,165
-2. [Anthropic @AnthropicAI · 6月17日 These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'](https://x.com/AnthropicAI/status/2066969542010806561)
-   - 来源：@AnthropicAI / x / score=25 / Claude, 可做工具
-   - 时间：2026-06-16T19:41:55.000Z
-   - 摘要：Anthropic @AnthropicAI · 6月17日 These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full report: Agentic coding and persistent returns to expertise 来自 anthropic.com 100 29 249 10万
-3. [Anthropic @AnthropicAI · 6月11日 We’re launching Claude Corps, a national fellowship program matching people early in their careers with US no](https://x.com/AnthropicAI/status/2065057393927467084)
-   - 来源：@AnthropicAI / x / score=25 / Claude
-   - 时间：2026-06-11T13:03:44.000Z
-   - 摘要：Anthropic @AnthropicAI · 6月11日 We’re launching Claude Corps, a national fellowship program matching people early in their careers with US nonprofits. We'll teach 1,000 people to use Claude, and pay them to use AI to advance their hosts’ missions. Claude Corps 来自 anthropic.com 584 947 6,962 103万
-4. [Anthropic @AnthropicAI · 6月11日 AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is b](https://x.com/AnthropicAI/status/2064783418844762489)
-   - 来源：@AnthropicAI / x / score=23 / Claude
-   - 时间：2026-06-10T18:55:03.000Z
-   - 摘要：Anthropic @AnthropicAI · 6月11日 AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is becoming the central challenge of the technology. In his latest essay, our CEO Dario Amodei lays out how to close it. We're launching three new initiatives to support the 显示更多 引用 Dario Amodei @DarioAmodei · 6月11日 Today I'm publishing a new essay, Policy on the AI Exponential. AI is progressing extremely fast—much faster than the policy process was built to ha
-5. [Anthropic @AnthropicAI · 8小时 Watch the robodogs in action in our first Project Fetch experiment:](https://x.com/AnthropicAI/status/2067651700757086553)
-   - 来源：@AnthropicAI / x / score=22 / Claude
-   - 时间：2026-06-18T16:52:35.000Z
-   - 摘要：Anthropic @AnthropicAI · 8小时 Watch the robodogs in action in our first Project Fetch experiment: 引用 Anthropic @AnthropicAI · 2025年11月13日 New Anthropic research: Project Fetch. We asked two teams of Anthropic researchers to program a robot dog. Neither team had any robotics expertise—but we let only one team use Claude. How did they do? 0:01 / 7:40 13 20 160 5.9万
-6. [Bindu Reddy @bindureddy · 6月18日 Open Source Abacus AI Dragon Models Are Coming](https://x.com/bindureddy/status/2067380901714268474)
-   - 来源：@bindureddy / x / score=22 / 可做工具
-   - 时间：2026-06-17T22:56:31.000Z
-   - 摘要：Bindu Reddy @bindureddy · 6月18日 Open Source Abacus AI Dragon Models Are Coming Open-source has almost caught to closed source. We are actively working on > creating a flash size model for small agentic loops > best for 1000s of parallel tasks Name: Smaug-Flash GIF 61 113 1,754 149万
-7. [Claude @claudeai · 6月11日 Scheduled deployments and environment variables in vaults are available today on the Claude Platform.](https://x.com/claudeai/status/2064741184547795408)
-   - 来源：@claudeai / x / score=22 / Claude, 可做工具
-   - 时间：2026-06-10T16:07:14.000Z
-   - 摘要：Claude @claudeai · 6月11日 Scheduled deployments and environment variables in vaults are available today on the Claude Platform. Read more: New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults |... 来自 claude.com 13 18 158 8.3万
-8. [Sam Altman @sama · 6月5日 build and publish web apps with chatgpt!](https://x.com/sama/status/2062661071761211561)
-   - 来源：@sama / x / score=21 / Codex/AI编程, 可做站
-   - 时间：2026-06-04T22:21:36.000Z
-   - 摘要：Sam Altman @sama · 6月5日 build and publish web apps with chatgpt! i really wish i had this when i was a kid, but i do miss hypercard. 引用 OpenAI @OpenAI · 6月3日 Building apps has never been easier. With Sites, Codex can turn your work, ideas, and plans into an interactive website or app your team can explore, use, and share with a URL. Rolling out to Business and Enterprise plans, before expanding more broadly. 437 234 3,446 50万
-9. [swyx @swyx · 7小时 completely unprompted wow moment from today - asked](https://x.com/swyx/status/2067658992739029252)
-   - 来源：@swyx / x / score=20 / Codex/AI编程, 可写内容
-   - 时间：2026-06-18T17:21:33.000Z
-   - 摘要：swyx @swyx · 7小时 completely unprompted wow moment from today - asked @DevinAI to make us a @tbpn style breaking news style announcement card for our AIEWF speakers drop tmr, FULLY expecting it to fail at a heavily visual task and it oneshotted the WHOLE DAMN THING 引用 Ryan Carson @ryancarson · 4月10日 回复 @theo Honestly just use Devin. It's really really good now 25 4 59 1.3万
-10. [Anthropic @AnthropicAI · 8小时 New Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog.](https://x.com/AnthropicAI/status/2067651699486200091)
-   - 来源：@AnthropicAI / x / score=20 / Claude
-   - 时间：2026-06-18T16:52:34.000Z
-   - 摘要：Anthropic @AnthropicAI · 8小时 New Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog. Opus 4.7, on its own, was ~20x faster than last year's best human team aided by Opus 4.1. (The robodog, alas, still failed to fetch a beach ball.) Project Fetch: Phase two 来自 anthropic.com 221 153 1,477 16万
+   - 摘要：howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。 context：为了挖掘 agent范式带来的全新生产力，几个月前换了 64GB 内存的 mac。 今天发现，开启多 agent 干活时，光 codex 一个 app，就可以占用了 110GB 的内存。 64GB 内存不够用，还额外开了 60GB 显示更多 37 1 29 8,695
 
 ## 建议进入邮件的候选
-1. [howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。](https://x.com/howie_serious/status/2067246732325408837)
-   - 来源：@howie_serious / x / score=25 / Codex/AI编程, 可做工具
-   - 时间：2026-06-17T14:03:23.000Z
-   - 摘要：howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。 context：为了挖掘 agent范式带来的全新生产力，几个月前换了 64GB 内存的 mac。 今天发现，开启多 agent 干活时，光 codex 一个 app，就可以占用了 110GB 的内存。 64GB 内存不够用，还额外开了 60GB 显示更多 38 1 29 8,165
-2. [Anthropic @AnthropicAI · 6月17日 These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'](https://x.com/AnthropicAI/status/2066969542010806561)
-   - 来源：@AnthropicAI / x / score=25 / Claude, 可做工具
-   - 时间：2026-06-16T19:41:55.000Z
-   - 摘要：Anthropic @AnthropicAI · 6月17日 These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full report: Agentic coding and persistent returns to expertise 来自 anthropic.com 100 29 249 10万
-3. [Anthropic @AnthropicAI · 6月11日 We’re launching Claude Corps, a national fellowship program matching people early in their careers with US no](https://x.com/AnthropicAI/status/2065057393927467084)
-   - 来源：@AnthropicAI / x / score=25 / Claude
-   - 时间：2026-06-11T13:03:44.000Z
-   - 摘要：Anthropic @AnthropicAI · 6月11日 We’re launching Claude Corps, a national fellowship program matching people early in their careers with US nonprofits. We'll teach 1,000 people to use Claude, and pay them to use AI to advance their hosts’ missions. Claude Corps 来自 anthropic.com 584 947 6,962 103万
-4. [Anthropic @AnthropicAI · 6月11日 AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is b](https://x.com/AnthropicAI/status/2064783418844762489)
-   - 来源：@AnthropicAI / x / score=23 / Claude
-   - 时间：2026-06-10T18:55:03.000Z
-   - 摘要：Anthropic @AnthropicAI · 6月11日 AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is becoming the central challenge of the technology. In his latest essay, our CEO Dario Amodei lays out how to close it. We're launching three new initiatives to support the 显示更多 引用 Dario Amodei @DarioAmodei · 6月11日 Today I'm publishing a new essay, Policy on the AI Exponential. AI is progressing extremely fast—much faster than the policy process was built to ha
-5. [Anthropic @AnthropicAI · 8小时 Watch the robodogs in action in our first Project Fetch experiment:](https://x.com/AnthropicAI/status/2067651700757086553)
-   - 来源：@AnthropicAI / x / score=22 / Claude
-   - 时间：2026-06-18T16:52:35.000Z
-   - 摘要：Anthropic @AnthropicAI · 8小时 Watch the robodogs in action in our first Project Fetch experiment: 引用 Anthropic @AnthropicAI · 2025年11月13日 New Anthropic research: Project Fetch. We asked two teams of Anthropic researchers to program a robot dog. Neither team had any robotics expertise—but we let only one team use Claude. How did they do? 0:01 / 7:40 13 20 160 5.9万
-6. [Claude @claudeai · 6月11日 Scheduled deployments and environment variables in vaults are available today on the Claude Platform.](https://x.com/claudeai/status/2064741184547795408)
-   - 来源：@claudeai / x / score=22 / Claude, 可做工具
-   - 时间：2026-06-10T16:07:14.000Z
-   - 摘要：Claude @claudeai · 6月11日 Scheduled deployments and environment variables in vaults are available today on the Claude Platform. Read more: New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults |... 来自 claude.com 13 18 158 8.3万
+1. [Low-skilled attacker used Claude Code and Codex to breach 14 companies](https://www.reddit.com/r/ClaudeAI/comments/1ua6sfe/lowskilled_attacker_used_claude_code_and_codex_to/)
+   - 来源：Reddit r/Codex_programming / reddit / score=51 / Codex/AI编程, Claude, 可做工具, 可写内容
+   - 时间：2026-06-19T16:35:20.000Z
+   - 摘要：Researchers from OALABS analyzed 1,000+ recovered AI agent sessions from a compromised server and found that a low-skilled attacker used Claude Code and OpenAI Codex during offensive cyber operations. According to the report, the attacker often used simple prompts while the agents handled reconnaissance, vulnerability discovery, exploit development and data collection. The researchers claim the activity involved at least 14 organizations. They also found that many guardrails were bypassed by fra
+2. [World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal](https://www.youtube.com/watch?v=3Amlu4y94Ho)
+   - 来源：YouTube All-In Podcast / youtube / score=32 / Codex/AI编程, Claude, YouTube
+   - 时间：2026-06-19T22:22:20.000Z
+   - 摘要：(0:00) Bestie intros! (2:41) The New Oligarchs, America's incoming politburo, and learned helplessness (14:18) SpaceX's record breaking IPO, $60B Cursor acquisition, and trillionaire reactions (33:34) Behind the scenes of Anthropic's Fable ban (1:01:18) Claude psychoanalyzes its creator, Dario Amodei (1:14:31) Iran War MOU and the market impact Apply for Summit 2026: https://allin.com/events Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/frie
+3. [Ethan Mollick @emollick · 19小时 Some (early) evidence that managers have the highest success rate in using Claude Code for coding.](https://x.com/emollick/status/2067839690158268923)
+   - 来源：@emollick / x / score=29 / Codex/AI编程, Claude, 可做工具
+   - 时间：2026-06-19T05:19:35.000Z
+   - 摘要：Ethan Mollick @emollick · 19小时 Some (early) evidence that managers have the highest success rate in using Claude Code for coding. I have been arguing that management is an AI superpower, as clearly specifying what you want, how to do it & what good looks like is key to using agents. https:// oneusefulthing.org/p/management-a s-ai-superpower … 73 136 1,251 9.1万
+4. [Sorry, but GLM 5.2 is not vibing for me.](https://www.reddit.com/r/opencode/comments/1u9sy7v/sorry_but_glm_52_is_not_vibing_for_me/)
+   - 来源：Reddit r/Codex_programming / reddit / score=29 / Codex/AI编程
+   - 时间：2026-06-19T05:14:17.000Z
+   - 摘要：I just subscribed to OpenCode Go to test out the hype around GLM 5.2 and potentially lower my costs, but... I'm not a coder, but using AI intelligence (since lacks on mine) to automate business processes and homelab IT infrastructure optimizations, so I was using the Codex $20 sub with GPT 5.5 on Low or Med and works actually flawlessly, I rarely hit the 5 hour limits. So, yesterday tried the Go subscription. First with MiniMax M3 - super fast! It suggested things that sounded good as a plan! Im
+5. [DeepMind is now reportedly struggling to compete with Anthropic and OpenAI while 3.5 Pro is not the step change they'd need to be competitive](https://www.reddit.com/r/singularity/comments/1ua75fz/deepmind_is_now_reportedly_struggling_to_compete/)
+   - 来源：Reddit r/Codex_programming / reddit / score=27 / Claude, 可做工具
+   - 时间：2026-06-19T16:49:15.000Z
+   - 摘要：Post by a notable but not infallible AI Twitter poster, take with a grain of salt (but we'll know later this month): https://x.com/synthwavedd/status/2068000857757741251 I get the feeling that 3.5 Pro will be very fun to play around with for creative one shots and abysmal for agentic coding. I get that they are prioritizing world models over agentic coding and RSI but still, this is crazy that they're still struggling to catch up after looking set to take a clear lead multiple times now. I find 
+6. [Greg Brockman @gdb · 16小时 Codex app is very good](https://x.com/gdb/status/2067884985596703079)
+   - 来源：@gdb / x / score=27 / Codex/AI编程, 可做工具
+   - 时间：2026-06-19T08:19:34.000Z
+   - 摘要：Greg Brockman @gdb · 16小时 Codex app is very good 引用 Q @q_yeon_gyu_kim · 18小时 codex desktop app @OpenAI is crazy i have a session with nearly 300 subagents running more than a day thanks to @justsisyphus lazycodex and it is just smooth as hell no bad experience 0:01 / 0:35 70 45 850 9.6万
 7. [在海边工作的真实感受](https://mp.weixin.qq.com/s/Z4Bd77SVP8vlqXgOaQS52w)
    - 来源：刘小排r / wechat / score=13 / 自媒体素材
    - 时间：2026-05-25T03:59:28.000Z
@@ -97,52 +97,52 @@
    - 来源：雕爷 / wechat / score=10 / 自媒体素材
    - 时间：2024-04-02T05:52:18.000Z
    - 摘要：“什么怎么做营销啊？我非常地坦诚地说，我从来不会做营销。” “做品牌最核心的叫一命二运三风水，四积阴德五读书。什么企业战略，什么组织变革，当然都有用，但是归根结底是看你的命。” 上面两句话，来自雕爷。 雕爷是谁？如果你在做营销却不知道他的名字，亲亲，这边的建议是换个姿势重来一次。 毋庸置疑，他是国内营销圈数一数二的营销老炮儿，想法领先圈子 20 年，牛逼事迹广为流传，比如： 在还没有 KOL 的时代，他靠着一篇《自废武功——通过做“减法”赚第一个1000万》在天涯 bbs 一炮而红，先把自己营销了出去。 作为第一代电商品牌阿芙精油的创始人，现在很多品牌还在做的送小样、做礼盒、手写祝福小卡、原产地溯源等等营销方式，都是他玩剩下的； 然后他跨界食品创立雕爷牛腩，用游戏内测的思路搞餐厅内测，开百万豪车接送明星，还曾经把韩寒拒之门外。 等等等等。 但这种下凡的紫微星，居然跟我说，他从来都不会做营销？ 作为从小听着雕爷的名字长大的我，前段时间趁阿芙精油品牌大会，有机会和他聊了个天。聊之前，我做了两个星期的功课，发现水下雕爷还有更有趣的一面。 比如说，他居然是初三就辍学了，完了蹲在家里刻章，之后在
-11. [No Logo：将任何创意转化为真实制造的产品](https://www.ycombinator.com/launches/Qtg-no-logo-turn-any-idea-into-a-real-manufactured-product)
-   - 来源：1ms.news YC Launch / one_ms_yc / score=20 / 只观察
-   - 时间：2026-06-17T22:59:00.000Z
-   - 摘要：No Logo 正在构建实体产品创建的编排层，弥合客户需求与制造供应之间的差距。用户描述想法，AI 将其可视化并分解为组件和制造流程，匹配网络中的工厂，在约一个月内完成生产、质检和交付，无需前期成本。已推出数百种产品，触达超过 9000 万创作者受众。 从创意到成长型品牌，约一个月完成，无需前期成本。
-12. [Realtime prompting guide](https://platform.openai.com/docs/guides/realtime-models-prompting)
-   - 来源：OpenAI Developers / news / score=20 / 新闻, 可做工具, 可写内容
-   - 时间：2026-05-05T00:00:00.000Z
-   - 摘要：Shows how to prompt realtime voice agents, including Realtime 2 reasoning, preambles, tools, and exact entity capture.
-13. [I built a native GIS app for iPad and Mac — looking for some feedback](https://www.reddit.com/r/gis/comments/1u9jw06/i_built_a_native_gis_app_for_ipad_and_mac_looking/)
-   - 来源：Reddit r/Codex_programming / reddit / score=19 / GEO, 可做站
-   - 时间：2026-06-18T22:03:31.000Z
-   - 摘要：I built an alternative to QGIS for Mac, and from what I can tell, the first fully featured GIS editing app for iPad. The goal was a fast, offline-first GIS workspace for people who want something lighter and more touch-friendly than a full desktop GIS package, but still capable enough for real work. The app is focused on: Native iPad and Mac support, with the same project format and functionality across both GeoJSON import/export with support for CSV with WKT or WKP encoded geometry Layer manage
-14. [Building the Future of Image Generation with Ideogram's CEO](https://www.youtube.com/watch?v=MnCBp01Bci8)
-   - 来源：YouTube a16z / youtube / score=18 / YouTube, 可做工具, 可写内容
-   - 时间：2026-06-15T16:37:53.000Z
-   - 摘要：Yoko Li and Justine Moore speak with Ideogram founder and CEO Mohammad Norouzi about image generation models, design workflows, and the evolving relationship between AI and creative work. The conversation covers Ideogram's decision to release an open-weight model, the challenges of generating text and layouts within images, and why controllability has become an increasingly important area of research. They discuss prompting, customization, editing, and the tradeoffs between general-purpose model
-15. [Claude Fable Blocked - 11 Quiet Details on What’s Next](https://www.youtube.com/watch?v=Qj71N0tBzRo)
-   - 来源：YouTube AI Explained / youtube / score=18 / Claude, YouTube
-   - 时间：2026-06-14T14:52:27.000Z
-   - 摘要：Claude Fable 5 banned, but what’s the bigger story. We go through 11 under-reported details, so you have the context to see what’s coming next for your use of AI. From whether the ban will last, what the possible motives are, what the model can actually do, and some wild over-extrapolations going on. Check out my fast-growing (!) app, free to use, and code INSIDER15 for paid tiers: https://lmcouncil.ai AI Insiders ($9!): https://www.patreon.com/AIExplained Chapters: 00:00 - Introduction 00:51 - 
+11. [Can local agentic coding truly replace Claude Pro? (My experience with an RX 7900XTX and Aider)](https://www.reddit.com/r/ollama/comments/1ua0zrp/can_local_agentic_coding_truly_replace_claude_pro/)
+   - 来源：Reddit r/Codex_programming / reddit / score=25 / Claude, 可做工具, 商业化案例
+   - 时间：2026-06-19T12:43:00.000Z
+   - 摘要：Hi everyone, I’m pretty new to agentic coding and I’ve been using Claude Pro. However, after about 3 hours of intense work, I constantly hit the message limit and have to wait 3 to 4 hours to resume. It’s incredibly frustrating when you’re right in the zone. Because of this, I decided to give local AI a shot on my rig (AMD RX 7900 XTX with 24GB of VRAM). I set up Qwen 3.6-27B (Q4_K_M with an 8k context window) and paired it with Aider for my coding workflow. Honestly, the speed and fluidity are 
+12. [[Open source] A roleplay engine built as an agentic harness — each turn the model reasons + calls tools (RAG over source text, worldbook, timeline, state, image-gen), not one static prompt. ST V2 cards work in it.](https://www.reddit.com/r/SillyTavernAI/comments/1u9zbq7/open_source_a_roleplay_engine_built_as_an_agentic/)
+   - 来源：Reddit r/Codex_programming / reddit / score=25 / 可做工具, 可写内容
+   - 时间：2026-06-19T11:21:59.000Z
+   - 摘要：Hey all — I'm the dev, sharing this for feedback since it lives next door to SillyTavern and reuses your cards. One turn in the harness: the reasoning trace, then a generate_image tool call being dispatched. Chinese UI — EN toggle top-right. **Upfront, so nobody's misled:** this is NOT a SillyTavern plugin/backend/extension. It's a *standalone* engine with its own UI. It's relevant here because it imports AND exports SillyTavern V2 character cards — your existing cards carry straight over, and c
+13. [Greg Brockman @gdb · 19小时 Launching credit usage analytics and updated spend controls for enterprises, available in our global admin console](https://x.com/gdb/status/2067843106469515603)
+   - 来源：@gdb / x / score=25 / Codex/AI编程
+   - 时间：2026-06-19T05:33:09.000Z
+   - 摘要：Greg Brockman @gdb · 19小时 Launching credit usage analytics and updated spend controls for enterprises, available in our global admin console: 引用 angel @angelbrodin · 6月19日 nothing gets admins more excited than enterprise spend controls and we’re happy to deliver! admins can now manage spend controls for codex and that on the workspace, group, and user level; users can also view their credit consumption and request additional credits. happy 47 37 611 6.5万
+14. [howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。](https://x.com/howie_serious/status/2067246732325408837)
+   - 来源：@howie_serious / x / score=25 / Codex/AI编程, 可做工具
+   - 时间：2026-06-17T14:03:23.000Z
+   - 摘要：howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。 context：为了挖掘 agent范式带来的全新生产力，几个月前换了 64GB 内存的 mac。 今天发现，开启多 agent 干活时，光 codex 一个 app，就可以占用了 110GB 的内存。 64GB 内存不够用，还额外开了 60GB 显示更多 37 1 29 8,695
+15. [Anthropic @AnthropicAI · 6月17日 These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'](https://x.com/AnthropicAI/status/2066969542010806561)
+   - 来源：@AnthropicAI / x / score=25 / Claude, 可做工具
+   - 时间：2026-06-16T19:41:55.000Z
+   - 摘要：Anthropic @AnthropicAI · 6月17日 These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full report: Agentic coding and persistent returns to expertise 来自 anthropic.com 103 33 261 11万
 
 ## 下一步资产动作
 1. Codex 素材雷达：这条新闻/帖子可以怎么改成中文爆款内容
    - 动作：写文章 / 优先级：高 / 输出：Obsidian 笔记、公众号文章、X 长帖、小红书图文卡片
    - 下一步：用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。
-   - 链接：https://x.com/howie_serious/status/2067246732325408837
+   - 链接：https://www.reddit.com/r/ClaudeAI/comments/1ua6sfe/lowskilled_attacker_used_claude_code_and_codex_to/
 2. Claude 素材雷达：这条动态可以怎么改成中文内容
+   - 动作：写文章 / 优先级：高 / 输出：Obsidian 笔记、公众号文章、X 长帖、小红书图文卡片
+   - 下一步：用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。
+   - 链接：https://www.youtube.com/watch?v=3Amlu4y94Ho
+3. Claude 素材雷达：这条动态可以怎么改成中文内容
+   - 动作：写文章 / 优先级：高 / 输出：Obsidian 笔记、公众号文章、X 长帖、小红书图文卡片
+   - 下一步：用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。
+   - 链接：https://x.com/emollick/status/2067839690158268923
+4. Codex 素材雷达：这条新闻/帖子可以怎么改成中文爆款内容
+   - 动作：写文章 / 优先级：高 / 输出：Obsidian 笔记、公众号文章、X 长帖、小红书图文卡片
+   - 下一步：用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。
+   - 链接：https://www.reddit.com/r/opencode/comments/1u9sy7v/sorry_but_glm_52_is_not_vibing_for_me/
+5. Claude 素材雷达：这条动态可以怎么改成中文内容
    - 动作：产品验证 / 优先级：低 / 输出：Obsidian 笔记、机会卡、验证问卷、MVP 需求文档、公众号文章、X 长帖、小红书图文卡片
    - 下一步：生成一页机会卡，明确目标用户、输入输出、收费方式和 48 小时验证动作。
-   - 链接：https://x.com/AnthropicAI/status/2066969542010806561
-3. Claude 素材雷达：这条动态可以怎么改成中文内容
-   - 动作：做卡片 / 优先级：低 / 输出：Obsidian 笔记、公众号文章、X 长帖、小红书图文卡片、知识卡片
-   - 下一步：压缩成一张观点卡：一句结论、一个证据、一个行动建议。
-   - 链接：https://x.com/AnthropicAI/status/2065057393927467084
-4. Claude 素材雷达：这条动态可以怎么改成中文内容
-   - 动作：做卡片 / 优先级：低 / 输出：Obsidian 笔记、知识卡片
-   - 下一步：压缩成一张观点卡：一句结论、一个证据、一个行动建议。
-   - 链接：https://x.com/AnthropicAI/status/2064783418844762489
-5. Claude 素材雷达：这条动态可以怎么改成中文内容
-   - 动作：做卡片 / 优先级：低 / 输出：Obsidian 笔记、知识卡片
-   - 下一步：压缩成一张观点卡：一句结论、一个证据、一个行动建议。
-   - 链接：https://x.com/AnthropicAI/status/2067651700757086553
-6. Claude 素材雷达：这条动态可以怎么改成中文内容
-   - 动作：产品验证 / 优先级：低 / 输出：Obsidian 笔记、机会卡、验证问卷、MVP 需求文档
-   - 下一步：生成一页机会卡，明确目标用户、输入输出、收费方式和 48 小时验证动作。
-   - 链接：https://x.com/claudeai/status/2064741184547795408
+   - 链接：https://www.reddit.com/r/singularity/comments/1ua75fz/deepmind_is_now_reportedly_struggling_to_compete/
+6. Codex 素材雷达：这条新闻/帖子可以怎么改成中文爆款内容
+   - 动作：写文章 / 优先级：高 / 输出：Obsidian 笔记、公众号文章、X 长帖、小红书图文卡片
+   - 下一步：用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。
+   - 链接：https://x.com/gdb/status/2067884985596703079
 7. 高传播素材拆解：为什么这条内容值得翻译/改写/发公众号
    - 动作：写文章 / 优先级：高 / 输出：Obsidian 笔记、公众号文章、X 长帖、小红书图文卡片
    - 下一步：用“反常识观点 + 真实案例 + 可执行清单”的结构生成公众号初稿。
@@ -161,49 +161,49 @@
    - 链接：https://mp.weixin.qq.com/s/A4CK0TX8xTszL3EYRq2sSA
 
 ## 全量高分候选
-1. [一个开源工具干翻了A社的CC，165K个 Stars，中国出海圈居然不知道](https://mp.weixin.qq.com/s/ZAu3Y3XsujIE1zJXZWasUA)
+1. [Low-skilled attacker used Claude Code and Codex to breach 14 companies](https://www.reddit.com/r/ClaudeAI/comments/1ua6sfe/lowskilled_attacker_used_claude_code_and_codex_to/)
+   - 来源：Reddit r/Codex_programming / reddit / score=51 / Codex/AI编程, Claude, 可做工具, 可写内容
+   - 时间：2026-06-19T16:35:20.000Z
+2. [一个开源工具干翻了A社的CC，165K个 Stars，中国出海圈居然不知道](https://mp.weixin.qq.com/s/ZAu3Y3XsujIE1zJXZWasUA)
    - 来源：跨境风向标 / wechat / score=50 / Codex/AI编程, 可做工具
    - 时间：2026-05-31T10:52:37.000Z
-2. [Result：一站式创业操作系统，8位内测用户合计280万美元ARR](https://www.ycombinator.com/launches/QkS-result-where-businesses-get-built)
+3. [Result：一站式创业操作系统，8位内测用户合计280万美元ARR](https://www.ycombinator.com/launches/QkS-result-where-businesses-get-built)
    - 来源：1ms.news YC Launch / one_ms_yc / score=45 / Codex/AI编程, Claude, 赚钱案例, 可做工具, 可做站, 商业化案例
    - 时间：2026-06-09T22:22:00.000Z
-3. [TrustMrr的每周赚钱产品洞察](https://mp.weixin.qq.com/s/tY1xdseu7TIXV8LwIxQz8w)
+4. [TrustMrr的每周赚钱产品洞察](https://mp.weixin.qq.com/s/tY1xdseu7TIXV8LwIxQz8w)
    - 来源：良辰美 / wechat / score=43 / 赚钱案例, 可做工具, 可做站, 商业化案例, 可写内容
    - 时间：2026-06-01T17:39:00.000Z
-4. [Mac，Windows, Codex, Claude Code](https://mp.weixin.qq.com/s/HCuo7BjF2DeO3U0lKQM5xw)
+5. [Mac，Windows, Codex, Claude Code](https://mp.weixin.qq.com/s/HCuo7BjF2DeO3U0lKQM5xw)
    - 来源：良辰美 / wechat / score=42 / Codex/AI编程, Claude, 赚钱案例, 可做工具
    - 时间：2026-06-02T17:05:00.000Z
-5. [如何发明一台低成本流量机器：从 0 到可重复获客的深度研究案例](https://mp.weixin.qq.com/s/u_G0pPdxtDZQz0mCnpdIdg)
+6. [如何发明一台低成本流量机器：从 0 到可重复获客的深度研究案例](https://mp.weixin.qq.com/s/u_G0pPdxtDZQz0mCnpdIdg)
    - 来源：良辰美 / wechat / score=41 / 赚钱案例, 自媒体素材, GEO, 可做工具, 可做站, 商业化案例
    - 时间：2026-06-03T16:10:00.000Z
-6. [Day 23 of building GTA 6 using claude](https://www.reddit.com/r/aiwars/comments/1u9291j/day_23_of_building_gta_6_using_claude/)
-   - 来源：Reddit r/Codex_programming / reddit / score=39 / Codex/AI编程, Claude, 可做工具, 可写内容
-   - 时间：2026-06-18T10:08:53.000Z
-7. [Day 23 of building GTA 6 using claude](https://www.reddit.com/r/singularity/comments/1u91xfc/day_23_of_building_gta_6_using_claude/)
-   - 来源：Reddit r/Codex_programming / reddit / score=39 / Codex/AI编程, Claude, 可做工具, 可写内容
-   - 时间：2026-06-18T09:49:34.000Z
-8. [Day 23 of building GTA 6 using claude](https://www.reddit.com/r/ClaudeAI/comments/1u90nmg/day_23_of_building_gta_6_using_claude/)
-   - 来源：Reddit r/Codex_programming / reddit / score=39 / Codex/AI编程, Claude, 可做工具, 可写内容
-   - 时间：2026-06-18T08:32:12.000Z
-9. [Day 23 of building GTA 6 using 100% claude](https://www.reddit.com/r/vibecoding/comments/1u90lph/day_23_of_building_gta_6_using_100_claude/)
-   - 来源：Reddit r/Codex_programming / reddit / score=39 / Codex/AI编程, Claude, 可做工具, 可写内容
-   - 时间：2026-06-18T08:28:54.000Z
-10. [Activeloop推出Hivemind：编码代理的持续学习层](https://www.ycombinator.com/launches/Qio-hivemind-continual-learning-for-coding-agents)
+7. [Activeloop推出Hivemind：编码代理的持续学习层](https://www.ycombinator.com/launches/Qio-hivemind-continual-learning-for-coding-agents)
    - 来源：1ms.news YC Launch / one_ms_yc / score=38 / Codex/AI编程, Claude, 只观察
    - 时间：2026-06-08T23:07:00.000Z
-11. [How Exa is Building the Perfect Search Engine | Deep Dives with a16z](https://www.youtube.com/watch?v=k6OkMkDdbUY)
+8. [How Exa is Building the Perfect Search Engine | Deep Dives with a16z](https://www.youtube.com/watch?v=k6OkMkDdbUY)
    - 来源：YouTube a16z / youtube / score=37 / Codex/AI编程, YouTube, 自媒体素材, 可做工具
    - 时间：2026-06-04T15:04:04.000Z
-12. [我写了半年skill，直到上周才意识到自己从一开始就搞错了方向](https://mp.weixin.qq.com/s/KRZCnzlMSL91VLQR8Ib6yQ)
+9. [我写了半年skill，直到上周才意识到自己从一开始就搞错了方向](https://mp.weixin.qq.com/s/KRZCnzlMSL91VLQR8Ib6yQ)
    - 来源：哥飞 / wechat / score=37 / Codex/AI编程, Claude, 可做工具, 可写内容
    - 时间：2026-05-15T05:47:57.000Z
-13. [反差感极强，一些人月入万刀像好玩，一些人连门都入不了](https://mp.weixin.qq.com/s/YTzdCEjNuCIS08Kdn67oIA)
+10. [反差感极强，一些人月入万刀像好玩，一些人连门都入不了](https://mp.weixin.qq.com/s/YTzdCEjNuCIS08Kdn67oIA)
    - 来源：跨境风向标 / wechat / score=36 / 赚钱案例, 自媒体素材, 可做工具, 可做站, 商业化案例, 可写内容
    - 时间：2026-05-25T12:58:06.000Z
-14. [Claude @claudeai · 6月11日 New from Code with Claude Tokyo: scheduled deployments and environment variables in vaults are in public beta in Cl](https://x.com/claudeai/status/2064741174317924421)
+11. [Claude @claudeai · 6月11日 New from Code with Claude Tokyo: scheduled deployments and environment variables in vaults are in public beta in Cl](https://x.com/claudeai/status/2064741174317924421)
    - 来源：@claudeai / x / score=35 / Codex/AI编程, Claude, 可做工具
    - 时间：2026-06-10T16:07:11.000Z
-15. [关于「AI出海与应用」这个星球，一次说清楚，有些人真的只有骗子才可以满足他的需求](https://mp.weixin.qq.com/s/hHNIL2QgVMf-Dniu5ognBw)
+12. [关于「AI出海与应用」这个星球，一次说清楚，有些人真的只有骗子才可以满足他的需求](https://mp.weixin.qq.com/s/hHNIL2QgVMf-Dniu5ognBw)
    - 来源：跨境风向标 / wechat / score=35 / Claude, 赚钱案例, 商业化案例
    - 时间：2026-05-29T05:11:36.000Z
+13. [How to Build an Internal AI Agent That Evolves Itself](https://www.youtube.com/watch?v=DGD9b8K42lk)
+   - 来源：YouTube Y Combinator / youtube / score=34 / 赚钱案例, YouTube, 可做工具
+   - 时间：2026-05-19T18:22:57.000Z
+14. [Greg Brockman @gdb · 6月18日 a much better way to build iOS apps](https://x.com/gdb/status/2067473704200863774)
+   - 来源：@gdb / x / score=33 / Codex/AI编程, 自媒体素材, 可做工具
+   - 时间：2026-06-18T05:05:17.000Z
+15. [Anthropic @AnthropicAI · 6月17日 Our latest economic research introduces a framework for tracking Claude Code as it scales.](https://x.com/AnthropicAI/status/2066969532380721386)
+   - 来源：@AnthropicAI / x / score=33 / Codex/AI编程, Claude, 可做工具
+   - 时间：2026-06-16T19:41:53.000Z
 

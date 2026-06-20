@@ -1,0 +1,15 @@
+{
+  "title": "Low-skilled attacker used Claude Code and Codex to breach 14 companies",
+  "source": "Reddit r/Codex_programming",
+  "source_type": "reddit",
+  "url": "https://www.reddit.com/r/ClaudeAI/comments/1ua6sfe/lowskilled_attacker_used_claude_code_and_codex_to/",
+  "published_at": "2026-06-19T16:35:20.000Z",
+  "score": 51,
+  "tags": [
+    "Codex/AI编程",
+    "Claude",
+    "可做工具",
+    "可写内容"
+  ],
+  "summary": "Researchers from OALABS analyzed 1,000+ recovered AI agent sessions from a compromised server and found that a low-skilled attacker used Claude Code and OpenAI Codex during offensive cyber operations. According to the report, the attacker often used simple prompts while the agents handled reconnaissance, vulnerability discovery, exploit development and data collection. The researchers claim the activity involved at least 14 organizations. They also found that many guardrails were bypassed by fra"
+}

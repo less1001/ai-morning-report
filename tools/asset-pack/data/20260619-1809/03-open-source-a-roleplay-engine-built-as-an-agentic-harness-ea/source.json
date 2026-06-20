@@ -1,0 +1,13 @@
+{
+  "title": "[Open source] A roleplay engine built as an agentic harness — each turn the model reasons + calls tools (RAG over source text, worldbook, timeline, state, image-gen), not one static prompt. ST V2 cards work in it.",
+  "source": "Reddit r/Codex_programming",
+  "source_type": "reddit",
+  "url": "https://www.reddit.com/r/SillyTavernAI/comments/1u9zbq7/open_source_a_roleplay_engine_built_as_an_agentic/",
+  "published_at": "2026-06-19T11:21:59.000Z",
+  "score": 25,
+  "tags": [
+    "可做工具",
+    "可写内容"
+  ],
+  "summary": "Hey all — I'm the dev, sharing this for feedback since it lives next door to SillyTavern and reuses your cards. One turn in the harness: the reasoning trace, then a generate_image tool call being dispatched. Chinese UI — EN toggle top-right. **Upfront, so nobody's misled:** this is NOT a SillyTavern plugin/backend/extension. It's a *standalone* engine with its own UI. It's relevant here because it imports AND exports SillyTavern V2 character cards — your existing cards carry straight over, and c"
+}
