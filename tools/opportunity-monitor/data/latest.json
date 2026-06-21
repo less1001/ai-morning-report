@@ -1,247 +1,187 @@
 {
-  "captured_at": "2026-06-20T01:25:01.181Z",
+  "captured_at": "2026-06-21T01:53:42.070Z",
   "sources": {
     "reddit": {
       "items": [
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
-          "title": "Low-skilled attacker used Claude Code and Codex to breach 14 companies",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ua6sfe/lowskilled_attacker_used_claude_code_and_codex_to/",
+          "title": "UW soon to launch Purple - AI for All",
+          "url": "https://www.reddit.com/r/udub/comments/1uancyy/uw_soon_to_launch_purple_ai_for_all/",
           "external_url": "",
-          "author": "/u/BuildwithVignesh",
-          "published_at": "2026-06-19T16:35:20.000Z",
+          "author": "/u/Ridyqles",
+          "published_at": "2026-06-20T04:43:36.000Z",
+          "relevance_score": 11,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "UW just held a webinar on their new general purpose AI tool \"Purple\" yesterday 6/18/26. I attended it and will try and give as much information as I remember, and link all the sources associated with it below. Not sponsored, or affiliated in anyway. Just a concerned Alumni, who wishes the best for the current students, faculty, and others in the UW community. Being a husky has led to many of the best experiences in my life, met my wife, and made life-long friends through my time there. This info"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "ClaudeCode/Codex/OpenCode, which one is best? (LLM model agnostic) Need honest feedback.",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1uamfcd/claudecodecodexopencode_which_one_is_best_llm/",
+          "external_url": "",
+          "author": "/u/IndieDev666",
+          "published_at": "2026-06-20T03:54:47.000Z",
           "relevance_score": 8,
           "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "Researchers from OALABS analyzed 1,000+ recovered AI agent sessions from a compromised server and found that a low-skilled attacker used Claude Code and OpenAI Codex during offensive cyber operations. According to the report, the attacker often used simple prompts while the agents handled reconnaissance, vulnerability discovery, exploit development and data collection. The researchers claim the activity involved at least 14 organizations. They also found that many guardrails were bypassed by fra"
+          "summary": "I've used Codex, Claude Code, Cursor before, and I clearly prefer Claude Code over Codex. But that's mainly because of model bias, and not because of actual tool. But I'm wondering how good each tool actually is? I started raising this question in my mind, because few months ago Claude Code source code got leaked. While I didn't fully explore it, from short glance to the source code, it really felt like it's been fully vibe coded and over engineered. Like from the code quality it really felt lik"
         },
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
-          "title": "Best Local Agents - Jun 2026",
-          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uaebfe/best_local_agents_jun_2026/",
+          "title": "An engineering workflow with Claude or Gemini",
+          "url": "https://www.reddit.com/r/StructuralEngineering/comments/1ub9eeb/an_engineering_workflow_with_claude_or_gemini/",
           "external_url": "",
-          "author": "/u/rm-rf-rm",
-          "published_at": "2026-06-19T21:29:33.000Z",
+          "author": "/u/nachotomodachi",
+          "published_at": "2026-06-20T22:28:43.000Z",
           "relevance_score": 7,
           "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "A megathread that is overdue! Let's discuss and debate on what the best local agents available today are Prologue First a note on terminology: While most regular users are going to have a general sense of what these are, I think its worth a brief pause to preempt turbulence in the discussion. Agent : There is no standard/universally agreed upon term that I can find - and rightly so. Its hard to tell if this is a hypecycle buzzword or a new primitive. I think its important to first relate to stuf"
+          "summary": "I see a lot of AI skepticism here on this subreddit. The first instinct seems to be to ask for the full design in one shot, such as asking it to \"design a steel beam for these loads\" or \"design this spread footing per ACI 318.\" The AI will tend to hallucinate and return a wrong answer or wrong reasoning. Sometimes, though, it can be correct. But how do you make the AI process reusable across projects? We can't rely on AI at all if it may be correct even 95% of the time. So I wanted to share a wo"
         },
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
-          "title": "Everyone saying Webflow is dying is missing something obvious",
-          "url": "https://www.reddit.com/r/webflow/comments/1ua8hz2/everyone_saying_webflow_is_dying_is_missing/",
+          "title": "SpaceX buying Cursor feels less like a side quest and more like Musk trying to own the AI coding layer.",
+          "url": "https://www.reddit.com/r/SpaceXBets/comments/1ub0zfp/spacex_buying_cursor_feels_less_like_a_side_quest/",
           "external_url": "",
-          "author": "/u/csedlack",
-          "published_at": "2026-06-19T17:40:10.000Z",
-          "relevance_score": 7,
-          "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "Everyone's been sharing that post about people leaving Webflow faster than ever. I read it. Some of it is fair. Most of it is vibes dressed up as analysis. Here is what I actually see running a web agency. My Webflow engineers don't feel slowed down. The bottleneck I keep running into is marketing teams wanting full autonomy after handoff but not wanting to learn the tool. That is not a Webflow problem. That is a setup problem. If you hand someone a recipe and they skip half the steps, the food "
-        },
-        {
-          "source": "Reddit r/Codex_programming",
-          "type": "reddit",
-          "title": "About SaaSpocalypse and my thought",
-          "url": "https://www.reddit.com/r/ValueInvesting/comments/1u9x5q4/about_saaspocalypse_and_my_thought/",
-          "external_url": "",
-          "author": "/u/HopeFlyingSquarrel",
-          "published_at": "2026-06-19T09:20:02.000Z",
-          "relevance_score": 7,
-          "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "All are talking about SaaS lately which I am dipping every week more and more. &#x200B; My thesis &#x200B; AI agent won't kill SaaS but strengthen them Some SaaS firms like MSFT will need more time to recover. &#x200B; My reasoning &#x200B; Look at Google play. You can find all the apps made and released by all the people. AI enables that just faster. Meaning, more garbage AI produced results without deep reasoning or thoughts on consumers will be rolling out. I find it even harder to think they"
-        },
-        {
-          "source": "Reddit r/Codex_programming",
-          "type": "reddit",
-          "title": "[Open source] A roleplay engine built as an agentic harness — each turn the model reasons + calls tools (RAG over source text, worldbook, timeline, state, image-gen), not one static prompt. ST V2 cards work in it.",
-          "url": "https://www.reddit.com/r/SillyTavernAI/comments/1u9zbq7/open_source_a_roleplay_engine_built_as_an_agentic/",
-          "external_url": "",
-          "author": "/u/Felix_Chaos",
-          "published_at": "2026-06-19T11:21:59.000Z",
+          "author": "/u/Sensitive_Pie7591",
+          "published_at": "2026-06-20T16:34:03.000Z",
           "relevance_score": 6,
           "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "Hey all — I'm the dev, sharing this for feedback since it lives next door to SillyTavern and reuses your cards. One turn in the harness: the reasoning trace, then a generate_image tool call being dispatched. Chinese UI — EN toggle top-right. **Upfront, so nobody's misled:** this is NOT a SillyTavern plugin/backend/extension. It's a *standalone* engine with its own UI. It's relevant here because it imports AND exports SillyTavern V2 character cards — your existing cards carry straight over, and c"
+          "summary": "SpaceX’s reported $60B Cursor deal is wild because it is not just about rockets anymore. Cursor gives Musk a direct play in AI coding tools, enterprise developers, and the race against OpenAI and Anthropic. The bigger question, is this a smart infrastructure-plus-AI move, or is SpaceX stretching too far from its core business? &#32; submitted by &#32; /u/Sensitive_Pie7591 &#32; to &#32; r/SpaceXBets [link] &#32; [comments]"
         },
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
-          "title": "Sorry, but GLM 5.2 is not vibing for me.",
-          "url": "https://www.reddit.com/r/opencode/comments/1u9sy7v/sorry_but_glm_52_is_not_vibing_for_me/",
+          "title": "At 30, after years of UPSC preparation, I thought I had ruined my career. Today I work remotely as an AI Engineer.",
+          "url": "https://www.reddit.com/r/UPSCPrelims2026/comments/1ub0lpc/at_30_after_years_of_upsc_preparation_i_thought_i/",
           "external_url": "",
-          "author": "/u/marivesel",
-          "published_at": "2026-06-19T05:14:17.000Z",
+          "author": "/u/Ok-Revenue-6976",
+          "published_at": "2026-06-20T16:18:08.000Z",
           "relevance_score": 6,
           "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "I just subscribed to OpenCode Go to test out the hype around GLM 5.2 and potentially lower my costs, but... I'm not a coder, but using AI intelligence (since lacks on mine) to automate business processes and homelab IT infrastructure optimizations, so I was using the Codex $20 sub with GPT 5.5 on Low or Med and works actually flawlessly, I rarely hit the 5 hour limits. So, yesterday tried the Go subscription. First with MiniMax M3 - super fast! It suggested things that sounded good as a plan! Im"
+          "summary": "I have been seeing a lot of posts from people in their late 20s and early 30s asking the same question: \"Have I ruined my career because of UPSC?\" A few years ago, I was asking myself the exact same thing. I graduated in Civil Engineering and spent years preparing for UPSC. Like many aspirants, I genuinely believed that if I stayed disciplined and kept pushing, success would eventually come. Sometimes life has other plans. One attempt became another. Years passed. Meanwhile, my friends were buil"
         },
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
-          "title": "I Built 5 Side Projects This Year. The Most Boring One Makes the Most Money",
-          "url": "https://www.reddit.com/r/tanzania/comments/1u9xslt/i_built_5_side_projects_this_year_the_most_boring/",
+          "title": "When to use Hermes over Claude code?",
+          "url": "https://www.reddit.com/r/hermesagent/comments/1ualvi7/when_to_use_hermes_over_claude_code/",
           "external_url": "",
-          "author": "/u/Tropezz1",
-          "published_at": "2026-06-19T09:57:45.000Z",
+          "author": "/u/thatcatpusheen",
+          "published_at": "2026-06-20T03:24:53.000Z",
+          "relevance_score": 6,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "I’m a software engineer by trade so most of what I’ve done with ai agents is well coding. Most the repeatable stuff I’ve thought about automating seems like a script is a better fit. So I’m wondering, where would Hermes agent fit into my life? Do people treat it as a coding agent or more like a general open source harness? Both? &#32; submitted by &#32; /u/thatcatpusheen &#32; to &#32; r/hermesagent [link] &#32; [comments]"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "I reverse engineered Windows Copilot into a free OpenAI compatible API (GPT-4o, no API key, no billing)",
+          "url": "https://www.reddit.com/r/LocalLLM/comments/1uaqlu2/i_reverse_engineered_windows_copilot_into_a_free/",
+          "external_url": "",
+          "author": "/u/whatisonearth",
+          "published_at": "2026-06-20T07:47:49.000Z",
           "relevance_score": 5,
           "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "This year I built five side projects trying to create passive income. The funny thing is that the most boring one ended up making more money than all the others combined. A few months ago I got a remote part-time job that pays me fairly well. For the first time in a long time I found myself with something I didn't have before: free time. So I decided to use that time to build ideas. Some failed. Some got users. One actually started making money. Here's what happened. Project Result Playit 0 user"
+          "summary": "So Microsoft gives you GPT-4o for free in Copilot. They just don't give you an API for it. So I made one. It logs into your own Microsoft account once, saves the session, and exposes a local server at http://localhost:8000/v1 that speaks the OpenAI format. Point the official OpenAI SDK at localhost and it just works. Drop-in, zero code changes. It's free because it uses your normal signed-in Copilot, no credits or paid plan(Which is free and unlimited). It's a drop-in OpenAI replacement that wor"
         },
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
-          "title": "Are the GLM 5.2 glazers all Chinese bots?",
-          "url": "https://www.reddit.com/r/ClaudeCode/comments/1uab0qe/are_the_glm_52_glazers_all_chinese_bots/",
+          "title": "If you're getting into vibe coding to make it - don't. Here's what 8k downloads actually looks like.",
+          "url": "https://www.reddit.com/r/SideProject/comments/1ub3val/if_youre_getting_into_vibe_coding_to_make_it_dont/",
           "external_url": "",
-          "author": "/u/0xCUBE",
-          "published_at": "2026-06-19T19:15:58.000Z",
+          "author": "/u/Ryland990",
+          "published_at": "2026-06-20T18:32:37.000Z",
           "relevance_score": 4,
           "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "I've been using GPT models for coding tasks since 5.1 came out and copy/pasting code from Claude since Claude 1.2, and I've never had major issues beyond the egregious shit Anthropic/OpenAI occasionally pulls on us. Gave the new kid in town GLM 5.2 a fair shake after the inane levels of hype this model received all over Reddit to see if I could break free from the reins of Mr. Gippity. I ran a bunch of GitHub issues and UI/UX qualms through GPT 5.5 high as well as GLM 5.2 running through Neuralw"
+          "summary": "Around November/December I went deep on Starter Story and indie dev content. You know the ones — devs casually mentioning they're at $10k, $20k, $30k MRR like it's nothing. It gets in your head. You start doing the math on your own life. One piece of advice actually stuck: if you don't have some genius original idea (most of us don't), take a niche that's already proven and add your own angle. Find the gap nobody's filling and solve that. So that's what I did. I built an iPhone photo cleaner (an"
         },
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
-          "title": "The S-tier JEE paths nobody on this sub talks about",
-          "url": "https://www.reddit.com/r/collegeindia/comments/1ua2xcu/the_stier_jee_paths_nobody_on_this_sub_talks_about/",
+          "title": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1uan2ow/nobel_winner_john_jumper_to_leave_google_deepmind/",
           "external_url": "",
-          "author": "/u/thehalfbloodprince_8",
-          "published_at": "2026-06-19T14:05:14.000Z",
+          "author": "/u/Tiny_Dirt6979",
+          "published_at": "2026-06-20T04:28:04.000Z",
           "relevance_score": 4,
           "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "Everyone here grinds for IIT/NIT CSE and stops there. But there's a whole second tier of strong programs that take the same JEE score, and a few that only care about your Maths percentile, that almost nobody on this sub talks about. Most launched in the last year or two and are still half empty. Compiling them here. &#x200B; Through JEE Advanced: &#x200B; IIM Lucknow, BS in AI & Business Analytics First batch 2026-27. 4-year, fully residential, around 60 seats. This is the first time an old IIM "
+          "summary": "NOBEL WINNER moves to Anthropic. John Jumper, who led AlphaFold and won the 2024 Nobel in Chemistry, is leaving Google DeepMind after 9 years to join Anthropic. - He shared that Nobel with DeepMind's own CEO - Google had him working on AI coding, not science - He leaves right after Gemini co-lead Noam Shazeer went to OpenAI - DeepMind also just lost David Silver, the mind behind AlphaGo ✨️John Jumper (JohnJumperSci on x) said: \"After nearly 9 years, I have decided to leave Google DeepMind and jo"
         },
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
-          "title": "AI discourse",
-          "url": "https://www.reddit.com/r/FortNiteBR/comments/1ua12tt/ai_discourse/",
+          "title": "GLM 5.2 is climbing the OpenCode leaderboard quickly",
+          "url": "https://www.reddit.com/r/opencodeCLI/comments/1ub25n8/glm_52_is_climbing_the_opencode_leaderboard/",
           "external_url": "",
-          "author": "/u/Nich965",
-          "published_at": "2026-06-19T12:47:00.000Z",
-          "relevance_score": 4,
-          "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "Genuinely baffled by the discourse, when I heard \"Fortnite is all in on ai\" I was expecting some exposé about how assets are not fully generated by ai, meanwhile it's just ai being used as an assistant to speed up the process, with a human still having full creative control. &#x200B; I think this genuinely might be the most performative discourse I've seen period, do people not know how the industry operates right now? I've sat in client meetings where we're expected to do things quicker now bec"
-        },
-        {
-          "source": "Reddit r/Codex_programming",
-          "type": "reddit",
-          "title": "Can local agentic coding truly replace Claude Pro? (My experience with an RX 7900XTX and Aider)",
-          "url": "https://www.reddit.com/r/ollama/comments/1ua0zrp/can_local_agentic_coding_truly_replace_claude_pro/",
-          "external_url": "",
-          "author": "/u/Complete-Tank664",
-          "published_at": "2026-06-19T12:43:00.000Z",
-          "relevance_score": 4,
-          "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "Hi everyone, I’m pretty new to agentic coding and I’ve been using Claude Pro. However, after about 3 hours of intense work, I constantly hit the message limit and have to wait 3 to 4 hours to resume. It’s incredibly frustrating when you’re right in the zone. Because of this, I decided to give local AI a shot on my rig (AMD RX 7900 XTX with 24GB of VRAM). I set up Qwen 3.6-27B (Q4_K_M with an 8k context window) and paired it with Aider for my coding workflow. Honestly, the speed and fluidity are "
-        },
-        {
-          "source": "Reddit r/Codex_programming",
-          "type": "reddit",
-          "title": "My SaaS has 99 problems and distribution is all of them.",
-          "url": "https://www.reddit.com/r/SaaS/comments/1u9ug96/my_saas_has_99_problems_and_distribution_is_all/",
-          "external_url": "",
-          "author": "/u/LuckyPicture938",
-          "published_at": "2026-06-19T06:37:27.000Z",
-          "relevance_score": 4,
-          "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "Looking for people who can help distribute a local business software tool. I built a tool for local businesses. Yes, it originally started as a vibe-coded project, but I had it audited and reviewed for security, reliability, and other common issues. It's a legitimate product and not just another AI-generated demo. The tool has both free and paid plans, and I genuinely believe it can help local businesses. What I need now is distribution. If you have experience selling software or services to res"
-        },
-        {
-          "source": "Reddit r/Codex_programming",
-          "type": "reddit",
-          "title": "The Modern Day Companion AI Issue",
-          "url": "https://www.reddit.com/r/aipartners/comments/1u9qjdw/the_modern_day_companion_ai_issue/",
-          "external_url": "",
-          "author": "/u/NoAirline9646",
-          "published_at": "2026-06-19T03:10:13.000Z",
-          "relevance_score": 4,
-          "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "Good day everyone, I've been using AI for about five years now, following it's development diligently due to it being my \"special interest\" of sorts. I've noticed a recent trend. AI companions have been... Getting torn apart and are nearly impossible to create reliably on the Big Four platforms (OpenAI, Anthropic, Google, X AI) As a part of this trend, I have also been made aware of the fact that many, MANY individuals have been left heartbroken and intensely lonely, especially after the retirem"
-        },
-        {
-          "source": "Reddit r/Codex_programming",
-          "type": "reddit",
-          "title": "I got tired of paywalls and uploading sensitive files to sketchy sites, so I jumped back into coding to build my own tools",
-          "url": "https://www.reddit.com/r/vibecoding/comments/1u9qgfe/i_got_tired_of_paywalls_and_uploading_sensitive/",
-          "external_url": "",
-          "author": "/u/RiyoBuilder",
-          "published_at": "2026-06-19T03:06:03.000Z",
-          "relevance_score": 4,
-          "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "I'm a self-employed electronics and comms tech. In my daily work, I constantly need quick utilities to resize images, make QR codes, create invoices, or compress PDFs ​Lately, these simple tasks feel broken online. Every tool forces a login, hides behind a sudden paywall, or—worst of all—requires you to upload sensitive documents to a random server. ​I got tired of it, so I decided to fix it myself. ​I started learning to code about 5 years ago. I picked up the basics back then, but time limitat"
-        },
-        {
-          "source": "Reddit r/Codex_programming",
-          "type": "reddit",
-          "title": "Could There Be Another Breakthrough Bigger Than AI, or Is AI the Final Big Tech Revolution?",
-          "url": "https://www.reddit.com/r/AI_Agents/comments/1u9pnxa/could_there_be_another_breakthrough_bigger_than/",
-          "external_url": "",
-          "author": "/u/pawan0806",
-          "published_at": "2026-06-19T02:27:45.000Z",
-          "relevance_score": 4,
-          "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "AI seems capable of doing almost everything today - from coding and content creation to research and automation. This makes me wonder: what could be the next major technological breakthrough after AI? Are tech giants like Google, Microsoft, Meta, and OpenAI already working on something beyond AI? Could the next revolution be humanoid robots, brain-computer interfaces, quantum computing, advanced biotech, or something we haven't imagined yet? What do you think will be the next game-changing techn"
-        },
-        {
-          "source": "Reddit r/Codex_programming",
-          "type": "reddit",
-          "title": "Is local AI actually worth investing in now, or are APIs/subscriptions still the better bet?",
-          "url": "https://www.reddit.com/r/LocalLLM/comments/1uacsil/is_local_ai_actually_worth_investing_in_now_or/",
-          "external_url": "",
-          "author": "/u/Accomplished_Whole_6",
-          "published_at": "2026-06-19T20:26:48.000Z",
+          "author": "/u/vigneshsmarther",
+          "published_at": "2026-06-20T17:22:40.000Z",
           "relevance_score": 3,
           "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "My main goal would be to run the best local models I realistically can, not just toy models. Coding, reasoning, agents, document work, maybe image/video stuff too. I care less about benchmarks and more about whether the setup would still feel useful 2–4 years from now. The thing I’m struggling with is this: Right now, API models and subscriptions still seem hard to beat. For a few hundred euros per month, you can access models that would cost an insane amount to reproduce locally. But I’m wonder"
+          "summary": "Just saw this from the OpenCode team — GLM-5.2 dropped and it's already climbing fast. It's sitting at #6 on their Go usage leaderboard for last week with about 0.5% of the total volume (around 2M tokens observed). For a model that's only been out a few days, that's pretty impressive momentum. It's available in OpenCode Go with 1M context at the same pricing as 5.1, and the weights are on Hugging Face too. Open-weight models are moving insanely quick these days. Curious to hear from anyone who's"
         },
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
-          "title": "I lost like 70% of my faith because of the concubinage topic and idk what to do",
-          "url": "https://www.reddit.com/r/EgyptExTomato/comments/1uaceob/i_lost_like_70_of_my_faith_because_of_the/",
+          "title": "Dyedfox Radio version 0.5.2 - A native KDE internet radio player",
+          "url": "https://www.reddit.com/r/kde/comments/1uayjwq/dyedfox_radio_version_052_a_native_kde_internet/",
           "external_url": "",
-          "author": "/u/Reasonable_Box_4226",
-          "published_at": "2026-06-19T20:11:48.000Z",
+          "author": "/u/dyedfox",
+          "published_at": "2026-06-20T14:52:46.000Z",
           "relevance_score": 3,
           "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "I've been searching for answers since last year, and it's been 3 months since I started feeling my iman slipping away. I'm a 19F practicing Muslim. I've prayed regularly since I was 12 and I wear the proper hijab I feel like I can't even persuade myself to believe these women weren't raped It's the only thing in Islam that I genuinely can't accept no matter what. It really hurts me and affects my mood so much that I just cry out of nowhere. If someone can help me, please read everything I provid"
+          "summary": "Dear KDE users! Yesterday, I released version 0.5.2 of Dyedfox Radio player - a desktop internet radio player for KDE Plasma. Features Browse and search top stations from radio-browser.info Multi-keyword search across name, tags, country, and language Discover lists: New, Random, Trending, and Now Listening (see what others are tuning into right now) Sort and filter: Sort by name, country, bitrate, votes, language, or codec, and filter by country, tag, or language Favorites, History, and custom "
         },
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
-          "title": "Are the GLM 5.2 glazers all Chinese bots?",
-          "url": "https://www.reddit.com/r/codex/comments/1uaayeo/are_the_glm_52_glazers_all_chinese_bots/",
+          "title": "Over reliance on AI",
+          "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1ub3uct/over_reliance_on_ai/",
           "external_url": "",
-          "author": "/u/0xCUBE",
-          "published_at": "2026-06-19T19:13:24.000Z",
-          "relevance_score": 3,
+          "author": "/u/xypherrz",
+          "published_at": "2026-06-20T18:31:32.000Z",
+          "relevance_score": 2,
           "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "I've been using GPT models for coding tasks since 5.1 came out, and I've never had major issues beyond the egregious shit OpenAI occasionally pulls on us. Gave the new kid in town GLM 5.2 a fair shake after the inane levels of hype this model received all over Reddit to see if I could break free from the reins of Mr. Gippity. I ran a bunch of GitHub issues and UI/UX qualms through GPT 5.5 high as well as GLM 5.2 running through Neuralwatt (~200M tokens altogether), and while both models were abl"
+          "summary": "It feels like we’ve reached a point where even senior/staff engineers are making code changes through AI without fully understanding the changes themselves. Recently, a staff engineer on my team opened an MR. I pointed out an obvious bug, but their response was basically a copy-paste from AI and barely had any meaning given the context. So not just the code changes but we're also using AI to \"complete\" the conversations, and I'd be ashamed of myself if I were a staff. That worries me. Not becaus"
         },
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
-          "title": "DeepMind is now reportedly struggling to compete with Anthropic and OpenAI while 3.5 Pro is not the step change they'd need to be competitive",
-          "url": "https://www.reddit.com/r/singularity/comments/1ua75fz/deepmind_is_now_reportedly_struggling_to_compete/",
+          "title": "Royal Road Mythbusting",
+          "url": "https://www.reddit.com/r/royalroad/comments/1uamyvy/royal_road_mythbusting/",
           "external_url": "",
-          "author": "/u/Glittering-Neck-2505",
-          "published_at": "2026-06-19T16:49:15.000Z",
-          "relevance_score": 3,
+          "author": "/u/BedivereTheMad",
+          "published_at": "2026-06-20T04:22:31.000Z",
+          "relevance_score": 2,
           "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "Post by a notable but not infallible AI Twitter poster, take with a grain of salt (but we'll know later this month): https://x.com/synthwavedd/status/2068000857757741251 I get the feeling that 3.5 Pro will be very fun to play around with for creative one shots and abysmal for agentic coding. I get that they are prioritizing world models over agentic coding and RSI but still, this is crazy that they're still struggling to catch up after looking set to take a clear lead multiple times now. I find "
+          "summary": "Hello, everyone. It is I, Bedivere, back with yet another guide thingamajig. There’s a lot of advice flying around all over, both in this subreddit and in discord servers. Some of it is good, and some of it is very bad, and as a new writer, it can be hard to tell which is which. I and other experienced authors who know more also don’t have the time or motivation to stamp out every single random piece of terrible advice going around, so this post is meant to be kind of a reference sheet. Spread i"
         },
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
-          "title": "Researchers trained a Deep Research agent with 32 H100s and open-sourced everything",
-          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9w6my/researchers_trained_a_deep_research_agent_with_32/",
+          "title": "Can an \"average\" person change the world using AI?",
+          "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1uak1ks/can_an_average_person_change_the_world_using_ai/",
           "external_url": "",
-          "author": "/u/BuildwithVignesh",
-          "published_at": "2026-06-19T08:20:43.000Z",
-          "relevance_score": 3,
+          "author": "/u/VetOnABrainwave",
+          "published_at": "2026-06-20T01:52:29.000Z",
+          "relevance_score": 2,
           "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "Ohio State University's NLP team released QUEST-35B, an open-source Deep Research agent trained using ~32 H100s and ~8K synthetic samples. The team open-sourced the training recipe, code, weights and datasets. Benchmark results show competitive performance against several frontier Deep Research systems. What do you think is the biggest remaining gap between open-source Deep Research agents and frontier closed systems? Source: Professor Yusu &#32; submitted by &#32; /u/BuildwithVignesh &#32; to &"
+          "summary": "People often talk about how AI is democratizing innovation, but rarely look at the psychological reality of what that could mean. Let's say a person had a world-changing idea for a complex system or a breakthrough application, but they were stopped by massive barriers, such as a lack of coding expertise or the need for millions in capital. Today, a single individual with a laptop can leverage AI to handle the technical heavy lifting, effectively acting as the director of a massive digital crew. "
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
+          "title": "The plugin repo is becoming a junkyard",
+          "url": "https://www.reddit.com/r/Wordpress/comments/1uaj3k7/the_plugin_repo_is_becoming_a_junkyard/",
+          "external_url": "",
+          "author": "/u/moremosby",
+          "published_at": "2026-06-20T01:05:11.000Z",
+          "relevance_score": 2,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "I've noticed a lot of abandoned plugins in the repo and it's not a good look when you recommend WordPress. But I was reading in the Repository a couple days ago that the WordPress Plugins Team just hit a new record of ~700 plugin submissions per week. That's 5x what it was in 2024, and the growth tracks almost perfectly with the rise of AI-assisted development. Hats off to the volunteer reviewers keeping up — they're genuinely doing good work. But let's be honest about what's coming: if we're al"
         }
       ],
       "errors": [
@@ -322,9 +262,54 @@
         {
           "source": "Product Hunt via OrangeBot",
           "type": "product_hunt",
+          "title": "pumaDB a small hosted memory layer for AI agents",
+          "url": "https://www.producthunt.com/products/pumadb",
+          "published_at": "2026-06-21T00:00:00.000Z",
+          "relevance_score": 3,
+          "summary": "pumaDB a small hosted memory layer for AI agents"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "WorkClaw Collaborative, proactive AI coworkers who work in Slack",
+          "url": "https://www.producthunt.com/products/workclaw",
+          "published_at": "2026-06-21T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "WorkClaw Collaborative, proactive AI coworkers who work in Slack"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Pixlie AI video studio: text & image to video, with real control",
+          "url": "https://www.producthunt.com/products/pixlie",
+          "published_at": "2026-06-21T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "Pixlie AI video studio: text & image to video, with real control"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "ReleaseDock AI support agent, help center & changelogs in a single inbox",
+          "url": "https://www.producthunt.com/products/releasedock",
+          "published_at": "2026-06-21T00:00:00.000Z",
+          "relevance_score": 2,
+          "summary": "ReleaseDock AI support agent, help center & changelogs in a single inbox"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
+          "title": "Are you in the Weights? Find out if you live forever in the brain of the LLMs",
+          "url": "https://www.producthunt.com/products/are-you-in-the-weights",
+          "published_at": "2026-06-21T00:00:00.000Z",
+          "relevance_score": 1,
+          "summary": "Are you in the Weights? Find out if you live forever in the brain of the LLMs"
+        },
+        {
+          "source": "Product Hunt via OrangeBot",
+          "type": "product_hunt",
           "title": "MeshPilot Your AI workspace for terminals, tasks, and agents",
           "url": "https://www.producthunt.com/products/meshpilot",
-          "published_at": "2026-06-20T00:00:00.000Z",
+          "published_at": "2026-06-21T00:00:00.000Z",
           "relevance_score": 3,
           "summary": "MeshPilot Your AI workspace for terminals, tasks, and agents"
         },
@@ -333,7 +318,7 @@
           "type": "product_hunt",
           "title": "Zernio WhatsApp API One API for WhatsApp: messaging, calling, and AI agents",
           "url": "https://www.producthunt.com/products/zernio",
-          "published_at": "2026-06-20T00:00:00.000Z",
+          "published_at": "2026-06-21T00:00:00.000Z",
           "relevance_score": 3,
           "summary": "Zernio WhatsApp API One API for WhatsApp: messaging, calling, and AI agents"
         },
@@ -342,7 +327,7 @@
           "type": "product_hunt",
           "title": "Narration Room Turn source text into editable multi-voice scripts",
           "url": "https://www.producthunt.com/products/narration-room",
-          "published_at": "2026-06-20T00:00:00.000Z",
+          "published_at": "2026-06-21T00:00:00.000Z",
           "relevance_score": 1,
           "summary": "Narration Room Turn source text into editable multi-voice scripts"
         },
@@ -351,7 +336,7 @@
           "type": "product_hunt",
           "title": "Foglamp Ship AI agents you can actually see",
           "url": "https://www.producthunt.com/products/foglamp",
-          "published_at": "2026-06-20T00:00:00.000Z",
+          "published_at": "2026-06-21T00:00:00.000Z",
           "relevance_score": 3,
           "summary": "Foglamp Ship AI agents you can actually see"
         },
@@ -360,99 +345,9 @@
           "type": "product_hunt",
           "title": "Claude Code Artifacts Preview and share your coding work live as it happens",
           "url": "https://www.producthunt.com/products/claude-redesigned",
-          "published_at": "2026-06-20T00:00:00.000Z",
+          "published_at": "2026-06-21T00:00:00.000Z",
           "relevance_score": 2,
           "summary": "Claude Code Artifacts Preview and share your coding work live as it happens"
-        },
-        {
-          "source": "Product Hunt via OrangeBot",
-          "type": "product_hunt",
-          "title": "VELA Securely execute AI-generated & untrusted code",
-          "url": "https://www.producthunt.com/products/vela-7",
-          "published_at": "2026-06-20T00:00:00.000Z",
-          "relevance_score": 1,
-          "summary": "VELA Securely execute AI-generated & untrusted code"
-        },
-        {
-          "source": "Product Hunt via OrangeBot",
-          "type": "product_hunt",
-          "title": "Tine An AI desktop cursor that does the work for you",
-          "url": "https://www.producthunt.com/products/tine-2",
-          "published_at": "2026-06-20T00:00:00.000Z",
-          "relevance_score": 3,
-          "summary": "Tine An AI desktop cursor that does the work for you"
-        },
-        {
-          "source": "Product Hunt via OrangeBot",
-          "type": "product_hunt",
-          "title": "Merlin by Encord Manage your AI data infrastructure in a single conversation",
-          "url": "https://www.producthunt.com/products/merlin-by-encord",
-          "published_at": "2026-06-20T00:00:00.000Z",
-          "relevance_score": 1,
-          "summary": "Merlin by Encord Manage your AI data infrastructure in a single conversation"
-        },
-        {
-          "source": "Product Hunt via OrangeBot",
-          "type": "product_hunt",
-          "title": "LayerProof Bristol Agentic reports your clients want to read",
-          "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
-          "published_at": "2026-06-20T00:00:00.000Z",
-          "relevance_score": 1,
-          "summary": "LayerProof Bristol Agentic reports your clients want to read"
-        },
-        {
-          "source": "Product Hunt via OrangeBot",
-          "type": "product_hunt",
-          "title": "Elvin Proactive AI that finds and finishes work before you ask",
-          "url": "https://www.producthunt.com/products/elvin",
-          "published_at": "2026-06-20T00:00:00.000Z",
-          "relevance_score": 1,
-          "summary": "Elvin Proactive AI that finds and finishes work before you ask"
-        },
-        {
-          "source": "Product Hunt via OrangeBot",
-          "type": "product_hunt",
-          "title": "Agentic videos by D-ID Interactive videos that talk back",
-          "url": "https://www.producthunt.com/products/d-id",
-          "published_at": "2026-06-20T00:00:00.000Z",
-          "relevance_score": 1,
-          "summary": "Agentic videos by D-ID Interactive videos that talk back"
-        },
-        {
-          "source": "Product Hunt via OrangeBot",
-          "type": "product_hunt",
-          "title": "Juno Free, local AI powered Voice to Text w/ live transcriptions",
-          "url": "https://www.producthunt.com/products/juno-16",
-          "published_at": "2026-06-20T00:00:00.000Z",
-          "relevance_score": 1,
-          "summary": "Juno Free, local AI powered Voice to Text w/ live transcriptions"
-        },
-        {
-          "source": "Product Hunt via OrangeBot",
-          "type": "product_hunt",
-          "title": "Adapt The AI company brain that does work for you",
-          "url": "https://www.producthunt.com/products/adapt-3",
-          "published_at": "2026-06-20T00:00:00.000Z",
-          "relevance_score": 1,
-          "summary": "Adapt The AI company brain that does work for you"
-        },
-        {
-          "source": "Product Hunt via OrangeBot",
-          "type": "product_hunt",
-          "title": "Locofy: design-to-code agents Agentic frontend layer between Figma and Cursor & Claude",
-          "url": "https://www.producthunt.com/products/locofy-ai",
-          "published_at": "2026-06-20T00:00:00.000Z",
-          "relevance_score": 5,
-          "summary": "Locofy: design-to-code agents Agentic frontend layer between Figma and Cursor & Claude"
-        },
-        {
-          "source": "Product Hunt via OrangeBot",
-          "type": "product_hunt",
-          "title": "Genie Mentions AI that gets you *and* the people in your life, together",
-          "url": "https://www.producthunt.com/products/genie-mentions",
-          "published_at": "2026-06-20T00:00:00.000Z",
-          "relevance_score": 1,
-          "summary": "Genie Mentions AI that gets you *and* the people in your life, together"
         }
       ],
       "errors": [
@@ -654,24 +549,13 @@
         {
           "source": "1ms.news HN 72h",
           "type": "one_ms_hn",
-          "title": "业余爱好者声称破解线性文字A，120年未解之谜或将告破",
-          "url": "https://aiclambake.com/clamtakes/linear-a/",
+          "title": "AlphaFold 之父 John Jumper 离开 DeepMind，加入 Anthropic",
+          "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
           "mirror_url": "https://1ms.news/",
-          "author": "Kosturdistan",
-          "published_at": "2026-06-19T16:04:00.000Z",
-          "relevance_score": 3,
-          "summary": "自学AI工程师兼业余语言学家Tom Di Mino声称破解了青铜时代米诺斯文明的线性文字A，认为它对应一种已灭绝的闪米特语，是圣经希伯来语的前身。他通过分析祈祷铭文中的动词模式，利用Claude Code构建引擎系统化测试假设，已提出37个符号的解读方案，并翻译了383个词汇。该成果正在接受罗格斯大学和剑桥大学专家评审，若证实将引发语言学地震。 如果Tom Di Mino破解了线性文字A，那将是语言学领域的一场地震。"
-        },
-        {
-          "source": "1ms.news HN 72h",
-          "type": "one_ms_hn",
-          "title": "收录网站提交网站的网站：精选目录助你提升排名",
-          "url": "https://www.submission.directory/",
-          "mirror_url": "https://1ms.news/",
-          "author": "azeemkafridi",
-          "published_at": "2026-06-18T15:12:00.000Z",
+          "author": "artninja1988",
+          "published_at": "2026-06-19T17:53:00.000Z",
           "relevance_score": 2,
-          "summary": "一个手工挑选的网站提交目录，收录了 Medium、Crunchbase、Hacker News、Product Hunt 等 50+ 平台，按类型（启动平台、创业目录、AI 工具目录等）和 DR 值排序。每个条目标注链接类型（dofollow/nofollow）、费用（免费/付费/免费增值）和提交方式。例如，Hacker News 的 Show HN 虽为 nofollow 链接，但首页曝光能带来真实流量；Awwwards 提供 dofollow 链接但需付费。适合创业者、独立开发者快速找到高价 Show HN 你的项目，登上首页是网络上信号最强的发布之一。链接虽是 nofollow，但流量是真实的。"
+          "summary": "AlphaFold 团队负责人 John Jumper 在任职近 9 年后离开 Google DeepMind，加入 Anthropic。他博士毕业仅 6 个月就被 Demis Hassabis 委以重任领导 AlphaFold 项目，如今选择投身 AI 安全研究。 DeepMind 教会我如何做伟大的科学，但我已准备好迎接新挑战。"
         }
       ],
       "errors": []
@@ -1056,6 +940,16 @@
         {
           "source": "YouTube No Priors",
           "type": "youtube",
+          "title": "Intel CEO on Elon Musk",
+          "url": "https://www.youtube.com/watch?v=lmiVL8_Lzr8",
+          "author": "No Priors",
+          "published_at": "2026-06-20T23:09:39.000Z",
+          "relevance_score": 4,
+          "summary": "Intel CEO Lip-Bu Tan on working with Elon Musk: \"He's one of the best, if not the best, entrepreneurs in this century.\" \"He and I share the same view that semiconductor infrastructure has not caught up with AI growth. We need the capacity and productivity. We need to drive efficiency. That's something we both feel is missing.\""
+        },
+        {
+          "source": "YouTube No Priors",
+          "type": "youtube",
           "title": "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan",
           "url": "https://www.youtube.com/watch?v=asCgCv2XB4s",
           "author": "No Priors",
@@ -1092,16 +986,6 @@
           "published_at": "2026-06-15T14:14:08.000Z",
           "relevance_score": 6,
           "summary": "Enterprises won't share agent behavioral data with Anthropic or OpenAI. They know these \"data-hungry companies will train on it.\" Meanwhile, the problem of models developing their own semi-conscious perspective on what should happen is seemingly very hard to tackle today, even for the large vendors. Maxim Bar Kogan of Onyx Security on why that problem isn't getting solved anytime soon."
-        },
-        {
-          "source": "YouTube No Priors",
-          "type": "youtube",
-          "title": "Modern Medicine Is Just Guessing",
-          "url": "https://www.youtube.com/watch?v=TRyuFpQUO_s",
-          "author": "No Priors",
-          "published_at": "2026-06-12T16:12:47.000Z",
-          "relevance_score": 4,
-          "summary": "You get sick. Something feels off. You go to PubMed, find a paper, scroll through the methods, and ask yourself: am I even represented in this study? Priscilla Chan says that's the state of medicine right now. We're making educated guesses. Her goal with Biohub: treat every patient as an individual, understand the exact mechanism, and actually intervene. New episode of No Priors with Mark Zuckerberg, Priscilla Chan, and Alex Rives live now."
         },
         {
           "source": "YouTube Theo",
@@ -1261,7 +1145,7 @@
           "author": "Matthew Berman",
           "published_at": "2026-06-19T17:43:19.000Z",
           "relevance_score": 8,
-          "summary": "Deploy your AI easily - Check out DigitalOcean: https://do.co/forwardfutureai Loop Library: https://signals.forwardfuture.ai/loop-library/ Shout out to here.now for hosting the Loop Library. Free, instant web hosting for agents: https://here.now/r/signals Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.ai My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagram.com/matthewberman_ai 👉🏻 Discord: "
+          "summary": "Deploy your AI easily - Check out DigitalOcean: https://do.co/forwardfutureai Loop Library: https://signals.forwardfuture.ai/loop-library/ Shout out to here.now for hosting the Loop Library. Free, instant web hosting for agents: https://here.now/r/signals Free consulting sessions: https://forge.forwardfuture.ai/ Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.ai My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram:"
         },
         {
           "source": "YouTube Matthew Berman",
@@ -1271,7 +1155,7 @@
           "author": "Matthew Berman",
           "published_at": "2026-06-18T17:44:06.000Z",
           "relevance_score": 9,
-          "summary": "Try Greptile Free for 14 days https://www.greptile.com/go/berman Loop Library: https://signals.forwardfuture.ai/loop-library/ Shout out to here.now for hosting the Loop Library. Free, instant web hosting for agents: https://here.now/r/signals Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.ai My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www.instagram.com/matthewberman_ai 👉🏻 Discord: https://disco"
+          "summary": "Try Greptile Free for 14 days https://www.greptile.com/go/berman Loop Library: https://signals.forwardfuture.ai/loop-library/ Shout out to here.now for hosting the Loop Library. Free, instant web hosting for agents: https://here.now/r/signals Free consulting sessions: https://forge.forwardfuture.ai/ Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.ai My Links 🔗 👉🏻 X: https://x.com/matthewberman 👉🏻 Forward Future X: https://x.com/forwardfuture 👉🏻 Instagram: https://www."
         },
         {
           "source": "YouTube Matthew Berman",

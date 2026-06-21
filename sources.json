@@ -11,6 +11,18 @@
       "notes": "Runs via Docker Compose in tools/wechat-download-api. External port 5010 avoids macOS ControlCenter on 5000."
     }
   },
+  "reference_sources": [
+    {
+      "id": "toolify-trending-ai-tools",
+      "tier": "A",
+      "name": "Toolify Trending AI Tools",
+      "platform": "web",
+      "url": "https://www.toolify.ai/Best-trending-AI-Tools",
+      "focus": ["AI 工具趋势", "新产品发现", "自由机会"],
+      "status": "browser_verification_required",
+      "notes": "Cloudflare may block automated fetches. Use as discovery only and verify the original product page before inclusion."
+    }
+  ],
   "sources": [
     {
       "id": "wechat-liuxiaopai-r",

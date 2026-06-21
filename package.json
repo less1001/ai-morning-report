@@ -19,9 +19,12 @@
     "opps:fetch": "node tools/opportunity-monitor/opportunity-monitor.mjs",
     "report:preview": "node tools/report-builder/report-builder.mjs",
     "report:commit": "node tools/report-builder/report-builder.mjs --commit",
+    "report:test": "node --test tools/report-builder/report-builder.test.mjs",
+    "report:lock": "node tools/report-run-lock.mjs",
     "asset:generate": "node tools/asset-pack/asset-pack.mjs",
     "monitor:preview": "node tools/monitor-refresh.mjs",
-    "monitor:commit": "node tools/monitor-refresh.mjs --commit"
+    "monitor:commit": "node tools/monitor-refresh.mjs --commit",
+    "report:send": "\"/Volumes/Samsung T7/antigravity/Hermes/venv/bin/python3\" tools/report-builder/send-report-direct.py"
   },
   "dependencies": {
     "marked": "^18.0.5",

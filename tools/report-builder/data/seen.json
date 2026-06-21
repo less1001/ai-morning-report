@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T01:25:01.469Z",
+  "updated_at": "2026-06-21T01:54:04.905Z",
   "items": {
     "reddit:https://www.reddit.com/r/AI_Agents/comments/1tuigqc/nvidias_new_pcs_for_agentic_ai_power_users_are/": {
       "first_seen_at": "2026-06-02T12:05:41.186Z",
@@ -1813,6 +1813,286 @@
       "title": "Narration Room Turn source text into editable multi-voice scripts",
       "url": "https://www.producthunt.com/products/narration-room",
       "source_type": "product_hunt"
+    },
+    "x:https://x.com/AnthropicAI/status/2067651700757086553": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "Anthropic @AnthropicAI · 6月19日 Watch the robodogs in action in our first Project Fetch experiment:",
+      "url": "https://x.com/AnthropicAI/status/2067651700757086553",
+      "source_type": "x"
+    },
+    "x:https://x.com/gefei55/status/2067568447136080000": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "哥飞 @gefei55 · 6月18日 解释一下，他这样做的好处有两个：",
+      "url": "https://x.com/gefei55/status/2067568447136080000",
+      "source_type": "x"
+    },
+    "x:https://x.com/claudeai/status/2064741184547795408": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "Claude @claudeai · 6月11日 Scheduled deployments and environment variables in vaults are available today on the Claude Platform.",
+      "url": "https://x.com/claudeai/status/2064741184547795408",
+      "source_type": "x"
+    },
+    "x:https://x.com/sama/status/2062661071761211561": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "Sam Altman @sama · 6月5日 build and publish web apps with chatgpt!",
+      "url": "https://x.com/sama/status/2062661071761211561",
+      "source_type": "x"
+    },
+    "x:https://x.com/swyx/status/2067658992739029252": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "swyx @swyx · 6月19日 completely unprompted wow moment from today - asked",
+      "url": "https://x.com/swyx/status/2067658992739029252",
+      "source_type": "x"
+    },
+    "x:https://x.com/howie_serious/status/2064869327237767378": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "howie.serious @howie_serious · 6月11日 designed by claude fable 5",
+      "url": "https://x.com/howie_serious/status/2064869327237767378",
+      "source_type": "x"
+    },
+    "reddit:https://www.reddit.com/r/AI_Agents/comments/1u9pnxa/could_there_be_another_breakthrough_bigger_than/": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "Could There Be Another Breakthrough Bigger Than AI, or Is AI the Final Big Tech Revolution?",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1u9pnxa/could_there_be_another_breakthrough_bigger_than/",
+      "source_type": "reddit"
+    },
+    "one_ms_hn:https://www.submission.directory/": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "收录网站提交网站的网站：精选目录助你提升排名",
+      "url": "https://www.submission.directory/",
+      "source_type": "one_ms_hn"
+    },
+    "one_ms_yc:https://www.ycombinator.com/launches/QkK-unlayer-ai-powered-content-creation-for-your-product": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "Unlayer：为产品嵌入AI驱动的内容创作平台",
+      "url": "https://www.ycombinator.com/launches/QkK-unlayer-ai-powered-content-creation-for-your-product",
+      "source_type": "one_ms_yc"
+    },
+    "youtube:https://www.youtube.com/watch?v=j2knrqAzYVY": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "Translating Claude’s thoughts into language",
+      "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+      "source_type": "youtube"
+    },
+    "youtube:https://www.youtube.com/watch?v=D4XTefP3Lsc": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "When AIs act emotional",
+      "url": "https://www.youtube.com/watch?v=D4XTefP3Lsc",
+      "source_type": "youtube"
+    },
+    "news:https://platform.openai.com/docs/guides/realtime": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "Realtime and audio guide",
+      "url": "https://platform.openai.com/docs/guides/realtime",
+      "source_type": "news"
+    },
+    "reddit:https://www.reddit.com/r/codex/comments/1uaayeo/are_the_glm_52_glazers_all_chinese_bots/": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "Are the GLM 5.2 glazers all Chinese bots?",
+      "url": "https://www.reddit.com/r/codex/comments/1uaayeo/are_the_glm_52_glazers_all_chinese_bots/",
+      "source_type": "reddit"
+    },
+    "one_ms_yc:https://www.ycombinator.com/launches/QuH-ploy-turns-your-website-into-your-company-s-growth-engine": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "Ploy：用AI代理将网站转化为公司增长引擎",
+      "url": "https://www.ycombinator.com/launches/QuH-ploy-turns-your-website-into-your-company-s-growth-engine",
+      "source_type": "one_ms_yc"
+    },
+    "youtube:https://www.youtube.com/watch?v=MnCBp01Bci8": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "Building the Future of Image Generation with Ideogram's CEO",
+      "url": "https://www.youtube.com/watch?v=MnCBp01Bci8",
+      "source_type": "youtube"
+    },
+    "wechat:https://mp.weixin.qq.com/s/01-6ETovVbJgNcda1JmVXw": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "薅美帝羊毛，白得一美国手机号，还倒赚27美元+",
+      "url": "https://mp.weixin.qq.com/s/01-6ETovVbJgNcda1JmVXw",
+      "source_type": "wechat"
+    },
+    "reddit:https://www.reddit.com/r/webflow/comments/1ua8hz2/everyone_saying_webflow_is_dying_is_missing/": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "Everyone saying Webflow is dying is missing something obvious",
+      "url": "https://www.reddit.com/r/webflow/comments/1ua8hz2/everyone_saying_webflow_is_dying_is_missing/",
+      "source_type": "reddit"
+    },
+    "reddit:https://www.reddit.com/r/FortNiteBR/comments/1ua12tt/ai_discourse/": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "AI discourse",
+      "url": "https://www.reddit.com/r/FortNiteBR/comments/1ua12tt/ai_discourse/",
+      "source_type": "reddit"
+    },
+    "reddit:https://www.reddit.com/r/vibecoding/comments/1u9qgfe/i_got_tired_of_paywalls_and_uploading_sensitive/": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "I got tired of paywalls and uploading sensitive files to sketchy sites, so I jumped back into coding to build my own tools",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1u9qgfe/i_got_tired_of_paywalls_and_uploading_sensitive/",
+      "source_type": "reddit"
+    },
+    "one_ms_yc:https://www.ycombinator.com/launches/Qrp-kinro-the-first-autonomous-insurance-brokerage": {
+      "first_seen_at": "2026-06-20T01:34:58.879Z",
+      "last_seen_at": "2026-06-20T01:34:58.879Z",
+      "title": "Kinro 推出首个自主保险经纪 AI 代理，完成首笔自动保单",
+      "url": "https://www.ycombinator.com/launches/Qrp-kinro-the-first-autonomous-insurance-brokerage",
+      "source_type": "one_ms_yc"
+    },
+    "reddit:https://www.reddit.com/r/aiagents/comments/1uaha5i/which_ai_coding_agentharness_do_you_prefer_for/": {
+      "first_seen_at": "2026-06-20T23:07:25.230Z",
+      "last_seen_at": "2026-06-20T23:07:25.230Z",
+      "title": "Which AI coding agent/harness do you prefer for development?",
+      "url": "https://www.reddit.com/r/aiagents/comments/1uaha5i/which_ai_coding_agentharness_do_you_prefer_for/",
+      "source_type": "reddit"
+    },
+    "reddit:https://www.reddit.com/r/hermesagent/comments/1ualvi7/when_to_use_hermes_over_claude_code/": {
+      "first_seen_at": "2026-06-20T23:07:25.230Z",
+      "last_seen_at": "2026-06-20T23:07:25.230Z",
+      "title": "When to use Hermes over Claude code?",
+      "url": "https://www.reddit.com/r/hermesagent/comments/1ualvi7/when_to_use_hermes_over_claude_code/",
+      "source_type": "reddit"
+    },
+    "reddit:https://www.reddit.com/r/ClaudeCode/comments/1uamfcd/claudecodecodexopencode_which_one_is_best_llm/": {
+      "first_seen_at": "2026-06-20T23:07:25.230Z",
+      "last_seen_at": "2026-06-20T23:07:25.230Z",
+      "title": "ClaudeCode/Codex/OpenCode, which one is best? (LLM model agnostic) Need honest feedback.",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1uamfcd/claudecodecodexopencode_which_one_is_best_llm/",
+      "source_type": "reddit"
+    },
+    "reddit:https://www.reddit.com/r/SideProject/comments/1ub3val/if_youre_getting_into_vibe_coding_to_make_it_dont/": {
+      "first_seen_at": "2026-06-20T23:07:25.230Z",
+      "last_seen_at": "2026-06-20T23:07:25.230Z",
+      "title": "If you're getting into vibe coding to make it - don't. Here's what 8k downloads actually looks like.",
+      "url": "https://www.reddit.com/r/SideProject/comments/1ub3val/if_youre_getting_into_vibe_coding_to_make_it_dont/",
+      "source_type": "reddit"
+    },
+    "reddit:https://www.reddit.com/r/ClaudeAI/comments/1uan2ow/nobel_winner_john_jumper_to_leave_google_deepmind/": {
+      "first_seen_at": "2026-06-20T23:07:25.230Z",
+      "last_seen_at": "2026-06-20T23:07:25.230Z",
+      "title": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uan2ow/nobel_winner_john_jumper_to_leave_google_deepmind/",
+      "source_type": "reddit"
+    },
+    "x:https://x.com/AravSrinivas/status/2067645893394968742": {
+      "first_seen_at": "2026-06-20T23:07:25.230Z",
+      "last_seen_at": "2026-06-20T23:07:25.230Z",
+      "title": "Aravind Srinivas @AravSrinivas · 6月19日 Context graphs will be the best way for businesses to enable and deploy agentic harnesses. There's a",
+      "url": "https://x.com/AravSrinivas/status/2067645893394968742",
+      "source_type": "x"
+    },
+    "x:https://x.com/swyx/status/2067468331918242127": {
+      "first_seen_at": "2026-06-20T23:07:25.230Z",
+      "last_seen_at": "2026-06-20T23:07:25.230Z",
+      "title": "swyx @swyx · 6月18日 my notes from the",
+      "url": "https://x.com/swyx/status/2067468331918242127",
+      "source_type": "x"
+    },
+    "x:https://x.com/OpenAI/status/2067722696759329125": {
+      "first_seen_at": "2026-06-20T23:07:25.230Z",
+      "last_seen_at": "2026-06-20T23:07:25.230Z",
+      "title": "OpenAI @OpenAI · 6月19日 This is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits",
+      "url": "https://x.com/OpenAI/status/2067722696759329125",
+      "source_type": "x"
+    },
+    "reddit:https://www.reddit.com/r/kde/comments/1uayjwq/dyedfox_radio_version_052_a_native_kde_internet/": {
+      "first_seen_at": "2026-06-20T23:07:25.230Z",
+      "last_seen_at": "2026-06-20T23:07:25.230Z",
+      "title": "Dyedfox Radio version 0.5.2 - A native KDE internet radio player",
+      "url": "https://www.reddit.com/r/kde/comments/1uayjwq/dyedfox_radio_version_052_a_native_kde_internet/",
+      "source_type": "reddit"
+    },
+    "x:https://x.com/BTCdayu/status/2068172360688304226": {
+      "first_seen_at": "2026-06-20T23:07:25.230Z",
+      "last_seen_at": "2026-06-20T23:07:25.230Z",
+      "title": "大宇 @BTCdayu · 19小时 智谱和MINIMAX为什么一个暴涨，一个暴跌？",
+      "url": "https://x.com/BTCdayu/status/2068172360688304226",
+      "source_type": "x"
+    },
+    "x:https://x.com/BTCdayu/status/2068115016906420274": {
+      "first_seen_at": "2026-06-20T23:07:25.230Z",
+      "last_seen_at": "2026-06-20T23:07:25.230Z",
+      "title": "大宇 @BTCdayu · 23小时 在去年国内媒体一边倒吹捧雷军的时候，就知道今天会变成人人喊打局面。",
+      "url": "https://x.com/BTCdayu/status/2068115016906420274",
+      "source_type": "x"
+    },
+    "one_ms_yc:https://www.ycombinator.com/launches/Qrm-nowadays-ai-ai-native-platform-for-corporate-meetings-events": {
+      "first_seen_at": "2026-06-20T23:07:25.230Z",
+      "last_seen_at": "2026-06-20T23:07:25.230Z",
+      "title": "Nowadays：AI原生企业会议与活动平台",
+      "url": "https://www.ycombinator.com/launches/Qrm-nowadays-ai-ai-native-platform-for-corporate-meetings-events",
+      "source_type": "one_ms_yc"
+    },
+    "x:https://x.com/swyx/status/2068510546606145897": {
+      "first_seen_at": "2026-06-21T01:49:20.339Z",
+      "last_seen_at": "2026-06-21T01:49:20.339Z",
+      "title": "swyx @swyx · 56秒 btw this is what happens on July 4 if team usa wins this game Wednesday after next",
+      "url": "https://x.com/swyx/status/2068510546606145897",
+      "source_type": "x"
+    },
+    "reddit:https://www.reddit.com/r/UPSCPrelims2026/comments/1ub0lpc/at_30_after_years_of_upsc_preparation_i_thought_i/": {
+      "first_seen_at": "2026-06-21T01:49:20.339Z",
+      "last_seen_at": "2026-06-21T01:49:20.339Z",
+      "title": "At 30, after years of UPSC preparation, I thought I had ruined my career. Today I work remotely as an AI Engineer.",
+      "url": "https://www.reddit.com/r/UPSCPrelims2026/comments/1ub0lpc/at_30_after_years_of_upsc_preparation_i_thought_i/",
+      "source_type": "reddit"
+    },
+    "x:https://x.com/emollick/status/2068083655570784675": {
+      "first_seen_at": "2026-06-21T01:49:20.339Z",
+      "last_seen_at": "2026-06-21T01:49:20.339Z",
+      "title": "Ethan Mollick @emollick · 6月20日 I suspect that companies underestimate the value of using higher intelligence for tasks where weaker AIs see",
+      "url": "https://x.com/emollick/status/2068083655570784675",
+      "source_type": "x"
+    },
+    "x:https://x.com/OpenAI/status/2067672742426775728": {
+      "first_seen_at": "2026-06-21T01:49:20.339Z",
+      "last_seen_at": "2026-06-21T01:49:20.339Z",
+      "title": "OpenAI @OpenAI · 6月19日 To improve our models, we collaborate with a global network of hundreds of physicians across 60 countries, 49 languag",
+      "url": "https://x.com/OpenAI/status/2067672742426775728",
+      "source_type": "x"
+    },
+    "x:https://x.com/gdb/status/2067648020934701541": {
+      "first_seen_at": "2026-06-21T01:49:20.339Z",
+      "last_seen_at": "2026-06-21T01:49:20.339Z",
+      "title": "Greg Brockman @gdb · 6月19日 OpenAI for helping find 18 new diagnoses across 376 previously unsolved medical cases.",
+      "url": "https://x.com/gdb/status/2067648020934701541",
+      "source_type": "x"
+    },
+    "x:https://x.com/sama/status/2067427421083652131": {
+      "first_seen_at": "2026-06-21T01:49:20.339Z",
+      "last_seen_at": "2026-06-21T01:49:20.339Z",
+      "title": "Sam Altman @sama · 6月18日 noam is one of the people I have most wanted to work with since the very beginning of openai.",
+      "url": "https://x.com/sama/status/2067427421083652131",
+      "source_type": "x"
+    },
+    "x:https://x.com/gefei55/status/2067645113862599139": {
+      "first_seen_at": "2026-06-21T01:54:04.905Z",
+      "last_seen_at": "2026-06-21T01:54:04.905Z",
+      "title": "哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了",
+      "url": "https://x.com/gefei55/status/2067645113862599139",
+      "source_type": "x"
+    },
+    "x:https://x.com/swyx/status/2068476803027706072": {
+      "first_seen_at": "2026-06-21T01:54:04.905Z",
+      "last_seen_at": "2026-06-21T01:54:04.905Z",
+      "title": "swyx @swyx · 2小时 btw",
+      "url": "https://x.com/swyx/status/2068476803027706072",
+      "source_type": "x"
     }
   }
 }
