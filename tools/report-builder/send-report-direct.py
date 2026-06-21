@@ -168,9 +168,9 @@ def clean_text_formatting(text):
     
     # 2. Remove spaces between Chinese characters and English/digits
     # Chinese -> English/digit
-    text_masked = re.sub(r'([\u4e00-\u9fff])\s+([a-zA-Z0-9])', r'\1\2', text_masked)
+    text_masked = re.sub(r'([\u4e00-\u9fff])[ \t]+([a-zA-Z0-9])', r'\1\2', text_masked)
     # English/digit -> Chinese
-    text_masked = re.sub(r'([a-zA-Z0-9])\s+([\u4e00-\u9fff])', r'\1\2', text_masked)
+    text_masked = re.sub(r'([a-zA-Z0-9])[ \t]+([\u4e00-\u9fff])', r'\1\2', text_masked)
     
     # 3. Clean all parentheses (full-width and half-width)
     # We remove the parentheses and keep the text inside.

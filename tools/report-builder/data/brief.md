@@ -1,6 +1,6 @@
 # AI 出海候选日报
 
-生成时间：2026-06-21T02:05:10.133Z
+生成时间：2026-06-21T02:09:52.183Z
 模式：已写入 seen
 
 ## 抓取状态
@@ -22,7 +22,7 @@
 2. [Ethan Mollick @emollick · 6月20日 If AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/ha](https://x.com/emollick/status/2068152054900502702)
    - 来源：@emollick / x / score=26 / Claude
    - 时间：2026-06-20T02:00:48.000Z
-   - 摘要：Ethan Mollick @emollick · 6月20日 If AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/harnesses & models should go up. This appears to be happening at Anthropic & OpenAI, but not for any other labs, including those that seemed to be catching up last year. 37 48 501 9.2万
+   - 摘要：Ethan Mollick @emollick · 6月20日 If AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/harnesses & models should go up. This appears to be happening at Anthropic & OpenAI, but not for any other labs, including those that seemed to be catching up last year. 37 49 502 9.3万
 3. [Bindu Reddy @bindureddy · 6月18日 The biggest question in AI today -](https://x.com/bindureddy/status/2067519376681804011)
    - 来源：@bindureddy / x / score=24 / 只观察
    - 时间：2026-06-18T08:06:46.000Z
@@ -42,7 +42,7 @@
 7. [OpenAI @OpenAI · 6月18日 Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 D](https://x.com/OpenAI/status/2067625110199247353)
    - 来源：@OpenAI / x / score=22 / 商业化案例
    - 时间：2026-06-18T15:06:55.000Z
-   - 摘要：OpenAI @OpenAI · 6月18日 Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years. 215 436 2,826 344万
+   - 摘要：OpenAI @OpenAI · 6月18日 Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years. 215 437 2,827 344万
 8. [Bindu Reddy @bindureddy · 6月18日 Open Source Abacus AI Dragon Models Are Coming](https://x.com/bindureddy/status/2067380901714268474)
    - 来源：@bindureddy / x / score=22 / 可做工具
    - 时间：2026-06-17T22:56:31.000Z
@@ -50,11 +50,11 @@
 9. [howie.serious @howie_serious · 6月15日 还好我有 2 个 chatgpt pro 账号，1 个 claude max](https://x.com/howie_serious/status/2066364318774591980)
    - 来源：@howie_serious / x / score=22 / Claude, 可做工具, 只观察
    - 时间：2026-06-15T03:36:59.000Z
-   - 摘要：howie.serious @howie_serious · 6月15日 还好我有 2 个 chatgpt pro 账号，1 个 claude max 今年我想测试一个 idea：个人/企业，到底能不能通过烧 token 获得实实在在的竞争优势？ 例如，1-2 人全面 agent 范式的新团队，配合不限量的 token，到底能不能达到甚至碾压非 agent 范式的传统百人团队？ 25 14 6,584
+   - 摘要：howie.serious @howie_serious · 6月15日 还好我有 2 个 chatgpt pro 账号，1 个 claude max 今年我想测试一个 idea：个人/企业，到底能不能通过烧 token 获得实实在在的竞争优势？ 例如，1-2 人全面 agent 范式的新团队，配合不限量的 token，到底能不能达到甚至碾压非 agent 范式的传统百人团队？ 25 14 6,585
 10. [Ethan Mollick @emollick · 10小时 Some interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor.](https://x.com/emollick/status/2068356975667130774)
    - 来源：@emollick / x / score=21 / 只观察
    - 时间：2026-06-20T15:35:05.000Z
-   - 摘要：Ethan Mollick @emollick · 10小时 Some interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor. 引用 Auyon Siddiq @auyonomous · 23小时 New research: Is AI making employers view labor as more of a commodity? In a large online labor market, we find that post-ChatGPT, clients place less weight on signals of human capital and more on price when hiring. 0:02 20 16 161 2.9万
+   - 摘要：Ethan Mollick @emollick · 10小时 Some interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor. 引用 Auyon Siddiq @auyonomous · 23小时 New research: Is AI making employers view labor as more of a commodity? In a large online labor market, we find that post-ChatGPT, clients place less weight on signals of human capital and more on price when hiring. 0:02 20 16 162 3万
 
 ## 建议进入邮件的候选
 暂无建议进入邮件的候选。
