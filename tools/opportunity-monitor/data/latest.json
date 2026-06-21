@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-06-21T01:53:42.070Z",
+  "captured_at": "2026-06-21T02:04:37.512Z",
   "sources": {
     "reddit": {
       "items": [
@@ -150,6 +150,18 @@
         {
           "source": "Reddit r/Codex_programming",
           "type": "reddit",
+          "title": "12-Hour Usage Review of GLM5.2, and a Comparison with DeepSeek V4Pro and MiMo2.5Pro",
+          "url": "https://www.reddit.com/r/ZaiGLM/comments/1uao4dq/12hour_usage_review_of_glm52_and_a_comparison/",
+          "external_url": "",
+          "author": "/u/Aromatic-Document638",
+          "published_at": "2026-06-20T05:24:13.000Z",
+          "relevance_score": 2,
+          "discussion_status": "reddit_search_sorted_by_comments",
+          "summary": "I am using the neuralwatt service, and as server usage surged yesterday, experiencing the worst service quality led me to develop a misguided prejudice against GLM5.2. Consequently, I deleted my initial post, which I now regret. https://preview.redd.it/kza5d9rthd8h1.png?width=1223&format=png&auto=webp&s=4108f88331287b7d96756dff8ab8f22432e38bd8 TL;DR: GLM5.2 is an excellent model with outstanding problem-solving capabilities. First, based on the neuralwatt service, GLM5.2 is roughly 3 to 10 times"
+        },
+        {
+          "source": "Reddit r/Codex_programming",
+          "type": "reddit",
           "title": "Royal Road Mythbusting",
           "url": "https://www.reddit.com/r/royalroad/comments/1uamyvy/royal_road_mythbusting/",
           "external_url": "",
@@ -158,30 +170,6 @@
           "relevance_score": 2,
           "discussion_status": "reddit_search_sorted_by_comments",
           "summary": "Hello, everyone. It is I, Bedivere, back with yet another guide thingamajig. There’s a lot of advice flying around all over, both in this subreddit and in discord servers. Some of it is good, and some of it is very bad, and as a new writer, it can be hard to tell which is which. I and other experienced authors who know more also don’t have the time or motivation to stamp out every single random piece of terrible advice going around, so this post is meant to be kind of a reference sheet. Spread i"
-        },
-        {
-          "source": "Reddit r/Codex_programming",
-          "type": "reddit",
-          "title": "Can an \"average\" person change the world using AI?",
-          "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1uak1ks/can_an_average_person_change_the_world_using_ai/",
-          "external_url": "",
-          "author": "/u/VetOnABrainwave",
-          "published_at": "2026-06-20T01:52:29.000Z",
-          "relevance_score": 2,
-          "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "People often talk about how AI is democratizing innovation, but rarely look at the psychological reality of what that could mean. Let's say a person had a world-changing idea for a complex system or a breakthrough application, but they were stopped by massive barriers, such as a lack of coding expertise or the need for millions in capital. Today, a single individual with a laptop can leverage AI to handle the technical heavy lifting, effectively acting as the director of a massive digital crew. "
-        },
-        {
-          "source": "Reddit r/Codex_programming",
-          "type": "reddit",
-          "title": "The plugin repo is becoming a junkyard",
-          "url": "https://www.reddit.com/r/Wordpress/comments/1uaj3k7/the_plugin_repo_is_becoming_a_junkyard/",
-          "external_url": "",
-          "author": "/u/moremosby",
-          "published_at": "2026-06-20T01:05:11.000Z",
-          "relevance_score": 2,
-          "discussion_status": "reddit_search_sorted_by_comments",
-          "summary": "I've noticed a lot of abandoned plugins in the repo and it's not a good look when you recommend WordPress. But I was reading in the Repository a couple days ago that the WordPress Plugins Team just hit a new record of ~700 plugin submissions per week. That's 5x what it was in 2024, and the growth tracks almost perfectly with the rise of AI-assisted development. Hats off to the volunteer reviewers keeping up — they're genuinely doing good work. But let's be honest about what's coming: if we're al"
         }
       ],
       "errors": [

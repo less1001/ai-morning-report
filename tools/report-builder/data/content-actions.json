@@ -1,63 +1,16 @@
 {
-  "generated_at": "2026-06-21T01:54:04.891Z",
+  "generated_at": "2026-06-21T02:05:10.129Z",
   "mode": "commit",
   "source_status": {
     "wechat": "75 条",
     "x": "156 条",
     "product_hunt": "10 条",
-    "reddit": "15 条",
+    "reddit": "14 条",
     "one_ms_yc": "17 条",
     "one_ms_hn": "1 条",
     "news": "10 条",
     "podcast": "1 条",
     "youtube": "56 条"
   },
-  "content_actions": [
-    {
-      "id": "2067645113862599139",
-      "source_type": "x",
-      "source": "@gefei55",
-      "title": "哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了",
-      "asset_title": "哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了",
-      "url": "https://x.com/gefei55/status/2067645113862599139",
-      "published_at": "2026-06-18T16:26:24.000Z",
-      "score": 14,
-      "tags": [],
-      "priority": "低",
-      "action_type": "做卡片",
-      "recommended_outputs": [
-        "Obsidian 笔记",
-        "知识卡片"
-      ],
-      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
-      "skill_chain": [
-        "ljg-read",
-        "ljg-writes",
-        "ljg-card"
-      ]
-    },
-    {
-      "id": "2068476803027706072",
-      "source_type": "x",
-      "source": "@swyx",
-      "title": "swyx @swyx · 2小时 btw",
-      "asset_title": "swyx @swyx · 2小时 btw",
-      "url": "https://x.com/swyx/status/2068476803027706072",
-      "published_at": "2026-06-20T23:31:14.000Z",
-      "score": 13,
-      "tags": [],
-      "priority": "低",
-      "action_type": "做卡片",
-      "recommended_outputs": [
-        "Obsidian 笔记",
-        "知识卡片"
-      ],
-      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
-      "skill_chain": [
-        "ljg-read",
-        "ljg-writes",
-        "ljg-card"
-      ]
-    }
-  ]
+  "content_actions": []
 }

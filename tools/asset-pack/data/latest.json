@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-21T01:54:05.032Z",
-  "report_generated_at": "2026-06-21T01:54:04.891Z",
-  "run_id": "20260620-1854",
-  "output_dir": "/Volumes/Samsung T7/Codex/Legacy Projects/New project 4/tools/asset-pack/data/20260620-1854",
+  "generated_at": "2026-06-21T02:05:10.280Z",
+  "report_generated_at": "2026-06-21T02:05:10.129Z",
+  "run_id": "20260620-1905",
+  "output_dir": "/Volumes/Samsung T7/Codex/Legacy Projects/New project 4/tools/asset-pack/data/20260620-1905",
   "strategy": "Pick 1-3 high-action-value candidates and generate publishable drafts for WeChat, Xiaohongshu, X, card prompts, and MVP briefs.",
   "counts": {
-    "assets": 1,
-    "platform_jobs": 5
+    "assets": 0,
+    "platform_jobs": 0
   },
   "multipost": {
     "role": "publishing_executor",
@@ -14,78 +14,5 @@
     "local_extension_dir": "/Volumes/Samsung T7/Codex/Legacy Projects/New project 4/tools/multipost-extension/chrome-mv3-prod",
     "status": "not_verified_in_browser"
   },
-  "assets": [
-    {
-      "id": "01-哥飞-gefei55-6月19日-代码开源了-可以在自己本机部署起来了",
-      "source": {
-        "title": "哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了",
-        "source": "@gefei55",
-        "source_type": "x",
-        "url": "https://x.com/gefei55/status/2067645113862599139",
-        "published_at": "2026-06-18T16:26:24.000Z",
-        "score": 14,
-        "tags": [],
-        "summary": "哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了 GitHub - qiayue/Twitter-Trend-Radar: Twitter Trend Radar 来自 github.com 2 6 44 3,234"
-      },
-      "case_type": "content_case",
-      "priority": "high",
-      "files": {
-        "wechat_article": "01-哥飞-gefei55-6月19日-代码开源了-可以在自己本机部署起来了/wechat-article.md",
-        "xhs_note": "01-哥飞-gefei55-6月19日-代码开源了-可以在自己本机部署起来了/xiaohongshu-note.md",
-        "x_thread": "01-哥飞-gefei55-6月19日-代码开源了-可以在自己本机部署起来了/x-thread.md",
-        "card_prompt": "01-哥飞-gefei55-6月19日-代码开源了-可以在自己本机部署起来了/card-prompt.md",
-        "mvp_brief": "01-哥飞-gefei55-6月19日-代码开源了-可以在自己本机部署起来了/mvp-brief.md"
-      },
-      "platform_jobs": [
-        {
-          "platform": "wechat",
-          "label": "公众号",
-          "skill": "ljg-writes -> baoyu-post-to-wechat",
-          "status": "draft_ready",
-          "file": "01-哥飞-gefei55-6月19日-代码开源了-可以在自己本机部署起来了/wechat-article.md"
-        },
-        {
-          "platform": "xiaohongshu",
-          "label": "小红书",
-          "skill": "ljg-card / baoyu-xhs-images",
-          "status": "draft_ready",
-          "file": "01-哥飞-gefei55-6月19日-代码开源了-可以在自己本机部署起来了/xiaohongshu-note.md"
-        },
-        {
-          "platform": "x",
-          "label": "X/Twitter",
-          "skill": "ljg-writes -> baoyu-post-to-x",
-          "status": "draft_ready",
-          "file": "01-哥飞-gefei55-6月19日-代码开源了-可以在自己本机部署起来了/x-thread.md"
-        },
-        {
-          "platform": "card",
-          "label": "知识卡片",
-          "skill": "ljg-card",
-          "status": "prompt_ready",
-          "file": "01-哥飞-gefei55-6月19日-代码开源了-可以在自己本机部署起来了/card-prompt.md"
-        },
-        {
-          "platform": "product",
-          "label": "工具/MVP",
-          "skill": "ljg-rank",
-          "status": "brief_ready",
-          "file": "01-哥飞-gefei55-6月19日-代码开源了-可以在自己本机部署起来了/mvp-brief.md"
-        }
-      ],
-      "preview": {
-        "wechat_title": "拆一个机会：哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了",
-        "xhs_title": "我从一个海外帖子里看到的新机会",
-        "x_hook": "哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了",
-        "card_title": "哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了"
-      },
-      "drafts": {
-        "wechat_article": "# 拆一个机会：哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了\n\n来源：@gefei55\n原文：https://x.com/gefei55/status/2067645113862599139\n发布时间：2026-06-18T16:26:24.000Z\n类型：content_case\n\n## 先说结论\n哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了 GitHub - qiayue/Twitter-Trend-Radar: Twitter Trend Radar 来自 github.com 2 6 44 3,234 这条信息真正值得看的，不是表面热闹，而是它暴露了一个可以被产品化、内容化或服务化的缺口。\n\n## 5W1H 拆解\n\n**What｜它是什么**：哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了\n\n**Who｜谁在做/谁在需要**：@gefei55 提供了这个信号；潜在用户是正在找流量、找分发、找 AI 工具机会的独立开发者、出海团队和内容创业者。\n\n**Why｜为什么现在重要**：AI 工具和出海独立站的竞争越来越像“信息差 + 执行速度”的比赛。谁能更快把案例拆成页面、工具、文章和分发动作，谁就更容易获得第一波流量。\n\n**Where｜机会在哪里**：机会不在复述原文，而在把它变成一个可复制模板：案例页、审计工具、选题库、服务包或平台分发内容。\n\n**When｜什么时候做**：现在适合做 48 小时小验证。先不要做大产品，先写一篇拆解、发一组卡片、做一个落地页或收集 10 个潜在用户反馈。\n\n**How｜怎么做**：\n1. 把原文里的痛点、数据、动作和结果拆出来。\n2. 写成一篇中文案例拆解，标题直接说清楚收益或反差。\n3. 压缩成小红书 5-7 张卡片，用“问题 -> 关键数据 -> 方法 -> 可复制步骤 -> 风险”结构。\n4. 改成一条 X 长帖，突出海外工具/独立站可复制的部分。\n5. 如果信号足够强，再做一个极简 MVP 或 Notion/表单验证。\n\n## 可复制动作\n- 公众号：写成产品/增长案例拆解。\n- 小红书：做“一个人/一个站/一个工具怎么赚钱”的图文笔记。\n- X：发一条 thread，讲它对 indie hacker 或 AI builder 的启发。\n- 工具：如果反复出现同类痛点，做一个 URL 输入 -> 报告输出的小工具。\n\n## 风险\n这条信息仍需要继续验证：原文数据是否可复核，讨论是否真实，是否只是单次噪音。正式发布时要保留来源，不要把推断写成事实。\n",
-        "xhs_note": "# 我从一个海外帖子里看到的新机会\n\n## 标题备选\n1. 我从一个海外帖子里看到的新机会\n2. 哥飞 @gefei55 · 6月19日 代码开源了，可以，到底能不能抄？\n3. 普通人做 AI 出海，应该先看这种小机会\n\n## 正文\n今天看到一个很适合拆的案例：哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了\n\n哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了 GitHub - qiayue/Twitter-Trend-Radar: Twitter Trend Radar 来自 github.com 2 6 44 3,234\n\n我觉得它值得看，不是因为它很热，而是因为里面有 3 个可以复用的动作：\n\n1. 先找一个具体人群的具体问题，不要上来做大平台。\n2. 把解决方案包装成一个可检查、可交付、可复用的结果。\n3. 用内容和社区先验证需求，再决定要不要做工具。\n\n如果你也在看 AI 出海机会，可以先问自己：\n- 这个需求有没有人已经在公开抱怨？\n- 有没有人愿意为了省时间/省钱/多流量付费？\n- 能不能先做成一页报告、一篇内容、一个小工具？\n\n## 标签\n#AI出海 #独立开发 #小而美创业 #一人公司 #AI工具 #海外案例 #副业项目\n\n## 分图脚本\n1. 封面：一个海外小案例，藏着 AI 出海机会\n2. 这个案例在说什么\n3. 真正痛点是什么\n4. 可以复制的 3 个动作\n5. 适合做成什么产品/内容\n6. 48 小时验证清单\n",
-        "x_thread": "1/ 哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了\n\nThis is a useful AI/indie opportunity signal, not just another link.\n\nSource: https://x.com/gefei55/status/2067645113862599139\n\n2/ The short version: 哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了 GitHub - qiayue/Twitter-Trend-Radar: Twitter Trend Radar 来自 github.com 2 6 44 3,234\n\n3/ The opportunity is not to copy the surface.\nThe opportunity is to turn the pattern into a repeatable asset:\n- a landing page\n- a report\n- a checklist\n- a small tool\n- a case study\n\n4/ My 48-hour validation plan:\nPick one narrow user.\nWrite one teardown.\nCreate one simple offer.\nSend it to 10 people who already show the pain.\n\n5/ If people reply with their own URLs, data, or problems, build.\nIf they only like the post, keep it as content.\n",
-        "card_prompt": "标题：哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了\n\n适合 skill：ljg-card -m 或 baoyu-xhs-images --preset knowledge-card\n\n卡片结构：\n1. 封面：一句反差结论\n2. 事实：原文说了什么\n3. 痛点：用户为什么需要\n4. 机会：可以做成什么\n5. 动作：48 小时验证清单\n\n视觉要求：小红书 1080x1440 多卡；信息密度中等；标题短；每张只讲一个点；保留来源名但不放长链接。\n\n来源：@gefei55 https://x.com/gefei55/status/2067645113862599139",
-        "mvp_brief": "# MVP Brief：哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了\n\n来源：https://x.com/gefei55/status/2067645113862599139\n\n## 目标用户\nAI 出海独立开发者、micro-SaaS 创始人、SEO/GEO 服务商、内容创业者。\n\n## 问题\n哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了 GitHub - qiayue/Twitter-Trend-Radar: Twitter Trend Radar 来自 github.com 2 6 44 3,234\n\n## 输入\n- 一个 URL / 一个案例链接 / 一段用户抱怨\n- 目标平台：公众号、小红书、X、网站\n\n## 输出\n- 案例拆解文章\n- 小红书分图脚本\n- X 长帖\n- 可验证的产品假设\n\n## 48 小时验证\n1. 选 10 个类似案例。\n2. 每个案例生成一篇拆解和一组卡片。\n3. 发布到 2 个平台，记录阅读、收藏、评论、私信。\n4. 如果连续 3 条内容出现明确需求，再做工具页。\n"
-      }
-    }
-  ]
+  "assets": []
 }

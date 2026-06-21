@@ -6,7 +6,7 @@ import urllib.request
 import urllib.parse
 import base64
 import subprocess
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import markdown
@@ -51,9 +51,10 @@ def call_deepseek(prompt, api_key):
                 "content": (
                     "你是一个专业的科技媒体编辑，负责撰写类似36kr风格的《AI出海机会与素材简报》。\n"
                     "请严格遵守排版规范：\n"
-                    "1. 中文与英文、数字、英文符号之间绝对不能有任何空格（如必须写成'6月21日'、'Gemini模型'，不可写成'6 月 21 日'、'Gemini 模型'）。\n"
-                    "2. 严禁在中文文本中使用任何括号（包括中英文圆括号、花括号、方括号）对英文单词、缩写或术语进行解释（如直接写'Nowadays企业活动平台'，决不能写成'Nowadays（企业活动平台）'）。\n"
-                    "3. 严禁在段落或文章结尾写'总结'、'结论'或'总而言之'这类总结性词汇。"
+                    "1. 中文与英文单词、数字、半角英文符号之间绝对不能有任何空格。例如，必须写成'6月21日'、'Gemini模型'，不可写成'6月21日'或'Gemini模型'带有空格的形式。\n"
+                    "2. 严禁在中文文本中使用任何中英文圆括号、花括号或方括号对英文单词、缩写或术语进行解释。例如，直接写'Nowadays企业活动平台'，决不能写成包含圆括号的结构。所有要表达的说明信息必须直接融入句子本身中，不可以使用任何括号。\n"
+                    "3. 严禁在段落或文章结尾写'总结'、'结论'或'总而言之'这类总结性词汇。\n"
+                    "4. 全文除了Markdown链接的括号格式外，其他地方绝对不能出现任何半角或全角括号。"
                 )
             },
             {"role": "user", "content": prompt}
@@ -73,9 +74,10 @@ def call_gemini(prompt, api_key, model="gemini-2.0-flash"):
     system_instruction = (
         "你是一个专业的科技媒体编辑，负责撰写类似36kr风格的《AI出海机会与素材简报》。\n"
         "请严格遵守排版规范：\n"
-        "1. 中文与英文、数字、英文符号之间绝对不能有任何空格（如必须写成'6月21日'、'Gemini模型'，不可写成'6 月 21 日'、'Gemini 模型'）。\n"
-        "2. 严禁在中文文本中使用任何括号（包括中英文圆括号、花括号、方括号）对英文单词、缩写或术语进行解释（如直接写'Nowadays企业活动平台'，决不能写成'Nowadays（企业活动平台）'）。\n"
-        "3. 严禁在段落或文章结尾写'总结'、'结论'或'总而言之'这类总结性词汇。"
+        "1. 中文与英文单词、数字、半角英文符号之间绝对不能有任何空格。例如，必须写成'6月21日'、'Gemini模型'，不可写成'6月21日'或'Gemini模型'带有空格的形式。\n"
+        "2. 严禁在中文文本中使用任何中英文圆括号、花括号或方括号对英文单词、缩写或术语进行解释。例如，直接写'Nowadays企业活动平台'，决不能写成包含圆括号的结构。所有要表达的说明信息必须直接融入句子本身中，不可以使用任何括号。\n"
+        "3. 严禁在段落或文章结尾写'总结'、'结论'或'总而言之'这类总结性词汇。\n"
+        "4. 全文除了Markdown链接的括号格式外，其他地方绝对不能出现任何半角或全角括号。"
     )
     data = {
         "contents": [{
@@ -155,19 +157,34 @@ def send_gmail_api(access_token, html_content, subject):
         return res
 
 def clean_text_formatting(text):
-    # 1. Remove spaces between Chinese characters and English/digits
+    # 1. Temporarily extract and mask markdown links to protect them from replacement
+    links = []
+    def mask_link(match):
+        links.append(match.group(0))
+        return f"__MARKDOWN_LINK_{len(links)-1}__"
+    
+    # Matches [text](url) and ![alt](url)
+    text_masked = re.sub(r'!?\[[^\]]*\]\([^\s)]+\)', mask_link, text)
+    
+    # 2. Remove spaces between Chinese characters and English/digits
     # Chinese -> English/digit
-    text = re.sub(r'([\u4e00-\u9fff])\s+([a-zA-Z0-9])', r'\1\2', text)
+    text_masked = re.sub(r'([\u4e00-\u9fff])\s+([a-zA-Z0-9])', r'\1\2', text_masked)
     # English/digit -> Chinese
-    text = re.sub(r'([a-zA-Z0-9])\s+([\u4e00-\u9fff])', r'\1\2', text)
+    text_masked = re.sub(r'([a-zA-Z0-9])\s+([\u4e00-\u9fff])', r'\1\2', text_masked)
     
-    # 2. Clean parentheses explaining English in Chinese
-    # Matches patterns like Chinese followed by (English/abbreviation/term) or （English/abbreviation/term）
-    # We will remove the parentheses and the text inside them if it's pure English/numbers explaining the Chinese term.
-    # To keep it safe and avoid corrupting normal links, we only look for letters/numbers inside parentheses.
-    text = re.sub(r'([\u4e00-\u9fff])[（(]([a-zA-Z0-9\s]+)[）)]', r'\1\2', text)
+    # 3. Clean all parentheses (full-width and half-width)
+    # We remove the parentheses and keep the text inside.
+    # e.g., ChatGPT（由OpenAI开发） -> ChatGPT由OpenAI开发
+    text_masked = text_masked.replace("（", "").replace("）", "")
+    text_masked = re.sub(r'\(([^)]*)\)', r'\1', text_masked)
     
-    return text
+    # 4. Restore the masked markdown links
+    def restore_link(match):
+        idx = int(match.group(1))
+        return links[idx]
+    
+    final_text = re.sub(r'__MARKDOWN_LINK_(\d+)__', restore_link, text_masked)
+    return final_text
 
 def main():
     print("Step 1: Running monitor refresh to scrape latest data...")
@@ -182,13 +199,32 @@ def main():
     with open(candidates_file, "r", encoding="utf-8") as f:
         payload = json.load(f)
         
-    # Get top 20 candidates across all sources
-    candidates = payload.get("candidates", [])[:20]
+    # Group candidates by source_type to ensure all sources are covered
+    all_candidates = payload.get("candidates", [])
+    candidates_by_source = {}
+    for c in all_candidates:
+        stype = c.get("source_type", "other")
+        if stype not in candidates_by_source:
+            candidates_by_source[stype] = []
+        candidates_by_source[stype].append(c)
+        
+    source_types = ["wechat", "x", "product_hunt", "reddit", "one_ms_yc", "one_ms_hn", "news", "podcast", "youtube"]
+    candidates = []
+    # Pick top 4 from each source type to ensure broad coverage
+    for stype in source_types:
+        items = candidates_by_source.get(stype, [])
+        selected_items = items[:4]
+        candidates.extend(selected_items)
+        if selected_items:
+            print(f"Selected {len(selected_items)} candidates from source type: {stype}")
+            
     if not candidates:
-        print("No candidates found in candidates.json. Exiting...")
+        print("No candidates selected. Exiting...")
         return
         
-    date_str = datetime.now().strftime("%Y-%m-%d")
+    # Use Beijing Time (UTC+8) to align date string for filenames and email subject
+    tz_beijing = timezone(timedelta(hours=8))
+    date_str = datetime.now(tz_beijing).strftime("%Y-%m-%d")
     
     # Construct the candidate text for LLM prompting
     cand_list = []
@@ -207,22 +243,23 @@ def main():
     prompt = (
         "请将以下AI出海候选动态进行筛选、分类并重新撰写为简报。\n\n"
         f"数据内容：\n{json.dumps(cand_list, ensure_ascii=False, indent=2)}\n\n"
-        "请务必选出最重要、互动最高、信息最实的10-15条动态，并按照以下三个板块组织Markdown输出：\n"
+        "请务必选出最重要、互动最高、信息最实的12-18条动态，并按照以下三个板块组织Markdown输出，各版块下直接排版具体新闻，不要加多余段落：\n"
         "### 一、AI编程与智能体前沿\n"
-        "（汇聚大厂动态、AI编程工具、Agent框架等）\n\n"
+        "汇聚大厂动态、AI编程工具、Agent框架等内容\n\n"
         "### 二、出海工具与商业化案例\n"
-        "（汇聚独立站、微型SaaS、YC发布产品、变现/收入案例等）\n\n"
+        "汇聚独立站、微型SaaS、YC发布产品、变现与收入案例等内容\n\n"
         "### 三、社区热议与内容素材\n"
-        "（汇聚X/Reddit上的高热讨论、自媒体选题素材等）\n\n"
-        "对于每条动态，必须输出以下格式（属性和正文前必须严格缩进四个空格）：\n"
+        "汇聚X与Reddit上的高热讨论、自媒体选题素材等内容\n\n"
+        "对于每条动态，必须输出以下格式，且属性和正文前必须严格缩进四个空格以实现嵌套：\n"
         "1. **[中文提炼标题]**\n"
         "    - 来源：[来源名称] / 时间：[发表时间]\n"
         "    - 内容：[用100-200字写出核心事实、为什么重要、可执行启发。]\n"
         "    - 原文链接：[原始URL]\n\n"
         "排版规范约束：\n"
-        "- 中英文/数字边界绝不能有任何空格（如必须写成'6月21日'、'Gemini模型'）。\n"
-        "- 严禁使用圆括号解释英文或简写。\n"
-        "- 正文不要带有总结、结论、总而言之等段落。"
+        "- 中英文与数字边界绝不能有任何空格。\n"
+        "- 严禁使用任何括号解释英文、缩写或进行词义补充说明。\n"
+        "- 正文不要带有总结、结论、总而言之等段落。\n"
+        "- 除了Markdown链接格式的括号外，其余任何文字均不得出现半角或全角圆括号。"
     )
     
     env_vars = load_env()
@@ -374,6 +411,17 @@ def main():
     # On success, commit the candidates as seen and perform git sync
     print("Step 8: Committing candidates and generating asset pack...")
     run_cmd(["node", "tools/report-builder/report-builder.mjs", "--commit"])
+    
+    # Sync LLM generated brief to the public archives
+    public_brief_path = os.path.join(PROJECT_ROOT, "public/brief.md")
+    archive_brief_path = os.path.join(PROJECT_ROOT, f"public/archive/brief-{date_str}.md")
+    
+    print(f"Syncing LLM brief to {public_brief_path} and {archive_brief_path}...")
+    with open(public_brief_path, "w", encoding="utf-8") as f:
+        f.write(brief_md)
+    with open(archive_brief_path, "w", encoding="utf-8") as f:
+        f.write(brief_md)
+        
     run_cmd(["npm", "run", "asset:generate"])
     
     print("Step 9: Syncing changes to Git repository...")

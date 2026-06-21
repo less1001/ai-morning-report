@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T01:54:04.891Z",
+  "generated_at": "2026-06-21T02:05:10.129Z",
   "mode": "commit",
   "source_status": {
     "wechat": "75 条",
     "x": "156 条",
     "product_hunt": "10 条",
-    "reddit": "15 条",
+    "reddit": "14 条",
     "one_ms_yc": "17 条",
     "one_ms_hn": "1 条",
     "news": "10 条",
@@ -13,11 +13,11 @@
     "youtube": "56 条"
   },
   "counts": {
-    "candidates": 179,
-    "fresh": 103,
-    "editorial": 2,
-    "publishable": 41,
-    "opportunity_cards": 1,
+    "candidates": 178,
+    "fresh": 100,
+    "editorial": 0,
+    "publishable": 39,
+    "opportunity_cards": 0,
     "unique_email_materials": 0
   },
   "fresh_candidates": [
@@ -45,7 +45,7 @@
         "自媒体素材",
         "可做工具"
       ],
-      "recency_hours": 9.3,
+      "recency_hours": 9.5,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -106,6 +106,84 @@
       }
     },
     {
+      "id": "2068152054900502702",
+      "source_type": "x",
+      "source": "@emollick",
+      "tier": "A",
+      "title": "Ethan Mollick @emollick · 6月20日 If AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/ha",
+      "url": "https://x.com/emollick/status/2068152054900502702",
+      "published_at": "2026-06-20T02:00:48.000Z",
+      "summary": "Ethan Mollick @emollick · 6月20日 If AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/harnesses & models should go up. This appears to be happening at Anthropic & OpenAI, but not for any other labs, including those that seemed to be catching up last year. 37 48 501 9.2万",
+      "original_text": "Ethan Mollick\n@emollick\n·\n6月20日\nIf AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/harnesses & models should go up. This appears to be happening at Anthropic & OpenAI, but not for any other labs, including those that seemed to be catching up last year.\n37\n48\n501\n9.2万",
+      "score": 26,
+      "signals": [
+        "anthropic",
+        "ai"
+      ],
+      "tags": [
+        "Claude"
+      ],
+      "recency_hours": 24.1,
+      "publishable": false,
+      "revenue_proof": false,
+      "historical_context_warning": false,
+      "primary_section": "Codex/Claude/AI编程",
+      "audience_signal": 92000,
+      "opportunity_track": "自由机会",
+      "opportunity_maturity": "新信号",
+      "opportunity_window": "30天窗口",
+      "primary_traffic_entry": "待验证",
+      "monetization_model": "待验证",
+      "ai_money_case": false,
+      "revenue_evidence_type": "无金额证据",
+      "opportunity_eligible": false,
+      "eligibility_checks": {
+        "product_shape": false,
+        "evidence_gate": false,
+        "ethical_gate": true
+      },
+      "evidence_status": "新信号",
+      "economic_model": {
+        "status": "待验证",
+        "required_inputs": [
+          "1000访问获取成本",
+          "访问到激活转化率",
+          "激活到付费或广告转化率",
+          "客单价或广告RPM",
+          "单次服务成本"
+        ],
+        "formula": "收入=访问量×转化率×客单价；利润=收入-获客成本-模型与基础设施成本"
+      },
+      "competition_window": {
+        "why_now": "30天窗口",
+        "giant_gap": "需核验巨头为何尚未覆盖或为何不愿服务该细分需求",
+        "closing_signal": "搜索结果快速拥挤、平台原生补齐功能或获客成本超过单用户价值"
+      },
+      "asset_fit": {
+        "reusable_code": true,
+        "reusable_traffic": false,
+        "publishable_content": false,
+        "knowledge_planet_asset": true,
+        "portfolio_entry": true
+      },
+      "strongest_objection": "尚未找到可重复的第一流量入口，做出产品也可能无人访问。",
+      "recommended_toolchain": [
+        "Codex",
+        "Claude Code",
+        "Cursor",
+        "按任务选择的专业模型"
+      ],
+      "decision_score": 53,
+      "decision_score_breakdown": {
+        "target_fit": 25,
+        "buildability": 8,
+        "monetization": 4,
+        "demand": 4,
+        "distribution": 2,
+        "content": 10
+      }
+    },
+    {
       "id": "2067519376681804011",
       "source_type": "x",
       "source": "@bindureddy",
@@ -123,7 +201,7 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 65.8,
+      "recency_hours": 66,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -202,7 +280,7 @@
       "tags": [
         "可做工具"
       ],
-      "recency_hours": 21.2,
+      "recency_hours": 21.4,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -279,7 +357,7 @@
       "tags": [
         "Claude"
       ],
-      "recency_hours": 32,
+      "recency_hours": 32.2,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -340,84 +418,6 @@
       }
     },
     {
-      "id": "2068152054900502702",
-      "source_type": "x",
-      "source": "@emollick",
-      "tier": "A",
-      "title": "Ethan Mollick @emollick · 23小时 If AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/har",
-      "url": "https://x.com/emollick/status/2068152054900502702",
-      "published_at": "2026-06-20T02:00:48.000Z",
-      "summary": "Ethan Mollick @emollick · 23小时 If AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/harnesses & models should go up. This appears to be happening at Anthropic & OpenAI, but not for any other labs, including those that seemed to be catching up last year. 37 48 501 9.1万",
-      "original_text": "Ethan Mollick\n@emollick\n·\n23小时\nIf AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/harnesses & models should go up. This appears to be happening at Anthropic & OpenAI, but not for any other labs, including those that seemed to be catching up last year.\n37\n48\n501\n9.1万",
-      "score": 22,
-      "signals": [
-        "anthropic",
-        "ai"
-      ],
-      "tags": [
-        "Claude"
-      ],
-      "recency_hours": 23.9,
-      "publishable": false,
-      "revenue_proof": false,
-      "historical_context_warning": false,
-      "primary_section": "Codex/Claude/AI编程",
-      "audience_signal": 91000,
-      "opportunity_track": "自由机会",
-      "opportunity_maturity": "新信号",
-      "opportunity_window": "30天窗口",
-      "primary_traffic_entry": "待验证",
-      "monetization_model": "待验证",
-      "ai_money_case": false,
-      "revenue_evidence_type": "无金额证据",
-      "opportunity_eligible": false,
-      "eligibility_checks": {
-        "product_shape": false,
-        "evidence_gate": false,
-        "ethical_gate": true
-      },
-      "evidence_status": "新信号",
-      "economic_model": {
-        "status": "待验证",
-        "required_inputs": [
-          "1000访问获取成本",
-          "访问到激活转化率",
-          "激活到付费或广告转化率",
-          "客单价或广告RPM",
-          "单次服务成本"
-        ],
-        "formula": "收入=访问量×转化率×客单价；利润=收入-获客成本-模型与基础设施成本"
-      },
-      "competition_window": {
-        "why_now": "30天窗口",
-        "giant_gap": "需核验巨头为何尚未覆盖或为何不愿服务该细分需求",
-        "closing_signal": "搜索结果快速拥挤、平台原生补齐功能或获客成本超过单用户价值"
-      },
-      "asset_fit": {
-        "reusable_code": true,
-        "reusable_traffic": false,
-        "publishable_content": false,
-        "knowledge_planet_asset": true,
-        "portfolio_entry": true
-      },
-      "strongest_objection": "尚未找到可重复的第一流量入口，做出产品也可能无人访问。",
-      "recommended_toolchain": [
-        "Codex",
-        "Claude Code",
-        "Cursor",
-        "按任务选择的专业模型"
-      ],
-      "decision_score": 53,
-      "decision_score_breakdown": {
-        "target_fit": 25,
-        "buildability": 8,
-        "monetization": 4,
-        "demand": 4,
-        "distribution": 2,
-        "content": 10
-      }
-    },
-    {
       "id": "2067722688165232654",
       "source_type": "x",
       "source": "@OpenAI",
@@ -425,8 +425,8 @@
       "title": "OpenAI @OpenAI · 6月19日 As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains bey",
       "url": "https://x.com/OpenAI/status/2067722688165232654",
       "published_at": "2026-06-18T21:34:39.000Z",
-      "summary": "OpenAI @OpenAI · 6月19日 As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure. That’s the idea behind our new research on training models to be broadly and persistently beneficial. 显示更多 Reinforcement learning towards broadly and persistently beneficial models 来自 alignment.openai.com 197 322 2,718 32万",
-      "original_text": "OpenAI\n@OpenAI\n·\n6月19日\nAs AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure.\nThat’s the idea behind our new research on training models to be broadly and persistently beneficial.\n显示更多\nReinforcement learning towards broadly and persistently beneficial models\n来自 alignment.openai.com\n197\n322\n2,718\n32万",
+      "summary": "OpenAI @OpenAI · 6月19日 As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure. That’s the idea behind our new research on training models to be broadly and persistently beneficial. 显示更多 Reinforcement learning towards broadly and persistently beneficial models 来自 alignment.openai.com 197 322 2,719 32万",
+      "original_text": "OpenAI\n@OpenAI\n·\n6月19日\nAs AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure.\nThat’s the idea behind our new research on training models to be broadly and persistently beneficial.\n显示更多\nReinforcement learning towards broadly and persistently beneficial models\n来自 alignment.openai.com\n197\n322\n2,719\n32万",
       "score": 22,
       "signals": [
         "ai"
@@ -434,7 +434,7 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 52.3,
+      "recency_hours": 52.5,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -502,8 +502,8 @@
       "title": "OpenAI @OpenAI · 6月18日 Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 D",
       "url": "https://x.com/OpenAI/status/2067625110199247353",
       "published_at": "2026-06-18T15:06:55.000Z",
-      "summary": "OpenAI @OpenAI · 6月18日 Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years. 215 436 2,825 343万",
-      "original_text": "OpenAI\n@OpenAI\n·\n6月18日\nTogether with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.\n215\n436\n2,825\n343万",
+      "summary": "OpenAI @OpenAI · 6月18日 Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years. 215 436 2,826 344万",
+      "original_text": "OpenAI\n@OpenAI\n·\n6月18日\nTogether with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.\n215\n436\n2,826\n344万",
       "score": 22,
       "signals": [
         "ai"
@@ -511,12 +511,12 @@
       "tags": [
         "商业化案例"
       ],
-      "recency_hours": 58.8,
+      "recency_hours": 59,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
       "primary_section": "行业领袖/新闻/播客",
-      "audience_signal": 3430000,
+      "audience_signal": 3440000,
       "opportunity_track": "自由机会",
       "opportunity_maturity": "新信号",
       "opportunity_window": "30天窗口",
@@ -572,83 +572,6 @@
       }
     },
     {
-      "id": "2067427678529974740",
-      "source_type": "x",
-      "source": "@sama",
-      "tier": "S",
-      "title": "Sam Altman @sama · 6月18日 We offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benev",
-      "url": "https://x.com/sama/status/2067427678529974740",
-      "published_at": "2026-06-18T02:02:24.000Z",
-      "summary": "Sam Altman @sama · 6月18日 We offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence. 引用 Noam Brown @polynoamial · 6月18日 I'm always thrilled to have more Noams at @OpenAI, but I'm especially thrilled to welcome @NoamShazeer! x.com/NoamShazeer/st… 500 415 8,497 98万",
-      "original_text": "Sam Altman\n@sama\n·\n6月18日\nWe offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence.\n引用\nNoam Brown\n@polynoamial\n·\n6月18日\nI'm always thrilled to have more Noams at @OpenAI, but I'm especially thrilled to welcome @NoamShazeer! x.com/NoamShazeer/st…\n500\n415\n8,497\n98万",
-      "score": 22,
-      "signals": [
-        "ai"
-      ],
-      "tags": [
-        "只观察"
-      ],
-      "recency_hours": 71.9,
-      "publishable": false,
-      "revenue_proof": false,
-      "historical_context_warning": false,
-      "primary_section": "行业领袖/新闻/播客",
-      "audience_signal": 980000,
-      "opportunity_track": "自由机会",
-      "opportunity_maturity": "新信号",
-      "opportunity_window": "30天窗口",
-      "primary_traffic_entry": "社媒内容",
-      "monetization_model": "待验证",
-      "ai_money_case": false,
-      "revenue_evidence_type": "无金额证据",
-      "opportunity_eligible": false,
-      "eligibility_checks": {
-        "product_shape": false,
-        "evidence_gate": true,
-        "ethical_gate": true
-      },
-      "evidence_status": "新信号",
-      "economic_model": {
-        "status": "待验证",
-        "required_inputs": [
-          "1000访问获取成本",
-          "访问到激活转化率",
-          "激活到付费或广告转化率",
-          "客单价或广告RPM",
-          "单次服务成本"
-        ],
-        "formula": "收入=访问量×转化率×客单价；利润=收入-获客成本-模型与基础设施成本"
-      },
-      "competition_window": {
-        "why_now": "30天窗口",
-        "giant_gap": "需核验巨头为何尚未覆盖或为何不愿服务该细分需求",
-        "closing_signal": "搜索结果快速拥挤、平台原生补齐功能或获客成本超过单用户价值"
-      },
-      "asset_fit": {
-        "reusable_code": true,
-        "reusable_traffic": true,
-        "publishable_content": false,
-        "knowledge_planet_asset": true,
-        "portfolio_entry": true
-      },
-      "strongest_objection": "产品形态新颖不等于需求成立，需要先验证真实使用频率和付费意愿。",
-      "recommended_toolchain": [
-        "Codex",
-        "Claude Code",
-        "Cursor",
-        "按任务选择的专业模型"
-      ],
-      "decision_score": 61,
-      "decision_score_breakdown": {
-        "target_fit": 25,
-        "buildability": 8,
-        "monetization": 4,
-        "demand": 4,
-        "distribution": 10,
-        "content": 10
-      }
-    },
-    {
       "id": "2067380901714268474",
       "source_type": "x",
       "source": "@bindureddy",
@@ -665,7 +588,7 @@
       "tags": [
         "可做工具"
       ],
-      "recency_hours": 75,
+      "recency_hours": 75.1,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -733,8 +656,8 @@
       "title": "howie.serious @howie_serious · 6月15日 还好我有 2 个 chatgpt pro 账号，1 个 claude max",
       "url": "https://x.com/howie_serious/status/2066364318774591980",
       "published_at": "2026-06-15T03:36:59.000Z",
-      "summary": "howie.serious @howie_serious · 6月15日 还好我有 2 个 chatgpt pro 账号，1 个 claude max 今年我想测试一个 idea：个人/企业，到底能不能通过烧 token 获得实实在在的竞争优势？ 例如，1-2 人全面 agent 范式的新团队，配合不限量的 token，到底能不能达到甚至碾压非 agent 范式的传统百人团队？ 25 14 6,583",
-      "original_text": "howie.serious\n@howie_serious\n·\n6月15日\n还好我有 2 个 chatgpt pro 账号，1 个 claude max\n今年我想测试一个 idea：个人/企业，到底能不能通过烧 token 获得实实在在的竞争优势？\n例如，1-2 人全面 agent 范式的新团队，配合不限量的 token，到底能不能达到甚至碾压非 agent 范式的传统百人团队？\n25\n14\n6,583",
+      "summary": "howie.serious @howie_serious · 6月15日 还好我有 2 个 chatgpt pro 账号，1 个 claude max 今年我想测试一个 idea：个人/企业，到底能不能通过烧 token 获得实实在在的竞争优势？ 例如，1-2 人全面 agent 范式的新团队，配合不限量的 token，到底能不能达到甚至碾压非 agent 范式的传统百人团队？ 25 14 6,584",
+      "original_text": "howie.serious\n@howie_serious\n·\n6月15日\n还好我有 2 个 chatgpt pro 账号，1 个 claude max\n今年我想测试一个 idea：个人/企业，到底能不能通过烧 token 获得实实在在的竞争优势？\n例如，1-2 人全面 agent 范式的新团队，配合不限量的 token，到底能不能达到甚至碾压非 agent 范式的传统百人团队？\n25\n14\n6,584",
       "score": 22,
       "signals": [
         "agent",
@@ -747,12 +670,12 @@
         "可做工具",
         "只观察"
       ],
-      "recency_hours": 142.3,
+      "recency_hours": 142.5,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
       "primary_section": "Codex/Claude/AI编程",
-      "audience_signal": 6583,
+      "audience_signal": 6584,
       "opportunity_track": "企业Agent服务",
       "opportunity_maturity": "新信号",
       "opportunity_window": "30天窗口",
@@ -815,8 +738,8 @@
       "title": "Ethan Mollick @emollick · 10小时 Some interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor.",
       "url": "https://x.com/emollick/status/2068356975667130774",
       "published_at": "2026-06-20T15:35:05.000Z",
-      "summary": "Ethan Mollick @emollick · 10小时 Some interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor. 引用 Auyon Siddiq @auyonomous · 23小时 New research: Is AI making employers view labor as more of a commodity? In a large online labor market, we find that post-ChatGPT, clients place less weight on signals of human capital and more on price when hiring. 0:02 19 16 161 2.9万",
-      "original_text": "Ethan Mollick\n@emollick\n·\n10小时\nSome interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor.\n引用\nAuyon Siddiq\n@auyonomous\n·\n23小时\nNew research: Is AI making employers view labor as more of a commodity?\nIn a large online labor market, we find that post-ChatGPT, clients place less weight on signals of human capital and more on price when hiring.\n0:02\n19\n16\n161\n2.9万",
+      "summary": "Ethan Mollick @emollick · 10小时 Some interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor. 引用 Auyon Siddiq @auyonomous · 23小时 New research: Is AI making employers view labor as more of a commodity? In a large online labor market, we find that post-ChatGPT, clients place less weight on signals of human capital and more on price when hiring. 0:02 20 16 161 2.9万",
+      "original_text": "Ethan Mollick\n@emollick\n·\n10小时\nSome interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor.\n引用\nAuyon Siddiq\n@auyonomous\n·\n23小时\nNew research: Is AI making employers view labor as more of a commodity?\nIn a large online labor market, we find that post-ChatGPT, clients place less weight on signals of human capital and more on price when hiring.\n0:02\n20\n16\n161\n2.9万",
       "score": 21,
       "signals": [
         "ai",
@@ -825,7 +748,7 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 10.3,
+      "recency_hours": 10.5,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -893,8 +816,8 @@
       "title": "Ethan Mollick @emollick · 6月19日 More evidence, from a large-scale study in China, that using AI hurts learning if it undermines mental effor",
       "url": "https://x.com/emollick/status/2067988324984217626",
       "published_at": "2026-06-19T15:10:12.000Z",
-      "summary": "Ethan Mollick @emollick · 6月19日 More evidence, from a large-scale study in China, that using AI hurts learning if it undermines mental effort. When homework time drops due to AI use, so do test scores. Across studies, a theme: AI tutoring in support of classes is good, using AI to \"help\" with homework is bad. 52 191 890 7.3万",
-      "original_text": "Ethan Mollick\n@emollick\n·\n6月19日\nMore evidence, from a large-scale study in China, that using AI hurts learning if it undermines mental effort. When homework time drops due to AI use, so do test scores.\nAcross studies, a theme: AI tutoring in support of classes is good, using AI to \"help\" with homework is bad.\n52\n191\n890\n7.3万",
+      "summary": "Ethan Mollick @emollick · 6月19日 More evidence, from a large-scale study in China, that using AI hurts learning if it undermines mental effort. When homework time drops due to AI use, so do test scores. Across studies, a theme: AI tutoring in support of classes is good, using AI to \"help\" with homework is bad. 52 191 890 7.4万",
+      "original_text": "Ethan Mollick\n@emollick\n·\n6月19日\nMore evidence, from a large-scale study in China, that using AI hurts learning if it undermines mental effort. When homework time drops due to AI use, so do test scores.\nAcross studies, a theme: AI tutoring in support of classes is good, using AI to \"help\" with homework is bad.\n52\n191\n890\n7.4万",
       "score": 21,
       "signals": [
         "ai"
@@ -902,12 +825,12 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 34.7,
+      "recency_hours": 34.9,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
       "primary_section": "行业领袖/新闻/播客",
-      "audience_signal": 73000,
+      "audience_signal": 74000,
       "opportunity_track": "自由机会",
       "opportunity_maturity": "新信号",
       "opportunity_window": "30天窗口",
@@ -979,7 +902,7 @@
       "tags": [
         "Claude"
       ],
-      "recency_hours": 102.2,
+      "recency_hours": 102.4,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -1044,11 +967,11 @@
       "source_type": "x",
       "source": "@levelsio",
       "tier": "A",
-      "title": "@levelsio @levelsio · 5小时 I normally don't like plugging on an AI chat into my projects, because it's seems too easy and basic",
+      "title": "@levelsio @levelsio · 6小时 I normally don't like plugging on an AI chat into my projects, because it's seems too easy and basic",
       "url": "https://x.com/levelsio/status/2068421907427549684",
       "published_at": "2026-06-20T19:53:06.000Z",
-      "summary": "@levelsio @levelsio · 5小时 I normally don't like plugging on an AI chat into my projects, because it's seems too easy and basic I think you should instead rebuild entire projects from the ground up to be AI first, not just add some AI button But in this case http:// hotelist.com is already AI from the 显示更多 引用 @levelsio @levelsio · 6月4日 Complaining about things is one, but fixing them myself is another So I added a [ Not woke ] filter to http:// hotelist.com \"woke\" is a bit of a cringe term now, b",
-      "original_text": "@levelsio\n@levelsio\n·\n5小时\nI normally don't like plugging on an AI chat into my projects, because it's seems too easy and basic\nI think you should instead rebuild entire projects from the ground up to be AI first, not just add some AI button\nBut in this case \nhttp://\nhotelist.com is already AI from the\n显示更多\n引用\n@levelsio\n@levelsio\n·\n6月4日\nComplaining about things is one, but fixing them myself is another\nSo I added a [  Not woke ] filter to \nhttp://\nhotelist.com\n\"woke\" is a bit of a cringe term now, but calling it \"Not ESG\" would be too difficult\nI scraped ALL hotel chains and sites for stuff like \"climate\n55\n16\n533\n10万",
+      "summary": "@levelsio @levelsio · 6小时 I normally don't like plugging on an AI chat into my projects, because it's seems too easy and basic I think you should instead rebuild entire projects from the ground up to be AI first, not just add some AI button But in this case http:// hotelist.com is already AI from the 显示更多 引用 @levelsio @levelsio · 6月4日 Complaining about things is one, but fixing them myself is another So I added a [ Not woke ] filter to http:// hotelist.com \"woke\" is a bit of a cringe term now, b",
+      "original_text": "@levelsio\n@levelsio\n·\n6小时\nI normally don't like plugging on an AI chat into my projects, because it's seems too easy and basic\nI think you should instead rebuild entire projects from the ground up to be AI first, not just add some AI button\nBut in this case \nhttp://\nhotelist.com is already AI from the\n显示更多\n引用\n@levelsio\n@levelsio\n·\n6月4日\nComplaining about things is one, but fixing them myself is another\nSo I added a [  Not woke ] filter to \nhttp://\nhotelist.com\n\"woke\" is a bit of a cringe term now, but calling it \"Not ESG\" would be too difficult\nI scraped ALL hotel chains and sites for stuff like \"climate\n55\n16\n540\n10万",
       "score": 20,
       "signals": [
         "ai"
@@ -1056,7 +979,7 @@
       "tags": [
         "商业化案例"
       ],
-      "recency_hours": 6,
+      "recency_hours": 6.2,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -1133,7 +1056,7 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 55.6,
+      "recency_hours": 55.8,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -1194,6 +1117,83 @@
       }
     },
     {
+      "id": "2067427678529974740",
+      "source_type": "x",
+      "source": "@sama",
+      "tier": "S",
+      "title": "Sam Altman @sama · 6月18日 We offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benev",
+      "url": "https://x.com/sama/status/2067427678529974740",
+      "published_at": "2026-06-18T02:02:24.000Z",
+      "summary": "Sam Altman @sama · 6月18日 We offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence. 引用 Noam Brown @polynoamial · 6月18日 I'm always thrilled to have more Noams at @OpenAI, but I'm especially thrilled to welcome @NoamShazeer! x.com/NoamShazeer/st… 500 415 8,498 98万",
+      "original_text": "Sam Altman\n@sama\n·\n6月18日\nWe offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence.\n引用\nNoam Brown\n@polynoamial\n·\n6月18日\nI'm always thrilled to have more Noams at @OpenAI, but I'm especially thrilled to welcome @NoamShazeer! x.com/NoamShazeer/st…\n500\n415\n8,498\n98万",
+      "score": 20,
+      "signals": [
+        "ai"
+      ],
+      "tags": [
+        "只观察"
+      ],
+      "recency_hours": 72,
+      "publishable": false,
+      "revenue_proof": false,
+      "historical_context_warning": false,
+      "primary_section": "行业领袖/新闻/播客",
+      "audience_signal": 980000,
+      "opportunity_track": "自由机会",
+      "opportunity_maturity": "新信号",
+      "opportunity_window": "30天窗口",
+      "primary_traffic_entry": "社媒内容",
+      "monetization_model": "待验证",
+      "ai_money_case": false,
+      "revenue_evidence_type": "无金额证据",
+      "opportunity_eligible": false,
+      "eligibility_checks": {
+        "product_shape": false,
+        "evidence_gate": true,
+        "ethical_gate": true
+      },
+      "evidence_status": "新信号",
+      "economic_model": {
+        "status": "待验证",
+        "required_inputs": [
+          "1000访问获取成本",
+          "访问到激活转化率",
+          "激活到付费或广告转化率",
+          "客单价或广告RPM",
+          "单次服务成本"
+        ],
+        "formula": "收入=访问量×转化率×客单价；利润=收入-获客成本-模型与基础设施成本"
+      },
+      "competition_window": {
+        "why_now": "30天窗口",
+        "giant_gap": "需核验巨头为何尚未覆盖或为何不愿服务该细分需求",
+        "closing_signal": "搜索结果快速拥挤、平台原生补齐功能或获客成本超过单用户价值"
+      },
+      "asset_fit": {
+        "reusable_code": true,
+        "reusable_traffic": true,
+        "publishable_content": false,
+        "knowledge_planet_asset": true,
+        "portfolio_entry": true
+      },
+      "strongest_objection": "产品形态新颖不等于需求成立，需要先验证真实使用频率和付费意愿。",
+      "recommended_toolchain": [
+        "Codex",
+        "Claude Code",
+        "Cursor",
+        "按任务选择的专业模型"
+      ],
+      "decision_score": 61,
+      "decision_score_breakdown": {
+        "target_fit": 25,
+        "buildability": 8,
+        "monetization": 4,
+        "demand": 4,
+        "distribution": 10,
+        "content": 10
+      }
+    },
+    {
       "id": "2066796120802771267",
       "source_type": "x",
       "source": "@coolish",
@@ -1210,7 +1210,7 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 113.7,
+      "recency_hours": 113.9,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -1279,11 +1279,11 @@
       "url": "https://x.com/swyx/status/2068473310527328721",
       "published_at": "2026-06-20T23:17:22.000Z",
       "summary": "swyx @swyx · 2小时 6 months ago we put $500k into betting on Team USA that is paying off now for our @aidotengineer VIPs. 3 things set me up for the biggest sports bet i have ever made in my life: - watching @brendanhunting of @TedLasso say \"this is the year\" for @usmnt - @philipkiely telling me 显示更多 引用 TicketData Keith @kapkap42 · 6小时 Since December 5, it has been known that if the USA won its group, it would play Match 81 at Levi's Stadium on July 1. The get-in price for that match sat in the $7",
-      "original_text": "swyx\n@swyx\n·\n2小时\n6 months ago we put $500k into betting on Team USA that is paying off now for our \n@aidotengineer\n VIPs.\n3 things set me up for the biggest sports bet i have ever made in my life:\n- watching \n@brendanhunting\n of \n@TedLasso\n say \"this is the year\" for \n@usmnt\n- \n@philipkiely\n telling me\n显示更多\n引用\nTicketData Keith\n@kapkap42\n·\n6小时\nSince December 5, it has been known that if the USA won its group, it would play Match 81 at Levi's Stadium on July 1.\nThe get-in price for that match sat in the $700 range for months, even as recently as 10 days ago.\nIt is now over $3,000 . Props to the fans who believed in\n14\n2\n37\n1.3万",
+      "original_text": "swyx\n@swyx\n·\n2小时\n6 months ago we put $500k into betting on Team USA that is paying off now for our \n@aidotengineer\n VIPs.\n3 things set me up for the biggest sports bet i have ever made in my life:\n- watching \n@brendanhunting\n of \n@TedLasso\n say \"this is the year\" for \n@usmnt\n- \n@philipkiely\n telling me\n显示更多\n引用\nTicketData Keith\n@kapkap42\n·\n6小时\nSince December 5, it has been known that if the USA won its group, it would play Match 81 at Levi's Stadium on July 1.\nThe get-in price for that match sat in the $700 range for months, even as recently as 10 days ago.\nIt is now over $3,000 . Props to the fans who believed in\n14\n2\n38\n1.5万",
       "score": 19,
       "signals": [],
       "tags": [],
-      "recency_hours": 2.6,
+      "recency_hours": 2.8,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -1351,17 +1351,17 @@
       "title": "@levelsio @levelsio · 3小时 I have concluded the best cafe to work in San Francisco is inside a Waymo",
       "url": "https://x.com/levelsio/status/2068458464007864817",
       "published_at": "2026-06-20T22:18:22.000Z",
-      "summary": "@levelsio @levelsio · 3小时 I have concluded the best cafe to work in San Francisco is inside a Waymo It's silent, clean and relaxing Aka the opposite of any SF cafe 引用 @levelsio @levelsio · 6月20日 Any SF startup office we can work from today? SF cafes are absolutely unworkable, reminds me of Lisbon, no laptop culture which is of course ironic 40 21 621 6.7万",
-      "original_text": "@levelsio\n@levelsio\n·\n3小时\nI have concluded the best cafe to work in San Francisco is inside a Waymo\nIt's silent, clean and relaxing\nAka the opposite of any SF cafe\n引用\n@levelsio\n@levelsio\n·\n6月20日\nAny SF startup office we can work from today? SF cafes are absolutely unworkable, reminds me of Lisbon, no laptop culture which is of course ironic\n40\n21\n621\n6.7万",
+      "summary": "@levelsio @levelsio · 3小时 I have concluded the best cafe to work in San Francisco is inside a Waymo It's silent, clean and relaxing Aka the opposite of any SF cafe 引用 @levelsio @levelsio · 6月20日 Any SF startup office we can work from today? SF cafes are absolutely unworkable, reminds me of Lisbon, no laptop culture which is of course ironic 41 22 639 6.9万",
+      "original_text": "@levelsio\n@levelsio\n·\n3小时\nI have concluded the best cafe to work in San Francisco is inside a Waymo\nIt's silent, clean and relaxing\nAka the opposite of any SF cafe\n引用\n@levelsio\n@levelsio\n·\n6月20日\nAny SF startup office we can work from today? SF cafes are absolutely unworkable, reminds me of Lisbon, no laptop culture which is of course ironic\n41\n22\n639\n6.9万",
       "score": 19,
       "signals": [],
       "tags": [],
-      "recency_hours": 3.6,
+      "recency_hours": 3.8,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
       "primary_section": "AI工具与出海机会",
-      "audience_signal": 67000,
+      "audience_signal": 69000,
       "opportunity_track": "自由机会",
       "opportunity_maturity": "新信号",
       "opportunity_window": "30天窗口",
@@ -1431,7 +1431,7 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 24.4,
+      "recency_hours": 24.6,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": true,
@@ -1508,7 +1508,7 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 43,
+      "recency_hours": 43.2,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -1569,281 +1569,9 @@
       }
     }
   ],
-  "editorial_candidates": [
-    {
-      "id": "2067645113862599139",
-      "source_type": "x",
-      "source": "@gefei55",
-      "tier": "S",
-      "title": "哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了",
-      "url": "https://x.com/gefei55/status/2067645113862599139",
-      "published_at": "2026-06-18T16:26:24.000Z",
-      "summary": "哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了 GitHub - qiayue/Twitter-Trend-Radar: Twitter Trend Radar 来自 github.com 2 6 44 3,234",
-      "original_text": "哥飞\n@gefei55\n·\n6月19日\n代码开源了，可以在自己本机部署起来了\nGitHub - qiayue/Twitter-Trend-Radar: Twitter Trend Radar\n来自 github.com\n2\n6\n44\n3,234",
-      "score": 14,
-      "signals": [],
-      "tags": [],
-      "recency_hours": 57.5,
-      "publishable": true,
-      "revenue_proof": false,
-      "historical_context_warning": false,
-      "primary_section": "AI工具与出海机会",
-      "audience_signal": 3234,
-      "opportunity_track": "自由机会",
-      "opportunity_maturity": "新信号",
-      "opportunity_window": "30天窗口",
-      "primary_traffic_entry": "GitHub",
-      "monetization_model": "待验证",
-      "ai_money_case": false,
-      "revenue_evidence_type": "无金额证据",
-      "opportunity_eligible": false,
-      "eligibility_checks": {
-        "product_shape": false,
-        "evidence_gate": true,
-        "ethical_gate": true
-      },
-      "evidence_status": "新信号",
-      "economic_model": {
-        "status": "待验证",
-        "required_inputs": [
-          "1000访问获取成本",
-          "访问到激活转化率",
-          "激活到付费或广告转化率",
-          "客单价或广告RPM",
-          "单次服务成本"
-        ],
-        "formula": "收入=访问量×转化率×客单价；利润=收入-获客成本-模型与基础设施成本"
-      },
-      "competition_window": {
-        "why_now": "30天窗口",
-        "giant_gap": "需核验巨头为何尚未覆盖或为何不愿服务该细分需求",
-        "closing_signal": "搜索结果快速拥挤、平台原生补齐功能或获客成本超过单用户价值"
-      },
-      "asset_fit": {
-        "reusable_code": true,
-        "reusable_traffic": true,
-        "publishable_content": true,
-        "knowledge_planet_asset": true,
-        "portfolio_entry": true
-      },
-      "strongest_objection": "产品形态新颖不等于需求成立，需要先验证真实使用频率和付费意愿。",
-      "recommended_toolchain": [
-        "Codex",
-        "Claude Code",
-        "Cursor",
-        "按任务选择的专业模型"
-      ],
-      "decision_score": 42,
-      "decision_score_breakdown": {
-        "target_fit": 10,
-        "buildability": 8,
-        "monetization": 4,
-        "demand": 4,
-        "distribution": 10,
-        "content": 6
-      }
-    },
-    {
-      "id": "2068476803027706072",
-      "source_type": "x",
-      "source": "@swyx",
-      "tier": "A",
-      "title": "swyx @swyx · 2小时 btw",
-      "url": "https://x.com/swyx/status/2068476803027706072",
-      "published_at": "2026-06-20T23:31:14.000Z",
-      "summary": "swyx @swyx · 2小时 btw @philipkiely kinda proud we did this like 2 days after DWR 2025 1 6 2,308",
-      "original_text": "swyx\n@swyx\n·\n2小时\nbtw \n@philipkiely\n kinda proud we did this like 2 days after DWR 2025\n1\n6\n2,308",
-      "score": 13,
-      "signals": [],
-      "tags": [],
-      "recency_hours": 2.4,
-      "publishable": true,
-      "revenue_proof": false,
-      "historical_context_warning": true,
-      "primary_section": "AI工具与出海机会",
-      "audience_signal": 2308,
-      "opportunity_track": "自由机会",
-      "opportunity_maturity": "新信号",
-      "opportunity_window": "30天窗口",
-      "primary_traffic_entry": "待验证",
-      "monetization_model": "待验证",
-      "ai_money_case": false,
-      "revenue_evidence_type": "无金额证据",
-      "opportunity_eligible": false,
-      "eligibility_checks": {
-        "product_shape": false,
-        "evidence_gate": false,
-        "ethical_gate": true
-      },
-      "evidence_status": "新信号",
-      "economic_model": {
-        "status": "待验证",
-        "required_inputs": [
-          "1000访问获取成本",
-          "访问到激活转化率",
-          "激活到付费或广告转化率",
-          "客单价或广告RPM",
-          "单次服务成本"
-        ],
-        "formula": "收入=访问量×转化率×客单价；利润=收入-获客成本-模型与基础设施成本"
-      },
-      "competition_window": {
-        "why_now": "30天窗口",
-        "giant_gap": "需核验巨头为何尚未覆盖或为何不愿服务该细分需求",
-        "closing_signal": "搜索结果快速拥挤、平台原生补齐功能或获客成本超过单用户价值"
-      },
-      "asset_fit": {
-        "reusable_code": true,
-        "reusable_traffic": false,
-        "publishable_content": true,
-        "knowledge_planet_asset": true,
-        "portfolio_entry": true
-      },
-      "strongest_objection": "尚未找到可重复的第一流量入口，做出产品也可能无人访问。",
-      "recommended_toolchain": [
-        "Codex",
-        "Claude Code",
-        "Cursor",
-        "按任务选择的专业模型"
-      ],
-      "decision_score": 34,
-      "decision_score_breakdown": {
-        "target_fit": 10,
-        "buildability": 8,
-        "monetization": 4,
-        "demand": 4,
-        "distribution": 2,
-        "content": 6
-      }
-    }
-  ],
-  "content_actions": [
-    {
-      "id": "2067645113862599139",
-      "source_type": "x",
-      "source": "@gefei55",
-      "title": "哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了",
-      "asset_title": "哥飞 @gefei55 · 6月19日 代码开源了，可以在自己本机部署起来了",
-      "url": "https://x.com/gefei55/status/2067645113862599139",
-      "published_at": "2026-06-18T16:26:24.000Z",
-      "score": 14,
-      "tags": [],
-      "priority": "低",
-      "action_type": "做卡片",
-      "recommended_outputs": [
-        "Obsidian 笔记",
-        "知识卡片"
-      ],
-      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
-      "skill_chain": [
-        "ljg-read",
-        "ljg-writes",
-        "ljg-card"
-      ]
-    },
-    {
-      "id": "2068476803027706072",
-      "source_type": "x",
-      "source": "@swyx",
-      "title": "swyx @swyx · 2小时 btw",
-      "asset_title": "swyx @swyx · 2小时 btw",
-      "url": "https://x.com/swyx/status/2068476803027706072",
-      "published_at": "2026-06-20T23:31:14.000Z",
-      "score": 13,
-      "tags": [],
-      "priority": "低",
-      "action_type": "做卡片",
-      "recommended_outputs": [
-        "Obsidian 笔记",
-        "知识卡片"
-      ],
-      "next_step": "压缩成一张观点卡：一句结论、一个证据、一个行动建议。",
-      "skill_chain": [
-        "ljg-read",
-        "ljg-writes",
-        "ljg-card"
-      ]
-    }
-  ],
-  "opportunity_cards": [
-    {
-      "id": "https://www.reddit.com/r/Wordpress/comments/1uaj3k7/the_plugin_repo_is_becoming_a_junkyard/",
-      "source_type": "reddit",
-      "source": "Reddit r/Codex_programming",
-      "tier": "A",
-      "title": "The plugin repo is becoming a junkyard",
-      "url": "https://www.reddit.com/r/Wordpress/comments/1uaj3k7/the_plugin_repo_is_becoming_a_junkyard/",
-      "published_at": "2026-06-20T01:05:11.000Z",
-      "summary": "I've noticed a lot of abandoned plugins in the repo and it's not a good look when you recommend WordPress. But I was reading in the Repository a couple days ago that the WordPress Plugins Team just hit a new record of ~700 plugin submissions per week. That's 5x what it was in 2024, and the growth tracks almost perfectly with the rise of AI-assisted development. Hats off to the volunteer reviewers keeping up — they're genuinely doing good work. But let's be honest about what's coming: if we're al",
-      "discussion_status": "reddit_search_sorted_by_comments",
-      "score": 8,
-      "signals": [
-        "ai"
-      ],
-      "tags": [
-        "只观察"
-      ],
-      "recency_hours": 24.8,
-      "publishable": true,
-      "revenue_proof": false,
-      "historical_context_warning": true,
-      "primary_section": "Reddit/社区痛点",
-      "audience_signal": 0,
-      "opportunity_track": "自由机会",
-      "opportunity_maturity": "新信号",
-      "opportunity_window": "7天窗口",
-      "primary_traffic_entry": "应用与插件市场",
-      "monetization_model": "待验证",
-      "ai_money_case": false,
-      "revenue_evidence_type": "无金额证据",
-      "opportunity_eligible": true,
-      "eligibility_checks": {
-        "product_shape": true,
-        "evidence_gate": true,
-        "ethical_gate": true
-      },
-      "evidence_status": "新信号",
-      "economic_model": {
-        "status": "待验证",
-        "required_inputs": [
-          "1000访问获取成本",
-          "访问到激活转化率",
-          "激活到付费或广告转化率",
-          "客单价或广告RPM",
-          "单次服务成本"
-        ],
-        "formula": "收入=访问量×转化率×客单价；利润=收入-获客成本-模型与基础设施成本"
-      },
-      "competition_window": {
-        "why_now": "7天窗口",
-        "giant_gap": "需核验巨头为何尚未覆盖或为何不愿服务该细分需求",
-        "closing_signal": "搜索结果快速拥挤、平台原生补齐功能或获客成本超过单用户价值"
-      },
-      "asset_fit": {
-        "reusable_code": true,
-        "reusable_traffic": true,
-        "publishable_content": true,
-        "knowledge_planet_asset": true,
-        "portfolio_entry": true
-      },
-      "strongest_objection": "产品形态新颖不等于需求成立，需要先验证真实使用频率和付费意愿。",
-      "recommended_toolchain": [
-        "Codex",
-        "Claude Code",
-        "Cursor",
-        "按任务选择的专业模型"
-      ],
-      "decision_score": 69,
-      "decision_score_breakdown": {
-        "target_fit": 25,
-        "buildability": 20,
-        "monetization": 4,
-        "demand": 4,
-        "distribution": 10,
-        "content": 6
-      }
-    }
-  ],
+  "editorial_candidates": [],
+  "content_actions": [],
+  "opportunity_cards": [],
   "email_plan": {
     "version": 2,
     "purpose": "邮件只负责决策；完整研究看opportunity_cards；原始信息看candidates。",
@@ -1886,7 +1614,7 @@
         "自媒体素材",
         "可做工具"
       ],
-      "recency_hours": 9.3,
+      "recency_hours": 9.5,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -1971,7 +1699,7 @@
         "自媒体素材",
         "可做工具"
       ],
-      "recency_hours": 22.5,
+      "recency_hours": 22.7,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -2054,7 +1782,7 @@
         "Claude",
         "可做工具"
       ],
-      "recency_hours": 22,
+      "recency_hours": 22.2,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -2135,7 +1863,7 @@
         "商业化案例",
         "可写内容"
       ],
-      "recency_hours": 7.4,
+      "recency_hours": 7.5,
       "publishable": true,
       "revenue_proof": true,
       "historical_context_warning": false,
@@ -2216,7 +1944,7 @@
         "自媒体素材",
         "可做工具"
       ],
-      "recency_hours": 68.8,
+      "recency_hours": 69,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -2296,7 +2024,7 @@
         "Codex/AI编程",
         "可做工具"
       ],
-      "recency_hours": 49.2,
+      "recency_hours": 49.4,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -2364,8 +2092,8 @@
       "title": "哥飞 @gefei55 · 6月18日 这个开源项目有点意思，可以把你的 ChatGPT 变成 变成 Codex",
       "url": "https://x.com/gefei55/status/2067555656325107794",
       "published_at": "2026-06-18T10:30:56.000Z",
-      "summary": "哥飞 @gefei55 · 6月18日 这个开源项目有点意思，可以把你的 ChatGPT 变成 变成 Codex https:// github.com/Waishnav/devsp ace … http:// ChatGPT.com 现在支持 MCP connector（让 ChatGPT 连接外部工具）。 DevSpace 就是一个跑在你本地的 MCP 服务器，通过隧道暴露给 http:// ChatGPT.com。 一旦连上，ChatGPT 显示更多 GitHub - Waishnav/devspace: Turn ChatGPT into Codex 来自 github.com 66 22 168 2.4万",
-      "original_text": "哥飞\n@gefei55\n·\n6月18日\n这个开源项目有点意思，可以把你的 ChatGPT 变成 变成 Codex \nhttps://\ngithub.com/Waishnav/devsp\nace\n…\nhttp://\nChatGPT.com 现在支持 MCP connector（让 ChatGPT 连接外部工具）。\nDevSpace 就是一个跑在你本地的 MCP 服务器，通过隧道暴露给 \nhttp://\nChatGPT.com。\n一旦连上，ChatGPT\n显示更多\nGitHub - Waishnav/devspace: Turn ChatGPT into Codex\n来自 github.com\n66\n22\n168\n2.4万",
+      "summary": "哥飞 @gefei55 · 6月18日 这个开源项目有点意思，可以把你的 ChatGPT 变成 变成 Codex https:// github.com/Waishnav/devsp ace … http:// ChatGPT.com 现在支持 MCP connector（让 ChatGPT 连接外部工具）。 DevSpace 就是一个跑在你本地的 MCP 服务器，通过隧道暴露给 http:// ChatGPT.com。 一旦连上，ChatGPT 显示更多 GitHub - Waishnav/devspace: Turn ChatGPT into Codex 来自 github.com 66 23 168 2.4万",
+      "original_text": "哥飞\n@gefei55\n·\n6月18日\n这个开源项目有点意思，可以把你的 ChatGPT 变成 变成 Codex \nhttps://\ngithub.com/Waishnav/devsp\nace\n…\nhttp://\nChatGPT.com 现在支持 MCP connector（让 ChatGPT 连接外部工具）。\nDevSpace 就是一个跑在你本地的 MCP 服务器，通过隧道暴露给 \nhttp://\nChatGPT.com。\n一旦连上，ChatGPT\n显示更多\nGitHub - Waishnav/devspace: Turn ChatGPT into Codex\n来自 github.com\n66\n23\n168\n2.4万",
       "score": 34,
       "signals": [
         "codex",
@@ -2377,7 +2105,7 @@
         "Codex/AI编程",
         "可做工具"
       ],
-      "recency_hours": 63.4,
+      "recency_hours": 63.6,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -2461,7 +2189,7 @@
         "Codex/AI编程",
         "可做工具"
       ],
-      "recency_hours": 495,
+      "recency_hours": 495.2,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": true,
@@ -2541,7 +2269,7 @@
         "Claude",
         "YouTube"
       ],
-      "recency_hours": 27.5,
+      "recency_hours": 27.7,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -2609,8 +2337,8 @@
       "title": "OpenAI Developers @OpenAIDevs · 6月19日 Show Codex a workflow once. Reuse it as a skill.",
       "url": "https://x.com/OpenAIDevs/status/2067681320281723113",
       "published_at": "2026-06-18T18:50:17.000Z",
-      "summary": "OpenAI Developers @OpenAIDevs · 6月19日 Show Codex a workflow once. Reuse it as a skill. Record & Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request. Codex turns that demo into an inspectable, editable skill. You control when recording starts and stops. 0:01 / 2:05 471 2,044 1.2万 414万",
-      "original_text": "OpenAI Developers\n@OpenAIDevs\n·\n6月19日\nShow Codex a workflow once. Reuse it as a skill.\nRecord & Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request.\nCodex turns that demo into an inspectable, editable skill.\nYou control when recording starts and stops.\n0:01 / 2:05\n471\n2,044\n1.2万\n414万",
+      "summary": "OpenAI Developers @OpenAIDevs · 6月19日 Show Codex a workflow once. Reuse it as a skill. Record & Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request. Codex turns that demo into an inspectable, editable skill. You control when recording starts and stops. 0:01 / 2:05 471 2,045 1.2万 415万",
+      "original_text": "OpenAI Developers\n@OpenAIDevs\n·\n6月19日\nShow Codex a workflow once. Reuse it as a skill.\nRecord & Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request.\nCodex turns that demo into an inspectable, editable skill.\nYou control when recording starts and stops.\n0:01 / 2:05\n471\n2,045\n1.2万\n415万",
       "score": 32,
       "signals": [
         "codex",
@@ -2620,12 +2348,12 @@
         "Codex/AI编程",
         "可做工具"
       ],
-      "recency_hours": 55.1,
+      "recency_hours": 55.2,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
       "primary_section": "Codex/Claude/AI编程",
-      "audience_signal": 4140000,
+      "audience_signal": 4150000,
       "opportunity_track": "自由机会",
       "opportunity_maturity": "新信号",
       "opportunity_window": "长期机会",
@@ -2701,7 +2429,7 @@
         "Claude",
         "可做工具"
       ],
-      "recency_hours": 102.2,
+      "recency_hours": 102.4,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -2780,7 +2508,7 @@
         "Codex/AI编程",
         "可做工具"
       ],
-      "recency_hours": 53.8,
+      "recency_hours": 54,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -2860,7 +2588,7 @@
         "Codex/AI编程",
         "Claude"
       ],
-      "recency_hours": 21.4,
+      "recency_hours": 21.6,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": true,
@@ -2928,8 +2656,8 @@
       "title": "Greg Brockman @gdb · 6月19日 Codex app is very good",
       "url": "https://x.com/gdb/status/2067884985596703079",
       "published_at": "2026-06-19T08:19:34.000Z",
-      "summary": "Greg Brockman @gdb · 6月19日 Codex app is very good 引用 Q @q_yeon_gyu_kim · 6月19日 codex desktop app @OpenAI is crazy i have a session with nearly 300 subagents running more than a day thanks to @justsisyphus lazycodex and it is just smooth as hell no bad experience 0:01 / 0:35 88 56 1,026 12万",
-      "original_text": "Greg Brockman\n@gdb\n·\n6月19日\nCodex app is very good\n引用\nQ\n@q_yeon_gyu_kim\n·\n6月19日\ncodex desktop app @OpenAI is crazy\ni have a session with nearly 300 subagents running more than a day\nthanks to @justsisyphus lazycodex\nand it is just smooth as hell\nno bad experience\n0:01 / 0:35\n88\n56\n1,026\n12万",
+      "summary": "Greg Brockman @gdb · 6月19日 Codex app is very good 引用 Q @q_yeon_gyu_kim · 6月19日 codex desktop app @OpenAI is crazy i have a session with nearly 300 subagents running more than a day thanks to @justsisyphus lazycodex and it is just smooth as hell no bad experience 0:02 / 0:35 88 56 1,027 12万",
+      "original_text": "Greg Brockman\n@gdb\n·\n6月19日\nCodex app is very good\n引用\nQ\n@q_yeon_gyu_kim\n·\n6月19日\ncodex desktop app @OpenAI is crazy\ni have a session with nearly 300 subagents running more than a day\nthanks to @justsisyphus lazycodex\nand it is just smooth as hell\nno bad experience\n0:02 / 0:35\n88\n56\n1,027\n12万",
       "score": 28,
       "signals": [
         "codex"
@@ -2938,7 +2666,7 @@
         "Codex/AI编程",
         "可做工具"
       ],
-      "recency_hours": 41.6,
+      "recency_hours": 41.8,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -3017,7 +2745,7 @@
         "Codex/AI编程",
         "可做工具"
       ],
-      "recency_hours": 78.4,
+      "recency_hours": 78.6,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -3085,8 +2813,8 @@
       "title": "howie.serious @howie_serious · 6月14日 这种垃圾内容，为什么在推上流量这么大？",
       "url": "https://x.com/howie_serious/status/2066148172146303109",
       "published_at": "2026-06-14T13:18:06.000Z",
-      "summary": "howie.serious @howie_serious · 6月14日 这种垃圾内容，为什么在推上流量这么大？ 胡编乱造，啥都往 claude fable 上扯，侮辱智商。 p.s. 已拉黑。 引用 Vincent | 信号＞噪音 @VincentLogic · 6月14日 孟买一个22岁小哥，花了100刀买了个 Claude Fable，开了场二次元男主直播 本来就是闹着玩，想试试这个AI换脸换声在直播间能不能扛住观众挑刺 结果扛住了。实时变脸变声，没延迟没穿帮 一个小时不到，观众开始刷500到1000刀的打赏让他别下播 最大一笔单次打赏 $75,000 6个小时总收入 $640,500 0:13 4 10 5,518",
-      "original_text": "howie.serious\n@howie_serious\n·\n6月14日\n这种垃圾内容，为什么在推上流量这么大？\n胡编乱造，啥都往 claude fable 上扯，侮辱智商。\np.s. 已拉黑。\n引用\nVincent | 信号＞噪音\n@VincentLogic\n·\n6月14日\n孟买一个22岁小哥，花了100刀买了个 Claude Fable，开了场二次元男主直播\n本来就是闹着玩，想试试这个AI换脸换声在直播间能不能扛住观众挑刺\n结果扛住了。实时变脸变声，没延迟没穿帮\n一个小时不到，观众开始刷500到1000刀的打赏让他别下播\n最大一笔单次打赏 $75,000\n6个小时总收入 $640,500\n0:13\n4\n10\n5,518",
+      "summary": "howie.serious @howie_serious · 6月14日 这种垃圾内容，为什么在推上流量这么大？ 胡编乱造，啥都往 claude fable 上扯，侮辱智商。 p.s. 已拉黑。 引用 Vincent | 信号＞噪音 @VincentLogic · 6月14日 孟买一个22岁小哥，花了100刀买了个 Claude Fable，开了场二次元男主直播 本来就是闹着玩，想试试这个AI换脸换声在直播间能不能扛住观众挑刺 结果扛住了。实时变脸变声，没延迟没穿帮 一个小时不到，观众开始刷500到1000刀的打赏让他别下播 最大一笔单次打赏 $75,000 6个小时总收入 $640,500 0:13 4 10 5,519",
+      "original_text": "howie.serious\n@howie_serious\n·\n6月14日\n这种垃圾内容，为什么在推上流量这么大？\n胡编乱造，啥都往 claude fable 上扯，侮辱智商。\np.s. 已拉黑。\n引用\nVincent | 信号＞噪音\n@VincentLogic\n·\n6月14日\n孟买一个22岁小哥，花了100刀买了个 Claude Fable，开了场二次元男主直播\n本来就是闹着玩，想试试这个AI换脸换声在直播间能不能扛住观众挑刺\n结果扛住了。实时变脸变声，没延迟没穿帮\n一个小时不到，观众开始刷500到1000刀的打赏让他别下播\n最大一笔单次打赏 $75,000\n6个小时总收入 $640,500\n0:13\n4\n10\n5,519",
       "score": 28,
       "signals": [
         "收入",
@@ -3099,12 +2827,12 @@
         "赚钱案例",
         "可做站"
       ],
-      "recency_hours": 156.6,
+      "recency_hours": 156.8,
       "publishable": false,
       "revenue_proof": true,
       "historical_context_warning": false,
       "primary_section": "赚钱案例/创作者收益",
-      "audience_signal": 5518,
+      "audience_signal": 5519,
       "opportunity_track": "自由机会",
       "opportunity_maturity": "已有人赚钱",
       "opportunity_window": "30天窗口",
@@ -3178,7 +2906,7 @@
         "自媒体素材",
         "可做站"
       ],
-      "recency_hours": 58,
+      "recency_hours": 58.1,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -3265,7 +2993,7 @@
         "可做站",
         "商业化案例"
       ],
-      "recency_hours": 267.5,
+      "recency_hours": 267.7,
       "publishable": false,
       "revenue_proof": true,
       "historical_context_warning": false,
@@ -3351,7 +3079,7 @@
         "商业化案例",
         "可写内容"
       ],
-      "recency_hours": 464.3,
+      "recency_hours": 464.4,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": true,
@@ -3412,6 +3140,84 @@
       }
     },
     {
+      "id": "2068152054900502702",
+      "source_type": "x",
+      "source": "@emollick",
+      "tier": "A",
+      "title": "Ethan Mollick @emollick · 6月20日 If AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/ha",
+      "url": "https://x.com/emollick/status/2068152054900502702",
+      "published_at": "2026-06-20T02:00:48.000Z",
+      "summary": "Ethan Mollick @emollick · 6月20日 If AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/harnesses & models should go up. This appears to be happening at Anthropic & OpenAI, but not for any other labs, including those that seemed to be catching up last year. 37 48 501 9.2万",
+      "original_text": "Ethan Mollick\n@emollick\n·\n6月20日\nIf AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/harnesses & models should go up. This appears to be happening at Anthropic & OpenAI, but not for any other labs, including those that seemed to be catching up last year.\n37\n48\n501\n9.2万",
+      "score": 26,
+      "signals": [
+        "anthropic",
+        "ai"
+      ],
+      "tags": [
+        "Claude"
+      ],
+      "recency_hours": 24.1,
+      "publishable": false,
+      "revenue_proof": false,
+      "historical_context_warning": false,
+      "primary_section": "Codex/Claude/AI编程",
+      "audience_signal": 92000,
+      "opportunity_track": "自由机会",
+      "opportunity_maturity": "新信号",
+      "opportunity_window": "30天窗口",
+      "primary_traffic_entry": "待验证",
+      "monetization_model": "待验证",
+      "ai_money_case": false,
+      "revenue_evidence_type": "无金额证据",
+      "opportunity_eligible": false,
+      "eligibility_checks": {
+        "product_shape": false,
+        "evidence_gate": false,
+        "ethical_gate": true
+      },
+      "evidence_status": "新信号",
+      "economic_model": {
+        "status": "待验证",
+        "required_inputs": [
+          "1000访问获取成本",
+          "访问到激活转化率",
+          "激活到付费或广告转化率",
+          "客单价或广告RPM",
+          "单次服务成本"
+        ],
+        "formula": "收入=访问量×转化率×客单价；利润=收入-获客成本-模型与基础设施成本"
+      },
+      "competition_window": {
+        "why_now": "30天窗口",
+        "giant_gap": "需核验巨头为何尚未覆盖或为何不愿服务该细分需求",
+        "closing_signal": "搜索结果快速拥挤、平台原生补齐功能或获客成本超过单用户价值"
+      },
+      "asset_fit": {
+        "reusable_code": true,
+        "reusable_traffic": false,
+        "publishable_content": false,
+        "knowledge_planet_asset": true,
+        "portfolio_entry": true
+      },
+      "strongest_objection": "尚未找到可重复的第一流量入口，做出产品也可能无人访问。",
+      "recommended_toolchain": [
+        "Codex",
+        "Claude Code",
+        "Cursor",
+        "按任务选择的专业模型"
+      ],
+      "decision_score": 53,
+      "decision_score_breakdown": {
+        "target_fit": 25,
+        "buildability": 8,
+        "monetization": 4,
+        "demand": 4,
+        "distribution": 2,
+        "content": 10
+      }
+    },
+    {
       "id": "2067843106469515603",
       "source_type": "x",
       "source": "@gdb",
@@ -3428,7 +3234,7 @@
       "tags": [
         "Codex/AI编程"
       ],
-      "recency_hours": 44.3,
+      "recency_hours": 44.5,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -3506,7 +3312,7 @@
       "tags": [
         "Codex/AI编程"
       ],
-      "recency_hours": 105.7,
+      "recency_hours": 105.9,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -3583,7 +3389,7 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 146.6,
+      "recency_hours": 146.8,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -3661,7 +3467,7 @@
       "tags": [
         "可做工具"
       ],
-      "recency_hours": 33.9,
+      "recency_hours": 34,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -3742,7 +3548,7 @@
         "可做工具",
         "可写内容"
       ],
-      "recency_hours": 56.2,
+      "recency_hours": 56.4,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -3810,8 +3616,8 @@
       "title": "Anthropic @AnthropicAI · 6月19日 Watch the robodogs in action in our first Project Fetch experiment:",
       "url": "https://x.com/AnthropicAI/status/2067651700757086553",
       "published_at": "2026-06-18T16:52:35.000Z",
-      "summary": "Anthropic @AnthropicAI · 6月19日 Watch the robodogs in action in our first Project Fetch experiment: 引用 Anthropic @AnthropicAI · 2025年11月13日 New Anthropic research: Project Fetch. We asked two teams of Anthropic researchers to program a robot dog. Neither team had any robotics expertise—but we let only one team use Claude. How did they do? 0:01 / 7:40 24 26 242 10万",
-      "original_text": "Anthropic\n@AnthropicAI\n·\n6月19日\nWatch the robodogs in action in our first Project Fetch experiment:\n引用\nAnthropic\n@AnthropicAI\n·\n2025年11月13日\nNew Anthropic research: Project Fetch.\nWe asked two teams of Anthropic researchers to program a robot dog. Neither team had any robotics expertise—but we let only one team use Claude.\nHow did they do?\n0:01 / 7:40\n24\n26\n242\n10万",
+      "summary": "Anthropic @AnthropicAI · 6月19日 Watch the robodogs in action in our first Project Fetch experiment: 引用 Anthropic @AnthropicAI · 2025年11月13日 New Anthropic research: Project Fetch. We asked two teams of Anthropic researchers to program a robot dog. Neither team had any robotics expertise—but we let only one team use Claude. How did they do? 0:01 / 7:40 24 26 244 10万",
+      "original_text": "Anthropic\n@AnthropicAI\n·\n6月19日\nWatch the robodogs in action in our first Project Fetch experiment:\n引用\nAnthropic\n@AnthropicAI\n·\n2025年11月13日\nNew Anthropic research: Project Fetch.\nWe asked two teams of Anthropic researchers to program a robot dog. Neither team had any robotics expertise—but we let only one team use Claude.\nHow did they do?\n0:01 / 7:40\n24\n26\n244\n10万",
       "score": 25,
       "signals": [
         "anthropic",
@@ -3820,7 +3626,7 @@
       "tags": [
         "Claude"
       ],
-      "recency_hours": 57,
+      "recency_hours": 57.2,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": true,
@@ -3888,8 +3694,8 @@
       "title": "Anthropic @AnthropicAI · 6月19日 New Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog.",
       "url": "https://x.com/AnthropicAI/status/2067651699486200091",
       "published_at": "2026-06-18T16:52:34.000Z",
-      "summary": "Anthropic @AnthropicAI · 6月19日 New Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog. Opus 4.7, on its own, was ~20x faster than last year's best human team aided by Opus 4.1. (The robodog, alas, still failed to fetch a beach ball.) Project Fetch: Phase two 来自 anthropic.com 290 242 2,118 30万",
-      "original_text": "Anthropic\n@AnthropicAI\n·\n6月19日\nNew Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog.\nOpus 4.7, on its own, was ~20x faster than last year's best human team aided by Opus 4.1. (The robodog, alas, still failed to fetch a beach ball.)\nProject Fetch: Phase two\n来自 anthropic.com\n290\n242\n2,118\n30万",
+      "summary": "Anthropic @AnthropicAI · 6月19日 New Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog. Opus 4.7, on its own, was ~20x faster than last year's best human team aided by Opus 4.1. (The robodog, alas, still failed to fetch a beach ball.) Project Fetch: Phase two 来自 anthropic.com 290 242 2,120 30万",
+      "original_text": "Anthropic\n@AnthropicAI\n·\n6月19日\nNew Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog.\nOpus 4.7, on its own, was ~20x faster than last year's best human team aided by Opus 4.1. (The robodog, alas, still failed to fetch a beach ball.)\nProject Fetch: Phase two\n来自 anthropic.com\n290\n242\n2,120\n30万",
       "score": 25,
       "signals": [
         "anthropic",
@@ -3898,7 +3704,7 @@
       "tags": [
         "Claude"
       ],
-      "recency_hours": 57,
+      "recency_hours": 57.2,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -3974,7 +3780,7 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 74.9,
+      "recency_hours": 75.1,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -4042,8 +3848,8 @@
       "title": "howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。",
       "url": "https://x.com/howie_serious/status/2067246732325408837",
       "published_at": "2026-06-17T14:03:23.000Z",
-      "summary": "howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。 context：为了挖掘 agent范式带来的全新生产力，几个月前换了 64GB 内存的 mac。 今天发现，开启多 agent 干活时，光 codex 一个 app，就可以占用了 110GB 的内存。 64GB 内存不够用，还额外开了 60GB 显示更多 37 1 29 8,800",
-      "original_text": "howie.serious\n@howie_serious\n·\n6月17日\n【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。\ncontext：为了挖掘 agent范式带来的全新生产力，几个月前换了 64GB 内存的 mac。\n今天发现，开启多 agent 干活时，光 codex 一个 app，就可以占用了 110GB 的内存。\n64GB 内存不够用，还额外开了 60GB\n显示更多\n37\n1\n29\n8,800",
+      "summary": "howie.serious @howie_serious · 6月17日 【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。 context：为了挖掘 agent范式带来的全新生产力，几个月前换了 64GB 内存的 mac。 今天发现，开启多 agent 干活时，光 codex 一个 app，就可以占用了 110GB 的内存。 64GB 内存不够用，还额外开了 60GB 显示更多 37 1 29 8,801",
+      "original_text": "howie.serious\n@howie_serious\n·\n6月17日\n【暴论】agent 时代，可能应该配配置尽可能高的电脑。因为电脑不是给人用的，而是给agent 用的。\ncontext：为了挖掘 agent范式带来的全新生产力，几个月前换了 64GB 内存的 mac。\n今天发现，开启多 agent 干活时，光 codex 一个 app，就可以占用了 110GB 的内存。\n64GB 内存不够用，还额外开了 60GB\n显示更多\n37\n1\n29\n8,801",
       "score": 25,
       "signals": [
         "codex",
@@ -4053,12 +3859,12 @@
         "Codex/AI编程",
         "可做工具"
       ],
-      "recency_hours": 83.8,
+      "recency_hours": 84,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
       "primary_section": "Codex/Claude/AI编程",
-      "audience_signal": 8800,
+      "audience_signal": 8801,
       "opportunity_track": "自由机会",
       "opportunity_maturity": "新信号",
       "opportunity_window": "30天窗口",
@@ -4134,7 +3940,7 @@
         "Claude",
         "可做工具"
       ],
-      "recency_hours": 101.9,
+      "recency_hours": 102.1,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -4211,7 +4017,7 @@
       "tags": [
         "Codex/AI编程"
       ],
-      "recency_hours": 55.1,
+      "recency_hours": 55.2,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -4279,8 +4085,8 @@
       "title": "哥飞 @gefei55 · 6月18日 解释一下，他这样做的好处有两个：",
       "url": "https://x.com/gefei55/status/2067568447136080000",
       "published_at": "2026-06-18T11:21:46.000Z",
-      "summary": "哥飞 @gefei55 · 6月18日 解释一下，他这样做的好处有两个： 1、CodeX 里无法使用最强模型 GPT 5.5 Pro ，但是 http:// ChatGPT.com 里是可以的。你可以先用最强模型做规划，之后再用 CodeX 来写代码； 2、 http:// ChatGPT.com 和 CodeX 的额度是分开计算的，用这个方法，你相当于付一次钱，有了双倍额度。 1 7 4,742",
-      "original_text": "哥飞\n@gefei55\n·\n6月18日\n解释一下，他这样做的好处有两个：\n1、CodeX 里无法使用最强模型 GPT 5.5 Pro ，但是 \nhttp://\nChatGPT.com 里是可以的。你可以先用最强模型做规划，之后再用 CodeX 来写代码；\n2、\nhttp://\nChatGPT.com 和 CodeX 的额度是分开计算的，用这个方法，你相当于付一次钱，有了双倍额度。\n1\n7\n4,742",
+      "summary": "哥飞 @gefei55 · 6月18日 解释一下，他这样做的好处有两个： 1、CodeX 里无法使用最强模型 GPT 5.5 Pro ，但是 http:// ChatGPT.com 里是可以的。你可以先用最强模型做规划，之后再用 CodeX 来写代码； 2、 http:// ChatGPT.com 和 CodeX 的额度是分开计算的，用这个方法，你相当于付一次钱，有了双倍额度。 1 7 4,743",
+      "original_text": "哥飞\n@gefei55\n·\n6月18日\n解释一下，他这样做的好处有两个：\n1、CodeX 里无法使用最强模型 GPT 5.5 Pro ，但是 \nhttp://\nChatGPT.com 里是可以的。你可以先用最强模型做规划，之后再用 CodeX 来写代码；\n2、\nhttp://\nChatGPT.com 和 CodeX 的额度是分开计算的，用这个方法，你相当于付一次钱，有了双倍额度。\n1\n7\n4,743",
       "score": 24,
       "signals": [
         "codex",
@@ -4289,12 +4095,12 @@
       "tags": [
         "Codex/AI编程"
       ],
-      "recency_hours": 62.5,
+      "recency_hours": 62.7,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
       "primary_section": "Codex/Claude/AI编程",
-      "audience_signal": 4742,
+      "audience_signal": 4743,
       "opportunity_track": "自由机会",
       "opportunity_maturity": "新信号",
       "opportunity_window": "30天窗口",
@@ -4367,7 +4173,7 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 65.8,
+      "recency_hours": 66,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -4445,7 +4251,7 @@
         "Claude",
         "可做工具"
       ],
-      "recency_hours": 102.2,
+      "recency_hours": 102.4,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -4529,7 +4335,7 @@
         "Claude",
         "可做工具"
       ],
-      "recency_hours": 440.8,
+      "recency_hours": 441,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": true,
@@ -4608,7 +4414,7 @@
       "tags": [
         "可做工具"
       ],
-      "recency_hours": 21.2,
+      "recency_hours": 21.4,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -4685,7 +4491,7 @@
       "tags": [
         "Claude"
       ],
-      "recency_hours": 32,
+      "recency_hours": 32.2,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -4774,7 +4580,7 @@
         "可做站",
         "商业化案例"
       ],
-      "recency_hours": 417.7,
+      "recency_hours": 417.9,
       "publishable": false,
       "revenue_proof": true,
       "historical_context_warning": true,
@@ -4835,84 +4641,6 @@
       }
     },
     {
-      "id": "2068152054900502702",
-      "source_type": "x",
-      "source": "@emollick",
-      "tier": "A",
-      "title": "Ethan Mollick @emollick · 23小时 If AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/har",
-      "url": "https://x.com/emollick/status/2068152054900502702",
-      "published_at": "2026-06-20T02:00:48.000Z",
-      "summary": "Ethan Mollick @emollick · 23小时 If AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/harnesses & models should go up. This appears to be happening at Anthropic & OpenAI, but not for any other labs, including those that seemed to be catching up last year. 37 48 501 9.1万",
-      "original_text": "Ethan Mollick\n@emollick\n·\n23小时\nIf AI self-improvement, even in a very limited way, is possible, the cadence of shipping both AI products/harnesses & models should go up. This appears to be happening at Anthropic & OpenAI, but not for any other labs, including those that seemed to be catching up last year.\n37\n48\n501\n9.1万",
-      "score": 22,
-      "signals": [
-        "anthropic",
-        "ai"
-      ],
-      "tags": [
-        "Claude"
-      ],
-      "recency_hours": 23.9,
-      "publishable": false,
-      "revenue_proof": false,
-      "historical_context_warning": false,
-      "primary_section": "Codex/Claude/AI编程",
-      "audience_signal": 91000,
-      "opportunity_track": "自由机会",
-      "opportunity_maturity": "新信号",
-      "opportunity_window": "30天窗口",
-      "primary_traffic_entry": "待验证",
-      "monetization_model": "待验证",
-      "ai_money_case": false,
-      "revenue_evidence_type": "无金额证据",
-      "opportunity_eligible": false,
-      "eligibility_checks": {
-        "product_shape": false,
-        "evidence_gate": false,
-        "ethical_gate": true
-      },
-      "evidence_status": "新信号",
-      "economic_model": {
-        "status": "待验证",
-        "required_inputs": [
-          "1000访问获取成本",
-          "访问到激活转化率",
-          "激活到付费或广告转化率",
-          "客单价或广告RPM",
-          "单次服务成本"
-        ],
-        "formula": "收入=访问量×转化率×客单价；利润=收入-获客成本-模型与基础设施成本"
-      },
-      "competition_window": {
-        "why_now": "30天窗口",
-        "giant_gap": "需核验巨头为何尚未覆盖或为何不愿服务该细分需求",
-        "closing_signal": "搜索结果快速拥挤、平台原生补齐功能或获客成本超过单用户价值"
-      },
-      "asset_fit": {
-        "reusable_code": true,
-        "reusable_traffic": false,
-        "publishable_content": false,
-        "knowledge_planet_asset": true,
-        "portfolio_entry": true
-      },
-      "strongest_objection": "尚未找到可重复的第一流量入口，做出产品也可能无人访问。",
-      "recommended_toolchain": [
-        "Codex",
-        "Claude Code",
-        "Cursor",
-        "按任务选择的专业模型"
-      ],
-      "decision_score": 53,
-      "decision_score_breakdown": {
-        "target_fit": 25,
-        "buildability": 8,
-        "monetization": 4,
-        "demand": 4,
-        "distribution": 2,
-        "content": 10
-      }
-    },
-    {
       "id": "2067722688165232654",
       "source_type": "x",
       "source": "@OpenAI",
@@ -4920,8 +4648,8 @@
       "title": "OpenAI @OpenAI · 6月19日 As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains bey",
       "url": "https://x.com/OpenAI/status/2067722688165232654",
       "published_at": "2026-06-18T21:34:39.000Z",
-      "summary": "OpenAI @OpenAI · 6月19日 As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure. That’s the idea behind our new research on training models to be broadly and persistently beneficial. 显示更多 Reinforcement learning towards broadly and persistently beneficial models 来自 alignment.openai.com 197 322 2,718 32万",
-      "original_text": "OpenAI\n@OpenAI\n·\n6月19日\nAs AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure.\nThat’s the idea behind our new research on training models to be broadly and persistently beneficial.\n显示更多\nReinforcement learning towards broadly and persistently beneficial models\n来自 alignment.openai.com\n197\n322\n2,718\n32万",
+      "summary": "OpenAI @OpenAI · 6月19日 As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure. That’s the idea behind our new research on training models to be broadly and persistently beneficial. 显示更多 Reinforcement learning towards broadly and persistently beneficial models 来自 alignment.openai.com 197 322 2,719 32万",
+      "original_text": "OpenAI\n@OpenAI\n·\n6月19日\nAs AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure.\nThat’s the idea behind our new research on training models to be broadly and persistently beneficial.\n显示更多\nReinforcement learning towards broadly and persistently beneficial models\n来自 alignment.openai.com\n197\n322\n2,719\n32万",
       "score": 22,
       "signals": [
         "ai"
@@ -4929,7 +4657,7 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 52.3,
+      "recency_hours": 52.5,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -5006,7 +4734,7 @@
       "tags": [
         "可做工具"
       ],
-      "recency_hours": 57.4,
+      "recency_hours": 57.6,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -5074,8 +4802,8 @@
       "title": "OpenAI @OpenAI · 6月18日 Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 D",
       "url": "https://x.com/OpenAI/status/2067625110199247353",
       "published_at": "2026-06-18T15:06:55.000Z",
-      "summary": "OpenAI @OpenAI · 6月18日 Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years. 215 436 2,825 343万",
-      "original_text": "OpenAI\n@OpenAI\n·\n6月18日\nTogether with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.\n215\n436\n2,825\n343万",
+      "summary": "OpenAI @OpenAI · 6月18日 Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years. 215 436 2,826 344万",
+      "original_text": "OpenAI\n@OpenAI\n·\n6月18日\nTogether with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.\n215\n436\n2,826\n344万",
       "score": 22,
       "signals": [
         "ai"
@@ -5083,12 +4811,12 @@
       "tags": [
         "商业化案例"
       ],
-      "recency_hours": 58.8,
+      "recency_hours": 59,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
       "primary_section": "行业领袖/新闻/播客",
-      "audience_signal": 3430000,
+      "audience_signal": 3440000,
       "opportunity_track": "自由机会",
       "opportunity_maturity": "新信号",
       "opportunity_window": "30天窗口",
@@ -5144,83 +4872,6 @@
       }
     },
     {
-      "id": "2067427678529974740",
-      "source_type": "x",
-      "source": "@sama",
-      "tier": "S",
-      "title": "Sam Altman @sama · 6月18日 We offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benev",
-      "url": "https://x.com/sama/status/2067427678529974740",
-      "published_at": "2026-06-18T02:02:24.000Z",
-      "summary": "Sam Altman @sama · 6月18日 We offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence. 引用 Noam Brown @polynoamial · 6月18日 I'm always thrilled to have more Noams at @OpenAI, but I'm especially thrilled to welcome @NoamShazeer! x.com/NoamShazeer/st… 500 415 8,497 98万",
-      "original_text": "Sam Altman\n@sama\n·\n6月18日\nWe offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence.\n引用\nNoam Brown\n@polynoamial\n·\n6月18日\nI'm always thrilled to have more Noams at @OpenAI, but I'm especially thrilled to welcome @NoamShazeer! x.com/NoamShazeer/st…\n500\n415\n8,497\n98万",
-      "score": 22,
-      "signals": [
-        "ai"
-      ],
-      "tags": [
-        "只观察"
-      ],
-      "recency_hours": 71.9,
-      "publishable": false,
-      "revenue_proof": false,
-      "historical_context_warning": false,
-      "primary_section": "行业领袖/新闻/播客",
-      "audience_signal": 980000,
-      "opportunity_track": "自由机会",
-      "opportunity_maturity": "新信号",
-      "opportunity_window": "30天窗口",
-      "primary_traffic_entry": "社媒内容",
-      "monetization_model": "待验证",
-      "ai_money_case": false,
-      "revenue_evidence_type": "无金额证据",
-      "opportunity_eligible": false,
-      "eligibility_checks": {
-        "product_shape": false,
-        "evidence_gate": true,
-        "ethical_gate": true
-      },
-      "evidence_status": "新信号",
-      "economic_model": {
-        "status": "待验证",
-        "required_inputs": [
-          "1000访问获取成本",
-          "访问到激活转化率",
-          "激活到付费或广告转化率",
-          "客单价或广告RPM",
-          "单次服务成本"
-        ],
-        "formula": "收入=访问量×转化率×客单价；利润=收入-获客成本-模型与基础设施成本"
-      },
-      "competition_window": {
-        "why_now": "30天窗口",
-        "giant_gap": "需核验巨头为何尚未覆盖或为何不愿服务该细分需求",
-        "closing_signal": "搜索结果快速拥挤、平台原生补齐功能或获客成本超过单用户价值"
-      },
-      "asset_fit": {
-        "reusable_code": true,
-        "reusable_traffic": true,
-        "publishable_content": false,
-        "knowledge_planet_asset": true,
-        "portfolio_entry": true
-      },
-      "strongest_objection": "产品形态新颖不等于需求成立，需要先验证真实使用频率和付费意愿。",
-      "recommended_toolchain": [
-        "Codex",
-        "Claude Code",
-        "Cursor",
-        "按任务选择的专业模型"
-      ],
-      "decision_score": 61,
-      "decision_score_breakdown": {
-        "target_fit": 25,
-        "buildability": 8,
-        "monetization": 4,
-        "demand": 4,
-        "distribution": 10,
-        "content": 10
-      }
-    },
-    {
       "id": "2067380901714268474",
       "source_type": "x",
       "source": "@bindureddy",
@@ -5237,7 +4888,7 @@
       "tags": [
         "可做工具"
       ],
-      "recency_hours": 75,
+      "recency_hours": 75.1,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -5314,7 +4965,7 @@
       "tags": [
         "赚钱案例"
       ],
-      "recency_hours": 84.4,
+      "recency_hours": 84.5,
       "publishable": false,
       "revenue_proof": true,
       "historical_context_warning": false,
@@ -5391,7 +5042,7 @@
       "tags": [
         "赚钱案例"
       ],
-      "recency_hours": 106.4,
+      "recency_hours": 106.6,
       "publishable": true,
       "revenue_proof": true,
       "historical_context_warning": false,
@@ -5471,7 +5122,7 @@
         "YouTube",
         "可做工具"
       ],
-      "recency_hours": 131.7,
+      "recency_hours": 131.9,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -5539,8 +5190,8 @@
       "title": "howie.serious @howie_serious · 6月15日 还好我有 2 个 chatgpt pro 账号，1 个 claude max",
       "url": "https://x.com/howie_serious/status/2066364318774591980",
       "published_at": "2026-06-15T03:36:59.000Z",
-      "summary": "howie.serious @howie_serious · 6月15日 还好我有 2 个 chatgpt pro 账号，1 个 claude max 今年我想测试一个 idea：个人/企业，到底能不能通过烧 token 获得实实在在的竞争优势？ 例如，1-2 人全面 agent 范式的新团队，配合不限量的 token，到底能不能达到甚至碾压非 agent 范式的传统百人团队？ 25 14 6,583",
-      "original_text": "howie.serious\n@howie_serious\n·\n6月15日\n还好我有 2 个 chatgpt pro 账号，1 个 claude max\n今年我想测试一个 idea：个人/企业，到底能不能通过烧 token 获得实实在在的竞争优势？\n例如，1-2 人全面 agent 范式的新团队，配合不限量的 token，到底能不能达到甚至碾压非 agent 范式的传统百人团队？\n25\n14\n6,583",
+      "summary": "howie.serious @howie_serious · 6月15日 还好我有 2 个 chatgpt pro 账号，1 个 claude max 今年我想测试一个 idea：个人/企业，到底能不能通过烧 token 获得实实在在的竞争优势？ 例如，1-2 人全面 agent 范式的新团队，配合不限量的 token，到底能不能达到甚至碾压非 agent 范式的传统百人团队？ 25 14 6,584",
+      "original_text": "howie.serious\n@howie_serious\n·\n6月15日\n还好我有 2 个 chatgpt pro 账号，1 个 claude max\n今年我想测试一个 idea：个人/企业，到底能不能通过烧 token 获得实实在在的竞争优势？\n例如，1-2 人全面 agent 范式的新团队，配合不限量的 token，到底能不能达到甚至碾压非 agent 范式的传统百人团队？\n25\n14\n6,584",
       "score": 22,
       "signals": [
         "agent",
@@ -5553,12 +5204,12 @@
         "可做工具",
         "只观察"
       ],
-      "recency_hours": 142.3,
+      "recency_hours": 142.5,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
       "primary_section": "Codex/Claude/AI编程",
-      "audience_signal": 6583,
+      "audience_signal": 6584,
       "opportunity_track": "企业Agent服务",
       "opportunity_maturity": "新信号",
       "opportunity_window": "30天窗口",
@@ -5621,8 +5272,8 @@
       "title": "Ethan Mollick @emollick · 10小时 Some interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor.",
       "url": "https://x.com/emollick/status/2068356975667130774",
       "published_at": "2026-06-20T15:35:05.000Z",
-      "summary": "Ethan Mollick @emollick · 10小时 Some interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor. 引用 Auyon Siddiq @auyonomous · 23小时 New research: Is AI making employers view labor as more of a commodity? In a large online labor market, we find that post-ChatGPT, clients place less weight on signals of human capital and more on price when hiring. 0:02 19 16 161 2.9万",
-      "original_text": "Ethan Mollick\n@emollick\n·\n10小时\nSome interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor.\n引用\nAuyon Siddiq\n@auyonomous\n·\n23小时\nNew research: Is AI making employers view labor as more of a commodity?\nIn a large online labor market, we find that post-ChatGPT, clients place less weight on signals of human capital and more on price when hiring.\n0:02\n19\n16\n161\n2.9万",
+      "summary": "Ethan Mollick @emollick · 10小时 Some interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor. 引用 Auyon Siddiq @auyonomous · 23小时 New research: Is AI making employers view labor as more of a commodity? In a large online labor market, we find that post-ChatGPT, clients place less weight on signals of human capital and more on price when hiring. 0:02 20 16 161 2.9万",
+      "original_text": "Ethan Mollick\n@emollick\n·\n10小时\nSome interesting findings suggesting that, by leveling performance, AI also commoditizes contract labor.\n引用\nAuyon Siddiq\n@auyonomous\n·\n23小时\nNew research: Is AI making employers view labor as more of a commodity?\nIn a large online labor market, we find that post-ChatGPT, clients place less weight on signals of human capital and more on price when hiring.\n0:02\n20\n16\n161\n2.9万",
       "score": 21,
       "signals": [
         "ai",
@@ -5631,7 +5282,7 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 10.3,
+      "recency_hours": 10.5,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -5710,7 +5361,7 @@
         "可做工具",
         "可写内容"
       ],
-      "recency_hours": 32.2,
+      "recency_hours": 32.4,
       "publishable": true,
       "revenue_proof": false,
       "historical_context_warning": false,
@@ -5778,8 +5429,8 @@
       "title": "Ethan Mollick @emollick · 6月19日 More evidence, from a large-scale study in China, that using AI hurts learning if it undermines mental effor",
       "url": "https://x.com/emollick/status/2067988324984217626",
       "published_at": "2026-06-19T15:10:12.000Z",
-      "summary": "Ethan Mollick @emollick · 6月19日 More evidence, from a large-scale study in China, that using AI hurts learning if it undermines mental effort. When homework time drops due to AI use, so do test scores. Across studies, a theme: AI tutoring in support of classes is good, using AI to \"help\" with homework is bad. 52 191 890 7.3万",
-      "original_text": "Ethan Mollick\n@emollick\n·\n6月19日\nMore evidence, from a large-scale study in China, that using AI hurts learning if it undermines mental effort. When homework time drops due to AI use, so do test scores.\nAcross studies, a theme: AI tutoring in support of classes is good, using AI to \"help\" with homework is bad.\n52\n191\n890\n7.3万",
+      "summary": "Ethan Mollick @emollick · 6月19日 More evidence, from a large-scale study in China, that using AI hurts learning if it undermines mental effort. When homework time drops due to AI use, so do test scores. Across studies, a theme: AI tutoring in support of classes is good, using AI to \"help\" with homework is bad. 52 191 890 7.4万",
+      "original_text": "Ethan Mollick\n@emollick\n·\n6月19日\nMore evidence, from a large-scale study in China, that using AI hurts learning if it undermines mental effort. When homework time drops due to AI use, so do test scores.\nAcross studies, a theme: AI tutoring in support of classes is good, using AI to \"help\" with homework is bad.\n52\n191\n890\n7.4万",
       "score": 21,
       "signals": [
         "ai"
@@ -5787,12 +5438,12 @@
       "tags": [
         "只观察"
       ],
-      "recency_hours": 34.7,
+      "recency_hours": 34.9,
       "publishable": false,
       "revenue_proof": false,
       "historical_context_warning": false,
       "primary_section": "行业领袖/新闻/播客",
-      "audience_signal": 73000,
+      "audience_signal": 74000,
       "opportunity_track": "自由机会",
       "opportunity_maturity": "新信号",
       "opportunity_window": "30天窗口",
@@ -5840,6 +5491,83 @@
       "decision_score": 53,
       "decision_score_breakdown": {
         "target_fit": 25,
+        "buildability": 8,
+        "monetization": 4,
+        "demand": 4,
+        "distribution": 2,
+        "content": 10
+      }
+    },
+    {
+      "id": "2066969540412780644",
+      "source_type": "x",
+      "source": "@AnthropicAI",
+      "tier": "S",
+      "title": "Anthropic @AnthropicAI · 6月17日 Domain experts—as judged by the questions they ask and vocabulary they use about a subject—are more likely to",
+      "url": "https://x.com/AnthropicAI/status/2066969540412780644",
+      "published_at": "2026-06-16T19:41:55.000Z",
+      "summary": "Anthropic @AnthropicAI · 6月17日 Domain experts—as judged by the questions they ask and vocabulary they use about a subject—are more likely to see success. But the gap between intermediate and expert users is quite modest, suggesting that proficiency in a domain is sufficient to code successfully within it. 54 57 490 14万",
+      "original_text": "Anthropic\n@AnthropicAI\n·\n6月17日\nDomain experts—as judged by the questions they ask and vocabulary they use about a subject—are more likely to see success.\nBut the gap between intermediate and expert users is quite modest, suggesting that proficiency in a domain is sufficient to code successfully within it.\n54\n57\n490\n14万",
+      "score": 21,
+      "signals": [
+        "anthropic"
+      ],
+      "tags": [
+        "Claude"
+      ],
+      "recency_hours": 102.4,
+      "publishable": false,
+      "revenue_proof": false,
+      "historical_context_warning": false,
+      "primary_section": "Codex/Claude/AI编程",
+      "audience_signal": 140000,
+      "opportunity_track": "自由机会",
+      "opportunity_maturity": "新信号",
+      "opportunity_window": "30天窗口",
+      "primary_traffic_entry": "待验证",
+      "monetization_model": "待验证",
+      "ai_money_case": false,
+      "revenue_evidence_type": "无金额证据",
+      "opportunity_eligible": false,
+      "eligibility_checks": {
+        "product_shape": false,
+        "evidence_gate": false,
+        "ethical_gate": true
+      },
+      "evidence_status": "新信号",
+      "economic_model": {
+        "status": "待验证",
+        "required_inputs": [
+          "1000访问获取成本",
+          "访问到激活转化率",
+          "激活到付费或广告转化率",
+          "客单价或广告RPM",
+          "单次服务成本"
+        ],
+        "formula": "收入=访问量×转化率×客单价；利润=收入-获客成本-模型与基础设施成本"
+      },
+      "competition_window": {
+        "why_now": "30天窗口",
+        "giant_gap": "需核验巨头为何尚未覆盖或为何不愿服务该细分需求",
+        "closing_signal": "搜索结果快速拥挤、平台原生补齐功能或获客成本超过单用户价值"
+      },
+      "asset_fit": {
+        "reusable_code": true,
+        "reusable_traffic": false,
+        "publishable_content": false,
+        "knowledge_planet_asset": true,
+        "portfolio_entry": true
+      },
+      "strongest_objection": "尚未找到可重复的第一流量入口，做出产品也可能无人访问。",
+      "recommended_toolchain": [
+        "Codex",
+        "Claude Code",
+        "Cursor",
+        "按任务选择的专业模型"
+      ],
+      "decision_score": 38,
+      "decision_score_breakdown": {
+        "target_fit": 10,
         "buildability": 8,
         "monetization": 4,
         "demand": 4,
